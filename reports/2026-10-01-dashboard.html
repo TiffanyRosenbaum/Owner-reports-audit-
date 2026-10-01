@@ -74,6 +74,13 @@ button.kpi:hover,.kpi:hover{border-color:var(--accent);box-shadow:0 0 0 1px var(
 td.lk{cursor:pointer}td.lk:hover{color:var(--accent);text-decoration:underline}
 td.lk .pill{cursor:pointer}td.lk .pill:hover{outline:2px solid var(--accent)}
 tbody tr{cursor:pointer}
+.kpi .v{text-decoration:underline dotted;text-underline-offset:5px;text-decoration-thickness:2px}
+.kpi .go2{font-size:12px;color:var(--accent);margin-top:6px;font-weight:600}
+.kpi:hover .go2{text-decoration:underline}
+.bar .am{color:var(--accent);text-decoration:underline dotted;text-underline-offset:3px;font-weight:500}
+.bar .am::after{content:' \2192'}
+td.amt{color:var(--accent);text-decoration:underline dotted;text-underline-offset:3px}
+td.amt:hover{text-decoration:underline}
 .fbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;background:var(--accent-soft);border:1px solid var(--accent);color:var(--ink);border-radius:6px;padding:8px 12px}
 .fbar b{font-family:var(--f-num);font-weight:500}
 .res{display:flex;flex-direction:column;gap:8px}
@@ -121,7 +128,7 @@ const red=D.F.filter(r=>r[0]==='RED').length, yel=D.F.filter(r=>r[0]==='YELLOW')
 // KPIs
 const k=[['red','Red, unpaid',fmt(Math.round(sum(unpaid)*100)/100),unpaid.length+' lines you can still hold'],['red','Red, already paid',fmt(Math.round(sum(paid)*100)/100),paid.length+' lines to recover'],['red','Red flags',red,'lines, '+ITEMS.red+' items in the written report'],['amb','Yellow flags',yel,'lines, '+ITEMS.yel+' items in the written report'],['amb','Open items','16 of 16','none resolved'],['ok','Data tie-out','10 of 10','months match report totals']];
 const kact=[{t:'F',sev:'RED',paid:'Unpaid'},{t:'F',sev:'RED',paid:'Paid'},{t:'F',sev:'RED'},{t:'F',sev:'YELLOW'},{t:'O'},{t:'T'}];
-$('#kpis').innerHTML=k.map((x,i)=>`<button class="kpi ${x[0]}" data-k="${i}" title="Click to see the rows behind this number"><div class="l">${x[1]}</div><div class="v">${x[2]}</div><div class="n">${x[3]}</div></button>`).join('');
+$('#kpis').innerHTML=k.map((x,i)=>`<button class="kpi ${x[0]}" data-k="${i}" title="Click to see the rows behind this number"><div class="l">${x[1]}</div><div class="v">${x[2]}</div><div class="n">${x[3]}</div><div class="go2">View the rows \u2192</div></button>`).join('');
 document.querySelectorAll('.kpi').forEach(b=>b.onclick=()=>{const a=kact[+b.dataset.k];if(a.t!=='F'){setTab(a.t);jump();return}const idxs=D.F.map((r,i)=>i).filter(i=>(!a.sev||D.F[i][0]===a.sev)&&(!a.paid||D.F[i][1]===a.paid));panel(k[+b.dataset.k][1]+': '+k[+b.dataset.k][2],idxs,()=>{state.q='';state.sev=a.sev||'';state.paid=a.paid||''})});
 // grouped bars
 function grp(rows,key){const m={};rows.forEach(r=>{const g=key(r);m[g]=(m[g]||0)+(r[7]||0)});return Object.entries(m).sort((a,b)=>b[1]-a[1])}
@@ -136,12 +143,12 @@ function el(b){return {p:b.parentElement.id==='b1'?'Unpaid':'Paid'}}
 const link=id=>`<a class="id" href="https://rosenbaumrealtygroup.rentvine.com/accounting/bills/${id}" target="_blank" rel="noopener">${id}</a>`;
 const pill=v=>v?`<span class="pill p-${String(v).replace(/ .*/,'')}">${v}</span>`:'';
 const T={
- F:{n:'Findings',h:['Severity','Paid?','Item','Property / owner','Issue','Vendor','Reference','Amount','Bill date','Bills','Action','Status'],d:D.F.map(r=>[r[0],r[1],r[2],r[3],r[4],r[5],r[6],r[7],r[8],r[9],r[11],r[12]]),cell:(c,i,v)=>i===0||i===1?pill(v):i===7?fmt(v):i===9?String(v).split(', ').filter(Boolean).map(link).join(''):v??'' ,num:[7],f:['sev','paid']},
+ F:{n:'Findings',h:['Severity','Paid?','Item','Property / owner','Issue','Vendor','Reference','Amount','Bill date','Bills','Action','Status'],d:D.F.map(r=>[r[0],r[1],r[2],r[3],r[4],r[5],r[6],r[7],r[8],r[9],r[11],r[12]]),cell:(c,i,v)=>i===0||i===1?pill(v):i===7?fmt(v):i===9?String(v).split(', ').filter(Boolean).map(link).join(''):v??'' ,num:[7],money:[7],f:['sev','paid']},
  G:{n:'Gaps',h:['Area','Status','Why','How to close it','Priority'],d:D.gaps,cell:(c,i,v)=>i===4?pill(v):i===1?`<b>${v}</b>`:v,f:[]},
  O:{n:'Open items',h:['ID','Item','Status today'],d:D.oi,cell:(c,i,v)=>v,f:[]},
- M:{n:'Markup pairs',h:['Date','Property','Ref','Work','Vendor bill','Markup','Ratio','Result','Paid?'],d:D.M,cell:(c,i,v)=>i===4||i===5?fmt(v):i===6?(v*100).toFixed(1)+'%':i===7?`<span class="pill ${v==='OK'?'p-MATCH':'p-YELLOW'}">${v}</span>`:i===8?pill(v):v,num:[4,5,6],f:[]},
- B:{n:'Blank property lines',h:['Date','Reference','Description','Amount','Paid?','To do'],d:D.Bk,cell:(c,i,v)=>i===3?fmt(v):i===4?pill(v):v,num:[3],f:[]},
- T:{n:'Data tie-out',h:['Month','Header rows','Loaded rows','Header $','Loaded $','Result'],d:D.T,cell:(c,i,v)=>i===3||i===4?fmt(v):i===5?`<span class="pill p-MATCH">${v}</span>`:v,num:[1,2,3,4],f:[]}
+ M:{n:'Markup pairs',h:['Date','Property','Ref','Work','Vendor bill','Markup','Ratio','Result','Paid?'],d:D.M,cell:(c,i,v)=>i===4||i===5?fmt(v):i===6?(v*100).toFixed(1)+'%':i===7?`<span class="pill ${v==='OK'?'p-MATCH':'p-YELLOW'}">${v}</span>`:i===8?pill(v):v,num:[4,5,6],money:[4,5],f:[]},
+ B:{n:'Blank property lines',h:['Date','Reference','Description','Amount','Paid?','To do'],d:D.Bk,cell:(c,i,v)=>i===3?fmt(v):i===4?pill(v):v,num:[3],money:[3],f:[]},
+ T:{n:'Data tie-out',h:['Month','Header rows','Loaded rows','Header $','Loaded $','Result'],d:D.T,cell:(c,i,v)=>i===3||i===4?fmt(v):i===5?`<span class="pill p-MATCH">${v}</span>`:v,num:[1,2,3,4],money:[3,4],f:[]}
 };
 const CLICK={F:{0:'sev',1:'paid',2:'q',3:'q',5:'q',6:'q'},M:{1:'q',7:'q'},B:{1:'q'},O:{0:'oi'}};
 const state={tab:'F',q:'',sev:'',paid:'',sort:-1,dir:1};
@@ -165,7 +172,7 @@ function render(){const t=T[state.tab];
  if(state.sort>=0){const i=state.sort;rows=[...rows].sort((a,b)=>{const x=a[i],y=b[i];return (typeof x==='number'&&typeof y==='number'?x-y:String(x).localeCompare(String(y),undefined,{numeric:true}))*state.dir})}
  $('#th').innerHTML='<tr>'+t.h.map((h,i)=>`<th data-i="${i}">${h}${state.sort===i?(state.dir>0?' ▲':' ▼'):''}</th>`).join('')+'</tr>';
  state.rows=rows;const CL=CLICK[state.tab]||{};
- $('#tb').innerHTML=rows.map((r,ri)=>`<tr data-ri="${ri}" tabindex="0">`+r.map((v,i)=>`<td data-i="${i}" class="${(t.num||[]).includes(i)?'num':''}${CL[i]&&v!==''&&v!=null?' lk':''}">${t.cell(r,i,v)}</td>`).join('')+'</tr>').join('')||`<tr><td colspan="${t.h.length}" class="note">Nothing matches. Clear the search or filters.</td></tr>`;
+ $('#tb').innerHTML=rows.map((r,ri)=>`<tr data-ri="${ri}" tabindex="0">`+r.map((v,i)=>`<td data-i="${i}" class="${(t.num||[]).includes(i)?'num':''}${CL[i]&&v!==''&&v!=null?' lk':''}${(t.money||[]).includes(i)&&v!==''&&v!=null?' amt':''}">${t.cell(r,i,v)}</td>`).join('')+'</tr>').join('')||`<tr><td colspan="${t.h.length}" class="note">Nothing matches. Clear the search or filters.</td></tr>`;
  document.querySelectorAll('th').forEach(h=>h.onclick=()=>{const i=+h.dataset.i;state.dir=state.sort===i?-state.dir:1;state.sort=i;render()});
  {const p=[];if(state.q)p.push('text “'+state.q+'”');if(state.sev)p.push(state.sev);if(state.paid)p.push(state.paid);const fb=$('#fbar');fb.hidden=!p.length;fb.innerHTML=p.length?'Showing <b>'+rows.length+'</b> '+T[state.tab].n.toLowerCase()+' matching '+p.join(' + ')+' <button class="btn" id="clr">Clear filters</button>':'';if(p.length)$('#clr').onclick=()=>{state.q='';state.sev='';state.paid='';const q=$('#q');if(q)q.value='';render()}}
  $('#cnt').textContent=rows.length+' of '+t.d.length+' rows';linkify($('#tb'));
