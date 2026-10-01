@@ -2,11 +2,11 @@
  "date": "2026-10-01",
  "findings": [
   {
-   "sev": "RED",
+   "sev": "YELLOW",
    "paid": "Unpaid",
    "item": "OI-003",
    "prop": "960 N Jay St",
-   "issue": "Third September bill for same account",
+   "issue": "Second September bill for account 00007604: 9/3 bill 25861 ($87.41, paid) and this 9/25 bill 27827 ($88.84, unpaid, refe",
    "ref": "20230825-00007604 9/26",
    "amount": 88.84
   },

@@ -6,7 +6,7 @@ First seen: all items below were first seen on or before 2026-10-01 (the date th
 |---|---|---|
 | OI-001 | 960 N Jay St — City of Chandler acct 00007604 billed twice for AUGUST (8/1 and 8/10, $86.00 each). Both paid. | Open |
 | OI-002 | 960 N Jay St — acct 00007604 billed twice for MAY (5/1 $93.12 in 2 lines; 5/11 $93.12). Both paid. | Open |
-| OI-003 | 960 N Jay St — third September bill, ref 20230825-00007604 9/26, $88.84 (bill 27827), unpaid. Hold. | Open |
+| OI-003 | 960 N Jay St — second September bill, ref 20230825-00007604 9/26, $88.84 (bill 27827), unpaid, after the 9/3 bill 25861 ($87.41, paid). Not an exact duplicate (differs by $1.43); compare to the City of Chandler statement. Hold. | Open (YELLOW) |
 | OI-004 | 1750 E 6th Ave — invoice 714121 $1,102.20 posted twice (bills 25095, 25118). Both paid. | Open |
 | OI-005 | 10919 W Carmelita Cir — $9.49 for acct 0727621137, which belongs to 9230 N 6th St Unit 3. Unpaid. | Open |
 | OI-006 | 5034 E Holmes Ave (Maria P M Molina) — SRP 176-370-106: bills 26719 ($91.45, no dates) and 26995 ($20.75, 9/11–9/15). Confirm no overlap. | Open |
