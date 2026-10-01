@@ -68,12 +68,30 @@ td.num{font-family:var(--f-num);text-align:right;white-space:nowrap;font-variant
 .p-MATCH{background:var(--ok-soft);color:var(--ok)}
 a.id{font-family:var(--f-num);font-size:12px;color:var(--accent);margin-right:6px;white-space:nowrap}
 .note{color:var(--muted);font-size:12px}
+button.kpi{font:inherit;color:inherit;text-align:left;cursor:pointer;width:100%}
+button.kpi:hover,.kpi:hover{border-color:var(--accent);box-shadow:0 0 0 1px var(--accent)}
+.bar:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:3px}
+td.lk{cursor:pointer}td.lk:hover{color:var(--accent);text-decoration:underline}
+td.lk .pill{cursor:pointer}td.lk .pill:hover{outline:2px solid var(--accent)}
+tbody tr{cursor:pointer}
+.alert .go{margin-left:auto}
+.dim{position:fixed;inset:0;background:rgba(10,14,22,.55);display:flex;justify-content:flex-end;z-index:10}
+.drawer{background:var(--surface);color:var(--ink);width:min(520px,100%);height:100%;overflow-y:auto;padding:20px 18px 32px;padding-top:calc(20px + env(safe-area-inset-top,0px));border-left:1px solid var(--line);display:flex;flex-direction:column;gap:14px}
+.drawer h3{margin:0;font-size:17px;font-weight:600;overflow-wrap:anywhere}
+.drawer dl{margin:0;display:grid;grid-template-columns:110px 1fr;gap:8px 12px}
+.drawer dt{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;padding-top:2px}
+.drawer dd{margin:0;overflow-wrap:anywhere}
+.acts{display:flex;flex-wrap:wrap;gap:8px}
+.btn{font:inherit;font-size:13px;background:var(--surface);color:var(--accent);border:1px solid var(--accent);border-radius:4px;padding:6px 12px;cursor:pointer;text-decoration:none}
+.btn:hover{background:var(--accent-soft)}
+.btn.x{color:var(--ink2);border-color:var(--line)}
+.top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
 @media (max-width:560px){.bar{grid-template-columns:1fr 78px}.bar .tr{grid-column:1/3;order:3}}
 </style>
 <div class="wrap">
 <header><div><h1>Owner Statement Audit</h1><div class="sub">Rosenbaum Realty Group · run date Oct 1, 2026 · read-only · 40,596 Rentvine rows checked, all tied to report totals</div></div>
 <div class="tag" id="theme" role="button" tabindex="0" title="Switch light / dark">Light / dark</div></header>
-<div class="alert" role="status"><div><b>This audit is not complete.</b> The email was not sent and AppFolio Phase 2 did not run because Gmail has no read or send permission. <span id="gapn"></span></div><button id="togap">See the gaps</button></div>
+<div class="alert" role="status"><div><b>This audit is not complete.</b> The email was not sent and AppFolio Phase 2 did not run because Gmail has no read or send permission. <span id="gapn"></span></div><button id="togap" class="go">See the gaps</button></div>
 <div class="kpis" id="kpis"></div>
 <div class="panels">
  <div class="panel"><h2>Unpaid, still stoppable</h2><div class="bars" id="b1"></div></div>
@@ -92,14 +110,17 @@ const sum=a=>a.reduce((s,r)=>s+(typeof r[7]==='number'?r[7]:0),0);
 const red=D.F.filter(r=>r[0]==='RED').length, yel=D.F.filter(r=>r[0]==='YELLOW').length;
 // KPIs
 const k=[['red','Red, unpaid',fmt(Math.round(sum(unpaid)*100)/100),unpaid.length+' lines you can still hold'],['red','Red, already paid',fmt(Math.round(sum(paid)*100)/100),paid.length+' lines to recover'],['red','Red flags',red,'fix first'],['amb','Yellow flags',yel,'please review'],['amb','Open items','16 of 16','none resolved'],['ok','Data tie-out','10 of 10','months match report totals']];
-$('#kpis').innerHTML=k.map(x=>`<div class="kpi ${x[0]}"><div class="l">${x[1]}</div><div class="v">${x[2]}</div><div class="n">${x[3]}</div></div>`).join('');
+const kact=[{t:'F',sev:'RED',paid:'Unpaid'},{t:'F',sev:'RED',paid:'Paid'},{t:'F',sev:'RED'},{t:'F',sev:'YELLOW'},{t:'O'},{t:'T'}];
+$('#kpis').innerHTML=k.map((x,i)=>`<button class="kpi ${x[0]}" data-k="${i}" title="Click to see the rows behind this number"><div class="l">${x[1]}</div><div class="v">${x[2]}</div><div class="n">${x[3]}</div></button>`).join('');
+document.querySelectorAll('.kpi').forEach(b=>b.onclick=()=>{const a=kact[+b.dataset.k];setTab(a.t);state.sev=a.sev||'';state.paid=a.paid||'';render();$('#tabs').scrollIntoView({behavior:'smooth'})});
 // grouped bars
 function grp(rows,key){const m={};rows.forEach(r=>{const g=key(r);m[g]=(m[g]||0)+(r[7]||0)});return Object.entries(m).sort((a,b)=>b[1]-a[1])}
 const g1=grp(unpaid,r=>/TEST/.test(r[3])?'TEST Property charges':/Minton/.test(r[3])?'SRP 569-479-000 (wrong owner)':/214th/.test(r[3])?'22828 S 214th St duplicate lines':/Miller/.test(r[3])?'1332 N Miller Rd duplicate':/Alma/.test(r[3])?'21100 N Alma Dr water (resident pays)':/Jay/.test(r[3])?'960 N Jay St third Sept bill':/Delano/.test(r[3])?'Delano St pest control twice':'Carmelita Cir wrong building');
 const g2=grp(paid,r=>r[5]==='Repair Masters'&&r[4].startsWith('Same invoice posted twice (same')?'Repair Masters invoices twice (14)':/Utility account/.test(r[4])?'Utility accounts billed twice (11)':/714121/.test(r[6])?'1750 E 6th Ave inv 714121':/Concordia/.test(r[3])?'Concordia sewer (resident pays)':/Jay/.test(r[3])?'Jay St May and Aug':'Pantano renewal fee (In Progress)');
-function bars(el,g,col,filt){const mx=Math.max(...g.map(x=>x[1]));$(el).innerHTML=g.map(x=>`<div class="bar" data-q="${x[0]}"><div class="nm">${x[0]}</div><div class="tr"><div class="fi" style="width:${Math.max(2,x[1]/mx*100)}%;background:${col}"></div></div><div class="am">${fmt(Math.round(x[1]*100)/100)}</div></div>`).join('')}
+const KEY={'TEST Property charges':'TEST Property','SRP 569-479-000 (wrong owner)':'Minton','22828 S 214th St duplicate lines':'214th','1332 N Miller Rd duplicate':'Miller','21100 N Alma Dr water (resident pays)':'Alma Dr','960 N Jay St third Sept bill':'Jay St','Delano St pest control twice':'Delano','Carmelita Cir wrong building':'Carmelita','Repair Masters invoices twice (14)':'same invoice posted twice (same','Utility accounts billed twice (11)':'Utility account billed twice','1750 E 6th Ave inv 714121':'714121','Concordia sewer (resident pays)':'Concordia','Jay St May and Aug':'Jay St','Pantano renewal fee (In Progress)':'Pantano Pkwy Unit 1'};
+function bars(el,g,col,filt){const mx=Math.max(...g.map(x=>x[1]));$(el).innerHTML=g.map(x=>`<div class="bar" role="button" tabindex="0" title="Show these rows" data-q="${x[0]}"><div class="nm">${x[0]}</div><div class="tr"><div class="fi" style="width:${Math.max(2,x[1]/mx*100)}%;background:${col}"></div></div><div class="am">${fmt(Math.round(x[1]*100)/100)}</div></div>`).join('')}
 bars('#b1',g1,'var(--bar-unpaid)');bars('#b2',g2,'var(--bar-paid)');
-document.querySelectorAll('.bar').forEach(b=>b.onclick=()=>{setTab('F');$('#q').value='';state.q='';state.sev='';state.paid=el(b).p;render();});
+document.querySelectorAll('.bar').forEach(b=>{const go=()=>{setTab('F');state.sev='RED';state.paid=el(b).p;state.q=KEY[b.dataset.q]||'';$('#q').value=state.q;render();$('#tabs').scrollIntoView({behavior:'smooth'})};b.onclick=go;b.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();go()}}});
 function el(b){return {p:b.parentElement.id==='b1'?'Unpaid':'Paid'}}
 // tabs
 const link=id=>`<a class="id" href="https://rosenbaumrealtygroup.rentvine.com/accounting/bills/${id}" target="_blank" rel="noopener">${id}</a>`;
@@ -112,6 +133,7 @@ const T={
  B:{n:'Blank property lines',h:['Date','Reference','Description','Amount','Paid?','To do'],d:D.Bk,cell:(c,i,v)=>i===3?fmt(v):i===4?pill(v):v,num:[3],f:[]},
  T:{n:'Data tie-out',h:['Month','Header rows','Loaded rows','Header $','Loaded $','Result'],d:D.T,cell:(c,i,v)=>i===3||i===4?fmt(v):i===5?`<span class="pill p-MATCH">${v}</span>`:v,num:[1,2,3,4],f:[]}
 };
+const CLICK={F:{0:'sev',1:'paid',2:'q',3:'q',5:'q',6:'q'},M:{1:'q',7:'q'},B:{1:'q'},O:{0:'oi'}};
 const state={tab:'F',q:'',sev:'',paid:'',sort:-1,dir:1};
 $('#tabs').innerHTML=Object.entries(T).map(([k,t])=>`<button class="tab" role="tab" data-k="${k}">${t.n}<span class="c">${t.d.length}</span></button>`).join('');
 document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>setTab(b.dataset.k));
@@ -131,10 +153,40 @@ function render(){const t=T[state.tab];
  let rows=t.d.filter(r=>(!state.q||r.join(' ').toLowerCase().includes(state.q))&&(!state.sev||r[0]===state.sev)&&(!state.paid||r[1]===state.paid||(state.tab==='B'&&false)));
  if(state.sort>=0){const i=state.sort;rows=[...rows].sort((a,b)=>{const x=a[i],y=b[i];return (typeof x==='number'&&typeof y==='number'?x-y:String(x).localeCompare(String(y),undefined,{numeric:true}))*state.dir})}
  $('#th').innerHTML='<tr>'+t.h.map((h,i)=>`<th data-i="${i}">${h}${state.sort===i?(state.dir>0?' ▲':' ▼'):''}</th>`).join('')+'</tr>';
- $('#tb').innerHTML=rows.map(r=>'<tr>'+r.map((v,i)=>`<td class="${(t.num||[]).includes(i)?'num':''}">${t.cell(r,i,v)}</td>`).join('')+'</tr>').join('')||`<tr><td colspan="${t.h.length}" class="note">Nothing matches. Clear the search or filters.</td></tr>`;
+ state.rows=rows;const CL=CLICK[state.tab]||{};
+ $('#tb').innerHTML=rows.map((r,ri)=>`<tr data-ri="${ri}" tabindex="0">`+r.map((v,i)=>`<td data-i="${i}" class="${(t.num||[]).includes(i)?'num':''}${CL[i]&&v!==''&&v!=null?' lk':''}">${t.cell(r,i,v)}</td>`).join('')+'</tr>').join('')||`<tr><td colspan="${t.h.length}" class="note">Nothing matches. Clear the search or filters.</td></tr>`;
  document.querySelectorAll('th').forEach(h=>h.onclick=()=>{const i=+h.dataset.i;state.dir=state.sort===i?-state.dir:1;state.sort=i;render()});
  $('#cnt').textContent=rows.length+' of '+t.d.length+' rows';
- $('#foot').textContent=state.tab==='F'?'Click a bill number to open it in Rentvine. Click a bar above to filter to unpaid or paid. Sort any column by clicking its header.':state.tab==='M'?'68 of 84 September markups are 20% of the vendor bill, 15 are 10%. Confirm 20% is policy before these are paid.':state.tab==='B'?'A blank property code is not always a missing property. Open each bill in Rentvine to confirm the owner.':'';}
+ $('#foot').textContent=state.tab==='F'?'Click any row for the full detail. Click a severity, paid status, property, vendor or reference to filter by it. Click a bill number to open it in Rentvine. Click the tiles and bars above to jump here.':state.tab==='M'?'68 of 84 September markups are 20% of the vendor bill, 15 are 10%. Confirm 20% is policy before these are paid.':state.tab==='B'?'A blank property code is not always a missing property. Open each bill in Rentvine to confirm the owner.':'';}
 $('#theme').onclick=()=>{const r=document.documentElement,d=r.dataset.theme==='dark'||(!r.dataset.theme&&matchMedia('(prefers-color-scheme:dark)').matches);r.dataset.theme=d?'light':'dark'};
+function cellClick(td){const t=T[state.tab],i=+td.dataset.i,r=state.rows[+td.parentElement.dataset.ri],a=(CLICK[state.tab]||{})[i],v=r[i];
+ if(!a||v===''||v==null)return false;
+ if(a==='oi'){setTab('F');state.q=String(v).toLowerCase();render();$('#q').value=v;$('#tabs').scrollIntoView({behavior:'smooth'});return true}
+ if(a==='sev')state.sev=state.sev===v?'':v; else if(a==='paid')state.paid=state.paid===v?'':v;
+ else{state.q=String(v).toLowerCase();$('#q').value=v}
+ render();return true}
+$('#tb').addEventListener('click',e=>{if(e.target.closest('a'))return;const td=e.target.closest('td');if(!td)return;if(cellClick(td))return;openRow(+td.parentElement.dataset.ri)});
+$('#tb').addEventListener('keydown',e=>{if(e.key==='Enter'&&e.target.tagName==='TR')openRow(+e.target.dataset.ri)});
+// detail drawer
+let lastFocus=null;
+function openRow(ri){const t=T[state.tab],r=state.rows[ri];if(!r)return;lastFocus=document.activeElement;
+ const title=state.tab==='F'?(r[3]||'Finding'):String(r[1]||r[0]);
+ let body=t.h.map((h,i)=>{let v=r[i];if(v===''||v==null)return '';let out=t.cell(r,i,v);return `<dt>${h}</dt><dd>${out}</dd>`}).join('');
+ let acts='';
+ if(state.tab==='F'){const ref=r[6],ids=String(r[9]||'').split(', ').filter(Boolean);
+  acts+=ids.map(id=>`<a class="btn" target="_blank" rel="noopener" href="https://rosenbaumrealtygroup.rentvine.com/accounting/bills/${id}">Open bill ${id}</a>`).join('');
+  if(ref)acts+=`<button class="btn" data-copy="${ref}">Copy reference</button>`;
+  if(r[3])acts+=`<button class="btn" data-q="${r[3]}">Show all for this property</button>`;
+  if(r[2])acts+=`<button class="btn" data-q="${r[2]}">Show ${r[2]}</button>`}
+ if(state.tab==='B')acts+=`<button class="btn" data-copy="${r[1]}">Copy reference</button>`;
+ const d=document.createElement('div');d.className='dim';d.id='dim';
+ d.innerHTML=`<div class="drawer" role="dialog" aria-modal="true" aria-label="Row detail"><div class="top"><h3>${title}</h3><button class="btn x" id="cl">Close</button></div><dl>${body}</dl><div class="acts">${acts}</div><div class="note" id="cmsg"></div></div>`;
+ document.body.appendChild(d);$('#cl').focus();
+ d.onclick=e=>{if(e.target===d)closeRow()};$('#cl').onclick=closeRow;
+ d.querySelectorAll('[data-q]').forEach(b=>b.onclick=()=>{closeRow();state.q=b.dataset.q.toLowerCase();state.sev='';state.paid='';render();$('#q').value=b.dataset.q;});
+ d.querySelectorAll('[data-copy]').forEach(b=>b.onclick=()=>{const v=b.dataset.copy,m=$('#cmsg');navigator.clipboard.writeText(v).then(()=>m.textContent='Copied '+v,()=>{m.textContent='Copy is blocked here. Reference: '+v})})}
+function closeRow(){const d=$('#dim');if(d)d.remove();if(lastFocus&&lastFocus.focus)lastFocus.focus()}
+addEventListener('keydown',e=>{if(e.key==='Escape')closeRow()});
+document.querySelectorAll('.kpi,.bar').forEach(x=>x.style.cursor='pointer');
 tools();render();
 </script>
