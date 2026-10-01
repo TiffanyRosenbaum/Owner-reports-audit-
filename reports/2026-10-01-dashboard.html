@@ -116,12 +116,13 @@ const D={"F": [["RED", "Unpaid", "OI-003", "960 N Jay St", "Third September bill
 const $=s=>document.querySelector(s), fmt=n=>typeof n==='number'?n.toLocaleString('en-US',{style:'currency',currency:'USD'}):(n||'');
 const unpaid=D.F.filter(r=>r[1]==='Unpaid'&&r[0]==='RED'), paid=D.F.filter(r=>r[1]==='Paid'&&r[0]==='RED');
 const sum=a=>a.reduce((s,r)=>s+(typeof r[7]==='number'?r[7]:0),0);
+const ITEMS={red:46,yel:10};
 const red=D.F.filter(r=>r[0]==='RED').length, yel=D.F.filter(r=>r[0]==='YELLOW').length;
 // KPIs
-const k=[['red','Red, unpaid',fmt(Math.round(sum(unpaid)*100)/100),unpaid.length+' lines you can still hold'],['red','Red, already paid',fmt(Math.round(sum(paid)*100)/100),paid.length+' lines to recover'],['red','Red flags',red,'fix first'],['amb','Yellow flags',yel,'please review'],['amb','Open items','16 of 16','none resolved'],['ok','Data tie-out','10 of 10','months match report totals']];
+const k=[['red','Red, unpaid',fmt(Math.round(sum(unpaid)*100)/100),unpaid.length+' lines you can still hold'],['red','Red, already paid',fmt(Math.round(sum(paid)*100)/100),paid.length+' lines to recover'],['red','Red flags',red,'lines, '+ITEMS.red+' items in the written report'],['amb','Yellow flags',yel,'lines, '+ITEMS.yel+' items in the written report'],['amb','Open items','16 of 16','none resolved'],['ok','Data tie-out','10 of 10','months match report totals']];
 const kact=[{t:'F',sev:'RED',paid:'Unpaid'},{t:'F',sev:'RED',paid:'Paid'},{t:'F',sev:'RED'},{t:'F',sev:'YELLOW'},{t:'O'},{t:'T'}];
 $('#kpis').innerHTML=k.map((x,i)=>`<button class="kpi ${x[0]}" data-k="${i}" title="Click to see the rows behind this number"><div class="l">${x[1]}</div><div class="v">${x[2]}</div><div class="n">${x[3]}</div></button>`).join('');
-document.querySelectorAll('.kpi').forEach(b=>b.onclick=()=>{const a=kact[+b.dataset.k];setTab(a.t);state.sev=a.sev||'';state.paid=a.paid||'';render();jump()});
+document.querySelectorAll('.kpi').forEach(b=>b.onclick=()=>{const a=kact[+b.dataset.k];if(a.t!=='F'){setTab(a.t);jump();return}const idxs=D.F.map((r,i)=>i).filter(i=>(!a.sev||D.F[i][0]===a.sev)&&(!a.paid||D.F[i][1]===a.paid));panel(k[+b.dataset.k][1]+': '+k[+b.dataset.k][2],idxs,()=>{state.q='';state.sev=a.sev||'';state.paid=a.paid||''})});
 // grouped bars
 function grp(rows,key){const m={};rows.forEach(r=>{const g=key(r);m[g]=(m[g]||0)+(r[7]||0)});return Object.entries(m).sort((a,b)=>b[1]-a[1])}
 const g1=grp(unpaid,r=>/TEST/.test(r[3])?'TEST Property charges':/Minton/.test(r[3])?'SRP 569-479-000 (wrong owner)':/214th/.test(r[3])?'22828 S 214th St duplicate lines':/Miller/.test(r[3])?'1332 N Miller Rd duplicate':/Alma/.test(r[3])?'21100 N Alma Dr water (resident pays)':/Jay/.test(r[3])?'960 N Jay St third Sept bill':/Delano/.test(r[3])?'Delano St pest control twice':'Carmelita Cir wrong building');
@@ -129,7 +130,7 @@ const g2=grp(paid,r=>r[5]==='Repair Masters'&&r[4].startsWith('Same invoice post
 const KEY={'TEST Property charges':'TEST Property','SRP 569-479-000 (wrong owner)':'Minton','22828 S 214th St duplicate lines':'214th','1332 N Miller Rd duplicate':'Miller','21100 N Alma Dr water (resident pays)':'Alma Dr','960 N Jay St third Sept bill':'Jay St','Delano St pest control twice':'Delano','Carmelita Cir wrong building':'Carmelita','Repair Masters invoices twice (14)':'same invoice posted twice (same','Utility accounts billed twice (11)':'Utility account billed twice','1750 E 6th Ave inv 714121':'714121','Concordia sewer (resident pays)':'Concordia','Jay St May and Aug':'Jay St','Pantano renewal fee (In Progress)':'Pantano Pkwy Unit 1'};
 function bars(el,g,col,filt){const mx=Math.max(...g.map(x=>x[1]));$(el).innerHTML=g.map(x=>`<div class="bar" role="button" tabindex="0" title="Show these rows" data-q="${x[0]}"><div class="nm">${x[0]}</div><div class="tr"><div class="fi" style="width:${Math.max(2,x[1]/mx*100)}%;background:${col}"></div></div><div class="am">${fmt(Math.round(x[1]*100)/100)}</div></div>`).join('')}
 bars('#b1',g1,'var(--bar-unpaid)');bars('#b2',g2,'var(--bar-paid)');
-document.querySelectorAll('.bar').forEach(b=>{const go=()=>{setTab('F');state.sev='RED';state.paid=el(b).p;state.q=(KEY[b.dataset.q]||'').toLowerCase();$('#q').value=state.q;render();jump()};b.onclick=go;b.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();go()}}});
+document.querySelectorAll('.bar').forEach(b=>{const go=()=>{const q=(KEY[b.dataset.q]||'').toLowerCase(),p=el(b).p;const idxs=D.F.map((r,i)=>i).filter(i=>D.F[i][0]==='RED'&&D.F[i][1]===p&&D.F[i].join(' ').toLowerCase().includes(q));panel(b.dataset.q,idxs,()=>{state.q=q;state.sev='RED';state.paid=p})};b.onclick=go;b.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();go()}}});
 function el(b){return {p:b.parentElement.id==='b1'?'Unpaid':'Paid'}}
 // tabs
 const link=id=>`<a class="id" href="https://rosenbaumrealtygroup.rentvine.com/accounting/bills/${id}" target="_blank" rel="noopener">${id}</a>`;
@@ -204,15 +205,17 @@ const ACCT=/\b\d{3}-\d{3}-\d{3}\b|\b\d{6}-\d{1,5}\b|\b\d{6,}\b|\bOI-\d{3}\b/g;
 function linkify(root){const w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,{acceptNode:n=>n.parentElement.closest('a,button,.acct,.pill,script,style')?NodeFilter.FILTER_REJECT:(ACCT.lastIndex=0,ACCT.test(n.nodeValue)?NodeFilter.FILTER_ACCEPT:NodeFilter.FILTER_REJECT)}),nodes=[];
  while(w.nextNode())nodes.push(w.currentNode);
  nodes.forEach(n=>{const f=document.createDocumentFragment();let last=0;n.nodeValue.replace(ACCT,(m,off)=>{f.append(n.nodeValue.slice(last,off));const a=document.createElement('span');a.className='acct';a.dataset.tok=m;a.tabIndex=0;a.setAttribute('role','link');a.title='Show every row that mentions '+m;a.textContent=m;f.append(a);last=off+m.length;return m});f.append(n.nodeValue.slice(last));n.replaceWith(f)})}
-function goTok(tok){closeRow();lastFocus=document.activeElement;const lt=tok.toLowerCase();
- const hits=D.F.map((r,i)=>[r,i]).filter(([r])=>r.join(' ').toLowerCase().includes(lt));
- const other=[['Gaps',D.gaps],['Open items',D.oi],['Markup pairs',D.M],['Blank property lines',D.Bk]].map(([n,d])=>[n,d.filter(r=>r.join(' ').toLowerCase().includes(lt)).length]).filter(x=>x[1]);
+function panel(title,idxs,apply,extra){closeRow();lastFocus=document.activeElement;
  const d=document.createElement('div');d.className='dim';d.id='dim';
- d.innerHTML=`<div class="drawer" role="dialog" aria-modal="true" aria-label="Rows for ${tok}"><div class="top"><h3>${tok}</h3><button class="btn x" id="cl">Close</button></div><div class="note">${hits.length} finding${hits.length===1?'':'s'} mention this${other.length?'. Also in: '+other.map(x=>x[0]+' ('+x[1]+')').join(', '):''}.</div><div class="res">${hits.map(([r,i])=>`<button data-i="${i}"><span class="t">${pill(r[0])} ${pill(r[1])} ${r[3]||''}</span><span class="m">${r[4]}${typeof r[7]==='number'?' · '+fmt(r[7]):''}${r[6]?' · ref '+r[6]:''}</span></button>`).join('')||'<div class="note">No findings mention this. It may appear on another tab.</div>'}</div><div class="acts">${hits.length?'<button class="btn" id="all">Show these in the table</button>':''}</div></div>`;
+ const tot=idxs.reduce((s,i)=>s+(typeof D.F[i][7]==='number'?D.F[i][7]:0),0);
+ d.innerHTML=`<div class="drawer" role="dialog" aria-modal="true" aria-label="${title}"><div class="top"><h3>${title}</h3><button class="btn x" id="cl">Close</button></div><div class="note">${idxs.length} line${idxs.length===1?'':'s'}${tot?' · '+fmt(Math.round(tot*100)/100)+' listed':''}${extra?'. '+extra:''}</div><div class="acts">${idxs.length?'<button class="btn" id="all">Show these in the table</button>':''}</div><div class="res">${idxs.map(i=>{const r=D.F[i];return `<button data-i="${i}"><span class="t">${pill(r[0])} ${pill(r[1])} ${r[3]||''}</span><span class="m">${r[4]}${typeof r[7]==='number'?' · '+fmt(r[7]):''}${r[6]?' · ref '+r[6]:''}</span></button>`}).join('')||'<div class="note">Nothing found here. It may appear on another tab.</div>'}</div></div>`;
  document.body.appendChild(d);$('#cl').focus();d.onclick=e=>{if(e.target===d)closeRow()};$('#cl').onclick=closeRow;
- const toTable=(then)=>{d.remove();setTab('F');state.q=lt;render();const q=$('#q');if(q)q.value=tok;jump();if(then)then()};
- const a=$('#all');if(a)a.onclick=()=>toTable();
+ const toTable=(then)=>{d.remove();setTab('F');apply();render();const q=$('#q');if(q)q.value=state.q;jump();if(then)then()};
+ const al=$('#all');if(al)al.onclick=()=>toTable();
  d.querySelectorAll('.res button').forEach(b=>b.onclick=()=>{const idx=+b.dataset.i;toTable(()=>{const ri=state.rows.findIndex(r=>r===T.F.d[idx]);openRow(ri>=0?ri:0)})})}
+function goTok(tok){const lt=tok.toLowerCase();const idxs=D.F.map((r,i)=>i).filter(i=>D.F[i].join(' ').toLowerCase().includes(lt));
+ const other=[['Gaps',D.gaps],['Open items',D.oi],['Markup pairs',D.M],['Blank property lines',D.Bk]].map(([n,d])=>[n,d.filter(r=>r.join(' ').toLowerCase().includes(lt)).length]).filter(x=>x[1]);
+ panel(tok,idxs,()=>{state.q=lt;state.sev='';state.paid=''},other.length?'Also in: '+other.map(x=>x[0]+' ('+x[1]+')').join(', '):'')}
 document.addEventListener('click',e=>{const a=e.target.closest('.acct');if(a){e.preventDefault();e.stopPropagation();goTok(a.dataset.tok)}},true);
 document.addEventListener('keydown',e=>{if(e.key==='Enter'&&e.target.classList&&e.target.classList.contains('acct'))goTok(e.target.dataset.tok)});
 tools();render();
