@@ -774,6 +774,15 @@
    "issue": "659 utility bills where the property says the resident pays that utility and a resident was living there. Unpaid 70 line",
    "ref": "",
    "amount": null
+  },
+  {
+   "sev": "RED",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "128 references used on more than one bill (see Matching references tab)",
+   "issue": "The same reference number appears on two or more different bills (same month: 49, different months: 56, utility accounts",
+   "ref": "",
+   "amount": null
   }
  ],
  "open_items": [

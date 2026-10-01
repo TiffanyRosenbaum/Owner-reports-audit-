@@ -29,3 +29,4 @@ Read every file in `audit/` before a run: `RULES.md`, `RENTVINE_DATA.md`, `KNOWN
 - AppFolio Realm-X DOES return vendor bills. Gmail is not needed to audit AppFolio.
 - Water, sewer and other utility bills that fall in different billing months are NOT duplicates.
 - If a utility is marked "Resident pays" on the property and a resident lives in the unit or home when the bill arrives, flag it RED.
+- Any reference that matches the reference on another bill is flagged RED (split bills and Markup pairs excepted). See audit/RULES.md Check 4.

@@ -36,7 +36,8 @@ Normalize account numbers before comparing: remove month tags (9/26, 09/26, Sep-
 - YELLOW: same vendor + same unit + same kind of work within 30 days at different amounts.
 - YELLOW: a utility account with two bills in one month at different amounts (compare service dates).
 - YELLOW: a "Markup:" manager bill (payee Rosenbaum Realty Group) without a matching vendor bill, or not equal to 10%.
-- DO NOT flag utility/water/sewer bills that fall in different billing months. Utilities repeat monthly.
+- RED: any reference that matches the reference on another bill (exact match ignoring case, spaces and #; added 2026-10-01). Skip: same bill split across properties (same date and vendor), Markup bills that share the vendor bill's reference, mortgage/loan/interest accounts, and generic labels with no 4-digit number. Label each as same month, different months, utility different months, or different properties.
+- Utility accounts that repeat each month with a different month tag (e.g. 8/26 then 9/26) are NOT matches and NOT duplicates. DO NOT flag utility/water/sewer bills that fall in different billing months. Utilities repeat monthly.
 - Do not flag duplicates that were already voided. Count them as "caught and voided".
 
 ## Check 5 — Utilities
