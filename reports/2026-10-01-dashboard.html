@@ -74,6 +74,12 @@ button.kpi:hover,.kpi:hover{border-color:var(--accent);box-shadow:0 0 0 1px var(
 td.lk{cursor:pointer}td.lk:hover{color:var(--accent);text-decoration:underline}
 td.lk .pill{cursor:pointer}td.lk .pill:hover{outline:2px solid var(--accent)}
 tbody tr{cursor:pointer}
+.fbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;background:var(--accent-soft);border:1px solid var(--accent);color:var(--ink);border-radius:6px;padding:8px 12px}
+.fbar b{font-family:var(--f-num);font-weight:500}
+.res{display:flex;flex-direction:column;gap:8px}
+.res button{font:inherit;text-align:left;background:var(--bg);color:var(--ink);border:1px solid var(--line);border-radius:6px;padding:10px 12px;cursor:pointer;display:grid;gap:3px}
+.res button:hover{border-color:var(--accent)}
+.res .t{font-weight:600;overflow-wrap:anywhere}.res .m{font-size:12px;color:var(--ink2);overflow-wrap:anywhere}
 .acct{color:var(--accent);text-decoration:underline dotted;text-underline-offset:3px;cursor:pointer;font-family:var(--f-num);font-size:.95em}
 .acct:hover{background:var(--accent-soft);text-decoration:underline}
 .alert .go{margin-left:auto}
@@ -100,6 +106,7 @@ tbody tr{cursor:pointer}
  <div class="panel"><h2>Already paid, to recover</h2><div class="bars" id="b2"></div></div>
 </div>
 <div class="tabs" role="tablist" id="tabs"></div>
+<div class="fbar" id="fbar" hidden></div>
 <div class="tools" id="tools"></div>
 <div class="tw"><table><thead id="th"></thead><tbody id="tb"></tbody></table></div>
 <div class="note" id="foot"></div>
@@ -114,7 +121,7 @@ const red=D.F.filter(r=>r[0]==='RED').length, yel=D.F.filter(r=>r[0]==='YELLOW')
 const k=[['red','Red, unpaid',fmt(Math.round(sum(unpaid)*100)/100),unpaid.length+' lines you can still hold'],['red','Red, already paid',fmt(Math.round(sum(paid)*100)/100),paid.length+' lines to recover'],['red','Red flags',red,'fix first'],['amb','Yellow flags',yel,'please review'],['amb','Open items','16 of 16','none resolved'],['ok','Data tie-out','10 of 10','months match report totals']];
 const kact=[{t:'F',sev:'RED',paid:'Unpaid'},{t:'F',sev:'RED',paid:'Paid'},{t:'F',sev:'RED'},{t:'F',sev:'YELLOW'},{t:'O'},{t:'T'}];
 $('#kpis').innerHTML=k.map((x,i)=>`<button class="kpi ${x[0]}" data-k="${i}" title="Click to see the rows behind this number"><div class="l">${x[1]}</div><div class="v">${x[2]}</div><div class="n">${x[3]}</div></button>`).join('');
-document.querySelectorAll('.kpi').forEach(b=>b.onclick=()=>{const a=kact[+b.dataset.k];setTab(a.t);state.sev=a.sev||'';state.paid=a.paid||'';render();$('#tabs').scrollIntoView({behavior:'smooth'})});
+document.querySelectorAll('.kpi').forEach(b=>b.onclick=()=>{const a=kact[+b.dataset.k];setTab(a.t);state.sev=a.sev||'';state.paid=a.paid||'';render();jump()});
 // grouped bars
 function grp(rows,key){const m={};rows.forEach(r=>{const g=key(r);m[g]=(m[g]||0)+(r[7]||0)});return Object.entries(m).sort((a,b)=>b[1]-a[1])}
 const g1=grp(unpaid,r=>/TEST/.test(r[3])?'TEST Property charges':/Minton/.test(r[3])?'SRP 569-479-000 (wrong owner)':/214th/.test(r[3])?'22828 S 214th St duplicate lines':/Miller/.test(r[3])?'1332 N Miller Rd duplicate':/Alma/.test(r[3])?'21100 N Alma Dr water (resident pays)':/Jay/.test(r[3])?'960 N Jay St third Sept bill':/Delano/.test(r[3])?'Delano St pest control twice':'Carmelita Cir wrong building');
@@ -122,7 +129,7 @@ const g2=grp(paid,r=>r[5]==='Repair Masters'&&r[4].startsWith('Same invoice post
 const KEY={'TEST Property charges':'TEST Property','SRP 569-479-000 (wrong owner)':'Minton','22828 S 214th St duplicate lines':'214th','1332 N Miller Rd duplicate':'Miller','21100 N Alma Dr water (resident pays)':'Alma Dr','960 N Jay St third Sept bill':'Jay St','Delano St pest control twice':'Delano','Carmelita Cir wrong building':'Carmelita','Repair Masters invoices twice (14)':'same invoice posted twice (same','Utility accounts billed twice (11)':'Utility account billed twice','1750 E 6th Ave inv 714121':'714121','Concordia sewer (resident pays)':'Concordia','Jay St May and Aug':'Jay St','Pantano renewal fee (In Progress)':'Pantano Pkwy Unit 1'};
 function bars(el,g,col,filt){const mx=Math.max(...g.map(x=>x[1]));$(el).innerHTML=g.map(x=>`<div class="bar" role="button" tabindex="0" title="Show these rows" data-q="${x[0]}"><div class="nm">${x[0]}</div><div class="tr"><div class="fi" style="width:${Math.max(2,x[1]/mx*100)}%;background:${col}"></div></div><div class="am">${fmt(Math.round(x[1]*100)/100)}</div></div>`).join('')}
 bars('#b1',g1,'var(--bar-unpaid)');bars('#b2',g2,'var(--bar-paid)');
-document.querySelectorAll('.bar').forEach(b=>{const go=()=>{setTab('F');state.sev='RED';state.paid=el(b).p;state.q=KEY[b.dataset.q]||'';$('#q').value=state.q;render();$('#tabs').scrollIntoView({behavior:'smooth'})};b.onclick=go;b.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();go()}}});
+document.querySelectorAll('.bar').forEach(b=>{const go=()=>{setTab('F');state.sev='RED';state.paid=el(b).p;state.q=(KEY[b.dataset.q]||'').toLowerCase();$('#q').value=state.q;render();jump()};b.onclick=go;b.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();go()}}});
 function el(b){return {p:b.parentElement.id==='b1'?'Unpaid':'Paid'}}
 // tabs
 const link=id=>`<a class="id" href="https://rosenbaumrealtygroup.rentvine.com/accounting/bills/${id}" target="_blank" rel="noopener">${id}</a>`;
@@ -139,8 +146,9 @@ const CLICK={F:{0:'sev',1:'paid',2:'q',3:'q',5:'q',6:'q'},M:{1:'q',7:'q'},B:{1:'
 const state={tab:'F',q:'',sev:'',paid:'',sort:-1,dir:1};
 $('#tabs').innerHTML=Object.entries(T).map(([k,t])=>`<button class="tab" role="tab" data-k="${k}">${t.n}<span class="c">${t.d.length}</span></button>`).join('');
 document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>setTab(b.dataset.k));
-$('#togap').onclick=()=>{setTab('G');$('#tabs').scrollIntoView({behavior:'smooth'})};
+$('#togap').onclick=()=>{setTab('G');jump()};
 $('#gapn').textContent=D.gaps.filter(g=>g[1]!=='NOTE').length+' areas are partial, skipped or not run.';
+function jump(){const y=$('#tabs').getBoundingClientRect().top+(document.scrollingElement||document.documentElement).scrollTop-12;try{window.scrollTo(0,y)}catch(e){}try{document.scrollingElement.scrollTop=y}catch(e){}try{$('#tabs').scrollIntoView()}catch(e){}}
 function setTab(k){state.tab=k;state.q='';state.sev='';state.paid='';state.sort=-1;tools();render()}
 function tools(){const t=T[state.tab];let h=`<input type="search" id="q" placeholder="Search ${t.n.toLowerCase()}: property, vendor, reference, bill id" aria-label="Search">`;
  if(state.tab==='F'){h+=['RED','YELLOW'].map(s=>`<button class="chip" data-s="${s}" aria-pressed="false">${s==='RED'?'Red':'Yellow'}</button>`).join('')+['Unpaid','Paid'].map(s=>`<button class="chip" data-p="${s}" aria-pressed="false">${s}</button>`).join('')}
@@ -158,12 +166,13 @@ function render(){const t=T[state.tab];
  state.rows=rows;const CL=CLICK[state.tab]||{};
  $('#tb').innerHTML=rows.map((r,ri)=>`<tr data-ri="${ri}" tabindex="0">`+r.map((v,i)=>`<td data-i="${i}" class="${(t.num||[]).includes(i)?'num':''}${CL[i]&&v!==''&&v!=null?' lk':''}">${t.cell(r,i,v)}</td>`).join('')+'</tr>').join('')||`<tr><td colspan="${t.h.length}" class="note">Nothing matches. Clear the search or filters.</td></tr>`;
  document.querySelectorAll('th').forEach(h=>h.onclick=()=>{const i=+h.dataset.i;state.dir=state.sort===i?-state.dir:1;state.sort=i;render()});
+ {const p=[];if(state.q)p.push('text “'+state.q+'”');if(state.sev)p.push(state.sev);if(state.paid)p.push(state.paid);const fb=$('#fbar');fb.hidden=!p.length;fb.innerHTML=p.length?'Showing <b>'+rows.length+'</b> '+T[state.tab].n.toLowerCase()+' matching '+p.join(' + ')+' <button class="btn" id="clr">Clear filters</button>':'';if(p.length)$('#clr').onclick=()=>{state.q='';state.sev='';state.paid='';const q=$('#q');if(q)q.value='';render()}}
  $('#cnt').textContent=rows.length+' of '+t.d.length+' rows';linkify($('#tb'));
  $('#foot').textContent=state.tab==='F'?'Click any row for the full detail. Click a severity, paid status, property, vendor or reference to filter by it. Click a bill number to open it in Rentvine. Click the tiles and bars above to jump here.':state.tab==='M'?'68 of 84 September markups are 20% of the vendor bill, 15 are 10%. Confirm 20% is policy before these are paid.':state.tab==='B'?'A blank property code is not always a missing property. Open each bill in Rentvine to confirm the owner.':'';}
 $('#theme').onclick=()=>{const r=document.documentElement,d=r.dataset.theme==='dark'||(!r.dataset.theme&&matchMedia('(prefers-color-scheme:dark)').matches);r.dataset.theme=d?'light':'dark'};
 function cellClick(td){const t=T[state.tab],i=+td.dataset.i,r=state.rows[+td.parentElement.dataset.ri],a=(CLICK[state.tab]||{})[i],v=r[i];
  if(!a||v===''||v==null)return false;
- if(a==='oi'){setTab('F');state.q=String(v).toLowerCase();render();$('#q').value=v;$('#tabs').scrollIntoView({behavior:'smooth'});return true}
+ if(a==='oi'){setTab('F');state.q=String(v).toLowerCase();render();$('#q').value=v;jump();return true}
  if(a==='sev')state.sev=state.sev===v?'':v; else if(a==='paid')state.paid=state.paid===v?'':v;
  else{state.q=String(v).toLowerCase();$('#q').value=v}
  render();return true}
@@ -195,7 +204,15 @@ const ACCT=/\b\d{3}-\d{3}-\d{3}\b|\b\d{6}-\d{1,5}\b|\b\d{6,}\b|\bOI-\d{3}\b/g;
 function linkify(root){const w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,{acceptNode:n=>n.parentElement.closest('a,button,.acct,.pill,script,style')?NodeFilter.FILTER_REJECT:(ACCT.lastIndex=0,ACCT.test(n.nodeValue)?NodeFilter.FILTER_ACCEPT:NodeFilter.FILTER_REJECT)}),nodes=[];
  while(w.nextNode())nodes.push(w.currentNode);
  nodes.forEach(n=>{const f=document.createDocumentFragment();let last=0;n.nodeValue.replace(ACCT,(m,off)=>{f.append(n.nodeValue.slice(last,off));const a=document.createElement('span');a.className='acct';a.dataset.tok=m;a.tabIndex=0;a.setAttribute('role','link');a.title='Show every row that mentions '+m;a.textContent=m;f.append(a);last=off+m.length;return m});f.append(n.nodeValue.slice(last));n.replaceWith(f)})}
-function goTok(tok){closeRow();if(state.tab!=='F')setTab('F');state.sev='';state.paid='';state.q=tok.toLowerCase();render();$('#q').value=tok;$('#tabs').scrollIntoView({behavior:'smooth'})}
+function goTok(tok){closeRow();lastFocus=document.activeElement;const lt=tok.toLowerCase();
+ const hits=D.F.map((r,i)=>[r,i]).filter(([r])=>r.join(' ').toLowerCase().includes(lt));
+ const other=[['Gaps',D.gaps],['Open items',D.oi],['Markup pairs',D.M],['Blank property lines',D.Bk]].map(([n,d])=>[n,d.filter(r=>r.join(' ').toLowerCase().includes(lt)).length]).filter(x=>x[1]);
+ const d=document.createElement('div');d.className='dim';d.id='dim';
+ d.innerHTML=`<div class="drawer" role="dialog" aria-modal="true" aria-label="Rows for ${tok}"><div class="top"><h3>${tok}</h3><button class="btn x" id="cl">Close</button></div><div class="note">${hits.length} finding${hits.length===1?'':'s'} mention this${other.length?'. Also in: '+other.map(x=>x[0]+' ('+x[1]+')').join(', '):''}.</div><div class="res">${hits.map(([r,i])=>`<button data-i="${i}"><span class="t">${pill(r[0])} ${pill(r[1])} ${r[3]||''}</span><span class="m">${r[4]}${typeof r[7]==='number'?' · '+fmt(r[7]):''}${r[6]?' · ref '+r[6]:''}</span></button>`).join('')||'<div class="note">No findings mention this. It may appear on another tab.</div>'}</div><div class="acts">${hits.length?'<button class="btn" id="all">Show these in the table</button>':''}</div></div>`;
+ document.body.appendChild(d);$('#cl').focus();d.onclick=e=>{if(e.target===d)closeRow()};$('#cl').onclick=closeRow;
+ const toTable=(then)=>{d.remove();setTab('F');state.q=lt;render();const q=$('#q');if(q)q.value=tok;jump();if(then)then()};
+ const a=$('#all');if(a)a.onclick=()=>toTable();
+ d.querySelectorAll('.res button').forEach(b=>b.onclick=()=>{const idx=+b.dataset.i;toTable(()=>{const ri=state.rows.findIndex(r=>r===T.F.d[idx]);openRow(ri>=0?ri:0)})})}
 document.addEventListener('click',e=>{const a=e.target.closest('.acct');if(a){e.preventDefault();e.stopPropagation();goTok(a.dataset.tok)}},true);
 document.addEventListener('keydown',e=>{if(e.key==='Enter'&&e.target.classList&&e.target.classList.contains('acct'))goTok(e.target.dataset.tok)});
 tools();render();
