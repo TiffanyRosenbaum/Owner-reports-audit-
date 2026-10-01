@@ -695,13 +695,49 @@
    "amount": 180.34
   },
   {
-   "sev": "YELLOW",
+   "sev": "RED",
    "paid": "Unpaid",
    "item": "",
-   "prop": "AppFolio P13-031 A, P05-081, P23-025",
-   "issue": "APS bills on units with a new tenant (moved in 9/14-9/18). AppFolio shows electric as owner/company responsibility, so n",
-   "ref": "",
-   "amount": 80.06
+   "prop": "AppFolio P22-023",
+   "issue": "Electric bill while the unit is occupied. Tenants Richard Shope and Sue Savitt since 7/15",
+   "ref": "5079731674 9/16, previous Bal, 5079731674 9/26",
+   "amount": 180.34
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P05-081",
+   "issue": "Electric bill while the unit is occupied. Three tenants since 9/14",
+   "ref": "8358514099 9/26",
+   "amount": 34.33
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P13-031 A",
+   "issue": "Electric bill while the unit is occupied. Tenant Todd Young since 9/18",
+   "ref": "1409897883 9/26",
+   "amount": 22.89
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P23-025",
+   "issue": "Electric bill while the unit is occupied. Tenant Sophia Valverde since 9/14",
+   "ref": "2392442865 9/26",
+   "amount": 22.84
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P25-013",
+   "issue": "Electric bill while the unit is occupied. Occupied by 3 business tenants (units 100, 106, 112)",
+   "ref": "2760894566 9/26",
+   "amount": 535.22
   },
   {
    "sev": "YELLOW",
@@ -770,8 +806,8 @@
    "sev": "RED",
    "paid": "Mixed",
    "item": "",
-   "prop": "110 properties (see Resident-pays utilities tab)",
-   "issue": "659 utility bills where the property says the resident pays that utility and a resident was living there. Unpaid 70 line",
+   "prop": "139 properties (see Utilities vs occupancy tab)",
+   "issue": "850 utility bills with a resident living there: 659 where the property says the resident pays that utility, and 191 elec",
    "ref": "",
    "amount": null
   },

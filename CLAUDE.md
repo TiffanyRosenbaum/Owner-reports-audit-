@@ -30,3 +30,4 @@ Read every file in `audit/` before a run: `RULES.md`, `RENTVINE_DATA.md`, `KNOWN
 - Water, sewer and other utility bills that fall in different billing months are NOT duplicates.
 - If a utility is marked "Resident pays" on the property and a resident lives in the unit or home when the bill arrives, flag it RED.
 - Any reference that matches the reference on another bill is flagged RED (split bills and Markup pairs excepted). See audit/RULES.md Check 4.
+- Any electric bill that arrives while the unit is occupied is flagged RED in Rentvine and AppFolio (any who-pays value) and must appear in the report.

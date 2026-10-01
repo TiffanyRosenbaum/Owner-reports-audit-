@@ -43,6 +43,7 @@ Normalize account numbers before comparing: remove month tags (9/26, 09/26, Sep-
 ## Check 5 — Utilities
 5a. Cross-reference who pays and who lives there (Rentvine property fields property_text_43 electric, _44 water, _45 gas, _46 sewer, _47 trash; AppFolio unit record).
 - RED: a utility bill where that utility is "Resident pays" AND a resident lives in the unit/home when the bill arrives (lease dates). Multi-unit properties where the unit is not on the bill are YELLOW.
+- RED (added 2026-10-01): ANY electric bill that arrives while the unit is occupied, in Rentvine and AppFolio, whatever the who-pays field says. Multi-unit properties where the unit is not on the bill are YELLOW. Always include these in the report.
 - YELLOW: Resident pays but no resident found (vacant), a resident moved in or out within 30 days, or who-pays is blank.
 5b. Water/sewer spikes. Compare each account's bill total to its trailing 3-month average AND the same month last year.
 - RED: 50%+ above both baselines ("possible leak — send maintenance").
