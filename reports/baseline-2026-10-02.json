@@ -1,0 +1,226 @@
+{
+ "date": "2026-10-02",
+ "partial": true,
+ "findings": [
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "208 S Doran, Unit 214 (208 S Doran LLC, Karin Doolittle)",
+   "issue": "Electric bill arrived while unit is occupied (RED rule 2026-10-01). Tenant Sean ODonnell, lease 10/17/2025\u201310/31/2026. Electric who-pays field is BLANK.",
+   "ref": "904-089-008 10/26",
+   "amount": 186.32
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1255 N Arizona Ave, Unit 1273 (Julie & Moris Senegor)",
+   "issue": "Electric bill arrived while unit is occupied (RED rule 2026-10-01). Electric = Resident pays; tenants Jacob Smith / Jonathan Romero Calvillo, lease 3/1/2026\u20132/2",
+   "ref": "1052127301 10/2026",
+   "amount": 289.78
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "860 E Brown Rd Units 21-24, Unit 22 (Mayder Arizona Rentals LLC)",
+   "issue": "Electric bill arrived while unit is occupied (RED rule 2026-10-01). Electric = Resident pays; new tenant Jenifer Henson moved in 9/28/2026. Bill period not show",
+   "ref": "559-700-102 10/26",
+   "amount": 62.57
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "P19-013 7",
+   "issue": "Electric bill arrived while unit is occupied (RED rule 2026-10-01). Current residents: Ruth A. & Andrew P. Dullinger (move-in 6/15/2026).",
+   "ref": "(blank)",
+   "amount": 13.3
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "P11-032",
+   "issue": "Electric bill arrived while unit is occupied (RED rule 2026-10-01). Current residents: Cole B. Haga & Heather D. Hansen (move-in 6/15/2026).",
+   "ref": "(blank)",
+   "amount": 20.87
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "P20-005 1",
+   "issue": "Electric bill arrived while unit is occupied (RED rule 2026-10-01). Current residents: Kyan Rogos, Nikolaus Martin, Tristan Martin (move-in 11/1/2025).",
+   "ref": "2168791381 10/26",
+   "amount": 47.95
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "P21-023 A",
+   "issue": "Electric bill arrived while unit is occupied (RED rule 2026-10-01). Current residents: Brittany E. Alvarez & Teddy Hall (move-in 1/31/2025).",
+   "ref": "7367088632 10/26",
+   "amount": 25.6
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1353 W Pima Ave (Daniel & Tiffany Rosenbaum)",
+   "issue": "Electric = Resident pays but no lease found (vacant) - payee is Hohokam Irrigation & Drainage District, coded to electric 59501.",
+   "ref": "86255 10/26",
+   "amount": 67.78
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1115 South Tiago Drive",
+   "issue": "Markup bill is 20% of the vendor bill ($117.80 on $589.00); standard is 10%.",
+   "ref": "1238889",
+   "amount": 117.8
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "452 E 9th Ave 2",
+   "issue": "Markup bill is 20% of the vendor bill ($22.00 on $110.00); standard is 10%.",
+   "ref": "1238922",
+   "amount": 22.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1702 E 6th Ave",
+   "issue": "Markup bill is 20% of the vendor bill ($32.78 on $163.90); standard is 10%.",
+   "ref": "1238923",
+   "amount": 32.78
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "644 S Mesa Dr",
+   "issue": "Markup bill is 20% of the vendor bill ($30.00 on $150.00); standard is 10%.",
+   "ref": "1238924",
+   "amount": 30.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1332 Miller",
+   "issue": "Markup bill is 20% of the vendor bill ($24.00 on $120.00); standard is 10%.",
+   "ref": "1238925",
+   "amount": 24.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "15588 S Yava Unit B",
+   "issue": "Markup bill is 20% of the vendor bill ($30.00 on $150.00); standard is 10%.",
+   "ref": "1238926",
+   "amount": 30.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "(no property) Repair Masters",
+   "issue": "$173.45 bill coded to Landscaping 55000 but described 'Turned ac up to 85, took pictures of screens, installed drawer' and has no property.",
+   "ref": "1238680",
+   "amount": 173.45
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "(no property) Laveen Crossing HOA",
+   "issue": "HOA bill with no property; payee field contains 'HOA name: Laveen Crossing HOA phone...' (text pasted into the payee), covers Aug-Oct 2026.",
+   "ref": "29528070 10/26",
+   "amount": 772.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1255 N Arizona Ave Unit 1274",
+   "issue": "Same payee as Unit 1273 electric; ref 1052127401 coded HOA while 1273's ref 1052127301 is coded Electric. Unit 1274 has no active lease (new lease starts 11/1/2",
+   "ref": "1052127401 10/26",
+   "amount": 297.04
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1750 E 6th Ave, Unit 1750",
+   "issue": "Large October fees posted Oct 1: Lease Fee $472.50, Pet Admin $474.00, Admin Fee $317.90, Move-in $85, Resident Benefit $68.10.",
+   "ref": "(fees)",
+   "amount": 1417.5
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "8590 W Magnum Units A & B",
+   "issue": "8590 W Magnum Units A & B share UWS ref 274713 10/26 ($27.50 each) - treated as a split bill, not a duplicate.",
+   "ref": "274713 10/26",
+   "amount": 55.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "P19-041",
+   "issue": "Power bill $64.67 with no current tenant. If vacant, owner pays; who-pays not verified.",
+   "ref": "(blank)",
+   "amount": 64.67
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "P08-006",
+   "issue": "Power bill $15.33; no current tenant, future occupancy.",
+   "ref": "(blank)",
+   "amount": 15.33
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "(no property) Sparklight",
+   "issue": "Monthly internet bill $286.98 with no property.",
+   "ref": "(blank)",
+   "amount": 286.98
+  },
+  {
+   "carried_from": "2026-10-01",
+   "count": 91
+  }
+ ],
+ "open_items": [
+  "OI-001",
+  "OI-002",
+  "OI-003",
+  "OI-004",
+  "OI-005",
+  "OI-006",
+  "OI-007",
+  "OI-008",
+  "OI-009",
+  "OI-010",
+  "OI-011",
+  "OI-012",
+  "OI-013",
+  "OI-014",
+  "OI-015",
+  "OI-016"
+ ]
+}
