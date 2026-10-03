@@ -1,0 +1,879 @@
+{
+ "date": "2026-10-03",
+ "partial": true,
+ "findings": [
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "OI-003",
+   "prop": "960 N Jay St",
+   "issue": "Second September bill for account 00007604: 9/3 bill 25861 ($87.41, paid) and this 9/25 bill 27827 ($88.84, unpaid, refe",
+   "ref": "20230825-00007604 9/26",
+   "amount": 88.84
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OI-005",
+   "prop": "10919 W Carmelita Cir",
+   "issue": "Account belongs to 9230 N 6th St Unit 3",
+   "ref": "0727621137 9/26",
+   "amount": 9.49
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OI-007",
+   "prop": "TEST Property",
+   "issue": "Real SRP bill posted to TEST property",
+   "ref": "961-089-003 9/26",
+   "amount": 216.1
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "TEST Property",
+   "issue": "Lease Fee on TEST property",
+   "ref": "",
+   "amount": 600
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "TEST Property",
+   "issue": "Lease Fee on TEST property",
+   "ref": "",
+   "amount": 600
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "TEST Property",
+   "issue": "Bill on TEST property",
+   "ref": "713556",
+   "amount": 100
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OI-008",
+   "prop": "5415 W Minton St (owner ADELANTE Y ARRIBA LLC, no property)",
+   "issue": "Posted to different owner than 9/28 bill (5415 W Minton Ave, Casa Grande Homes)",
+   "ref": "569-479-000 9/26",
+   "amount": 275.32
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OI-008",
+   "prop": "5415 W Minton (no property code)",
+   "issue": "Same amount as 9/15 bill, 8/26 tag (not counted in $ at risk)",
+   "ref": "569-479-000 8/26",
+   "amount": ""
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OI-008",
+   "prop": "5415 W Minton (no property code)",
+   "issue": "August bill (not counted in $ at risk)",
+   "ref": "569-479-000 8/26",
+   "amount": ""
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OI-008",
+   "prop": "5415 W Minton Ave",
+   "issue": "Second Sept bill (not counted in $ at risk)",
+   "ref": "569-479-000 9/26",
+   "amount": ""
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1332 N Miller Rd",
+   "issue": "Duplicate August bill (8/1 $106.64 paid, bill 26190)",
+   "ref": "1256199566 8/26",
+   "amount": 107.12
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "22828 S 214th St",
+   "issue": "Vendor line + markup posted twice on same ref (extra = $252)",
+   "ref": "1235448",
+   "amount": 252.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "Delano St (T25-032 2)",
+   "issue": "Same pest control bill twice: 1236182 (9/29) and 1237301 (9/30), $18.75 + $3.75 markup",
+   "ref": "1237301",
+   "amount": 22.5
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "21100 N Alma Dr",
+   "issue": "Water is Resident pays; lease active since 8/1",
+   "ref": "Global water bill",
+   "amount": 104.7
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OI-001",
+   "prop": "960 N Jay St",
+   "issue": "Aug billed twice",
+   "ref": "00007604 8/26",
+   "amount": 86.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OI-002",
+   "prop": "960 N Jay St",
+   "issue": "May billed twice",
+   "ref": "00007604 5/26",
+   "amount": 93.12
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OI-004",
+   "prop": "1750 E 6th Ave",
+   "issue": "Invoice posted twice (one without unit)",
+   "ref": "714121",
+   "amount": 1102.2
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OI-010",
+   "prop": "2515 S Pantano Pkwy Unit 1",
+   "issue": "Renewal fee paid; renewal #399 still In Progress",
+   "ref": "",
+   "amount": 100
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "4401 E Contessa St",
+   "issue": "Same invoice posted twice (same ref/property/amount)",
+   "ref": "708563-3",
+   "amount": 549
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "8590 W Magnum Dr",
+   "issue": "Same invoice posted twice (same ref/property/amount)",
+   "ref": "708912-4",
+   "amount": 1145
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "725 W 1st Ave",
+   "issue": "Same invoice posted twice (same ref/property/amount)",
+   "ref": "709805",
+   "amount": 163
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "21100 N Alma Dr",
+   "issue": "Same invoice posted twice (same ref/property/amount)",
+   "ref": "710876",
+   "amount": 196.68
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "836 E Junction",
+   "issue": "Same invoice posted twice (same ref/property/amount)",
+   "ref": "710925-2",
+   "amount": 1213
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "6446 E Alder Ave",
+   "issue": "Same invoice posted twice (same ref/property/amount)",
+   "ref": "711216",
+   "amount": 210
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "24347 N Oasis Blvd",
+   "issue": "Same invoice posted twice (same ref/property/amount)",
+   "ref": "711225",
+   "amount": 1821.6
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "719 N Havasupai Ln",
+   "issue": "Same invoice posted twice (same ref/property/amount)",
+   "ref": "711240",
+   "amount": 163.2
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Fairfield",
+   "issue": "Same invoice posted twice (same ref/property/amount)",
+   "ref": "710736",
+   "amount": 22.5
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "6440 E Alder Ave",
+   "issue": "Same invoice posted twice (same ref/property/amount)",
+   "ref": "711464-1",
+   "amount": 1123.2
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "2515 S Pantano Pkwy",
+   "issue": "Same invoice posted twice (same ref/property/amount)",
+   "ref": "711821",
+   "amount": 342
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "737 W 1st Ave Mesa",
+   "issue": "Same invoice posted twice (same ref/property/amount)",
+   "ref": "711765",
+   "amount": 70
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "361 S 16th Pl",
+   "issue": "Same invoice posted twice (same ref/property/amount)",
+   "ref": "711723",
+   "amount": 1626.9
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "T25-064 3628 Jessica",
+   "issue": "Same invoice posted twice (same ref/property/amount)",
+   "ref": "707686",
+   "amount": 1325.5
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "2747 E Chipman Rd",
+   "issue": "Utility account billed twice for same service month",
+   "ref": "5867400943 3/26",
+   "amount": 283.79
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "770 N Dodge",
+   "issue": "Utility account billed twice for same service month",
+   "ref": "308450084958 4/26 (two ref spellings)",
+   "amount": 669.96
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1414 E 25th Ave",
+   "issue": "Utility account billed twice for same service month",
+   "ref": "Ref#547081399052",
+   "amount": 50.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "553 W Rio Salado",
+   "issue": "Utility account billed twice for same service month",
+   "ref": "898-789-007 3/26",
+   "amount": 27.84
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1050 W University",
+   "issue": "Utility account billed twice for same service month",
+   "ref": "031-339-000 3/26",
+   "amount": 26.77
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3313 W Harmont",
+   "issue": "Utility account billed twice for same service month",
+   "ref": "846-930-105 3/26",
+   "amount": 35.31
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1495 E 29th Ave",
+   "issue": "Utility account billed twice for same service month",
+   "ref": "108244-12863 3/26",
+   "amount": 60.08
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "10261 W Concordia Dr",
+   "issue": "Sewer is Resident pays; lease active since 5/15",
+   "ref": "Quarterly Sewer",
+   "amount": 298.0
+  },
+  {
+   "sev": "RED",
+   "paid": "n/a",
+   "item": "",
+   "prop": "905 S Ash Ave Apt 2",
+   "issue": "Two renewal records for same term (463 & 29); no 11/1/26 renewal; $200 fee for 'Rear 2' unpaid",
+   "ref": "",
+   "amount": 200
+  },
+  {
+   "sev": "RED",
+   "paid": "n/a",
+   "item": "OI-011",
+   "prop": "2030 W Carson Rd (Howard T Davis Jr.)",
+   "issue": "Fee setting 46 named $99 configured $150",
+   "ref": "",
+   "amount": ""
+  },
+  {
+   "sev": "RED",
+   "paid": "n/a",
+   "item": "OI-012",
+   "prop": "1143 & 1145 E 12th St (Rebecca Cohen)",
+   "issue": "Fee setting 49 named $499 lease, configured $450",
+   "ref": "",
+   "amount": ""
+  },
+  {
+   "sev": "RED",
+   "paid": "n/a",
+   "item": "OI-013",
+   "prop": "AppFolio P20-005 (Clayton Kocisko)",
+   "issue": "Unit 1 at 10%, Unit 2 at 7.5%",
+   "ref": "",
+   "amount": ""
+  },
+  {
+   "sev": "RED",
+   "paid": "n/a",
+   "item": "OI-014",
+   "prop": "AppFolio Martha Beher",
+   "issue": "P05-077 at 9% vs P21-023 at 8%",
+   "ref": "",
+   "amount": ""
+  },
+  {
+   "sev": "RED",
+   "paid": "n/a",
+   "item": "",
+   "prop": "AppFolio Tanzi Family Trust",
+   "issue": "P13-040 at 0% vs P13-040 A-D at 9%",
+   "ref": "",
+   "amount": ""
+  },
+  {
+   "sev": "RED",
+   "paid": "n/a",
+   "item": "",
+   "prop": "AppFolio Royal Family Trust",
+   "issue": "8% on most; P21-031 B 8.5%; P23-003 9%",
+   "ref": "",
+   "amount": ""
+  },
+  {
+   "sev": "RED",
+   "paid": "n/a",
+   "item": "",
+   "prop": "AppFolio Bluevolt Horizon Path LLC",
+   "issue": "P26-006 flat $125 vs P26-007 10%",
+   "ref": "",
+   "amount": ""
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "68 September properties",
+   "issue": "Markup is 20% not 10% (see sheet 'Markup pairs')",
+   "ref": "",
+   "amount": ""
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "OI-006",
+   "prop": "5034 E Holmes Ave (Molina)",
+   "issue": "Two Sept SRP bills; overlap can't be confirmed (26719 $91.45 no dates; 26995 $20.75 9/11-9/15)",
+   "ref": "176-370-106",
+   "amount": 112.2
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "item": "OI-009",
+   "prop": "9950 Lynx Apt C",
+   "issue": "$183.01 paid 9/2 and $41.52 (9/2-9/14) on tenant ledger; no property",
+   "ref": "0223612022",
+   "amount": 41.52
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "n/a",
+   "item": "OI-015",
+   "prop": "AppFolio",
+   "issue": "Blank $1 flat, TEST-ONLY 1%, TEST MFR/SFR, XX Corp 1%, TF records 0/$0, 9 blank-name records still active",
+   "ref": "",
+   "amount": ""
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "OI-016",
+   "prop": "8580 W Monaco Blvd",
+   "issue": "$11 markup on rekey #63809 = 10%; owner permission not visible",
+   "ref": "#63809",
+   "amount": 11.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1702 W Shangri La Rd",
+   "issue": "Electric on Resident-pays property; main unit lease ended 7/30",
+   "ref": "",
+   "amount": 111.6
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "9435 W Magnum Dr",
+   "issue": "Electric on Resident-pays property; no lease on file",
+   "ref": "",
+   "amount": 54.29
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "925 N College Ave C111",
+   "issue": "Electric, Resident pays; lease ended 6/30",
+   "ref": "",
+   "amount": 134.2
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "45047 W Bahia Dr",
+   "issue": "Deposit for Electricity, Resident pays",
+   "ref": "252912",
+   "amount": 285.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "n/a",
+   "item": "",
+   "prop": "Accounts that moved",
+   "issue": "0066608151, 0223612022, 0751292995, 1241441874, 1047735817; 0599849892 billed to 3 properties monthly Apr-Jul",
+   "ref": "",
+   "amount": ""
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "Same-day consecutive invoices",
+   "issue": "704 W 11th St $97 (unpaid, 714283/714284); 1702 E 6th Ave $97; 740 W Cinnabar $65; 302 W Flores $110",
+   "ref": "",
+   "amount": ""
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "Blank property-code lines",
+   "issue": "See sheet 'Blank property lines'",
+   "ref": "",
+   "amount": ""
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "939 W Calle Cajilla water",
+   "issue": "+30% vs trailing 3-mo avg",
+   "ref": "1008617.03",
+   "amount": 59.28
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "6434 E Alder Ave water",
+   "issue": "+25% vs trailing 3-mo avg",
+   "ref": "991150186750",
+   "amount": 383.67
+  },
+  {
+   "sev": "RED",
+   "paid": "n/a",
+   "item": "",
+   "prop": "Estate of Lagrant D Velde (owner)",
+   "issue": "Same owner on different fee settings: 740 W Cinnabar and 1702 W Shangri La at 8%, 4830 N 73rd St at $150 flat",
+   "ref": "",
+   "amount": ""
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P15-006",
+   "issue": "Rekey / deadbolt $100 uploaded invoice and work-order bill, same day",
+   "ref": "T0IVHAFB / 1236310",
+   "amount": 100.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P02-029 A",
+   "issue": "Replaced ceiling fan $250 uploaded invoice and work-order bill",
+   "ref": "T4E5WFAB / 1236278",
+   "amount": 250.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P26-001",
+   "issue": "Window screens $887.70 uploaded invoice and work-order bill",
+   "ref": "TV7NNIDB / 1236322",
+   "amount": 887.7
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P07-070 B",
+   "issue": "Roof repair $475 uploaded invoice and work-order bill",
+   "ref": "TQ5PIMFB / 1225013",
+   "amount": 475.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P21-013",
+   "issue": "Roof leak $875 uploaded invoice and work-order bill",
+   "ref": "TMNAAXX / 1236313",
+   "amount": 875.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P20-024",
+   "issue": "Intermittent hot water $2,432.09 uploaded invoice and work-order bill",
+   "ref": "T9X95GGB / 1236331",
+   "amount": 2432.09
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P21-023 B",
+   "issue": "Painting $2,552.62 uploaded invoice and work-order bill",
+   "ref": "TYCNH1 / 1236570",
+   "amount": 2552.62
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P04-105 B",
+   "issue": "Active flooding $2,155.79 uploaded invoice and work-order bill",
+   "ref": "TB2C3Z9 / 1236608",
+   "amount": 2155.79
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P17-002",
+   "issue": "Rekey $105 billed twice (uploaded invoice + work-order bill) and a third Repair Masters LLC copy TUMHAGEB-EX-1235080 $11",
+   "ref": "TUMHAGEB / 1235080",
+   "amount": 105.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P05-081",
+   "issue": "Plumbing labor $276.96 billed twice (uploaded invoice + work-order bill) and a third Repair Masters LLC copy TNQ2VUF-EX-",
+   "ref": "TNQ2VUF / 1235000",
+   "amount": 276.96
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "AppFolio P26-026",
+   "issue": "Repair Masters bill 708917 landscaping listed twice on the same bill",
+   "ref": "708917",
+   "amount": 462.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "AppFolio P99-039 1",
+   "issue": "Repair Masters bill 714459 landscaping listed twice on the same bill",
+   "ref": "714459",
+   "amount": 143.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P13-031 A",
+   "issue": "JSS Remodeling bill 1220713 painting $1,485.00 appears twice in a 7-day listing and once in the daily listing",
+   "ref": "1220713",
+   "amount": 1485.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P22-023",
+   "issue": "APS account 5079731674 has three bills in September: 9/16 $124.26, previous balance $48.61, and 9/26 $7.47",
+   "ref": "5079731674",
+   "amount": 180.34
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P22-023",
+   "issue": "Electric bill while the unit is occupied. Tenants Richard Shope and Sue Savitt since 7/15",
+   "ref": "5079731674 9/16, previous Bal, 5079731674 9/26",
+   "amount": 180.34
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P05-081",
+   "issue": "Electric bill while the unit is occupied. Three tenants since 9/14",
+   "ref": "8358514099 9/26",
+   "amount": 34.33
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P13-031 A",
+   "issue": "Electric bill while the unit is occupied. Tenant Todd Young since 9/18",
+   "ref": "1409897883 9/26",
+   "amount": 22.89
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P23-025",
+   "issue": "Electric bill while the unit is occupied. Tenant Sophia Valverde since 9/14",
+   "ref": "2392442865 9/26",
+   "amount": 22.84
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P25-013",
+   "issue": "Electric bill while the unit is occupied. Occupied by 3 business tenants (units 100, 106, 112)",
+   "ref": "2760894566 9/26",
+   "amount": 535.22
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "n/a",
+   "item": "",
+   "prop": "AppFolio (all Repair Masters LLC '-EX-' bills)",
+   "issue": "Repair Masters LLC bills with '-EX-' in the reference equal the vendor bill plus markup; they sit beside the vendor bill",
+   "ref": "TUMHAGEB-EX-1235080, TNQ2VUF-EX-1235000, TREUCL8-EX-1220704",
+   "amount": 552.07
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "302 W Flores St",
+   "issue": "Bill after the management contract ended 9/15/2026",
+   "ref": "",
+   "amount": 164.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "1976 N Lemon Tree Ln Unit 50, 465 W Ivyglen St Building 6",
+   "issue": "Bills dated before the management contract starts 10/1/2026 (water, sewer, electric, repairs)",
+   "ref": "",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "23 bills (see First-time vendors tab)",
+   "issue": "Vendor billing a property for the first time this year, over $500",
+   "ref": "",
+   "amount": 24227.129999999997
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "Delano St (City of Tucson 1393947555578)",
+   "issue": "Water +46% and sewer +44% over the trailing 3-month average, and three increases in a row",
+   "ref": "1393947555578",
+   "amount": 417.1
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "1702 W Shangri La Rd, 1414 E 25th Ave",
+   "issue": "Sewer / water up three months in a row (small increase)",
+   "ref": "",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "n/a",
+   "item": "",
+   "prop": "69 properties (see Fee-rate check tab)",
+   "issue": "September management fee differs from the fee setting by more than 0.5 points or $1 (estimate uses scheduled rent)",
+   "ref": "",
+   "amount": null
+  },
+  {
+   "sev": "RED",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "139 properties (see Utilities vs occupancy tab)",
+   "issue": "850 utility bills with a resident living there: 659 where the property says the resident pays that utility, and 191 elec",
+   "ref": "",
+   "amount": null
+  },
+  {
+   "sev": "RED",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "128 references used on more than one bill (see Matching references tab)",
+   "issue": "The same reference number appears on two or more different bills (same month: 49, different months: 56, utility accounts",
+   "ref": "",
+   "amount": null
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW-1",
+   "prop": "3058 East Michelle Way",
+   "issue": "Two Repair Masters \"lock up\" bills, same unit, same amount $96.90, same day (refs 1238676, 1238672)",
+   "ref": "1238676 / 1238672",
+   "amount": 96.9
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW-2",
+   "prop": "AppFolio P22-023",
+   "issue": "Electric bill while unit occupied (tenants since 7/15); $7.47 equals the 9/26 APS bill amount, blank reference - possible repeat",
+   "ref": "(blank)",
+   "amount": 7.47
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW-3",
+   "prop": "AppFolio P13-031 A",
+   "issue": "Electric bill while unit occupied (tenant since 9/18); $22.89 equals the 9/29 APS bill, blank reference - possible repeat",
+   "ref": "(blank)",
+   "amount": 22.89
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "NEW-4",
+   "prop": "AppFolio P21-023 B",
+   "issue": "Zephyr Clean \"Uploaded Invoice\" TUHK29K $300 - confirm no matching work-order bill appears later",
+   "ref": "TUHK29K",
+   "amount": 300.0
+  }
+ ],
+ "open_items": [
+  "OI-001",
+  "OI-002",
+  "OI-003",
+  "OI-004",
+  "OI-005",
+  "OI-006",
+  "OI-007",
+  "OI-008",
+  "OI-009",
+  "OI-010",
+  "OI-011",
+  "OI-012",
+  "OI-013",
+  "OI-014",
+  "OI-015",
+  "OI-016"
+ ]
+}
