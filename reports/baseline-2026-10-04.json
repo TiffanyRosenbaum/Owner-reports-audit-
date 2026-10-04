@@ -1,0 +1,264 @@
+{
+ "date": "2026-10-04",
+ "findings": [
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "3058 East Michelle Way",
+   "issue": "Same Repair Masters 'Lock up' billed twice, same day, same amount (bills 1238676 and 1238672)",
+   "ref": "1238676 / 1238672",
+   "amount": 96.9,
+   "system": "Rentvine"
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "860 E Brown Rd Unit 22",
+   "issue": "Electric bill while unit occupied; electric is Resident pays. Jenifer Henson moved in 9/28/2026; bill has no service dates",
+   "ref": "559-700-102 10/26",
+   "amount": 62.57,
+   "system": "Rentvine"
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1255 N Arizona Ave Unit 1273",
+   "issue": "Electric bill while unit occupied; electric is Resident pays. Jacob Smith / Jonathan Romero Calvillo, lease active since 3/1/2026",
+   "ref": "1052127301 10/2026",
+   "amount": 289.78,
+   "system": "Rentvine"
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "208 S Doran Unit 214",
+   "issue": "Electric bill while unit occupied (who-pays electric is BLANK). Sean ODonnell, lease active since 10/17/2025",
+   "ref": "904-089-008 10/26",
+   "amount": 186.32,
+   "system": "Rentvine"
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "28934 N 124Th Ave",
+   "issue": "Sewer bill while occupied; sewer is Resident pays. Eric & Viviana Artiga in the home since 7/24/2026. Bill covers 8/20-9/15",
+   "ref": "83871-09 10/26",
+   "amount": 135.39,
+   "system": "Rentvine"
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "28934 N 124Th Ave",
+   "issue": "Sewer bills paid while occupied; sewer is Resident pays (Aug $108.07 on 8/6, Sep $1,217.24 on 9/3). Sept amount is also ~11x August",
+   "ref": "83871-09 8/26 and 9/26",
+   "amount": 1325.31,
+   "system": "Rentvine"
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P19-013 7",
+   "issue": "Electric bill while unit occupied. Ruth & Andrew Dullinger since 6/15/2026",
+   "ref": "(none)",
+   "amount": 13.3,
+   "system": "AppFolio"
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P11-032",
+   "issue": "Electric bill while unit occupied. Cole Haga, Heather Hansen since 6/15/2026",
+   "ref": "(none)",
+   "amount": 20.87,
+   "system": "AppFolio"
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P22-023",
+   "issue": "Electric bill while unit occupied. Richard Shope, Sue Savitt since 7/15/2026",
+   "ref": "(none)",
+   "amount": 7.47,
+   "system": "AppFolio"
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P13-031 A",
+   "issue": "Electric bill while unit occupied. Todd Young since 9/18/2026",
+   "ref": "(none)",
+   "amount": 22.89,
+   "system": "AppFolio"
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P20-005 1",
+   "issue": "Electric bill while unit occupied. Martin / Rogos tenants, lease to 4/30/2027",
+   "ref": "2168791381 10/26",
+   "amount": 47.95,
+   "system": "AppFolio"
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P21-023 A",
+   "issue": "Electric bill while unit occupied. Brittany Alvarez since 1/31/2025",
+   "ref": "7367088632 10/26",
+   "amount": 25.6,
+   "system": "AppFolio"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "T25-076 - 7533 W Mission View Place",
+   "issue": "Two bills for 'All Drains Clogged/Backed Up' on 10/2: $3,400.00 marked '(clone)' (1239732) and $425.00 (1239754). The $3,400 looks like a cl",
+   "ref": "1239732 / 1239754",
+   "amount": 3400.0,
+   "system": "Rentvine"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1353 W Pima Ave",
+   "issue": "Electric $67.78 (8/9-9/8) on a Resident-pays home with no lease on file; contract began 7/8/2026",
+   "ref": "86255 10/26",
+   "amount": 67.78,
+   "system": "Rentvine"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "860 E Brown Rd Unit 22",
+   "issue": "First-time vendor over $500: full interior paint/drywall $1,810.38, billed 10/2, 4 days after new resident moved in 9/28",
+   "ref": "1239895",
+   "amount": 1810.38,
+   "system": "Rentvine"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "(no property) Laveen Crossing HOA",
+   "issue": "HOA bill has no property and the payee field contains 'HOA name: ... phone: ...' text; Aug-Oct assessment $772",
+   "ref": "29528070 10/26",
+   "amount": 772.0,
+   "system": "Rentvine"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "931 W Martin Rd",
+   "issue": "First-time vendor over $500: hazard deep clean and wall cleaning",
+   "ref": "1239906",
+   "amount": 870.0,
+   "system": "Rentvine"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "(no property) Repair Masters bill 1238680",
+   "issue": "Description (turned AC up to 85, installed drawer) does not match GL account 55000 Landscaping, and no property",
+   "ref": "1238680",
+   "amount": 173.45,
+   "system": "Rentvine"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Tropical Air 1115 S Tiago / Leo Landscaping 1718 E 6th Ave / Gila Monster Roofing 1495 E 29th Ave",
+   "issue": "First-time vendor on property over $500, all paid: Tropical Air $589.00, Leo Landscaping $580.00 (fallen tree), Gila Monster Roofing $755.00",
+   "ref": "1238889 / 1238897 / 1238928",
+   "amount": 1924.0,
+   "system": "Rentvine"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "13295 S Durango Rd",
+   "issue": "Two Pinal County parcels, 407-04-033B6 and 407-04-033C4, both $513.64 first and second half; 033C4 description says '2025 Property Tax' on a",
+   "ref": "407-04-033C4 2026",
+   "amount": 1027.28,
+   "system": "Rentvine"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P12-019",
+   "issue": "Uploaded Invoice TP9H13B is $1,500 and its description reads like an ESTIMATE ('Estimate includes hand digging...see PropertyMeld')",
+   "ref": "TP9H13B",
+   "amount": 1500.0,
+   "system": "AppFolio"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio (no property)",
+   "issue": "Monthly internet bill with no property",
+   "ref": "(none)",
+   "amount": 286.98,
+   "system": "AppFolio"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "AppFolio P19-041 and P08-006",
+   "issue": "APS electric on properties that Realm-X shows with no current tenant ($64.67 and $15.33). Not RED because vacant; who-pays not confirmed",
+   "ref": "(none)",
+   "amount": 80.0,
+   "system": "AppFolio"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "28934 N 124Th Ave (see RED)",
+   "issue": "Sewer September bill $1,217.24 is about 11x the 8/26 bill ($108.07) and the 10/26 bill ($135.39): possible leak or billing error",
+   "ref": "83871-09 9/26",
+   "amount": 1217.24,
+   "system": "Rentvine"
+  }
+ ],
+ "open_items": [
+  "OI-001",
+  "OI-002",
+  "OI-003",
+  "OI-004",
+  "OI-005",
+  "OI-006",
+  "OI-007",
+  "OI-008",
+  "OI-009",
+  "OI-010",
+  "OI-011",
+  "OI-012",
+  "OI-013",
+  "OI-014",
+  "OI-015",
+  "OI-016"
+ ],
+ "carried_from": "2026-10-01"
+}
