@@ -1,0 +1,239 @@
+{
+ "date": "2026-10-05",
+ "findings": [
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "3058 East Michelle Way",
+   "issue": "Repair Masters lockup bills 1238676 ($96.90, 'Lock up') and 1238672 ($96.90, 'Lockup - nobody home'), both 10/02, same vendor/unit/amount",
+   "ref": "",
+   "amount": 96.9
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1255 N Arizona Ave Unit 1273",
+   "issue": "Electric bill Capital Property Ventures/Tre Vicino acct 1052127301 10/2026 $289.78 (10/1); unit leased to Jacob Smith/Jonathan Romero Calvillo since 3/1/2026",
+   "ref": "",
+   "amount": 289.78
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "208 S Doran Unit 214",
+   "issue": "SRP 904-089-008 10/26 $186.32 (10/1); unit leased to Sean ODonnell 10/17/2025-10/31/2026",
+   "ref": "",
+   "amount": 186.32
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "860 E Brown Rd Unit 22",
+   "issue": "SRP 559-700-102 10/26 $62.57 (10/1); lease #1636 Jenifer Henson started 9/28/2026 (moved in within 30 days)",
+   "ref": "",
+   "amount": 62.57
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1353 W Pima Ave",
+   "issue": "Hohokam Irrigation & Drainage District 86255 10/26 $67.78 coded to 59501 Electric; irrigation is not electric. No lease found by address search",
+   "ref": "",
+   "amount": 67.78
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "(no property)",
+   "issue": "Laveen Crossing HOA 29528070 10/26 $772.00, no property code, new vendor over $500",
+   "ref": "",
+   "amount": 772.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "(no property)",
+   "issue": "Repair Masters 1238680 $173.45 landscaping, no property; description mentions AC/drawer (wrong GL too?)",
+   "ref": "",
+   "amount": 173.45
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "(no property)",
+   "issue": "4 Rosenbaum management fee lines with no property: $80 x3 paid, $85 unpaid",
+   "ref": "",
+   "amount": 325.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1718 E 6th Ave",
+   "issue": "Leo Landscaping 1238897 'Fallen Tree' $580.00, first-time vendor this year over $500",
+   "ref": "",
+   "amount": 580.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "2515 S Pantano Pkwy Unit 3",
+   "issue": "Renewal fee $100 billed 10/1. Unit 1 renewal #399 is still In Progress (OI-010); confirm Unit 3 renewal is Complete",
+   "ref": "",
+   "amount": 100.0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-001",
+   "prop": "",
+   "issue": "Open",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-002",
+   "prop": "",
+   "issue": "Open",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-003",
+   "prop": "",
+   "issue": "Open (YELLOW)",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-004",
+   "prop": "",
+   "issue": "Open",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-005",
+   "prop": "",
+   "issue": "Open",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-006",
+   "prop": "",
+   "issue": "Open",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-007",
+   "prop": "",
+   "issue": "Open (TEST bills from Feb/Jul/Sep still present)",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-008",
+   "prop": "",
+   "issue": "Open",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-009",
+   "prop": "",
+   "issue": "Open",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-010",
+   "prop": "",
+   "issue": "Open (plus Unit 3 renewal fee 10/1)",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-011",
+   "prop": "",
+   "issue": "Open (fee setting 46 still $99-named, $150 configured)",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-012",
+   "prop": "",
+   "issue": "Open (setting 49 still named $499, configured $450)",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-013",
+   "prop": "",
+   "issue": "Open? Unit 2 at 7.5% still on AppFolio list; Unit 1 rate not re-checked",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-014",
+   "prop": "",
+   "issue": "Open (P05-077 still 9%)",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-015",
+   "prop": "",
+   "issue": "Open (blank $1 flat and TEST-ONLY 1% still active in AppFolio)",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "paid": "",
+   "item": "OI-016",
+   "prop": "",
+   "issue": "Open (#63809 $11 still unpaid)",
+   "ref": "",
+   "amount": 0
+  }
+ ]
+}
