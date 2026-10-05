@@ -1,0 +1,27 @@
+sev,paid,item,prop,issue,amount
+RED,Unpaid,,3058 East Michelle Way,"Repair Masters lockup bills 1238676 ($96.90, 'Lock up') and 1238672 ($96.90, 'Lockup - nobody home'), both 10/02, same vendor/unit/amount",96.9
+RED,Unpaid,,1255 N Arizona Ave Unit 1273,Electric bill Capital Property Ventures/Tre Vicino acct 1052127301 10/2026 $289.78 (10/1); unit leased to Jacob Smith/Jonathan Romero Calvillo since 3/1/2026,289.78
+RED,Unpaid,,208 S Doran Unit 214,SRP 904-089-008 10/26 $186.32 (10/1); unit leased to Sean ODonnell 10/17/2025-10/31/2026,186.32
+RED,Unpaid,,860 E Brown Rd Unit 22,SRP 559-700-102 10/26 $62.57 (10/1); lease #1636 Jenifer Henson started 9/28/2026 (moved in within 30 days),62.57
+YELLOW,Unpaid,,1353 W Pima Ave,Hohokam Irrigation & Drainage District 86255 10/26 $67.78 coded to 59501 Electric; irrigation is not electric. No lease found by address search,67.78
+YELLOW,Unpaid,,(no property),"Laveen Crossing HOA 29528070 10/26 $772.00, no property code, new vendor over $500",772.0
+YELLOW,Paid,,(no property),"Repair Masters 1238680 $173.45 landscaping, no property; description mentions AC/drawer (wrong GL too?)",173.45
+YELLOW,Mixed,,(no property),"4 Rosenbaum management fee lines with no property: $80 x3 paid, $85 unpaid",325.0
+YELLOW,Paid,,1718 E 6th Ave,"Leo Landscaping 1238897 'Fallen Tree' $580.00, first-time vendor this year over $500",580.0
+YELLOW,Unpaid,,2515 S Pantano Pkwy Unit 3,Renewal fee $100 billed 10/1. Unit 1 renewal #399 is still In Progress (OI-010); confirm Unit 3 renewal is Complete,100.0
+OPEN,,OI-001,,Open,0
+OPEN,,OI-002,,Open,0
+OPEN,,OI-003,,Open (YELLOW),0
+OPEN,,OI-004,,Open,0
+OPEN,,OI-005,,Open,0
+OPEN,,OI-006,,Open,0
+OPEN,,OI-007,,Open (TEST bills from Feb/Jul/Sep still present),0
+OPEN,,OI-008,,Open,0
+OPEN,,OI-009,,Open,0
+OPEN,,OI-010,,Open (plus Unit 3 renewal fee 10/1),0
+OPEN,,OI-011,,"Open (fee setting 46 still $99-named, $150 configured)",0
+OPEN,,OI-012,,"Open (setting 49 still named $499, configured $450)",0
+OPEN,,OI-013,,Open? Unit 2 at 7.5% still on AppFolio list; Unit 1 rate not re-checked,0
+OPEN,,OI-014,,Open (P05-077 still 9%),0
+OPEN,,OI-015,,Open (blank $1 flat and TEST-ONLY 1% still active in AppFolio),0
+OPEN,,OI-016,,Open (#63809 $11 still unpaid),0
