@@ -1,0 +1,242 @@
+{
+ "date": "2026-10-07",
+ "findings": [
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "system": "Rentvine",
+   "prop": "902 E 4th Place",
+   "issue": "Same bill entered twice: two identical $70.00 vendor lines and two $14.00 markup lines on one reference and date.",
+   "ref": "Leo Landscaping, 55000 Landscaping, ref 1241430, 10/05",
+   "amount": 84.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "system": "Rentvine",
+   "prop": "1324 N Farrell Court",
+   "issue": "Same vendor, same property, same $175.00, 4 days apart (office cleaning).",
+   "ref": "Kenia, 51500 Cleaning, refs 1226031 (10/02, with $17.50 markup) and 1242697 (10/06)",
+   "amount": 175.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "system": "Rentvine",
+   "prop": "3058 East Michelle Way",
+   "issue": "Two bills for the same $96.90 lock-up on the same day.",
+   "ref": "Repair Masters, 56027 Make Rent Ready, refs 1238676 and 1238672, 10/02",
+   "amount": 96.9
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "system": "Rentvine",
+   "prop": "1255 N Arizona Ave Unit 1273",
+   "issue": "Electric bill while the unit is occupied (lease 885, Jacob Smith and Jonathan Romero Calvillo, 3/1/26 to 2/28/27).",
+   "ref": "Capital Property Ventures / Tre Vicino Condominiums, 59501, ref 1052127301 10/2026, 10/01",
+   "amount": 289.78
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "system": "Rentvine",
+   "prop": "208 S Doran Unit 214",
+   "issue": "Electric bill while the unit is occupied (lease 1175, Sean ODonnell, 10/17/25 to 10/31/26).",
+   "ref": "SRP, 59501, acct 904-089-008 10/26, 10/01",
+   "amount": 186.32
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "system": "AppFolio",
+   "prop": "P13-031 A",
+   "issue": "Electric bill while occupied (Todd M. Young since 9/18). Same $22.89 as the 9/26 bill ref 1409897883, and this one has no reference.",
+   "ref": "APS, Power, no ref, created 10/02",
+   "amount": 22.89
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "system": "AppFolio",
+   "prop": "P20-005 1",
+   "issue": "Electric bill while occupied (Tristan Martin, Nikolaus Martin, Kyan Rogos; lease to 4/30/27).",
+   "ref": "APS, Power, ref 2168791381 10/26, created 10/01",
+   "amount": 47.95
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "system": "AppFolio",
+   "prop": "P21-023 A",
+   "issue": "Electric bill while occupied (Brittany Alvarez, Teddy Hall; lease to 7/31/27).",
+   "ref": "APS, Power, ref 7367088632 10/26, created 10/01",
+   "amount": 25.6
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "system": "AppFolio",
+   "prop": "P11-032",
+   "issue": "Electric bill while occupied (Cole Haga, Heather Hansen since 6/15/26).",
+   "ref": "APS, Power, no ref, created 10/01",
+   "amount": 20.87
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "system": "AppFolio",
+   "prop": "P19-013 7",
+   "issue": "Electric bill while occupied (Ruth and Andrew Dullinger, Jacob Martin since 6/15/26).",
+   "ref": "APS, Power, no ref, created 10/01",
+   "amount": 13.3
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "system": "AppFolio",
+   "prop": "P22-023",
+   "issue": "Electric bill while occupied (Sue Savitt, Richard Shope since 7/15/26).",
+   "ref": "APS, 6520 Power, no ref, created 10/02",
+   "amount": 7.47
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "system": "Rentvine",
+   "prop": "860 E Brown Rd Unit 22",
+   "issue": "Electric bill while occupied (lease 1636, Jenifer Henson, moved in 9/28/26).",
+   "ref": "SRP, 59501, acct 559-700-102 10/26, 10/01",
+   "amount": 62.57
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "system": "Rentvine",
+   "prop": "1750 E 6th Ave",
+   "issue": "Electric bill arrived 10/06, a day after the new lease began (lease 1667, Jennifer Hammoudi, from 10/05/26). No unit on the bill.",
+   "ref": "SRP, 59501, acct 813-869-000, 10/06",
+   "amount": 38.49
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "system": "Rentvine",
+   "prop": "1353 W Pima Ave",
+   "issue": "Bill coded Electric (59501) from an irrigation district; no lease found in Rentvine for this address.",
+   "ref": "Hohokam Irrigation & Drainage District, ref 86255 10/26, service 8/9 to 9/8, 10/01",
+   "amount": 67.78
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "system": "AppFolio",
+   "prop": "P19-041 and P08-006",
+   "issue": "APS electric bills on properties with no current tenant (P08-006 has a future occupancy).",
+   "ref": "APS, P19-041 $64.67 and P08-006 $15.33, created 10/01",
+   "amount": 80.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "system": "AppFolio",
+   "prop": "P21-023 B and P12-019",
+   "issue": "Uploaded Invoices with no work-order twin yet. If a work-order bill for the same amount appears, it is a duplicate.",
+   "ref": "Zephyr Clean TUHK29K $300.00 and Jay's Plumbing TP9H13B $1,500.00, created 10/02",
+   "amount": 1800.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "system": "Rentvine",
+   "prop": "71 Rentvine bills (October)",
+   "issue": "Markup is 20% of the vendor bill, not 10%. 17 other October markups are 10%. Same pattern as the 68 September bills flagged 10/01.",
+   "ref": "Rosenbaum Realty Group, 6600 Vendor Markup Expense, 10/01 to 10/06",
+   "amount": 1122.41
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "system": "Rentvine",
+   "prop": "18 vendor/property pairs (October)",
+   "issue": "Vendor billing a property for the first time this year, over $500. 8 are Pinal County Treasurer (first-half property tax); 10 are contractors.",
+   "ref": "Contractors: Tucson Plumbing Solutions $3,825 (T25-076), Tropical Air $2,489 (3 properties), JSS Remodeling $3,526 (2), Leo Landscaping $920, Pacience Venne $870, Gila Monster Roofing $755, Five Star Remodeling $561",
+   "amount": 24227.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "system": "Rentvine",
+   "prop": "2 bills with no property code",
+   "issue": "Bills with a blank property. Laveen Crossing HOA $772 (Aug-Oct assessment, unpaid) and Repair Masters 1238680 $173.45 (paid). The Gila Valley land lease is a known exception.",
+   "ref": "Laveen Crossing HOA ref 29528070 10/26; Repair Masters ref 1238680",
+   "amount": 945.45
+  }
+ ],
+ "open_items": [
+  {
+   "id": "OI-001",
+   "status": "Open"
+  },
+  {
+   "id": "OI-002",
+   "status": "Open"
+  },
+  {
+   "id": "OI-003",
+   "status": "Open"
+  },
+  {
+   "id": "OI-004",
+   "status": "Open"
+  },
+  {
+   "id": "OI-005",
+   "status": "Open"
+  },
+  {
+   "id": "OI-006",
+   "status": "Open"
+  },
+  {
+   "id": "OI-007",
+   "status": "Open"
+  },
+  {
+   "id": "OI-008",
+   "status": "Open"
+  },
+  {
+   "id": "OI-009",
+   "status": "Open"
+  },
+  {
+   "id": "OI-010",
+   "status": "Open"
+  },
+  {
+   "id": "OI-011",
+   "status": "Open"
+  },
+  {
+   "id": "OI-012",
+   "status": "Open"
+  },
+  {
+   "id": "OI-013",
+   "status": "Open"
+  },
+  {
+   "id": "OI-014",
+   "status": "Open"
+  },
+  {
+   "id": "OI-015",
+   "status": "Open (partly checked)"
+  },
+  {
+   "id": "OI-016",
+   "status": "Open"
+  }
+ ]
+}
