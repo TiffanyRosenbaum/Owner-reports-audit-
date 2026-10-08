@@ -1,0 +1,46 @@
+<!doctype html><meta charset=utf-8><title>Audit 2026-10-08</title><body style="font-family:sans-serif;max-width:800px;margin:auto;padding:16px"><pre style="white-space:pre-wrap"># Owner Statement Audit — Oct 08, 2026 — 🔴 2 new red / 🟡 2 new yellow (PARTIAL RUN)
+
+Read-only audit. Nothing was created, edited, approved, paid, voided or deleted in Rentvine or AppFolio.
+
+## ⚠️ 1. DATA STATUS — THIS RUN IS INCOMPLETE
+- **Rentvine bills: September and October 1–8 only.** Sep 3,856 rows / $525,979.25 and Oct 1–8 2,905 rows / $225,436.63 match the report headers exactly. **Jan–Aug were not re-pulled** this run (audited 10-01; unchanged findings carried forward in `baseline-2026-10-08.json`).
+- **Not run this run:** Check 1 renewal re-verification (needs per-lease pulls), Check 3 account-to-property map, Check 5 occupancy join and water/sewer spike test (no lease report pull), Check 2 Rentvine fee-setting re-check. OI-010, 011, 012, 016 could not be re-verified; they are treated as **still open**.
+- **AppFolio fee check (Phase 1) ran but returned only 311 active property records** (the 10-01 run returned 681). Treat AppFolio fee coverage as incomplete. AppFolio bills were **not** re-audited this run (Oct 1–8 and Jan–Aug remain unaudited).
+- **AppFolio Phase 2: not possible.** Gmail on this account has no read scope (search failed: insufficient scope). Email was not sent for the same reason; the files in `reports/` are the deliverables. The dashboard was saved as a file only, not published as an Artifact.
+
+## 2. NEW SINCE 10-01 (Rentvine, Sep–Oct 8)
+### 🔴 RED — unpaid
+| Property | Issue | Vendor | Ref | Amount | Date | Action |
+|---|---|---|---|---|---|---|
+| 3058 East Michelle Way | Two "Lock up" make-rent-ready bills, same day, same amount | Repair Masters | 1238676 / 1238672 | $96.90 each ($193.80) | 10/2 | Hold; void one if one visit |
+| 1324 N Farrell Court | Same vendor/property/amount within 30 days (office cleaning, 4 days apart) | Kenia | 1226031 / 1242697 | $175.00 each | 10/2, 10/6 | Confirm two visits, else void one |
+
+### 🟡 YELLOW
+- Leo Landscaping billed Palmer, 918 1st ave and 452 E 9th Ave twice within 2 days (10/5, 10/7); likely recurring, confirm (refs 1241237/1243759, 1241244/1243760, 1241339/1243762).
+- Six October electric bills were not checked against occupancy (see data status). Unpaid: 1255 N Arizona Ave $289.78, 208 S Doran $186.32, 1353 W Pima Ave $67.78. Per rules any electric bill while the unit is occupied is RED, so check before paying.
+- No new matching-reference groups on Sep–Oct non-Markup bills; no new TEST-property bills in October. Oct 1 property-tax half pairs, land lease and Markup pairs matched KNOWN_EXCEPTIONS and were skipped.
+
+## 3. 🔁 OPEN ITEMS (days open counted from 2026-10-01 first-seen date: 7 days)
+| ID | Status 2026-10-08 |
+|---|---|
+| OI-001, 002 | Still open (older bills, not re-pulled; paid) |
+| OI-003 | Still open, YELLOW. Bill 27827 $88.84 still unpaid, ref 20230825-00007604 9/26 |
+| OI-004 | Still open. Ref 714121 $1,102.20 still on 1750 E 6th Ave twice (both paid) |
+| OI-005 | Still open. Acct 0727621137 $9.49 still unpaid on 10919 W Carmelita Cir (and on 9230 N 6th St) |
+| OI-006 | Still open (YELLOW), both bills now show paid. Overlap still unconfirmed |
+| OI-007 | Still open. 961-089-003 $216.10 still unpaid on TEST Property |
+| OI-008 | Still open. SRP 569-479-000 bills still unpaid with no property on 8/26 and 9/26 tags |
+| OI-009 | Still open. APS 0223612022 still on tenant ledger, both paid |
+| OI-010, 011, 012, 016 | Not re-verified this run; treat as open |
+| OI-013 | Still open. P20-005 Unit 1 10% vs Unit 2 7.5% |
+| OI-014 | Still open. Martha Beher P05-077 at 9% vs P21-023 at 8% |
+| OI-015 | Still open. Blank $1 flat record and TEST-ONLY 1% still active |
+
+**Resolved since last report: none confirmed.**
+
+## 4. 📋 WATCH LIST
+AppFolio non-8/10% records are unchanged in pattern for the properties seen (7%, 7.5%, 9%, flat $85/$99/$125/$240, 6% P26-008). The result set is smaller than 10-01 (311 vs 681), so adds/removals cannot be judged.
+
+## 5. Counts
+Known exceptions skipped: Oct 1 property-tax first/second-half pairs (about 15 groups), Gila Valley land lease, Markup/vendor pairs. Caught-and-voided: not re-counted this run. Counts above are grouped items, not lines.
+</pre>
