@@ -1,0 +1,581 @@
+{
+ "date": "2026-10-10",
+ "findings": [
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "34W 7th St",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241533 (10-05, paid) and 1244629 (10-08)",
+   "ref": "1244629",
+   "amount": 50.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "446 E 9th Ave",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241298 (10-05, paid) and 1244504 (10-08)",
+   "ref": "1244504",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "452 E 9th Ave",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241339 (10-05, paid) and 1243762 (10-07)",
+   "ref": "1243762",
+   "amount": 50.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "4541 E Caballero Cir",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241437 (10-05, paid) and 1244708 (10-08)",
+   "ref": "1244708",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "4553 Caballero Cir",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241396 (10-05, paid) and 1244717 (10-08)",
+   "ref": "1244717",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "4650 Caballero St",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241303 (10-05, paid) and 1245510 (10-09)",
+   "ref": "1245510",
+   "amount": 50.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "4704 E Caballero St",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241349 (10-05, paid) and 1245507 (10-09)",
+   "ref": "1245507",
+   "amount": 20.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "4722 E Caballero St",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241370 (10-05, paid) and 1245493 (10-09)",
+   "ref": "1245493",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "544 W 9th st",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241415 (10-05, paid) and 1244606 (10-08)",
+   "ref": "1244606",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "550 W 9th St",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241331 (10-05, paid) and 1244482 (10-08)",
+   "ref": "1244482",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "6440 Alder",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241211 (10-05, paid) and 1245615 (10-09)",
+   "ref": "1245615",
+   "amount": 140.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "6446 E Alder",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241536 (10-05, paid) and 1245613 (10-09)",
+   "ref": "1245613",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "733 Morris Cir",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241398 (10-05, paid) and 1244512 (10-08)",
+   "ref": "1244512",
+   "amount": 50.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "737 W 1st ave Mesa",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241422 (10-05, paid) and 1244593 (10-08)",
+   "ref": "1244593",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "902 E 4th Place",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241430 (10-05, paid) and 1244634 (10-08)",
+   "ref": "1244634",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "918 1st ave",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241244 (10-05, paid) and 1243760 (10-07)",
+   "ref": "1243760",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "Camino",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241357 (10-05, paid) and 1244728 (10-08)",
+   "ref": "1244728",
+   "amount": 50.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "Date",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241197 (10-05, paid) and 1244627 (10-08)",
+   "ref": "1244627",
+   "amount": 360.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "Fountain St",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241412 (10-05, paid) and 1244640 (10-08)",
+   "ref": "1244640",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Palmer",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241237 (10-05, paid) and 1243759 (10-07)",
+   "ref": "1243759",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "Pepper Cir",
+   "issue": "Leo Landscaping 'Monthly Landscaping Service' billed twice in October: 1241326 (10-05, paid) and 1244707 (10-08)",
+   "ref": "1244707",
+   "amount": 50.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "902 E 4th Place",
+   "issue": "Same Leo bill ref 1241430 posted twice (same date, amount) AND a third Leo bill 1244634 same amount 3 days later",
+   "ref": "1241430",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "8590 W Magnum Dr (Unit B + whole property)",
+   "issue": "Trash bill ref 274713 10/26 posted as two lines, one per unit label, same date and amount. This also happened 6/23, 8/1 and 8/25 and both lines were paid each time",
+   "ref": "274713 10/26",
+   "amount": 27.5
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "3058 East Michelle Way",
+   "issue": "Two Repair Masters bills, same vendor/property/amount, same day",
+   "ref": "1238676 and 1238672",
+   "amount": 96.9
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "826 E 4th Place",
+   "issue": "Dante Dimas $60 bills 6 days apart (1239750 paid 10/2, 1244723 unpaid 10/8)",
+   "ref": "1244723",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1324 N Farrell Court",
+   "issue": "Kenia $175 bills 4 days apart (1226031 10/2, 1242697 10/6), both paid",
+   "ref": "1242697",
+   "amount": 175.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1255 N Arizona Ave",
+   "issue": "Electric bill while occupied (2 leases active; Resident pays)",
+   "ref": "1052127301 10/2026",
+   "amount": 289.78
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "208 S Doran Unit 2",
+   "issue": "Electric bill while occupied (4-unit property; unit has active lease; who-pays blank)",
+   "ref": "904-089-008 10/26",
+   "amount": 186.32
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "860 E Brown Rd Units 21-24",
+   "issue": "Electric bill while occupied (Resident pays); unit not on bill",
+   "ref": "559-700-102 10/26",
+   "amount": 62.57
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "737 W 1st Ave Mesa",
+   "issue": "Electric bill while occupied (Resident pays)",
+   "ref": "991150-127645 10/26",
+   "amount": 144.47
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "28934 N 124Th Ave",
+   "issue": "Sewer is Resident pays; resident moved in 7/24",
+   "ref": "83871-09 10/26",
+   "amount": 135.39
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "756 E. Granada Avenue",
+   "issue": "Water is Resident pays; leased since 3/2023",
+   "ref": "000062403",
+   "amount": 120.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "8764 W Reventon Dr",
+   "issue": "Sewer is Resident pays and a resident lives there (quarterly 10/26-12/26 bill)",
+   "ref": "18957.03 10/26-12/26",
+   "amount": 96.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "8585 W Santa Cruz Blvd",
+   "issue": "Sewer is Resident pays and a resident lives there (quarterly 10/26-12/26 bill)",
+   "ref": "12125.01 10/26-12/26",
+   "amount": 192.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "10261 W Concordia Dr",
+   "issue": "Sewer is Resident pays and a resident lives there (quarterly 10/26-12/26 bill)",
+   "ref": "12903.03 10/26-12/26",
+   "amount": 96.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "9321 W Hillcrest Pl",
+   "issue": "Sewer is Resident pays and a resident lives there (quarterly 10/26-12/26 bill)",
+   "ref": "19553.03 10/26-12/26",
+   "amount": 96.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "15196 S Avalon Rd",
+   "issue": "Sewer is Resident pays and a resident lives there (quarterly 10/26-12/26 bill)",
+   "ref": "14545.01 10/26-12/26",
+   "amount": 96.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OI-005",
+   "prop": "10919 W Carmelita Cir",
+   "issue": "OI-005: APS account belongs to 9230 N 6th St Unit 3",
+   "ref": "0727621137 9/26",
+   "amount": 9.49
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OI-007",
+   "prop": "TEST Property",
+   "issue": "OI-007: real SRP bill on TEST property (plus $600 lease fee 7/1 and $100 bill 7/30, unpaid)",
+   "ref": "961-089-003 9/26",
+   "amount": 216.1
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OI-008",
+   "prop": "5415 W Minton (no property) / 5415 W Minton Ave",
+   "issue": "OI-008: SRP 569-479-000 on two owners; 9/9 8/26 and 9/15 bills $275.32 unpaid, 9/28 $144.87 unpaid",
+   "ref": "569-479-000",
+   "amount": 275.32
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OI-001",
+   "prop": "960 N Jay St",
+   "issue": "OI-001: City of Chandler 00007604 billed twice for August (8/1 and 8/10, $86.00)",
+   "ref": "00007604 8/26",
+   "amount": 86.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OI-002",
+   "prop": "960 N Jay St",
+   "issue": "OI-002: billed twice for May (5/1 two lines $93.12; 5/11 $93.12)",
+   "ref": "00007604 5/26",
+   "amount": 93.12
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OI-004",
+   "prop": "1750 E 6th Ave",
+   "issue": "OI-004: Repair Masters invoice 714121 posted twice (bills 25095, 25118)",
+   "ref": "714121",
+   "amount": 1102.2
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OI-010",
+   "prop": "2515 S Pantano Pkwy Unit 1",
+   "issue": "OI-010: $100 renewal fee paid 9/2 but renewal #399 still In Progress (re-checked today)",
+   "ref": "",
+   "amount": 100.0
+  },
+  {
+   "sev": "RED",
+   "paid": "n/a",
+   "item": "OI-011",
+   "prop": "Fee setting 46 (Howard T Davis Jr.)",
+   "issue": "OI-011: named \"$99\" but configured $150/mo",
+   "ref": "",
+   "amount": null
+  },
+  {
+   "sev": "RED",
+   "paid": "n/a",
+   "item": "OI-012",
+   "prop": "Fee setting 49 (Rebecca Cohen)",
+   "issue": "OI-012: named \"$499 lease fee\" but configured $450",
+   "ref": "",
+   "amount": null
+  },
+  {
+   "sev": "RED",
+   "paid": "n/a",
+   "item": "OI-013",
+   "prop": "AppFolio P20-005 (Clayton Kocisko)",
+   "issue": "OI-013: Unit 1 10%, Unit 2 7.5% same building",
+   "ref": "",
+   "amount": null
+  },
+  {
+   "sev": "RED",
+   "paid": "n/a",
+   "item": "OI-014",
+   "prop": "AppFolio Martha Beher",
+   "issue": "OI-014: P05-077 at 9% vs P21-023 at 8%",
+   "ref": "",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "OI-003",
+   "prop": "960 N Jay St",
+   "issue": "OI-003: second September bill 20230825-00007604 9/26 $88.84 unpaid, 9/3 bill $87.41 paid",
+   "ref": "00007604",
+   "amount": 88.84
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "OI-006",
+   "prop": "5034 E Holmes Ave",
+   "issue": "OI-006: SRP 176-370-106 bills $91.45 (9/22) and $20.75 (9/11-9/15); confirm no overlap (both now paid)",
+   "ref": "176-370-106",
+   "amount": 112.2
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "OI-009",
+   "prop": "Blank property (tenant ledger Wyler Wittwer)",
+   "issue": "OI-009: APS 0223612022 $183.01 and $41.52 (both now paid) with no property",
+   "ref": "0223612022",
+   "amount": 224.53
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "OI-016",
+   "prop": "8580 W Monaco Blvd",
+   "issue": "OI-016: markups $11 (rekey #63809, 9/23) and new $79.20 (A/C bill 1245724, 10/9) at 10%; owner permission not visible",
+   "ref": "1245724",
+   "amount": 79.2
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "Blank property: HOA Laveen Crossing",
+   "issue": "No property code; Aug-Oct 2026 assessment $772 (3 months, first time billed over $500)",
+   "ref": "29528070 10/26",
+   "amount": 772.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Blank property (Repair Masters)",
+   "issue": "No property code on bill 1238680 \"Turned ac up to 85\"",
+   "ref": "1238680",
+   "amount": 173.45
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Boulder AJ 10552 E Boulder Dr",
+   "issue": "Water $812.99 (3 lines) for new account 100076575 covering 8/26-10/26; earlier account 100073575 differs by one digit; possible leak or wrong account",
+   "ref": "100076575",
+   "amount": 812.99
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1353 W Pima Ave",
+   "issue": "Electric on Resident-pays property; no lease found (vacant?)",
+   "ref": "86255 10/26",
+   "amount": 67.78
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "9435 W Magnum Dr / 11094 W Arvada Dr",
+   "issue": "Sewer, Resident pays, no lease found",
+   "ref": "10180.02 / 16840.01",
+   "amount": 192.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "9975 Lynx",
+   "issue": "Trash $155.73 on Resident-pays property; no lease found for Lynx",
+   "ref": "0004966945",
+   "amount": 155.73
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1750 E 6th Ave / 3028 N Castro / 15588 S Yava",
+   "issue": "Multi-unit Resident-pays utilities (SRP $38.49, gas $26.43, sewer $192); unit not on bill",
+   "ref": "various",
+   "amount": 256.92
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "T25-028 3655 E Bellevue",
+   "issue": "Gas bill, who-pays blank, unit occupied",
+   "ref": "910004848705 10/26",
+   "amount": 36.02
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "All 20 vendors/properties billed first time over $500 in Oct",
+   "issue": "First-time vendor on a property over $500: 27 vendor/property pairs (list in spreadsheet), for example Tucson Plumbing Solutions $3,825 at T25-076 and JSS Remodeling $3,450 at 9435 W Magnum Dr",
+   "ref": "",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "120 October properties",
+   "issue": "Manager markup is 20% not 10% on 120 of 141 markup bills (68 of 86 in September; same pattern as 10/01 report)",
+   "ref": "",
+   "amount": null
+  }
+ ],
+ "open_items": [
+  "OI-001",
+  "OI-002",
+  "OI-003",
+  "OI-004",
+  "OI-005",
+  "OI-006",
+  "OI-007",
+  "OI-008",
+  "OI-009",
+  "OI-010",
+  "OI-011",
+  "OI-012",
+  "OI-013",
+  "OI-014",
+  "OI-015",
+  "OI-016"
+ ]
+}
