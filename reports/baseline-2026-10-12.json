@@ -1,0 +1,85 @@
+{
+ "date": "2026-10-12",
+ "findings": [
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "prop": "208 S Doran \u2014 Unit 214",
+   "issue": "Electric bill while unit occupied (Sean ODonnell, lease active). SRP 904-089-008 10/26, 10/1",
+   "ref": "904-089-008 10/26",
+   "amount": 186.32
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "prop": "1255 N Arizona Ave \u2014 Unit 1273",
+   "issue": "Electric bill while unit occupied (Jacob Smith / Jonathan Romero Calvillo). Tre Vicino Condominiums acct 1052127301, 10/1",
+   "ref": "1052127301 10/2026",
+   "amount": 289.78
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "prop": "860 E Brown Rd Units 21-24 \u2014 Unit 22",
+   "issue": "Electric bill 10/1 (SRP 559-700-102); new resident Jenifer Henson moved in 9/28 (occupied when bill arrived)",
+   "ref": "559-700-102 10/26",
+   "amount": 62.57
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "prop": "1750 E 6th Ave \u2014 unit blank (resident moved into unit 1750 on 10/5)",
+   "issue": "SRP 813-869-000 electric dated 10/6, the day after move-in; no unit on bill",
+   "ref": "813-869-000",
+   "amount": 38.49
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "prop": "902 E 4th Place",
+   "issue": "Leo Landscaping ref 1241430 posted twice, same date 10/5, $70 each, both paid",
+   "ref": "1241430",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid/Paid check",
+   "prop": "3058 East Michelle Way",
+   "issue": "Repair Masters two bills same date 10/2, same unit and amount: 1238676 and 1238672, $96.90 each",
+   "ref": "1238676 / 1238672",
+   "amount": 96.9
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "prop": "737 W 1st Ave Mesa \u2014 Apt 201",
+   "issue": "Electric (City of Mesa 991150-127645, $144.47) but no active lease found on Apt 201; confirm vacant and who pays",
+   "ref": "991150-127645 10/26",
+   "amount": 144.47
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "prop": "1353 W Pima Ave",
+   "issue": "$67.78 booked to Electric from Hohokam Irrigation & Drainage District (acct 86255); looks like irrigation, not electric. No active lease found",
+   "ref": "86255 10/26",
+   "amount": 67.78
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "prop": "19 properties (Leo Landscaping)",
+   "issue": "Same vendor, property and amount billed twice 10/5 and 10/7-10/9 ($50-$70 each, refs 1241xxx and 1243xxx-1245xxx). May be a second mow; confirm frequency",
+   "ref": "various",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "prop": "826 E 4th Place",
+   "issue": "Dante Dimas $60 on 10/2 (1239750) and 10/8 (1244723)",
+   "ref": "1239750 / 1244723",
+   "amount": 60.0
+  }
+ ]
+}
