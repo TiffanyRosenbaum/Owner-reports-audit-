@@ -1,0 +1,824 @@
+{
+ "date": "2026-10-13",
+ "findings": [
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "1255 N Arizona Ave",
+   "issue": "Electric bill arrived while the unit was occupied (RED rule 2026-10-01); electric is Resident pays.",
+   "ref": "1052127301 10/2026",
+   "amount": 289.78
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "208 S Doran",
+   "issue": "Electric bill arrived while the unit was occupied (RED rule 2026-10-01); who-pays field is blank.",
+   "ref": "904-089-008 10/26",
+   "amount": 186.32
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "8764 W Reventon Dr",
+   "issue": "Sewer is Resident pays and a resident lives in the home, but the quarterly bill is on the owner.",
+   "ref": "18957.03 10/26-12/26",
+   "amount": 96
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "15588 S Yava",
+   "issue": "Sewer is Resident pays and a resident lives in the home, but the quarterly bill is on the owner.",
+   "ref": "16797.02 10/26-12/26",
+   "amount": 192
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "8585 W Santa Cruz Blvd",
+   "issue": "Sewer is Resident pays and a resident lives in the home, but the quarterly bill is on the owner.",
+   "ref": "12125.01 10/26-12/26",
+   "amount": 192
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "10261 W Concordia Dr",
+   "issue": "Sewer is Resident pays and a resident lives in the home, but the quarterly bill is on the owner.",
+   "ref": "12903.03 10/26-12/26",
+   "amount": 96
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "9321 W Hillcrest Pl",
+   "issue": "Sewer is Resident pays and a resident lives in the home, but the quarterly bill is on the owner.",
+   "ref": "19553.03 10/26-12/26",
+   "amount": 96
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "15196 S Avalon Rd",
+   "issue": "Sewer is Resident pays and a resident lives in the home, but the quarterly bill is on the owner.",
+   "ref": "14545.01 10/26-12/26",
+   "amount": 96
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "P20-005 1",
+   "issue": "Electric bill while occupied (tenants since 2025-11-01; electric marked owner/company).",
+   "ref": "2168791381 10/26",
+   "amount": 47.95
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "P07-070 A",
+   "issue": "Electric bill while occupied; electric is a resident obligation.",
+   "ref": "(blank)",
+   "amount": 29.7
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "P11-029",
+   "issue": "Same vendor, property, amount and description twice on the same day.",
+   "ref": "1245707 and 1245713 (Outlet problem)",
+   "amount": 190.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "28934 N 124Th Ave",
+   "issue": "Sewer is Resident pays and a resident lives in the home, but the City of Peoria bill was paid from the owner.",
+   "ref": "83871-09 10/26",
+   "amount": 135.39
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "860 E Brown Rd Units 21 - 24",
+   "issue": "Electric bill arrived while the unit was occupied (RED rule 2026-10-01). New resident Jenifer Henson moved in ",
+   "ref": "559-700-102 10/26",
+   "amount": 62.57
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "1324 N Farrell Court",
+   "issue": "Same vendor, property and amount twice in 4 days (refs differ).",
+   "ref": "1226031 (10/2) and 1242697 (10/6)",
+   "amount": 175.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "1201 E Weber Dr",
+   "issue": "Renewal fee $200 charged, but the fee setting is \"8% | 0% Lease | 0% Renewal\".",
+   "ref": "(none)",
+   "amount": 200.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "P22-023",
+   "issue": "Electric bill while occupied (owner/company is marked responsible).",
+   "ref": "(blank)",
+   "amount": 7.47
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "P13-031 A",
+   "issue": "Electric bill while occupied (owner/company is marked responsible).",
+   "ref": "(blank)",
+   "amount": 22.89
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "P21-023 A",
+   "issue": "Electric bill while occupied (owner/company is marked responsible).",
+   "ref": "(blank)",
+   "amount": 25.6
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "P05-077 1",
+   "issue": "Electric bill while occupied (owner/company is marked responsible).",
+   "ref": "(blank)",
+   "amount": 12.9
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "P04-038 101",
+   "issue": "Electric bill while occupied (owner/company is marked responsible).",
+   "ref": "(blank)",
+   "amount": 85.84
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "P16-001",
+   "issue": "Electric bill while occupied (owner/company is marked responsible).",
+   "ref": "(blank)",
+   "amount": 31.48
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "P17-030",
+   "issue": "Electric bill while occupied (owner/company is marked responsible).",
+   "ref": "(blank)",
+   "amount": 39.32
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "P13-031 A",
+   "issue": "Same UniSource gas amount twice, same day, same property.",
+   "ref": "(blank) x2",
+   "amount": 52.86
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01 (OI-007)",
+   "prop": "TEST Property",
+   "issue": "Real SRP bill posted to a TEST property.",
+   "ref": "961-089-003 9/26",
+   "amount": 216.1
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01 (OI-005)",
+   "prop": "10919 W Carmelita Cir",
+   "issue": "APS account 0727621137 belongs to 9230 N 6th St Unit 3.",
+   "ref": "0727621137 9/26",
+   "amount": 9.49
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01 (OI-008)",
+   "prop": "(no property) owner ADELANTE Y ARRIBA LLC",
+   "issue": "SRP 569-479-000 9/15 bill has no property; 9/28 bill ($144.87, now paid) is on 5415 W Minton Ave.",
+   "ref": "569-479-000 9/26",
+   "amount": 275.32
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01",
+   "prop": "1332 Miller",
+   "issue": "Second August bill for the same APS account (8/1 $106.64 paid, 8/12 $107.12).",
+   "ref": "1256199566 8/26",
+   "amount": 107.12
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01",
+   "prop": "TEST Property",
+   "issue": "Lease fee posted to TEST property (Feb 19).",
+   "ref": "(none)",
+   "amount": 600.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01",
+   "prop": "TEST Property",
+   "issue": "Lease fee posted to TEST property (Jul 1).",
+   "ref": "(none)",
+   "amount": 600.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01",
+   "prop": "TEST Property",
+   "issue": "Repair Masters bill on TEST property.",
+   "ref": "713556",
+   "amount": 100.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01 (OI-010)",
+   "prop": "2515 S Pantano Pkwy Units 1-3",
+   "issue": "$100 renewal fee paid 9/1 but renewal #399 on lease 1267 is still In Progress.",
+   "ref": "(none)",
+   "amount": 100.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01",
+   "prop": "P15-006",
+   "issue": "\"Uploaded Invoice\" copy is still unpaid beside the paid work-order bill (same property and amount).",
+   "ref": "T0IVHAFB / 1236310",
+   "amount": 100
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01",
+   "prop": "P02-029 A",
+   "issue": "\"Uploaded Invoice\" copy is still unpaid beside the paid work-order bill (same property and amount).",
+   "ref": "T4E5WFAB / 1236278",
+   "amount": 250
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01",
+   "prop": "P20-024",
+   "issue": "\"Uploaded Invoice\" copy is still unpaid beside the paid work-order bill (same property and amount).",
+   "ref": "T9X95GGB / 1236331",
+   "amount": 2432.09
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01",
+   "prop": "P04-105 B",
+   "issue": "\"Uploaded Invoice\" copy is still unpaid beside the paid work-order bill (same property and amount).",
+   "ref": "TB2C3Z9 / 1236608",
+   "amount": 2155.79
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01",
+   "prop": "P21-013",
+   "issue": "\"Uploaded Invoice\" copy is still unpaid beside the paid work-order bill (same property and amount).",
+   "ref": "TMNAAXX / 1236313",
+   "amount": 875
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01",
+   "prop": "P07-070 B",
+   "issue": "\"Uploaded Invoice\" copy is still unpaid beside the paid work-order bill (same property and amount).",
+   "ref": "TQ5PIMFB / 1225013",
+   "amount": 475
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01",
+   "prop": "P26-001",
+   "issue": "\"Uploaded Invoice\" copy is still unpaid beside the paid work-order bill (same property and amount).",
+   "ref": "TV7NNIDB / 1236322",
+   "amount": 887.7
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01",
+   "prop": "P21-023 B",
+   "issue": "\"Uploaded Invoice\" copy is still unpaid beside the paid work-order bill (same property and amount).",
+   "ref": "TYCNH1 / 1236570",
+   "amount": 2552.62
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "1353 W Pima Ave",
+   "issue": "Resident pays electric but no lease on file (vacant?).",
+   "ref": "86255 10/26",
+   "amount": 67.78
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "737 W 1st Ave Mesa",
+   "issue": "Resident pays electric; the unit has no active lease (last lease shows Closed).",
+   "ref": "991150-127645 10/26",
+   "amount": 144.47
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "1750 E 6th Ave",
+   "issue": "Two bills for SRP/APS account 813-869-000 within 3 weeks, no unit: 9/15 $76.96 (tag 10/26) and 10/6 $38.49 (no",
+   "ref": "813-869-000",
+   "amount": 38.49
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "3028 N Castro Ave",
+   "issue": "Gas billed after the management contract ended 9/15; no active lease; resident pays gas.",
+   "ref": "(none)",
+   "amount": 26.43
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "T25-028 - 3655 E Bellevue",
+   "issue": "Gas billed after the management contract ended 9/30; no active lease.",
+   "ref": "(none)",
+   "amount": 36.02
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "505 E Huntington Dr Apt 2",
+   "issue": "Bill dated before the management contract begins (10/31/2026).",
+   "ref": "(see report)",
+   "amount": 100.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "(no property)",
+   "issue": "Land lease on the ledger with no property; contract begins 10/27/2026 on the matching record.",
+   "ref": "Land Lease",
+   "amount": 296.83
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "(no property)",
+   "issue": "Payee field holds the whole HOA record (\"HOA name: Laveen Crossing HOA phone: ...\") and the vendor is new this",
+   "ref": "29528070 10/26",
+   "amount": 772.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "1718 E 6th Ave",
+   "issue": "First bill from Leo Landscaping this year at this size.",
+   "ref": "1238897",
+   "amount": 580.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "(no property)",
+   "issue": "Repair Masters bill with no property (\"Check - Turned ac up to 85...\").",
+   "ref": "1238680",
+   "amount": 173.45
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "(no property) company ledger",
+   "issue": "Large company-ledger items with no property: First Fidelity LOC interest $2,823.42 (10/4), \"Pay Back RRG For C",
+   "ref": "(none)",
+   "amount": 4643.81
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "9435 W Magnum Dr",
+   "issue": "Resident pays sewer but no resident found.",
+   "ref": "10/26-12/26",
+   "amount": 96.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "11094 W Arvada Dr",
+   "issue": "Resident pays sewer but no resident found.",
+   "ref": "10/26-12/26",
+   "amount": 96.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "9975 Lynx",
+   "issue": "Trash billed; resident pays; no active lease found.",
+   "ref": "0004966945",
+   "amount": 155.73
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "756 E. Granada Avenue",
+   "issue": "Water billed; resident pays; no active lease found.",
+   "ref": "(see report)",
+   "amount": 120.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "Boulder AJ",
+   "issue": "Water bill covers 8/26-9/26-10/26 (3 months at once): $77.62 + $629.47 + $105.91 = $812.99. Possible leak or c",
+   "ref": "100076575",
+   "amount": 812.99
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "Various (122 of 145 October markup lines)",
+   "issue": "Markup is 20% on 122 October lines; 23 are 10%. September: 68 at 20%, 15 at 10%. Policy standard is 10%.",
+   "ref": "(shares vendor reference)",
+   "amount": 0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "P19-041",
+   "issue": "Electric bill 7 days before the new tenant moved in (tenant pays electric).",
+   "ref": "(blank)",
+   "amount": 64.67
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "P08-006",
+   "issue": "Electric bill on a vacant unit where the tenant pays.",
+   "ref": "(blank)",
+   "amount": 15.33
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "P22-016",
+   "issue": "Electric bill on a vacant unit where the tenant pays.",
+   "ref": "(blank)",
+   "amount": 77.78
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "P12-020",
+   "issue": "Electric bill on a vacant unit where the tenant pays.",
+   "ref": "(blank)",
+   "amount": 140.51
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "NEW",
+   "prop": "P14-037 1",
+   "issue": "Two APS bills on one vacant unit the same day at different amounts.",
+   "ref": "(blank)",
+   "amount": 135.48
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "P96-032 A",
+   "issue": "Three UniSource gas bills in one day at different amounts ($57.29, $39.26, $58.81).",
+   "ref": "8948983606 and blanks",
+   "amount": 155.36
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "item": "NEW",
+   "prop": "P06-027 A/B",
+   "issue": "Two Waste Management bills the same day ($483.60 paid, $386.07 unpaid).",
+   "ref": "0260097-4657-4 / 0271937-4657-8",
+   "amount": 869.67
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW",
+   "prop": "P13-015",
+   "issue": "Two $125 Rockin R water deliveries (refs 38281, 38416) the same day.",
+   "ref": "38281 / 38416",
+   "amount": 250.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "Re-query next run.",
+   "prop": "AppFolio, 8 pairs from baseline",
+   "issue": "Two baseline pairs (P17-002 TUMHAGEB, P05-081 TNQ2VUF) and the P22-023/P13-031 A/P23-025/P25-013 utility items",
+   "ref": "",
+   "amount": ""
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "n/a",
+   "item": "OPEN since 10-01",
+   "prop": "Bluevolt Horizon Path LLC (owner)",
+   "issue": "Owner has a flat fee on one property and 10% on another.",
+   "ref": "",
+   "amount": 0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "4401 E Contessa St",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "708563-3",
+   "amount": 549
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "8590 W Magnum Dr",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "708912-4",
+   "amount": 1145
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "725 W 1St Ave",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "709805",
+   "amount": 163
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "21100 N Alma Dr",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "710876",
+   "amount": 196.68
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "836 E Junction",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "710925-2",
+   "amount": 1213
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "6446 E Alder",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "711216",
+   "amount": 210
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "24347 N Oasis Blvd",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "711225",
+   "amount": 1821.6
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "719 N Havasupai Ln",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "711240",
+   "amount": 163.2
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "Fairfield",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "710736",
+   "amount": 22.5
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "6440 Alder",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "711464-1",
+   "amount": 1123.2
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "2515 S Pantano Pkwy",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "711821",
+   "amount": 342
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "737 W 1st ave Mesa",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "711765",
+   "amount": 70
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "361 South 16th Pl",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "711723",
+   "amount": 1626.9
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "T25-064 - 3628 Jessica",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "707686",
+   "amount": 1325.5
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "1414 E 25Th Ave Units 1 - 4",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "Ref#547081399052",
+   "amount": 50
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "1750 E 6th Ave",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "714121",
+   "amount": 1102.2
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "2747 E Chipman Rd",
+   "issue": "Vendor bill + markup posted twice (same reference, same amount). Both copies still in Rentvine and paid.",
+   "ref": "5867400943 3/26",
+   "amount": 283.79
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "960 N Jay St",
+   "issue": "City of Chandler billed twice for the same month; both paid (OI-001/OI-002).",
+   "ref": "00007604 8/26",
+   "amount": 86.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "960 N Jay St",
+   "issue": "City of Chandler billed twice for the same month; both paid (OI-001/OI-002).",
+   "ref": "00007604 5/26",
+   "amount": 93.12
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01",
+   "prop": "960 N Jay St",
+   "issue": "Second September bill (9/25, $88.84) after the 9/3 bill ($87.41 paid). Not an exact duplicate (OI-003).",
+   "ref": "20230825-00007604 9/26",
+   "amount": 88.84
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "OPEN since 10-01",
+   "prop": "5034 E Holmes Ave",
+   "issue": "SRP 176-370-106: 9/22 $91.45 (no dates) and 9/28 $20.75; confirm no overlap (OI-006).",
+   "ref": "176-370-106",
+   "amount": 112.2
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01",
+   "prop": "8580 W Monaco Blvd.",
+   "issue": "$11 markup on rekey #63809 (10%); confirm upcharge allowed (OI-016).",
+   "ref": "#63809",
+   "amount": 11.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "OPEN since 10-01",
+   "prop": "(no property) tenant ledger Wyler Wittwer?",
+   "issue": "APS 0223612022: $183.01 (9/2) now shows payee Rosenbaum Realty Group (unpaid); $41.52 (9/29) is paid. Pattern ",
+   "ref": "0223612022 9/26",
+   "amount": 183.01
+  }
+ ],
+ "open_items": [
+  "OI-001",
+  "OI-002",
+  "OI-003",
+  "OI-004",
+  "OI-005",
+  "OI-006",
+  "OI-007",
+  "OI-008",
+  "OI-009",
+  "OI-010",
+  "OI-011",
+  "OI-012",
+  "OI-013",
+  "OI-014",
+  "OI-015",
+  "OI-016"
+ ]
+}
