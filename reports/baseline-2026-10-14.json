@@ -1,0 +1,206 @@
+{
+ "date": "2026-10-14",
+ "findings": [
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW-01",
+   "prop": "1255 N Arizona Ave, Unit 1273",
+   "issue": "Electric bill while unit is occupied (Jacob Smith et al.); electric = Resident pays. Bill charged to owner. Capital Property Ventures / Tre Vicino Con",
+   "ref": "1052127301 10/2026",
+   "amount": 289.78
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW-02",
+   "prop": "208 S Doran, Unit 214",
+   "issue": "Electric bill while unit is occupied (Sean ODonnell, moved in 10/17/2025); who-pays field is blank. SRP",
+   "ref": "904-089-008 10/26",
+   "amount": 186.32
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "NEW-03",
+   "prop": "860 E Brown Rd Units 21-24, Unit 22",
+   "issue": "Electric bill while unit is occupied (Jenifer Henson, moved in 9/28/2026); electric = Resident pays. SRP",
+   "ref": "559-700-102 10/26",
+   "amount": 62.57
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW-04",
+   "prop": "3058 East Michelle Way",
+   "issue": "Same vendor, property and amount twice on the same day (Repair Masters lockup). Refs 1238672 and 1238676, both $96.90, both unpaid",
+   "ref": "1238672 / 1238676",
+   "amount": 96.9
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "NEW-05",
+   "prop": "902 E 4th Place",
+   "issue": "Reference 1241430 posted twice for Leo Landscaping, $70.00 each, same date. Both paid. Markup lines also doubled ($14 x2)",
+   "ref": "1241430",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "NEW-06",
+   "prop": "18 properties (monthly landscaping/cleaning vendors)",
+   "issue": "Same vendor + same property + same amount billed twice within October (rule: maintenance duplicate within 30 days). 15 second bills are UNPAID ($900.0",
+   "ref": "see Landscaping tab",
+   "amount": 900.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "NEW-07",
+   "prop": "1353 W Pima Ave",
+   "issue": "Electric (Hohokam Irrigation & Drainage) $67.78 is 109% above September ($32.42). Electric = Resident pays but no active lease found",
+   "ref": "86255 10/26",
+   "amount": 67.78
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW-08",
+   "prop": "1750 E 6th Ave (multi-unit)",
+   "issue": "Electric bill with no unit on it. Resident pays; units 1752/1754/1756 and 1750 (new lease 10/5) are occupied. SRP",
+   "ref": "813-869-000",
+   "amount": 38.49
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW-09",
+   "prop": "737 W 1st Ave Mesa, Apt 201",
+   "issue": "Electric billed to Apt 201; no active lease found for Apt 201 (leases found for 101-103 only). Resident pays. City of Mesa",
+   "ref": "991150-127645 10/26",
+   "amount": 144.47
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW-10",
+   "prop": "1050 W University Dr, Apt 202",
+   "issue": "Electric billed to Apt 202; no active lease found for Apt 202. Resident pays. SRP",
+   "ref": "031-339-000 10/26",
+   "amount": 57.01
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW-11",
+   "prop": "146 markup lines (all properties)",
+   "issue": "Markup bills (\"Markup: Bill for...\") are 20% of the vendor bill on 123 of 146 lines; only 23 are 10%. Rule and known exceptions expect 10%. Possible p",
+   "ref": "GL 6600",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW-12",
+   "prop": "10552 E Boulder AJ (Boulder AJ)",
+   "issue": "Arizona Water Company 100076575 covers 8/26-9/26-10/26 in one bill: $77.62 + $629.47 + $105.91 = $813.00. Large catch-up amount",
+   "ref": "100076575",
+   "amount": 813.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "NEW-13",
+   "prop": "8590 W Magnum, Units A and B",
+   "issue": "UWS trash 274713 10/26 posted on two units, $27.50 each, same date. Looks like a split but confirm both units should be charged",
+   "ref": "274713 10/26",
+   "amount": 55.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "NEW-14",
+   "prop": "TEST Property / blank property",
+   "issue": "Blank-property lines: Land Lease $296.83 (Gila Valley NRCD, unpaid); Laveen Crossing HOA $772.00 (unpaid, no property); First Fidelity Bank LOC intere",
+   "ref": "various",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "NEW-15",
+   "prop": "AppFolio coverage",
+   "issue": "Realm-X returned 312 active properties on 10/14; the 10/1 run noted about 680. Fee list may be incomplete or properties may have changed",
+   "ref": "",
+   "amount": null
+  }
+ ],
+ "open_items": [
+  {
+   "id": "OI-001",
+   "status": "Open"
+  },
+  {
+   "id": "OI-002",
+   "status": "Open"
+  },
+  {
+   "id": "OI-003",
+   "status": "Open"
+  },
+  {
+   "id": "OI-004",
+   "status": "Open"
+  },
+  {
+   "id": "OI-005",
+   "status": "Open (not re-verified)"
+  },
+  {
+   "id": "OI-006",
+   "status": "Not re-checked"
+  },
+  {
+   "id": "OI-007",
+   "status": "Open"
+  },
+  {
+   "id": "OI-008",
+   "status": "Not re-checked"
+  },
+  {
+   "id": "OI-009",
+   "status": "Not re-checked"
+  },
+  {
+   "id": "OI-010",
+   "status": "Not re-checked"
+  },
+  {
+   "id": "OI-011",
+   "status": "Open"
+  },
+  {
+   "id": "OI-012",
+   "status": "Open"
+  },
+  {
+   "id": "OI-013",
+   "status": "Open"
+  },
+  {
+   "id": "OI-014",
+   "status": "Open"
+  },
+  {
+   "id": "OI-015",
+   "status": "Open"
+  },
+  {
+   "id": "OI-016",
+   "status": "Not re-checked"
+  }
+ ]
+}
