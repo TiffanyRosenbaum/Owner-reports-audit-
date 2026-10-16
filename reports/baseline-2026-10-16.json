@@ -1,0 +1,196 @@
+{
+ "date": "2026-10-16",
+ "red": [
+  {
+   "sev": "RED",
+   "paid": "unpaid",
+   "where": "1255 N Arizona Ave Unit 1273",
+   "what": "Electric bill while occupied (tenants since 2/14/2024). Capital Property Ventures/Tre Vicino, acct 1052127301 10/2026",
+   "amount": 289.78,
+   "date": "2026-10-01",
+   "action": "Hold payment; charge tenant/confirm who pays"
+  },
+  {
+   "sev": "RED",
+   "paid": "unpaid",
+   "where": "208 S Doran Unit 214",
+   "what": "Electric bill while occupied (Sean ODonnell since 10/17/2025). SRP 904-089-008 10/26",
+   "amount": 186.32,
+   "date": "2026-10-01",
+   "action": "Hold payment; confirm who pays"
+  },
+  {
+   "sev": "RED",
+   "paid": "unpaid",
+   "where": "3333 W 8th Unit F04",
+   "what": "Electric bill while occupied (Daniel Hiebert since 2016). Graham County Electric, no ref",
+   "amount": 116.84,
+   "date": "2026-10-07",
+   "action": "Hold payment; confirm who pays"
+  },
+  {
+   "sev": "RED",
+   "paid": "unpaid",
+   "where": "3333 W 8th Unit F07",
+   "what": "Electric bill while occupied (Dallas Ann Huish since 1/15/2026). Graham County Electric, no ref",
+   "amount": 91.71,
+   "date": "2026-10-07",
+   "action": "Hold payment; confirm who pays"
+  },
+  {
+   "sev": "RED",
+   "paid": "unpaid",
+   "where": "3058 East Michelle Way",
+   "what": "Duplicate: Repair Masters refs 1238676 and 1238672, both $96.90, same day 10/2",
+   "amount": 96.9,
+   "date": "2026-10-02",
+   "action": "Void one copy before payment"
+  },
+  {
+   "sev": "RED",
+   "paid": "unpaid",
+   "where": "10919 W Carmelita Cir",
+   "what": "APS acct 0727621137 10/26 $240.05 again billed here; OI-005 says this acct belongs to 9230 N 6th St Unit 3 (amount changed >10%)",
+   "amount": 240.05,
+   "date": "2026-10-05",
+   "action": "Hold; move bill to correct property"
+  },
+  {
+   "sev": "RED",
+   "paid": "paid",
+   "where": "860 E Brown Rd Units 21-24 Unit 22",
+   "what": "Electric bills 10/1 SRP 559-700-102 $62.57 and 10/6 SRP 424-820-107 Final $12.44 while lease active (move-in 9/28/2026). Final bill may belong to prior resident",
+   "amount": 75.01,
+   "date": "2026-10-01",
+   "action": "Confirm who pays; recover if resident-pays"
+  },
+  {
+   "sev": "RED",
+   "paid": "paid",
+   "where": "902 E 4th Place",
+   "what": "Leo Landscaping ref 1241430 $70 posted twice on 10/5 (identical lines)",
+   "amount": 70.0,
+   "date": "2026-10-05",
+   "action": "Void/recover duplicate"
+  },
+  {
+   "sev": "RED",
+   "paid": "paid",
+   "where": "17 properties (Leo Landscaping)",
+   "what": "Same vendor+property+amount twice within 30 days (10/5 and 7-9). Check 4 rule = RED, but likely a recurring service; confirm schedule. Includes 446 E 9th, 452 E 9th, 550 W 9th, 544 W 9th, 733 Morris Cir, 4541/4553 Caballero, 737 W 1st Mesa, 6446 E Alder, Palmer, Camino, Fountain, 918 1st Ave etc.",
+   "amount": 1030.0,
+   "date": "2026-10-05",
+   "action": "Confirm with vendor/ops that visits were separate"
+  },
+  {
+   "sev": "RED",
+   "paid": "paid",
+   "where": "826 E 4th Place",
+   "what": "Dante Dimas refs 1239750 and 1244723, both $60, 10/2 and 10/8",
+   "amount": 60.0,
+   "date": "2026-10-08",
+   "action": "Confirm separate jobs"
+  }
+ ],
+ "yellow": [
+  {
+   "sev": "YELLOW",
+   "paid": "unpaid",
+   "where": "3333 W 8th (multi-unit)",
+   "what": "9 Graham County Electric bills with no unit, $4,622.42 unpaid (plus laundry $100.18 and F04/F07 above). Unit not identified",
+   "amount": 4622.42,
+   "date": "2026-10-07",
+   "action": "Identify units/meters; owner vs resident"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "unpaid",
+   "where": "TEST Property (OI-007)",
+   "what": "SRP 961-089-003 9/26 $216.10 (bill 26717) still on TEST property",
+   "amount": 216.1,
+   "date": "2026-09-22",
+   "action": "Find correct property"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "unpaid",
+   "where": "Blank-property lines",
+   "what": "22 unpaid lines, $15,481.83, no property: RJW legal fees 19 lines $10,066.02, Laveen Crossing HOA $772.00, First Fidelity interest $2,823.42, $650 lease fee, $1,170.39 bank transfer. Ledger not resolved this run",
+   "amount": 15481.83,
+   "date": "2026-10",
+   "action": "Resolve ledger (owner/company/tenant)"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "unpaid",
+   "where": "925 N College C111 Tempe",
+   "what": "Electric $68.87; lease closed 6/30/2026 (vacant); who-pays not checked",
+   "amount": 68.87,
+   "date": "2026-10-05",
+   "action": "Confirm owner pays when vacant"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "paid",
+   "where": "737 W 1st Ave Apt 201 Mesa",
+   "what": "Electric $144.47; lease status Closed (end 3/31/2027) - occupancy unclear",
+   "amount": 144.47,
+   "date": "2026-10-05",
+   "action": "Confirm occupancy"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "paid",
+   "where": "1050 W University Dr Apt 202",
+   "what": "Electric $57.01; no lease record found for Apt 202",
+   "amount": 57.01,
+   "date": "2026-10-06",
+   "action": "Confirm occupancy"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "paid",
+   "where": "1702 W Shangri La Rd Unit 3",
+   "what": "Electric $70.03; lease ended 1/25/2026 (vacant)",
+   "amount": 70.03,
+   "date": "2026-10-05",
+   "action": "Confirm owner pays when vacant"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "paid",
+   "where": "1750 E 6th Ave",
+   "what": "Electric $38.49 SRP 813-869-000, no unit (multi-unit, 3+ active leases)",
+   "amount": 38.49,
+   "date": "2026-10-06",
+   "action": "Confirm common-area meter"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "paid",
+   "where": "5 single-family homes",
+   "what": "Electric with no matching lease record under that address (names may use T-codes): 1353 W Pima $67.78, 9435 W Magnum $86.11, 11094 W Arvada $126.48, 802 W Fairlane $12.63 (all paid); 10919 W Carmelita $240.05 (unpaid, see RED)",
+   "amount": 293.0,
+   "date": "2026-10",
+   "action": "Check occupancy by hand"
+  }
+ ],
+ "open_items": {
+  "OI-001": "Open - not re-verified (Sept bills not re-pulled)",
+  "OI-002": "Open - not re-verified",
+  "OI-003": "Open - bill 27827 $88.84 still posted on 960 N Jay St",
+  "OI-004": "Open - bill 25118 $1,102.20 still posted on 1750 E 6th Ave",
+  "OI-005": "Open - pattern repeated 10/5: acct 0727621137 $240.05 on 10919 W Carmelita (now RED)",
+  "OI-006": "Open - not re-verified",
+  "OI-007": "Open - bill 26717 still on TEST Property",
+  "OI-008": "Open - bill 26372 $275.32 still on owner ADELANTE Y ARRIBA LLC, no property",
+  "OI-009": "Open - not re-verified",
+  "OI-010": "Open - renewal #399 status not re-pulled",
+  "OI-011": "Open - fee setting 46 still named $99, configured $150",
+  "OI-012": "Open - fee setting 49 still named $499 lease fee, configured $450",
+  "OI-013": "Open - AppFolio unavailable, not re-verified",
+  "OI-014": "Open - AppFolio unavailable, not re-verified",
+  "OI-015": "Open - AppFolio unavailable, not re-verified",
+  "OI-016": "Open - AppFolio unavailable, not re-verified"
+ }
+}
