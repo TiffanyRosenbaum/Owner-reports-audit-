@@ -1,0 +1,323 @@
+{
+ "date": "2026-10-22",
+ "findings": [
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "3058 East Michelle Way",
+   "issue": "Same vendor, property and amount ($96.90) billed twice on the same day for the same lockup visit",
+   "ref": "1238672 / 1238676",
+   "amount": 96.9
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "621 West Los Lagos Vista Avenue",
+   "issue": "\"Periodic Pet Inspection\" and \"Resident Pet Inspection\" both $96.90, same day, same property",
+   "ref": "1254087 / 1254097",
+   "amount": 96.9
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OI-007",
+   "prop": "TEST Property (TEST 1835 E Cortez)",
+   "issue": "Real SRP electric bill posted to TEST property",
+   "ref": "961-089-003 9/26",
+   "amount": 216.1
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "TEST Property (TEST 1835 E Cortez)",
+   "issue": "Lease Fee on TEST property (still unpaid)",
+   "ref": "",
+   "amount": 600.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "TEST Property (TEST 1835 E Cortez)",
+   "issue": "Lease Fee on TEST property (still unpaid)",
+   "ref": "",
+   "amount": 600.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "TEST Property (TEST 1835 E Cortez)",
+   "issue": "Landscaping bill on TEST property (still unpaid)",
+   "ref": "713556",
+   "amount": 100.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OI-005",
+   "prop": "10919 W Carmelita Cir",
+   "issue": "Account 0727621137 belongs to 9230 N 6th St Unit 3 (9/3 $9.49). A new 10/5 bill for $240.05 was posted to Carmelita, a vacant home where the resident pays elect",
+   "ref": "0727621137 9/26 and 10/26",
+   "amount": 249.54
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OI-008",
+   "prop": "5415 W Minton St (owner ADELANTE Y ARRIBA LLC, no property)",
+   "issue": "Bill on a different owner with no property; the 9/28 bill ($144.87) is on 5415 W Minton Ave (Casa Grande Homes LLC). The 9/9 \"8/26\" bill was also $275.32",
+   "ref": "569-479-000 9/26",
+   "amount": 275.32
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "902 E 4th Place",
+   "issue": "Same invoice posted twice, $70 each, same day (each with a $14 markup line). Extra cost $70 + $14 markup",
+   "ref": "1241430",
+   "amount": 84.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "826 E 4th Place",
+   "issue": "Landscaping $60 billed 10/2 and again 10/8 (same vendor, property, amount; 10/2 copy also carries a $12 markup). May be twice-monthly service, confirm",
+   "ref": "1239750 / 1244723",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1324 N Farrell Court",
+   "issue": "Office cleaning $175 billed twice four days apart",
+   "ref": "1226031 / 1242697",
+   "amount": 175.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1750 E 6th Ave (unit 1750)",
+   "issue": "Same reference with the same \"10/26\" month tag on a 9/15 bill ($40.75) and a 10/15 bill ($41.37). Same service month, within $1",
+   "ref": "515-447-008 10/26",
+   "amount": 41.37
+  },
+  {
+   "sev": "RED",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "143 properties YTD, 41 lines in October",
+   "issue": "Utility bills while a resident lives there (resident-pays utility, or ANY electric bill while occupied). October: 41 lines $4,474.37 ($763.24 unpaid in 7 lines:",
+   "ref": "see Utilities vs occupancy tab",
+   "amount": 4474.37
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid/Unpaid",
+   "item": "",
+   "prop": "All properties with a \"Markup:\" line",
+   "issue": "PATTERN CHANGED: markup is 20% of the vendor bill on 219 lines, not the standard 10% (Sep 68 of 86 matched lines, Oct 151 of 189). Total markup on those lines $",
+   "ref": "219 markup lines (Sep 68, Oct 151)",
+   "amount": 9293.99
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Leo Landscaping (new vendor in October, 41 properties)",
+   "issue": "23 properties have two bills in October; 16 are the same amount (descriptions on two say \"twice a month\"), 7 differ. First bills at 1718 E 6th Ave ($920) and 41",
+   "ref": "1241xxx and 1244xxx/1245xxx",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "409 E Fairfield St Apt B (Fairfield)",
+   "issue": "Two $96.90 bills same day for different work (AC pipe, flush handle). Looks like a flat per-task fee",
+   "ref": "1250144 / 1250145",
+   "amount": 193.8
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "410 E 9th Ave",
+   "issue": "Second AC bill within 30 days at a different amount ($832 then $1,858 unpaid)",
+   "ref": "1235701 / 1252264",
+   "amount": 1858.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "8580 W Monaco Blvd.",
+   "issue": "Second AC bill in 10 days ($396 then $1,027 unpaid)",
+   "ref": "1245724 / 1252375",
+   "amount": 1027.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "312 E Vine Cir",
+   "issue": "Second HVAC bill in 13 days ($65 then $299 unpaid)",
+   "ref": "1242701 / 1252294",
+   "amount": 299.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "T25-058 - 2203 Honeysuckle",
+   "issue": "Two parts-and-materials bills one day apart ($212.35, $227.86)",
+   "ref": "1250188 / 1250189",
+   "amount": 440.21
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "3333 W 8th (Graham County Electric)",
+   "issue": "12 electric lines on a multi-unit property; only 3 name a unit (those 3 are RED, occupied, $308.73). The other 9 lines ($61.78 to $959.06, $4,622.42 total) name",
+   "ref": "10 lines dated 10/7",
+   "amount": 4622.42
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "SRP 627-560-105 (no property code)",
+   "issue": "Electric bill with no property",
+   "ref": "627-560-105 10/26",
+   "amount": 52.95
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "T25-018 - 3635 E Bellevue and T25-028 - 3655 E Bellevue, T25-022 - 3643 E Bellevue",
+   "issue": "Bills on 3 inactive properties ($926.03 water/sewer/trash at 3635 paid, $36.02 gas at 3655 paid, $130 keys at 3643 unpaid)",
+   "ref": "Oct water, sewer, trash, gas, keys",
+   "amount": 1092.05
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "11 vacant homes where resident pays electric",
+   "issue": "11 October electric bills on single-unit homes with no resident found (resident-pays). Includes 10919 W Carmelita Cir (OI-005, RED above)",
+   "ref": "see Utilities tab",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "13 multi-unit electric bills with no unit named; 13 where the unit has no lease on the bill date",
+   "issue": "Cannot tell if the unit was occupied",
+   "ref": "see Utilities tab",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "item": "",
+   "prop": "34 vendor/property first-time pairs over $500 this month",
+   "issue": "Vendor billing a property for the first time this year, over $500 (8 are Pinal County Treasurer property tax, which is normal)",
+   "ref": "see Check 3 tab",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "OI-010",
+   "prop": "2515 S Pantano Pkwy Unit 1 (lease #1267)",
+   "issue": "$100 renewal fee paid, renewal #399 still In Progress (re-checked today)",
+   "ref": "renewal #399",
+   "amount": 100.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "2625 N Alvernon Way and 3028 N Castro Ave",
+   "issue": "TEP account 2837304122 is billed to both properties in the same month, Apr-Jul and again in October. Oct lines: Alvernon units 1, 11, 12, 13 and Castro",
+   "ref": "2837304122",
+   "amount": null
+  }
+ ],
+ "open_items": [
+  {
+   "id": "OI-001",
+   "status": "Open - both Aug sets still in Rentvine (not voided)"
+  },
+  {
+   "id": "OI-002",
+   "status": "Open - NOT re-verified in detail; May data was pulled and ties out but this item was not individually re-checked today"
+  },
+  {
+   "id": "OI-003",
+   "status": "Open - now PAID (was unpaid on 10/1); can no longer be held. Compare to City of Chandler statement and recover $88.84 or $87.41 if a duplicate"
+  },
+  {
+   "id": "OI-004",
+   "status": "Open - both copies still present and paid"
+  },
+  {
+   "id": "OI-005",
+   "status": "Open and WORSE - $9.49 still unpaid, plus a new unpaid $240.05 on 10/5"
+  },
+  {
+   "id": "OI-006",
+   "status": "Open - both bills now paid; overlap still unconfirmed"
+  },
+  {
+   "id": "OI-007",
+   "status": "Open - still on TEST property, unpaid. Three other unpaid bills ($1,300) also on TEST Property"
+  },
+  {
+   "id": "OI-008",
+   "status": "Open - still unpaid, still no property"
+  },
+  {
+   "id": "OI-009",
+   "status": "Open - both now paid, still no property"
+  },
+  {
+   "id": "OI-010",
+   "status": "Open - re-checked in Rentvine today, still In Progress"
+  },
+  {
+   "id": "OI-011",
+   "status": "Open - setting 46 unchanged"
+  },
+  {
+   "id": "OI-012",
+   "status": "Open - setting 49 unchanged"
+  },
+  {
+   "id": "OI-013",
+   "status": "NOT CHECKED - AppFolio was not reachable today. Treat as still open"
+  },
+  {
+   "id": "OI-014",
+   "status": "NOT CHECKED - AppFolio was not reachable today. Treat as still open"
+  },
+  {
+   "id": "OI-015",
+   "status": "NOT CHECKED - AppFolio was not reachable today. Treat as still open"
+  },
+  {
+   "id": "OI-016",
+   "status": "Open - bill still unpaid. Note the wider markup change to 20% (see YELLOW)"
+  }
+ ]
+}
