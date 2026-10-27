@@ -22,3 +22,15 @@ First seen: all items below were first seen on or before 2026-10-01 (the date th
 | OI-016 | 8580 W Monaco Blvd (AZ City Properties) — $11 markup on rekey #63809. Confirm the 10% upcharge is allowed. | Open |
 
 Resolved: (none yet)
+
+## Re-check 2026-10-27 (all 16 still open, none resolved; days open counted from 2026-10-01 = 26)
+- OI-003: bill 27827 ($88.84) is now PAID.
+- OI-005: recurred. Another $240.05 billed 10/5 to 10919 W Carmelita Cir on APS 0727621137 (paid).
+- OI-006: both bills now paid.
+- OI-007: SRP $216.10 still unpaid on TEST Property; three other TEST Property lines (2/19 $600, 7/1 $600, 7/30 $100) still present.
+- OI-008: 9/15, 9/9 and 9/28 SRP bills are now paid.
+- OI-010: renewal #399 still In Progress.
+- OI-011, OI-012: fee settings 46 and 49 unchanged.
+- OI-013 to OI-015: AppFolio fee records unchanged.
+- OI-016: not re-verified in October data.
+
