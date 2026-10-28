@@ -1,0 +1,1553 @@
+{
+ "date": "2026-10-28",
+ "findings": [
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1353 W Pima Ave",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "86255 10/26",
+   "amount": 67.78
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "860 E Brown Rd Units 21 - 24",
+   "issue": "Electric bill arrived while unit occupied: Jenifer Henson (in 09-28-2026, to 09-30-2027)",
+   "ref": "559-700-102 10/26",
+   "amount": 62.57
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1255 N Arizona Ave",
+   "issue": "Electric bill arrived while unit occupied: Jacob Smith, Jonathan Romero Calvillo (in 02-14-2024, to 02-28-2027)",
+   "ref": "1052127301 10/2026",
+   "amount": 289.78
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "208 S Doran",
+   "issue": "Electric bill arrived while unit occupied: Sean ODonnell (in 10-17-2025, to 10-31-2027)",
+   "ref": "904-089-008 10/26",
+   "amount": 186.32
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1750 E 6th Ave",
+   "issue": "Multi-unit/blank unit; occupied units exist: James Harbison, Michael Harbison (in 03-18-2022, to 03-31-2027); Elias Teran (in 04-10-2025, to 04-30-2027)",
+   "ref": "813-869-000",
+   "amount": 38.49
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "737 W 1st ave Mesa",
+   "issue": "Only a 'Closed' lease record with occupancy end after bill date: George Varela, Lauren Varela, Lauryah Moraga (in 03-05-2025, to 03-31-2027)",
+   "ref": "991150-127645 10/26",
+   "amount": 144.47
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1050 W University Dr",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "031-339-000 10/26",
+   "amount": 57.01
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3333 W 8th",
+   "issue": "Multi-unit/blank unit; occupied units exist: Dominick medina (in 06-23-2023, to 10-31-2027); Janell Moran (in 08-01-2016, to 01-31-2028)",
+   "ref": "2822001",
+   "amount": 895.78
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3333 W 8th",
+   "issue": "Multi-unit/blank unit; occupied units exist: Dominick medina (in 06-23-2023, to 10-31-2027); Janell Moran (in 08-01-2016, to 01-31-2028)",
+   "ref": "2822002",
+   "amount": 521.69
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3333 W 8th",
+   "issue": "Multi-unit/blank unit; occupied units exist: Dominick medina (in 06-23-2023, to 10-31-2027); Janell Moran (in 08-01-2016, to 01-31-2028)",
+   "ref": "",
+   "amount": 959.06
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3333 W 8th",
+   "issue": "No resident found / who-pays blank",
+   "ref": "2822004",
+   "amount": 100.18
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3333 W 8th",
+   "issue": "Multi-unit/blank unit; occupied units exist: Dominick medina (in 06-23-2023, to 10-31-2027); Janell Moran (in 08-01-2016, to 01-31-2028)",
+   "ref": "",
+   "amount": 770.98
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3333 W 8th",
+   "issue": "Multi-unit/blank unit; occupied units exist: Dominick medina (in 06-23-2023, to 10-31-2027); Janell Moran (in 08-01-2016, to 01-31-2028)",
+   "ref": "2822006",
+   "amount": 479.14
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3333 W 8th",
+   "issue": "Multi-unit/blank unit; occupied units exist: Dominick medina (in 06-23-2023, to 10-31-2027); Janell Moran (in 08-01-2016, to 01-31-2028)",
+   "ref": "2822010",
+   "amount": 71.32
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3333 W 8th",
+   "issue": "Multi-unit/blank unit; occupied units exist: Dominick medina (in 06-23-2023, to 10-31-2027); Janell Moran (in 08-01-2016, to 01-31-2028)",
+   "ref": "2822009",
+   "amount": 439.85
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3333 W 8th",
+   "issue": "Multi-unit/blank unit; occupied units exist: Dominick medina (in 06-23-2023, to 10-31-2027); Janell Moran (in 08-01-2016, to 01-31-2028)",
+   "ref": "2822011",
+   "amount": 61.78
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3333 W 8th",
+   "issue": "Multi-unit/blank unit; occupied units exist: Dominick medina (in 06-23-2023, to 10-31-2027); Janell Moran (in 08-01-2016, to 01-31-2028)",
+   "ref": "2822012",
+   "amount": 422.82
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3333 W 8th",
+   "issue": "No resident found / who-pays blank",
+   "ref": "2822025",
+   "amount": 91.71
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3333 W 8th",
+   "issue": "No resident found / who-pays blank",
+   "ref": "2822039",
+   "amount": 116.84
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "9435 W Magnum Dr",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "7474491219 10/29",
+   "amount": 86.11
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "11094 W Arvada Dr",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "0000810477 10/26",
+   "amount": 126.48
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "802 W Fairlane Ct",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "4313524886 10/26",
+   "amount": 12.63
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1702 W Shangri La Rd",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "6092705436 10/26",
+   "amount": 70.03
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "925 N. College unit C111, Tempe 85283",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "6473272296 10/26",
+   "amount": 68.87
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "10919 W Carmelita Cir",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "0727621137 10/26",
+   "amount": 240.05
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "860 E Brown Rd Units 21 - 24",
+   "issue": "Electric bill arrived while unit occupied: Jenifer Henson (in 09-28-2026, to 09-30-2027)",
+   "ref": "424-820-107 Final",
+   "amount": 12.44
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "(no property)",
+   "issue": "Electric bill with no property code",
+   "ref": "627-560-105 10/26",
+   "amount": 52.95
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "553 W Rio Salado Pkwy",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "611-120-102 10/26",
+   "amount": 82.15
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "4830 N 73Rd St Unit 10",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "049-959-001",
+   "amount": 25.62
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Allen",
+   "issue": "No resident found / who-pays blank",
+   "ref": "723-520-109 10/26",
+   "amount": 188.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "465 W Ivyglen St Building 6",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "964-310-109 10/26",
+   "amount": 46.54
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1631 West Cocopah Street",
+   "issue": "Only a 'Closed' lease record with occupancy end after bill date: Renee Mccowin, Nydisha Mccowin (in 05-02-2025, to 01-31-2027)",
+   "ref": "5601155871 10/26",
+   "amount": 26.12
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Boulder AJ",
+   "issue": "Electric bill arrived while unit occupied: April Garrett, Scott Silva (in 09-08-2023, to 09-30-2027)",
+   "ref": "956-148-000 10/26",
+   "amount": 255.79
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3313 W Harmont Dr",
+   "issue": "Multi-unit/blank unit; occupied units exist: Sabrina Valdez (in 12-26-2024, to 09-30-2027); Wesley Evans, Nashaan Tyrell Brooks (in 12-30-2025, to 12-31-2026)",
+   "ref": "531-269-002 10/26",
+   "amount": 57.45
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "644 S Mesa Dr",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "991150-124363 10/26",
+   "amount": 4.83
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1702 E 6th Ave",
+   "issue": "Only a 'Closed' lease record with occupancy end after bill date: Jose Luis Lozada (in 01-01-2012, to 10-31-2026)",
+   "ref": "314-489-000  11/26",
+   "amount": 73.82
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "208 S Doran",
+   "issue": "Electric bill arrived while unit occupied: Sean ODonnell (in 10-17-2025, to 10-31-2027)",
+   "ref": "904-089-008 11/26",
+   "amount": 139.97
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "2747 E Chipman Rd",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "285-950-104 10/26",
+   "amount": 70.98
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3136 N Winstel Blvd",
+   "issue": "Only a 'Closed' lease record with occupancy end after bill date: Alexander Standingwater, Naveena Ngeesikat-Pfohl (in 01-17-2026, to 01-17-2027)",
+   "ref": "9409114013 10/26",
+   "amount": 71.03
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3609 E Glenn St Units 1-3",
+   "issue": "No resident found / who-pays blank",
+   "ref": "2362628652 10/26",
+   "amount": 37.36
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "2625 N Alvernon Way",
+   "issue": "Electric bill arrived while unit occupied: Shane Santiago (in 02-01-2025, to 10-30-2026)",
+   "ref": "7342423684 10/26",
+   "amount": 37.99
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "2625 N Alvernon Way",
+   "issue": "Electric bill arrived while unit occupied: Linda A. Rhoades (in 11-03-2022, to 04-30-2027)",
+   "ref": "6734453338 10/26",
+   "amount": 32.91
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "2625 N Alvernon Way",
+   "issue": "Multi-unit/blank unit; occupied units exist: Shane Santiago (in 02-01-2025, to 10-30-2026); Linda A. Rhoades (in 11-03-2022, to 04-30-2027)",
+   "ref": "0751292995 10/26",
+   "amount": 110.42
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1702 E Prince Rd",
+   "issue": "Electric bill arrived while unit occupied: Rosenbaum Realty Group Rosenbaum Realty Group (in 10-08-2025, to 05-31-2027)",
+   "ref": "104722479 10/26",
+   "amount": 698.57
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "2625 N Alvernon Way",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "0608006180 10/26",
+   "amount": 47.04
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "T25-002 - 1701 N Village Dr",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "6125303914 10/26",
+   "amount": 87.62
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "T25-009 - 1715 N Village Dr",
+   "issue": "Electric bill arrived while unit occupied: Robert D. Flye Jr. (in 12-01-2021, to 10-31-2027)",
+   "ref": "5679495869 10/26",
+   "amount": 241.73
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1742 E 6th ave",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "138-120-103",
+   "amount": 57.34
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "2625 N Alvernon Way",
+   "issue": "Electric bill arrived while unit occupied: Shane Santiago (in 02-01-2025, to 10-30-2026)",
+   "ref": "2837304122 10/26",
+   "amount": 35.21
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "2625 N Alvernon Way",
+   "issue": "Electric bill arrived while unit occupied: Shane Santiago (in 02-01-2025, to 10-30-2026)",
+   "ref": "2837304122 10/26",
+   "amount": 46.81
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "2625 N Alvernon Way",
+   "issue": "Electric bill arrived while unit occupied: Peggy A. Rives (in 04-16-2014, to 04-30-2027)",
+   "ref": "2837304122 10/26",
+   "amount": 133.05
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "2625 N Alvernon Way",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "2837304122 10/26",
+   "amount": 33.22
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "2625 N Alvernon Way",
+   "issue": "Electric bill arrived while unit occupied: Joshua McClelland, Tashina Wilhorn (in 05-06-2026, to 05-31-2027)",
+   "ref": "2837304122 10/26",
+   "amount": 38.38
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3028 N Castro Ave",
+   "issue": "Only a 'Closed' lease record with occupancy end after bill date: Roberta L. Ewin (in 10-01-2024, to 12-31-2026); John-Henry Bailey (in 05-07-2025, to 05-31-2027)",
+   "ref": "2837304122 10/26",
+   "amount": 26.36
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "2625 N Alvernon Way",
+   "issue": "Multi-unit/blank unit; occupied units exist: Shane Santiago (in 02-01-2025, to 10-30-2026); Linda A. Rhoades (in 11-03-2022, to 04-30-2027)",
+   "ref": "2837304122 10/26",
+   "amount": 141.41
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "38095 W Cannataro Ln",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "364395 10/26",
+   "amount": 50.15
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "45047 W Bahia Dr",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "364983 10/26",
+   "amount": 31.34
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "8580 W Monaco Blvd.",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "6878419337 10/26",
+   "amount": 34.35
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "7872 S John Jacob Astor Ave",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "1799506158 10/26",
+   "amount": 131.98
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "10758 W Carousel Dr.",
+   "issue": "Only a 'Closed' lease record with occupancy end after bill date: alizae marie nix, Gary Montes (in 08-01-2026, to 07-31-2027)",
+   "ref": "2010552115 10/26",
+   "amount": 133.77
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1718 E 6th Ave",
+   "issue": "Electric bill arrived while unit occupied: Maria Teresa Diaz (in 11-19-2025, to 11-30-2026)",
+   "ref": "282-544-009 10/26",
+   "amount": 102.34
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1750 E 6th Ave",
+   "issue": "Electric bill arrived while unit occupied: Jennifer Mary Hammoudi (in 10-05-2026, to 09-30-2027)",
+   "ref": "515-447-008 10/26",
+   "amount": 41.37
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "860 E Brown Rd Units 21 - 24",
+   "issue": "Electric bill arrived while unit occupied: Jenifer Henson (in 09-28-2026, to 09-30-2027)",
+   "ref": "991150-131269 deposit",
+   "amount": 127.96
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "T25-037 2 - 4650 East 17th Street",
+   "issue": "No resident found / who-pays blank",
+   "ref": "2650768979 10/26",
+   "amount": 91.5
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3028 N Castro Ave",
+   "issue": "Only a 'Closed' lease record with occupancy end after bill date: Roberta L. Ewin (in 10-01-2024, to 12-31-2026); John-Henry Bailey (in 05-07-2025, to 05-31-2027)",
+   "ref": "3146967392 9/26 & 10/26",
+   "amount": 70.75
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3028 N Castro Ave",
+   "issue": "Only a 'Closed' lease record with occupancy end after bill date: Roberta L. Ewin (in 10-01-2024, to 12-31-2026); John-Henry Bailey (in 05-07-2025, to 05-31-2027)",
+   "ref": "3146967392 9/26 & 10/26",
+   "amount": 41.65
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "704 W 11Th St",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "2194091913 10/26",
+   "amount": 136.45
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "15237 S Moon Valley Rd",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "2038799797 10/26",
+   "amount": 4.74
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "756 E. Granada Avenue",
+   "issue": "Only a 'Closed' lease record with occupancy end after bill date: Danielle Xeankis, John Hiesel (in 03-24-2023, to 03-31-2027)",
+   "ref": "290-570-106 10/26",
+   "amount": 113.03
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "3860 E. Jude Lane",
+   "issue": "Only a 'Closed' lease record with occupancy end after bill date: Keena Alford (in 01-27-2024, to 03-31-2027)",
+   "ref": "301-720-107 10/26",
+   "amount": 389.4
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "10th ave AJ",
+   "issue": "Multi-unit/blank unit; occupied units exist: Tylor Lindstrom (in 02-07-2020, to 02-28-2027)",
+   "ref": "829-934-005",
+   "amount": 34.64
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "38095 W Cannataro Ln",
+   "issue": "Who-pays is Resident pays but no resident found (vacant?)",
+   "ref": "10553",
+   "amount": 285.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "P20-005 1",
+   "issue": "Electric bill while occupied: Martin, Nikolaus; Martin, Tristan; Rogos, Kyan (in 2025-11-01/2026-04-27, lease to 2027-04-30)",
+   "ref": "2168791381 10/26",
+   "amount": 47.95
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "P08-006",
+   "issue": "Electric bill created 10/21 after residents moved in 10/14: Aguilar, Samantha; Toto, William; Toto, Briella (lease to 2027-10-31)",
+   "ref": "(no ref)",
+   "amount": 39.42
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "P13-031 A",
+   "issue": "AppFolio electric bill; occupancy NOT checked (Realm-X times out on batch tenant questions; one property per query)",
+   "ref": "",
+   "amount": 22.89
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "P08-006",
+   "issue": "AppFolio electric bill; occupancy NOT checked (Realm-X times out on batch tenant questions; one property per query)",
+   "ref": "",
+   "amount": 15.33
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "P21-023 A",
+   "issue": "AppFolio electric bill; occupancy NOT checked (Realm-X times out on batch tenant questions; one property per query)",
+   "ref": "7367088632 10/26",
+   "amount": 25.6
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "P20-005 2",
+   "issue": "AppFolio electric bill; occupancy NOT checked (Realm-X times out on batch tenant questions; one property per query)",
+   "ref": "",
+   "amount": 65.61
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "P04-033",
+   "issue": "AppFolio electric bill; occupancy NOT checked (Realm-X times out on batch tenant questions; one property per query)",
+   "ref": "Final",
+   "amount": 4.86
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "P12-006",
+   "issue": "AppFolio electric bill; occupancy NOT checked (Realm-X times out on batch tenant questions; one property per query)",
+   "ref": "",
+   "amount": 33.76
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "P26-010",
+   "issue": "AppFolio electric bill; occupancy NOT checked (Realm-X times out on batch tenant questions; one property per query)",
+   "ref": "3144606974",
+   "amount": 6.74
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "P02-004 B",
+   "issue": "AppFolio electric bill; occupancy NOT checked (Realm-X times out on batch tenant questions; one property per query)",
+   "ref": "",
+   "amount": 1.32
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "P10-038",
+   "issue": "AppFolio electric bill; occupancy NOT checked (Realm-X times out on batch tenant questions; one property per query)",
+   "ref": "",
+   "amount": 35.85
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "P11-029",
+   "issue": "AppFolio electric bill; occupancy NOT checked (Realm-X times out on batch tenant questions; one property per query)",
+   "ref": "6745911153",
+   "amount": 101.18
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "P19-041",
+   "issue": "AppFolio electric bill; occupancy NOT checked (Realm-X times out on batch tenant questions; one property per query)",
+   "ref": "Final",
+   "amount": 91.26
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "P25-013",
+   "issue": "AppFolio electric bill; occupancy NOT checked (Realm-X times out on batch tenant questions; one property per query)",
+   "ref": "",
+   "amount": 191.24
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "P12-020",
+   "issue": "AppFolio electric bill; occupancy NOT checked (Realm-X times out on batch tenant questions; one property per query)",
+   "ref": "10/26 Final",
+   "amount": 26.63
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "(no property)",
+   "issue": "Same vendor and amount as ref 8160130400157669 \"Internet & Data\" ($286.98, paid 10/07), both with no property",
+   "ref": "(blank ref)",
+   "amount": 286.98
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "P12-006",
+   "issue": "Plain bill and \"-EX-\" bill for same amount ($429.00)",
+   "ref": "1226295 / TPH5XFZ-EX-1226295",
+   "amount": 429.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "P14-037 1",
+   "issue": "Plain bill $113.74 and EX bill lines $101.75 + $11.99 = $113.74",
+   "ref": "1241569 / TCK83T6-EX-1241569",
+   "amount": 113.74
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "9230 N. 6th St.",
+   "issue": "Second renewal fee in 2026 on same unit (earlier: 06-19-2026 $200.00)",
+   "ref": "",
+   "amount": 200.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "4401 E Contessa St",
+   "issue": "Second renewal fee in 2026 on same unit (earlier: 07-20-2026 $374.75)",
+   "ref": "",
+   "amount": 374.75
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "97th Place",
+   "issue": "Second renewal fee in 2026 on same unit (earlier: 07-20-2026 $200.00)",
+   "ref": "",
+   "amount": 200.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Pueblo Dr 9 unit Property",
+   "issue": "Second renewal fee in 2026 on same unit (earlier: 07-24-2026 $200.00)",
+   "ref": "",
+   "amount": 200.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1718 E 6th Ave",
+   "issue": "Second renewal fee in 2026 on same unit (earlier: 07-28-2026 $200.00)",
+   "ref": "",
+   "amount": 200.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "960 N Jay St",
+   "issue": "Second renewal fee in 2026 on same unit (earlier: 07-28-2026 $200.00)",
+   "ref": "",
+   "amount": 200.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "312 E Vine Cir",
+   "issue": "Second renewal fee in 2026 on same unit (earlier: 07-30-2026 $200.00)",
+   "ref": "",
+   "amount": 200.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "410 E 9th Ave",
+   "issue": "Second renewal fee in 2026 on same unit (earlier: 05-21-2026 $200.00)",
+   "ref": "",
+   "amount": 200.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OI-010",
+   "prop": "2515 S Pantano Pkwy Units 1-3",
+   "issue": "Renewal fee paid 9/1 but renewal #399 (lease 1267) is still In Progress",
+   "ref": "",
+   "amount": 100.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "902 E 4th Place",
+   "issue": "Same invoice posted twice (two $70 lines + two $14 markups, same ref and date); also a third Leo bill 1244634 on 10/8",
+   "ref": "1241430",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1718 E 6th Ave",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1238897 / 1241289",
+   "amount": 340.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Date",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241197 / 1244627",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "6440 Alder",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241211 / 1245615",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Palmer",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241237 / 1243759",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "918 1st ave",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241244 / 1243760",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "446 E 9th Ave",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241298 / 1244504",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "4650 Caballero St",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241303 / 1245510",
+   "amount": 50.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1741 East Pepper Cir",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241326 / 1244707",
+   "amount": 50.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "550 W 9th St",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241331 / 1244482",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "452 E 9th Ave",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241339 / 1243762",
+   "amount": 50.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "4704 E Caballero St",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241349 / 1245507",
+   "amount": 20.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Camino",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241357 / 1244728",
+   "amount": 50.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "4722 E Caballero St",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241370 / 1245493",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "410 E 9th Ave",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241381 / 1244509",
+   "amount": 400.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "4553 Caballero Cir",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241396 / 1244717",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "733 Morris Cir",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241398 / 1244512",
+   "amount": 50.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Fountain St",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241412 / 1244640 / 1254964",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "544 W 9th st",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241415 / 1244606",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "737 W 1st ave Mesa",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241422 / 1244593",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "902 E 4th Place",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241430 / 1244634",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "4541 E Caballero Cir",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241437 / 1244708",
+   "amount": 60.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "34W 7th St",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241533 / 1244629",
+   "amount": 50.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "6446 E Alder",
+   "issue": "Two \"Monthly Landscaping Service\" bills (same amount) within 30 days in October",
+   "ref": "1241536 / 1245613",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "T25-018 - 3635 E Bellevue vs (no property)",
+   "issue": "Trash bill posted twice on 9/2 (one on property, one with no property); the 10/2 bill is also on the no-property ledger",
+   "ref": "401325-120430",
+   "amount": 264.25
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OI-005",
+   "prop": "10919 W Carmelita Cir",
+   "issue": "Account belongs to 9230 N 6th St Unit 3 (same $9.49 also billed there 9/14)",
+   "ref": "0727621137 9/26",
+   "amount": 9.49
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "T25-035 1 - 3433 East Pima Street",
+   "issue": "Same reference on two bills in same month (different amounts): 02-16-2026 $500.00 51500: | 02-11-2026 $250.00 53023:",
+   "ref": "707329",
+   "amount": 250.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "9230 N. 6th St.",
+   "issue": "Same reference on two bills in same month (different amounts): 06-10-2026 $285.00 58000: | 06-23-2026 $620.00 58000:",
+   "ref": "7102753",
+   "amount": 285.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "21100 N Alma Dr",
+   "issue": "Same reference on two bills in same month (same amount): 06-10-2026 $196.68 52003: | 06-16-2026 $196.68 52003:",
+   "ref": "710876",
+   "amount": 196.68
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "836 E Junction",
+   "issue": "Same reference on two bills in same month (same amount): 06-10-2026 $1213.00 56027: | 06-23-2026 $1213.00 56027:",
+   "ref": "7109252",
+   "amount": 1213.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "940 S LaFayette Dr",
+   "issue": "Same reference on two bills in same month (different amounts): 06-10-2026 $135.00 58002: | 06-08-2026 $287.37 54003:",
+   "ref": "7109483",
+   "amount": 135.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "6446 E Alder",
+   "issue": "Same reference on two bills in same month (same amount): 06-10-2026 $210.00 57500: | 06-16-2026 $210.00 57502:",
+   "ref": "711216",
+   "amount": 210.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "24347 N Oasis Blvd",
+   "issue": "Same reference on two bills in same month (same amount): 06-10-2026 $1821.60 50252: | 06-16-2026 $1821.60 50250:",
+   "ref": "711225",
+   "amount": 1821.6
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "719 N Havasupai Ln",
+   "issue": "Same reference on two bills in same month (same amount): 06-10-2026 $163.20 52003: | 06-16-2026 $163.20 52003:",
+   "ref": "711240",
+   "amount": 163.2
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "T25-037 2 - 4650 East 17th Street",
+   "issue": "Same reference on two bills in same month (different amounts): 06-16-2026 $234.00 58000: | 06-05-2026 $54.00 58000:",
+   "ref": "711455",
+   "amount": 54.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "719 N Havasupai Ln",
+   "issue": "Same reference on two bills in same month (different amounts): 06-16-2026 $2124.51 56027: | 06-23-2026 $2650.11 56027:",
+   "ref": "7111062",
+   "amount": 2124.51
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Pueblo Dr 9 unit Property",
+   "issue": "Same reference on two bills in same month (different amounts): 03-05-2026 $137.75 52500: | 03-10-2026 $12.75 59751:",
+   "ref": "7076281",
+   "amount": 12.75
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "T25-064 - 3628 Jessica",
+   "issue": "Same reference on two bills in same month (same amount): 03-10-2026 $1325.50 54005: | 03-11-2026 $1325.50 54005:",
+   "ref": "707686",
+   "amount": 1325.5
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "8281 W Sandy Ln",
+   "issue": "Same reference on two bills in same month (different amounts): 03-11-2026 $1248.20 55000: | 03-19-2026 $95.00 57500:",
+   "ref": "7079142",
+   "amount": 95.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Fairfield",
+   "issue": "Same reference on two bills in same month (same amount): 07-02-2026 $22.50 58000: | 07-23-2026 $22.50 58000:",
+   "ref": "710736",
+   "amount": 22.5
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "6440 Alder",
+   "issue": "Same reference on two bills in same month (same amount): 07-02-2026 $1123.20 56027: | 07-14-2026 $1123.20 56027:",
+   "ref": "7114641",
+   "amount": 1123.2
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "2515 S Pantano Pkwy Units 1-3",
+   "issue": "Same reference on two bills in same month (same amount): 07-01-2026 $342.00 50252: | 07-21-2026 $342.00 50250:",
+   "ref": "711821",
+   "amount": 342.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "737 W 1st ave Mesa",
+   "issue": "Same reference on two bills in same month (same amount): 07-01-2026 $70.00 55000: | 07-14-2026 $70.00 55000:",
+   "ref": "711765",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "361 South 16th Place",
+   "issue": "Same reference on two bills in same month (same amount): 07-14-2026 $1626.90 58000: | 07-15-2026 $1626.90 58000:",
+   "ref": "711723",
+   "amount": 1626.9
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3452 N 67Th Dr",
+   "issue": "Same reference on two bills in same month (different amounts): 07-23-2026 $180.90 56027: | 07-01-2026 $97.00 56027:",
+   "ref": "7120071",
+   "amount": 97.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "2030 West Carson Road",
+   "issue": "Same reference on two bills in same month (different amounts): 04-15-2026 $143.90 54011: | 04-21-2026 $46.35 54011:",
+   "ref": "709375",
+   "amount": 46.35
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "4401 E Contessa St",
+   "issue": "Same reference on two bills in same month (same amount): 04-07-2026 $549.00 51500: | 04-20-2026 $549.00 51501:",
+   "ref": "7085633",
+   "amount": 549.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "8590 W Magnum",
+   "issue": "Same reference on two bills in same month (same amount): 04-20-2026 $1145.00 50760: | 04-22-2026 $1145.00 50752:",
+   "ref": "7089124",
+   "amount": 1145.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "13211 S Kin Circle",
+   "issue": "Same reference on two bills in same month (different amounts): 04-21-2026 $555.00 56027: | 04-30-2026 $647.00 56027:",
+   "ref": "7089053",
+   "amount": 555.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "770 N Dodge",
+   "issue": "Same reference on two bills in same month (different amounts): 04-21-2026 $150.00 57500: | 04-03-2026 $25.00 57503:",
+   "ref": "708886",
+   "amount": 25.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "T25-088 - 6229 E Fairmount",
+   "issue": "Same reference on two bills in same month (different amounts): 04-29-2026 $135.00 58000: | 04-20-2026 $608.00 50250:",
+   "ref": "709247",
+   "amount": 135.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "3313 W Harmont Dr",
+   "issue": "Same reference on two bills in same month (different amounts): 04-30-2026 $120.00 50250: | 04-23-2026 $282.70 50252:",
+   "ref": "709788",
+   "amount": 120.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "",
+   "prop": "725 W 1St Ave",
+   "issue": "Same reference on two bills in same month (same amount): 05-01-2026 $163.00 52003: | 05-13-2026 $163.00 52003:",
+   "ref": "709805",
+   "amount": 163.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OI-001",
+   "prop": "960 N Jay St",
+   "issue": "Billed twice for August (8/1 and 8/10, $86.00 each)",
+   "ref": "00007604 8/26",
+   "amount": 86.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OI-002",
+   "prop": "960 N Jay St",
+   "issue": "Billed twice for May (5/1 $93.12 in 2 lines; 5/11 $93.12)",
+   "ref": "00007604 05/26",
+   "amount": 93.12
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "OI-003",
+   "prop": "960 N Jay St",
+   "issue": "Second September bill; now PAID. Same $88.84 as the April bill",
+   "ref": "20230825-00007604 9/26",
+   "amount": 88.84
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OI-004",
+   "prop": "1750 E 6th Ave",
+   "issue": "Invoice 714121 posted twice (one with unit, one without)",
+   "ref": "714121",
+   "amount": 1102.2
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "OI-006",
+   "prop": "5034 E Holmes Ave",
+   "issue": "Two Sept bills $91.45 (9/22) and $20.75 (9/28): confirm no overlap",
+   "ref": "176-370-106",
+   "amount": 20.75
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "OI-007",
+   "prop": "TEST Property",
+   "issue": "Real SRP bill on TEST property",
+   "ref": "961-089-003 9/26",
+   "amount": 216.1
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "TEST Property",
+   "issue": "Lease Fee on TEST property",
+   "ref": "",
+   "amount": 600.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "TEST Property",
+   "issue": "Lease Fee on TEST property",
+   "ref": "",
+   "amount": 600.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "TEST Property",
+   "issue": "Bill on TEST property",
+   "ref": "713556",
+   "amount": 100.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "OI-008",
+   "prop": "SRP 569-479-000 (no property)",
+   "issue": "On owner ADELANTE Y ARRIBA LLC, no property; 9/9 (8/26) also $275.32 and 9/28 on 5415 W Minton Ave $144.87",
+   "ref": "569-479-000 9/26",
+   "amount": 275.32
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "OI-009",
+   "prop": "(no property)",
+   "issue": "Tenant ledger Wyler Wittwer, no property; payee shows Rosenbaum Realty Group",
+   "ref": "0223612022 9/26",
+   "amount": 183.01
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "OI-016",
+   "prop": "8580 W Monaco Blvd.",
+   "issue": "$11 markup (10% of $110); vendor bill still unpaid, markup paid",
+   "ref": "#63809",
+   "amount": 11.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "350 W Delano St Units 1 and 2",
+   "issue": "Same vendor, unit and amount ($166) 9/10 and 10/1, different refs",
+   "ref": "512820 / 506199",
+   "amount": 166.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "(no property)",
+   "issue": "HOA bill unpaid with no property code",
+   "ref": "29528070 10/26",
+   "amount": 772.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "(no property)",
+   "issue": "Interest expense unpaid, no property (company/owner ledger?)",
+   "ref": "Interest",
+   "amount": 2823.42
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "Delano St",
+   "issue": "Water/sewer 193% above 3-month avg ($391.39). RED threshold met vs 3-mo avg but no year-ago data (2026 pulls only)",
+   "ref": "1393947555578",
+   "amount": 1145.8
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "T25-009 - 1715 N Village Dr",
+   "issue": "Water/sewer 67% above 3-month avg ($148.75). RED threshold met vs 3-mo avg but no year-ago data (2026 pulls only)",
+   "ref": "1393947135398",
+   "amount": 247.79
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "T25-046 1 - 2632 N Richey Blvd #1",
+   "issue": "Water/sewer 57% above 3-month avg ($90.04). RED threshold met vs 3-mo avg but no year-ago data (2026 pulls only)",
+   "ref": "1393947123646",
+   "amount": 140.97
+  }
+ ],
+ "open_items": [
+  "OI-001",
+  "OI-002",
+  "OI-003",
+  "OI-004",
+  "OI-005",
+  "OI-006",
+  "OI-007",
+  "OI-008",
+  "OI-009",
+  "OI-010",
+  "OI-011",
+  "OI-012",
+  "OI-013",
+  "OI-014",
+  "OI-015",
+  "OI-016"
+ ]
+}
