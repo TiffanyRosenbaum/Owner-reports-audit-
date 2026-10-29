@@ -1,0 +1,73 @@
+Severity,Property,Unit,Vendor,Ref,Bill date,Amount,Paid
+RED electric occupied,860 E Brown Rd Units 21 - 24,860 E Brown Rd Unit 22,SRP,559-700-102 10/26,10-01-2026,$62.57,Yes
+RED electric occupied,1255 N Arizona Ave,1255 N Arizona Ave Unit 1,Capital Property ven,1052127301 10/2026,10-01-2026,$289.78,No
+RED electric occupied,208 S Doran,208 S Doran Unit 214,SRP,904-089-008 10/26,10-01-2026,$186.32,Yes
+RED electric occupied,3333 W 8th,3333 W. 8th St. - Laundry,Graham County Electr,2822004,10-07-2026,$100.18,Yes
+RED electric occupied,3333 W 8th,3333 W 8th St Bld - F07,Graham County Electr,2822025,10-07-2026,$91.71,Yes
+RED electric occupied,3333 W 8th,3333 W 8th St - F04,Graham County Electr,2822039,10-07-2026,$116.84,Yes
+RED electric occupied,860 E Brown Rd Units 21 - 24,860 E Brown Rd Unit 22,SRP,424-820-107 Final,10-06-2026,$12.44,Yes
+RED electric occupied,Boulder AJ,10550 (A),SRP,956-148-000 10/26,10-13-2026,$255.79,Yes
+RED electric occupied,208 S Doran,208 S Doran Unit 214,SRP,904-089-008 11/26,10-15-2026,$139.97,Yes
+RED electric occupied,2625 N Alvernon Way,T25-015 1 - 2625 N Alvern,TEP - Tucson Electri,7342423684 10/26,10-13-2026,$37.99,Yes
+RED electric occupied,2625 N Alvernon Way,T25-015 2 - 2625 North Al,TEP - Tucson Electri,6734453338 10/26,10-13-2026,$32.91,Yes
+RED electric occupied,1702 E Prince Rd,T25-039 2 - 1702 E Prince,TEP - Tucson Electri,104722479 10/26,10-13-2026,$698.57,Yes
+RED electric occupied,T25-009 - 1715 N Village Dr,T25-009 - 1715 N Village ,TEP - Tucson Electri,5679495869 10/26,10-14-2026,$241.73,Yes
+RED electric occupied,2625 N Alvernon Way,T25-015 1 - 2625 N Alvern,TEP - Tucson Electri,2837304122 10/26,10-15-2026,$35.21,Yes
+RED electric occupied,2625 N Alvernon Way,T25-015 1 - 2625 N Alvern,TEP - Tucson Electri,2837304122 10/26,10-15-2026,$46.81,Yes
+RED electric occupied,2625 N Alvernon Way,T25-015 11 - 2625 N Alver,TEP - Tucson Electri,2837304122 10/26,10-15-2026,$133.05,Yes
+RED electric occupied,2625 N Alvernon Way,T25-015 13 - 2625 North A,TEP - Tucson Electri,2837304122 10/26,10-15-2026,$38.38,Yes
+RED electric occupied,1718 E 6th Ave,1718 E 6th Ave,SRP,282-544-009 10/26,10-15-2026,$102.34,Yes
+RED electric occupied,1750 E 6th Ave,1750,SRP,515-447-008 10/26,10-15-2026,$41.37,Yes
+RED electric occupied,860 E Brown Rd Units 21 - 24,860 E Brown Rd Unit 22,City of Mesa,991150-131269 deposit,10-12-2026,$127.96,Yes
+YELLOW building-level,1750 E 6th Ave,,SRP,813-869-000,10-06-2026,$38.49,Yes
+YELLOW building-level,3333 W 8th,,Graham County Electr,2822001,10-07-2026,$895.78,Yes
+YELLOW building-level,3333 W 8th,,Graham County Electr,2822002,10-07-2026,$521.69,Yes
+YELLOW building-level,3333 W 8th,,Graham County Electr,,10-07-2026,$959.06,Yes
+YELLOW building-level,3333 W 8th,,Graham County Electr,,10-07-2026,$770.98,Yes
+YELLOW building-level,3333 W 8th,,Graham County Electr,2822006,10-07-2026,$479.14,Yes
+YELLOW building-level,3333 W 8th,,Graham County Electr,2822010,10-07-2026,$71.32,Yes
+YELLOW building-level,3333 W 8th,,Graham County Electr,2822009,10-07-2026,$439.85,Yes
+YELLOW building-level,3333 W 8th,,Graham County Electr,2822011,10-07-2026,$61.78,Yes
+YELLOW building-level,3333 W 8th,,Graham County Electr,2822012,10-07-2026,$422.82,Yes
+YELLOW building-level,,,SRP,627-560-105 10/26,10-05-2026,$52.95,Yes
+YELLOW building-level,3313 W Harmont Dr,,SRP,531-269-002 10/26,10-13-2026,$57.45,Yes
+YELLOW building-level,2625 N Alvernon Way,,TEP - Tucson Electri,0751292995 10/26,10-13-2026,$110.42,Yes
+YELLOW building-level,2625 N Alvernon Way,,TEP - Tucson Electri,2837304122 10/26,10-15-2026,$141.41,Yes
+YELLOW building-level,10th ave AJ,,SRP,829-934-005,10-22-2026,$34.64,No
+YELLOW no lease match,1353 W Pima Ave,1353 W Pima Ave,Hohokam Irrigation &,86255 10/26,10-01-2026,$67.78,Yes
+YELLOW no lease match,737 W 1st ave Mesa,737 W 1st Ave Apt 201,City of Mesa,991150-127645 10/26,10-05-2026,$144.47,Yes
+YELLOW no lease match,1050 W University Dr,1050 W University Dr Apt ,SRP,031-339-000 10/26,10-06-2026,$57.01,Yes
+YELLOW no lease match,9435 W Magnum Dr,9435 W Magnum Dr,APS,7474491219 10/29,10-07-2026,$86.11,Yes
+YELLOW no lease match,11094 W Arvada Dr,11094 W Arvada Dr,APS,0000810477 10/26,10-08-2026,$126.48,Yes
+YELLOW no lease match,802 W Fairlane Ct,802 W Fairlane Ct,APS,4313524886 10/26,10-06-2026,$12.63,Yes
+YELLOW no lease match,1702 W Shangri La Rd,1702 W Shangri La Rd Unit,APS,6092705436 10/26,10-05-2026,$70.03,Yes
+YELLOW no lease match,"925 N. College unit C111, Temp","925 N. College unit C111,",APS,6473272296 10/26,10-05-2026,$68.87,No
+YELLOW no lease match,10919 W Carmelita Cir,10919 W Carmelita Cir,APS,0727621137 10/26,10-05-2026,$240.05,Yes
+YELLOW no lease match,553 W Rio Salado Pkwy,Unit 201,SRP,611-120-102 10/26,10-06-2026,$82.15,Yes
+YELLOW no lease match,4830 N 73Rd St Unit 10,4830 N 73Rd St Unit 10,SRP,049-959-001,10-06-2026,$25.62,Yes
+YELLOW no lease match,Allen,322 S Allen,SRP,723-520-109 10/26,10-06-2026,$188.00,Yes
+YELLOW no lease match,465 W Ivyglen St Building 6,Unit 112,SRP,964-310-109 10/26,10-06-2026,$46.54,Yes
+YELLOW no lease match,1631 West Cocopah Street,1631 West Cocopah Street,APS,5601155871 10/26,10-02-2026,$26.12,No
+YELLOW no lease match,644 S Mesa Dr,654,City of Mesa,991150-124363 10/26,10-08-2026,$4.83,Yes
+YELLOW no lease match,1702 E 6th Ave,1714 E 6th Ave,SRP,314-489-000  11/26,10-15-2026,$73.82,Yes
+YELLOW no lease match,2747 E Chipman Rd,Unit 2,SRP,285-950-104 10/26,10-15-2026,$70.98,Yes
+YELLOW no lease match,3136 N Winstel Blvd,3136 N Winstel Blvd Unit ,TEP - Tucson Electri,9409114013 10/26,10-13-2026,$71.03,Yes
+YELLOW no lease match,3609 E Glenn St Units 1-3,T26-006 1 - 3609 East Gle,TEP - Tucson Electri,2362628652 10/26,10-13-2026,$37.36,Yes
+YELLOW no lease match,2625 N Alvernon Way,T25-015 6 - 2625 North Al,TEP - Tucson Electri,0608006180 10/26,10-14-2026,$47.04,Yes
+YELLOW no lease match,T25-002 - 1701 N Village Dr,T25-002 - 1701 N Village ,TEP - Tucson Electri,6125303914 10/26,10-14-2026,$87.62,Yes
+YELLOW no lease match,1742 E 6th ave,1746 E 6th Ave,SRP,138-120-103,10-15-2026,$57.34,No
+YELLOW no lease match,2625 N Alvernon Way,T25-015 12 - 2625 North A,TEP - Tucson Electri,2837304122 10/26,10-15-2026,$33.22,Yes
+YELLOW no lease match,3028 N Castro Ave,,TEP - Tucson Electri,2837304122 10/26,10-15-2026,$26.36,Yes
+YELLOW no lease match,38095 W Cannataro Ln,38095 W Cannataro Ln,Electrical District ,364395 10/26,10-14-2026,$50.15,Yes
+YELLOW no lease match,45047 W Bahia Dr,45047 W Bahia Dr,Electrical District ,364983 10/26,10-14-2026,$31.34,Yes
+YELLOW no lease match,8580 W Monaco Blvd.,8580 W Monaco Blvd Apt A,APS,6878419337 10/26,10-13-2026,$34.35,Yes
+YELLOW no lease match,7872 S John Jacob Astor Ave,7872 S John Jacob Astor A,APS,1799506158 10/26,10-13-2026,$131.98,Yes
+YELLOW no lease match,10758 W Carousel Dr.,Unit B,APS,2010552115 10/26,10-13-2026,$133.77,Yes
+YELLOW no lease match,T25-037 2 - 4650 East 17th Str,T25-037 3 - 4652 1/2 E17t,TEP - Tucson Electri,2650768979 10/26,10-12-2026,$91.50,Yes
+YELLOW no lease match,3028 N Castro Ave,,TEP - Tucson Electri,3146967392 9/26 & 10/2,10-05-2026,$70.75,Yes
+YELLOW no lease match,3028 N Castro Ave,,TEP - Tucson Electri,3146967392 9/26 & 10/2,10-05-2026,$41.65,Yes
+YELLOW no lease match,704 W 11Th St,704 W 11Th St Unit A,APS,2194091913 10/26,10-16-2026,$136.45,Yes
+YELLOW no lease match,15237 S Moon Valley Rd,15237 S Moon Valley Rd Un,APS,2038799797 10/26,10-20-2026,$4.74,Yes
+YELLOW no lease match,756 E. Granada Avenue,756 E. Granada Avenue,SRP,290-570-106 10/26,10-22-2026,$113.03,No
+YELLOW no lease match,3860 E. Jude Lane,3860 E. Jude Lane,SRP,301-720-107 10/26,10-21-2026,$389.40,No
+YELLOW no lease match,38095 W Cannataro Ln,38095 W Cannataro Ln,Rosenbaum Realty Gro,10553,10-01-2026,$285.00,No
