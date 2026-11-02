@@ -1,0 +1,149 @@
+{
+ "date": "2026-11-02",
+ "findings": [
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "N-001",
+   "prop": "4711 S Newport St",
+   "issue": "Lease Fee $499.00 posted twice on the same unit, same day (2 lines, GL 6200). Single-unit property. Likely duplicate.",
+   "ref": "Rosenbaum Realty Group / Lease Fee",
+   "amount": 499.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "N-002",
+   "prop": "902 E 4th Place",
+   "issue": "Two identical $70.00 lines, same ref 1241430, same date (GL 55000). Same invoice posted twice unless one bill has 2 lines.",
+   "ref": "Leo Landscaping / ref 1241430",
+   "amount": 70.0
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "N-003",
+   "prop": "414-416 E 9th St, T25-038 Unit 2",
+   "issue": "Two identical $28.20 trash lines, same ref 1339999-42502 10/26, same date (GL 59504). Same account, same service month.",
+   "ref": "City of Tucson / 1339999-42502 10/26",
+   "amount": 28.2
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "item": "N-004",
+   "prop": "10919 W Carmelita Cir",
+   "issue": "Account 0727621137 (APS, which OI-005 says belongs to 9230 N 6th St Unit 3) billed again in October, $240.05 electric, paid. Electric on this account has now posted for Sept and Oct.",
+   "ref": "APS / 0727621137 10/26",
+   "amount": 240.05
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "N-005",
+   "prop": "No property (ledger unknown)",
+   "issue": "Two TEP electric lines on acct 2837304122 posted with no property, unpaid, $58.32 + $27.74.",
+   "ref": "TEP / 2837304122",
+   "amount": 86.06
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "N-006",
+   "prop": "302 W Flores St, Tucson",
+   "issue": "TEP electric dated Oct 1 carries month tag 4/26 (six months old). Unpaid.",
+   "ref": "TEP / 1241441874 4/26",
+   "amount": 153.55
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "N-007",
+   "prop": "12 unpaid electric lines (Oct)",
+   "issue": "Electric bills while units may be occupied (Rule: any electric bill on an occupied unit is RED). Lease occupancy was NOT pulled this run, so cannot confirm. Properties: 1255 N Arizona Ave 1273, 925 N College C111, 1631 W Cocopah, 1746 E 6th Ave, 756 E Granada, 3860 E Jude Ln, 10th Ave AJ, 302 W Flores, 34 W 7th St, 737 W 1st Ave, plus 2 no-property TEP lines.",
+   "ref": "various",
+   "amount": 1285.89
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "N-008",
+   "prop": "8585 W Santa Cruz Blvd",
+   "issue": "Markup ref 1244703 $165.00 has no matching vendor bill line in October.",
+   "ref": "Rosenbaum Realty Group Markup / 1244703",
+   "amount": 165.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "item": "N-009",
+   "prop": "Markups (October, 228 lines)",
+   "issue": "168 markup lines are 20% of the vendor bill, 59 are 10%. Rules treat anything not 10% as YELLOW. Likely a policy by vendor type (landscaping, cleaning) but not documented.",
+   "ref": "Rosenbaum Realty Group Markup (GL 6600)",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "N-010",
+   "prop": "Lease renewal fees, Nov (20 lines, $25-$200) and 1718 E 6th Ave Unit 1722 (Oct, $200)",
+   "issue": "Renewal completion status was NOT verified (Rentvine list_leases returned HTTP 500). Rule: renewal fee with a renewal not Complete is RED.",
+   "ref": "Rosenbaum Realty Group GL 5649",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "N-011",
+   "prop": "Future-dated lease fees (Nov)",
+   "issue": "Lease Fee lines dated later than today: 9085 E Janice Way $1,625.00 (11-20), 1925 W Village Dr Unit 4 $450 (11-16), 9336 S 33rd Dr $650 (11-12), 16008 W Lilac St $650 (11-06), 770 N Dodge Apt 1 $299.50 (11-06).",
+   "ref": "Rosenbaum Realty Group GL 6200",
+   "amount": 3674.5
+  },
+  {
+   "sev": "RED",
+   "paid": "n/a",
+   "item": "N-012",
+   "prop": "AppFolio: Tanzi Family Trust",
+   "issue": "P13-040 is at 0% while P13-040 A, B, C, D (same owner) are at 9%. Same owner on different rates.",
+   "ref": "AppFolio fee setting",
+   "amount": null
+  },
+  {
+   "sev": "RED",
+   "paid": "n/a",
+   "item": "N-013",
+   "prop": "AppFolio: Royal Family Trust",
+   "issue": "Same owner on 8% (most), 8.5% (P21-031 B) and 9% (P23-003).",
+   "ref": "AppFolio fee setting",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "n/a",
+   "item": "N-014",
+   "prop": "AppFolio: TF- records",
+   "issue": "Many active TF- records at 0% or $0 flat (TF-009, TF-023, TF-023.1, TF-031, TF-035, TF-036, TF-037, TF-23, TF-34) and flat TF-2501 $1,800, TF-26 $2,200, TF-33 A/TF33 A/B $1,500. Need owner/portfolio check.",
+   "ref": "AppFolio fee setting",
+   "amount": null
+  }
+ ],
+ "open_items": [
+  "OI-001",
+  "OI-002",
+  "OI-003",
+  "OI-004",
+  "OI-005",
+  "OI-006",
+  "OI-007",
+  "OI-008",
+  "OI-009",
+  "OI-010",
+  "OI-011",
+  "OI-012",
+  "OI-013",
+  "OI-014",
+  "OI-015",
+  "OI-016"
+ ]
+}
