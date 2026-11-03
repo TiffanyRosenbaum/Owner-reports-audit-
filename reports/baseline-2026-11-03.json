@@ -1,0 +1,42 @@
+{
+ "date": "2026-11-03",
+ "status": "PARTIAL: Rentvine Oct+Nov only; no lease/renewal pull; AppFolio fees only",
+ "findings": [
+  {
+   "sev": "YELLOW",
+   "item": "Markup 20%",
+   "issue": "32 markup bills on 11/1 at 20% not 10%",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "item": "Old refs",
+   "issue": "6 bills 11/2 with old reference numbers, 2 without property",
+   "amount": null
+  },
+  {
+   "sev": "YELLOW",
+   "item": "Deposit",
+   "issue": "City of Mesa 991150-114657 $475 deposit on expense account, 452 E 9th Ave",
+   "amount": 475.0
+  }
+ ],
+ "open_items": [
+  "OI-001",
+  "OI-002",
+  "OI-003",
+  "OI-004",
+  "OI-005",
+  "OI-006",
+  "OI-007",
+  "OI-008",
+  "OI-009",
+  "OI-010",
+  "OI-011",
+  "OI-012",
+  "OI-013",
+  "OI-014",
+  "OI-015",
+  "OI-016"
+ ]
+}
