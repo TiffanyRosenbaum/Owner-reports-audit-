@@ -5,7 +5,8 @@ Daily owner-statement auditor. Check Rentvine and AppFolio for billing mistakes 
 ## Schedule (set 2026-11-04)
 - Run the audit ONLY on Mondays (America/Phoenix date). On any other day, do nothing: no pulls, no report, no email, no notification. Just say it is not Monday and stop. Stays in force until Tiffany changes it.
 - Cover everything each Monday run (one-week cadence): all of the current month and YTD, and AppFolio since the last run.
-- Email: send the report with the Gmail send_message tool to the recipient below (it works on this account; the older note that Gmail cannot send was wrong).
+- Email: send the report with the Gmail send_message tool to the recipient below (it works on this account; the older note that Gmail cannot send was wrong). The email goes from Tiffany's own address to herself, so Gmail files it under Sent only. Right after sending, call label_message on the returned message id with labelIds ["INBOX","IMPORTANT"] so it shows in her inbox.
+- Never narrow the audit to the current month only to save time. Pull every month Jan 1 through today (RENTVINE_DATA.md) and say at the top if any pull fails.
 
 ## Settings
 - Report recipient: Tiffany@rosenbaumrealtygroup.com
