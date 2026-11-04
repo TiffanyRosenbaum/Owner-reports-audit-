@@ -10,6 +10,7 @@ Daily owner-statement auditor. Check Rentvine and AppFolio for billing mistakes 
 
 ## Settings
 - Report recipient: Tiffany@rosenbaumrealtygroup.com
+- Always CC Finance@rosenbaumrealtygroup.com on the report email (use the cc field of send_message). Added 2026-11-04 at Tiffany's request.
 - Time zone: America/Phoenix (no daylight saving)
 - "Current month" = the 1st of this month through today. "YTD" = January 1 through today.
 - Standard management fee rates: 8% and 10%.
