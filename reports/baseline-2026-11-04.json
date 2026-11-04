@@ -1,0 +1,181 @@
+{
+ "date": "2026-11-04",
+ "findings": [
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "Y1",
+   "prop": "770 N Dodge (no unit)",
+   "issue": "Edge Plumbing LLC bills 'Monthly Landscaping' $495.00 (ref 1264756, 11/3, unpaid) while Desert Ground Solutions also bills monthly landscaping $240.00 (ref 1262",
+   "amount": 495.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "Y2",
+   "prop": "T25-002 - 1701 North Village",
+   "issue": "Edge Plumbing LLC bills 'Monthly Landscaping' $396.00 (ref 1264742, 11/3, unpaid) vs Desert Ground Solutions $120.00 (ref 1262310, 11/1, unpaid). Same pattern a",
+   "amount": 396.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "Y3",
+   "prop": "2030 W Carson Rd",
+   "issue": "Edge Plumbing LLC bills 'Monthly Pool Service' $197.76 (ref 1264630, 11/3, unpaid). Plumbing vendor billing pool service. Property also has OI-011 fee-setting m",
+   "amount": 197.76
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "Y4",
+   "prop": "3024 E Robin Ln",
+   "issue": "Repair Masters bills 'Pool - Complete Care' $228.00 (ref 1264737, 11/1, unpaid) coded 51507 Pool Cleaning; vendor is a repair vendor.",
+   "amount": 228.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "Y5",
+   "prop": "446 E 9th Ave",
+   "issue": "Schlink Plumbing 'Clear main sewer' $275.00 (ref 1264780, 11/2, unpaid) coded to 59503 Sewer Utility Expense - a repair coded as a utility.",
+   "amount": 275.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "Y6",
+   "prop": "452 E 9th Ave Unit 2",
+   "issue": "City of Mesa 'Deposit' $475.00 (ref 991150-114657 Deposit, 11/2, unpaid) coded 59111 Security Deposit - utility deposit charged on the owner statement.",
+   "amount": 475.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "Y7",
+   "prop": "(no property)",
+   "issue": "Repair Masters ref 1230694 'Service call - Dishwasher leak' $120.00 (11/2, bill 30492) has no property. Searched Jan 1 - Nov 4: no earlier copy found.",
+   "amount": 120.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "Y8",
+   "prop": "(no property)",
+   "issue": "Edge Plumbing LLC ref 1235267 'Kitchen faucet and tub diverter' $510.00 (11/2, bill 30494) has no property, plus a Rosenbaum Realty Group bill 30495 with the sa",
+   "amount": 510.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "Y9",
+   "prop": "Several (Markup pairs)",
+   "issue": "21 'Markup: Bill for Monthly Landscaping Service' lines from Rosenbaum Realty Group on 11/1. Markup is only a Markup pair if it equals 10% of the vendor bill; n",
+   "amount": 0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "Y10",
+   "prop": "6320 N 16th St",
+   "issue": "4 Lease Renewal Fee lines on 11/1 (different units). Renewal status (Complete vs In Progress) NOT verified for any of the 21 November renewal-fee lines.",
+   "amount": 0
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-001",
+   "issue": "Bills 24399 and 26408, 8/1 and 8/10, both Approved, not voided",
+   "status": "Still OPEN"
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-002",
+   "issue": "Bills 20324 (5/1) and 17599 (5/11) both still active",
+   "status": "Still OPEN"
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-003",
+   "issue": "Bill 27827 (9/25) still active; not re-compared to the city statement",
+   "status": "Still OPEN"
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-004",
+   "issue": "Bills 25095 and 25118 (ref 714121) both still active",
+   "status": "Still OPEN"
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-005",
+   "issue": "APS 0727621137 still billed (bills 26292, 27161, and new 29154 on 10/5); which property each posts to was not re-verified",
+   "status": "Still OPEN - NEEDS CHECK"
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-006",
+   "issue": "Not re-checked this run",
+   "status": "NOT RE-VERIFIED"
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-007",
+   "issue": "SRP bill 26717 still exists, Approved; property not re-verified (was TEST Property)",
+   "status": "Still OPEN"
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-008",
+   "issue": "Not re-checked this run",
+   "status": "NOT RE-VERIFIED"
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-009",
+   "issue": "Not re-checked this run",
+   "status": "NOT RE-VERIFIED"
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-010",
+   "issue": "Renewal #399 status not re-checked",
+   "status": "NOT RE-VERIFIED"
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-011",
+   "issue": "Fee setting 46 still named $99, configured $150",
+   "status": "Still OPEN"
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-012",
+   "issue": "Fee setting 49 still named $499 lease fee, configured $450",
+   "status": "Still OPEN"
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-013",
+   "issue": "AppFolio P20-005 Unit 1 at 10%, Unit 2 at 7.5%",
+   "status": "Still OPEN"
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-014",
+   "issue": "AppFolio P05-077 at 9% vs P21-023 at 8%",
+   "status": "Still OPEN"
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-015",
+   "issue": "TEST-ONLY 1%, blank $1 flat record, TEST MFR, TEST SFR, XX Corp 1% still active",
+   "status": "Still OPEN"
+  },
+  {
+   "sev": "OPEN",
+   "item": "OI-016",
+   "issue": "Rekey #63809 bills 26798 + markup 26799 unchanged; 10% upcharge still to confirm",
+   "status": "Still OPEN"
+  }
+ ]
+}
