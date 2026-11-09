@@ -1,0 +1,86 @@
+{
+ "date": "2026-11-09",
+ "findings": [
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "38095 W Cannataro Ln",
+   "issue": "Reference 1267238 is on two different carpet-cleaning bills: Dante Dimas $288.00 (11/5) and Kenia $316.80 (11/6). Each has its own 10% Markup bill ($2",
+   "ref": "1267238",
+   "amount": 665.28
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Paid",
+   "item": "",
+   "prop": "1440 N Idaho Rd Unit 1025",
+   "issue": "SRP electric 624-960-104 11/26 $125.99 (11/2, paid). Rentvine lists only closed leases for this address (ended 8/31/2026), so the unit looks vacant. I",
+   "ref": "624-960-104 11/26",
+   "amount": 125.99
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "446 E 9th Ave # A",
+   "issue": "Schlink Plumbing 'Clear main sewer' $275.00 is coded to 59503 Sewer Utility Expense. This is a repair, not a utility.",
+   "ref": "1264780",
+   "amount": 275.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "9435 W Magnum Dr",
+   "issue": "Phoenix EZ-Keys (a locksmith) billed 'Removal of all items' $450.00 under 51503 Trash out. Vendor and work do not match.",
+   "ref": "1267385",
+   "amount": 450.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "770 N Dodge",
+   "issue": "Edge Plumbing LLC billed 'Monthly Landscaping' $495.00 on 11/3 (account 55000). Plumber billing landscaping; Desert Ground Solutions already billed $2",
+   "ref": "1264756",
+   "amount": 495.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "2030 W Carson Rd",
+   "issue": "Edge Plumbing LLC billed 'Monthly Pool Service' $197.76. Plumber billing pool service. Same property as OI-011.",
+   "ref": "1264630",
+   "amount": 197.76
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "4704 E Caballero St",
+   "issue": "Repair Masters billed 'Monthly Landscaping' $800.00. Landscaping elsewhere on this street is billed by Leo Landscaping at $50-$900.",
+   "ref": "1267525",
+   "amount": 800.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "4541 E Caballero Cir",
+   "issue": "Leo Landscaping 'Monthly Landscaping' $900.00. Other monthly lines run $50-$200.",
+   "ref": "1267487",
+   "amount": 900.0
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "10919 W Carmelita Cir",
+   "issue": "Carpet cleaning $1,600.00 (3 rooms) from Five Star on 11/5. Same property as OI-005. Other Five Star carpet bills this month were $140 and $230.",
+   "ref": "1267722",
+   "amount": 1600.0
+  }
+ ]
+}
