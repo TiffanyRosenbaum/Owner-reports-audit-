@@ -6,81 +6,153 @@
    "paid": "Unpaid",
    "item": "",
    "prop": "38095 W Cannataro Ln",
-   "issue": "Reference 1267238 is on two different carpet-cleaning bills: Dante Dimas $288.00 (11/5) and Kenia $316.80 (11/6). Each has its own 10% Markup bill ($2",
+   "issue": "Ref 1267238 on two carpet-cleaning bills from different vendors: Dante Dimas $288.00 (11/5) and Kenia $316.80 (11/6), each with a 10% Markup bill ($28",
    "ref": "1267238",
    "amount": 665.28
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1332 Miller",
+   "issue": "APS 1256199566 billed twice for Aug: $106.64 (8/1, paid) and $107.12 (8/12, UNPAID).",
+   "ref": "12561995668/26",
+   "amount": 107.12
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "302 W Flores St (TEP 1241441874)",
+   "issue": "TEP account 12414418744/26 was billed to 1518 E Hedrick Dr in April and to 302 W Flores St on 10/1 ($153.55, UNPAID). Account moved properties.",
+   "ref": "12414418744/26",
+   "amount": 153.55
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "TEST Property",
+   "issue": "SRP 961-089-003 $216.10 posted to the TEST property (OI-007), still unpaid.",
+   "ref": "961-089-003",
+   "amount": 216.1
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "10919 W Carmelita Cir",
+   "issue": "APS 0727621137 belongs to 9230 N 6th St (billed there in June). Now billed to Carmelita (OI-005).",
+   "ref": "0727621137",
+   "amount": 9.49
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "1750 E 6th Ave and 8 other units",
+   "issue": "Renewal fee charged a second time on 10/22 for a unit with only ONE completed renewal (start 9/1/2026): 410 E 9th Ave Unit 4, 9230 N 6th St Unit 8, 44",
+   "ref": "",
+   "amount": 1774.75
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "6320 N 16th St Unit 31",
+   "issue": "Nov renewal fee $25 but renewal 526 is In Progress, not Complete.",
+   "ref": "",
+   "amount": 25
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "3609 E Glenn St Unit 3",
+   "issue": "Nov renewal fee $200 but renewal 559 is In Progress (starts 12/1).",
+   "ref": "",
+   "amount": 200
   },
   {
    "sev": "YELLOW",
    "paid": "Paid",
    "item": "",
-   "prop": "1440 N Idaho Rd Unit 1025",
-   "issue": "SRP electric 624-960-104 11/26 $125.99 (11/2, paid). Rentvine lists only closed leases for this address (ended 8/31/2026), so the unit looks vacant. I",
-   "ref": "624-960-104 11/26",
-   "amount": 125.99
+   "prop": "2515 S Pantano Pkwy Unit 1",
+   "issue": "$100 renewal fee paid 9/2; renewal 399 still In Progress (OI-010).",
+   "ref": "",
+   "amount": 100
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "350 W Delano St #2 and 1718 E 6th Ave",
+   "issue": "Nov renewal fees, but no renewal starts 11/1/2026 on the lease checked.",
+   "ref": "",
+   "amount": 400
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "Lot 198",
+   "issue": "Nov renewal fee $200; no lease found under that name.",
+   "ref": "",
+   "amount": 200
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "item": "",
+   "prop": "770 N Dodge Apt 24; 6320 N 16th Apt 212; 6320 N 16th Apt 8",
+   "issue": "Renewal fee on 11/1 but the renewal starts 12/1 (Apt 24, Apt 212) or 10/1 (Apt 8).",
+   "ref": "",
+   "amount": 250
   },
   {
    "sev": "YELLOW",
    "paid": "Unpaid",
    "item": "",
    "prop": "446 E 9th Ave # A",
-   "issue": "Schlink Plumbing 'Clear main sewer' $275.00 is coded to 59503 Sewer Utility Expense. This is a repair, not a utility.",
+   "issue": "Schlink Plumbing 'Clear main sewer' $275 coded to sewer utility.",
    "ref": "1264780",
-   "amount": 275.0
+   "amount": 275
   },
   {
    "sev": "YELLOW",
    "paid": "Unpaid",
    "item": "",
    "prop": "9435 W Magnum Dr",
-   "issue": "Phoenix EZ-Keys (a locksmith) billed 'Removal of all items' $450.00 under 51503 Trash out. Vendor and work do not match.",
+   "issue": "Locksmith billed $450 'Removal of all items' under Trash out.",
    "ref": "1267385",
-   "amount": 450.0
+   "amount": 450
   },
   {
    "sev": "YELLOW",
    "paid": "Unpaid",
    "item": "",
-   "prop": "770 N Dodge",
-   "issue": "Edge Plumbing LLC billed 'Monthly Landscaping' $495.00 on 11/3 (account 55000). Plumber billing landscaping; Desert Ground Solutions already billed $2",
+   "prop": "770 N Dodge / 2030 W Carson Rd",
+   "issue": "Edge Plumbing billed landscaping $495 and pool service $197.76.",
    "ref": "1264756",
-   "amount": 495.0
+   "amount": 692.76
   },
   {
    "sev": "YELLOW",
    "paid": "Unpaid",
    "item": "",
-   "prop": "2030 W Carson Rd",
-   "issue": "Edge Plumbing LLC billed 'Monthly Pool Service' $197.76. Plumber billing pool service. Same property as OI-011.",
-   "ref": "1264630",
-   "amount": 197.76
-  },
-  {
-   "sev": "YELLOW",
-   "paid": "Unpaid",
-   "item": "",
-   "prop": "4704 E Caballero St",
-   "issue": "Repair Masters billed 'Monthly Landscaping' $800.00. Landscaping elsewhere on this street is billed by Leo Landscaping at $50-$900.",
-   "ref": "1267525",
-   "amount": 800.0
-  },
-  {
-   "sev": "YELLOW",
-   "paid": "Unpaid",
-   "item": "",
-   "prop": "4541 E Caballero Cir",
-   "issue": "Leo Landscaping 'Monthly Landscaping' $900.00. Other monthly lines run $50-$200.",
-   "ref": "1267487",
-   "amount": 900.0
+   "prop": "4704 E Caballero St / 4541 E Caballero Cir",
+   "issue": "Monthly landscaping $800 (Repair Masters) and $900 (Leo).",
+   "ref": "",
+   "amount": 1700
   },
   {
    "sev": "YELLOW",
    "paid": "Unpaid",
    "item": "",
    "prop": "10919 W Carmelita Cir",
-   "issue": "Carpet cleaning $1,600.00 (3 rooms) from Five Star on 11/5. Same property as OI-005. Other Five Star carpet bills this month were $140 and $230.",
+   "issue": "Carpet cleaning $1,600 (3 rooms).",
    "ref": "1267722",
-   "amount": 1600.0
+   "amount": 1600
   }
  ]
 }
