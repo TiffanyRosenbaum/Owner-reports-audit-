@@ -1,0 +1,163 @@
+{
+ "date": "2026-11-16",
+ "findings": [
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "prop": "Rosenbaum Realty Group-owned lease \u2014 1324 N Farrell Court, Unit 1",
+   "issue": "Electric bill while unit occupied (lease 7/1/26\u20136/30/27, tenant Rosenbaum Realty Group); who-pays blank",
+   "ref": "SRP 490-607-008 11/26, $274.58, 11/10/26"
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "prop": "1324 N Farrell Court, Suites 2",
+   "issue": "Electric bill while unit occupied (lease tenant Tiffany Rosenbaum, 10/2/23\u201310/1/24, status Active); who-pays blank",
+   "ref": "SRP 317-057-004 11/26, $219.32, 11/10/26"
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "prop": "10919 W Carmelita Cir",
+   "issue": "APS account 0727621137 billed here again (belongs to 9230 N 6th St Unit 3 per OI-005); now repeats Sep/Oct/Nov",
+   "ref": "APS 0727621137 11/26, $69.68, 11/5/26 (bill 31074)"
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "prop": "Thatcher Gym ledger / 3333 W 8th",
+   "issue": "Same invoice posted twice: Rattlesnake Exterminating ref 111472 on Thatcher Gym ledger AND on 3333 W 8th",
+   "ref": "$62.50 x2, 11/11/26"
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "prop": "Thatcher Gym ledger / 3333 W 8th",
+   "issue": "Same invoice posted twice: B&D Air Conditioning ref 057873 on Thatcher Gym ledger AND on 3333 W 8th",
+   "ref": "$150.00 x2, 11/6/26"
+  },
+  {
+   "sev": "RED",
+   "paid": "Unpaid",
+   "prop": "302 W Flores St (contract ended 9/15/26) / 5811-5817 E 23rd St",
+   "issue": "TEP acct 1241441874 billed to 5811-5817 E 23rd St (Sep) then to 302 W Flores St (Oct): account on two properties",
+   "ref": "$153.55 (4/26 stale, 10/1) + $89.67 (10/26 final, 10/27), both unpaid"
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "prop": "15074 W Heritage Oak Way (resident pays)",
+   "issue": "Electric bill on move-in date; lease starts 11/2/26 (Goodwin)",
+   "ref": "APS 0067660041 11/26, $264.58, 11/2/26"
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "prop": "3520 N La Paz Dr (resident pays)",
+   "issue": "Electric bill on move-in date; lease starts 11/2/26 (Olvera)",
+   "ref": "APS 6942168687 11/26, $62.44, 11/2/26"
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "prop": "322 S Allen (who-pays blank)",
+   "issue": "Electric bill 1 day after move-in 11/2/26 (Campos)",
+   "ref": "SRP 723-520-109 11/26, $74.16, 11/3/26"
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "prop": "737 W 1st Ave Apt 201 (resident pays)",
+   "issue": "Electric bill while occupied: lease 4/1/26\u20133/31/27, occupancy end 3/31/27, but status shows Closed",
+   "ref": "City of Mesa 991150-127645 11/26, $83.96, 11/3/26"
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "prop": "38095 W Cannataro Ln",
+   "issue": "Same bill reference 1267238 used by two vendors for 51501 cleaning: Dante Dimas $288.00 (11/5) and Kenia $316.80 (11/6), each with 10% markup",
+   "ref": "$604.80 total + $60.48 markup"
+  },
+  {
+   "sev": "RED",
+   "paid": "Paid",
+   "prop": "Estate of Lagrant D Velde (Rentvine)",
+   "issue": "Same owner on different rates: 740 W Cinnabar & 1702 W Shangri La at 8%; 4830 N 73rd St Unit 10 at $150 flat",
+   "ref": "fee setting"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "prop": "Resident-pays electric, unit vacant",
+   "issue": "Billed to owner while no resident found: 1440 N Idaho Rd 1025 $125.99; 21274 E Roundup $34.02; 2925 N 19th #104 $47.10; 465 W Ivyglen Unit 112 $47.82; 553 W Rio Salado Unit 201 $45.54; 4830 N 73rd Unit 10 $52.19; 1702 W Shangri La Unit 3 $24.79; 925 N College C111 $33.06; 410 E 9th Unit 5 $47.13 (all paid)",
+   "ref": "11/26 bills"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Mixed",
+   "prop": "51 'Markup:' bills at 20% not 10%",
+   "issue": "Markups of exactly 20% of vendor bill (e.g. Leo Landscaping x22, Edge Plumbing x3, JSS Remodeling x2, Schlink x2); extra vs 10% approx $1,700",
+   "ref": "6600 Vendor Markup"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "prop": "Unpaid renewal fees not verified",
+   "issue": "Check 1 renewal status not verified for 12 unpaid renewal fees: 3028 N Castro Apt 10 $100 (property INACTIVE); 6320 N 16th St x5 $25; 16622 W Moreland $431.25; 4603 E Jones $200; 737 W 1st Apt 101 $200; 2747 E Chipman Unit 4 $200; 1491 E Dana $200; 6434 E Alder 101 $200; 3872 W Dancer $200",
+   "ref": "11/9\u201311/13"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "Unpaid",
+   "prop": "740 West Cinnabar Ave",
+   "issue": "Sewer up 112% (Oct $40.04 to Nov $84.74) while water +20%; sewer equals the trash line amount ($84.74) \u2014 possible miscoded line",
+   "ref": "City of Phoenix 2277512368 11/26 (paid)"
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "n/a",
+   "prop": "Rentvine fee setting 56",
+   "issue": "Name says '5% or $100 per unit whichever greater' but configured as 5% only",
+   "ref": ""
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "n/a",
+   "prop": "TEST Property (Rentvine id 496)",
+   "issue": "Still active, no November bills",
+   "ref": ""
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "n/a",
+   "prop": "AppFolio TEST records",
+   "issue": "TEST MFR, TEST SFR (10%), TEST-ONLY (1%), blank records active; also mixed owner rates: Tanzi Family Trust, Raymond Minhoto, Royal Family Trust, Bluevolt Horizon Path, Kocisko",
+   "ref": ""
+  },
+  {
+   "sev": "YELLOW",
+   "paid": "n/a",
+   "prop": "Active properties past contract end date",
+   "issue": "302 W Flores, 723 S Pantano, 1050 W University, 1126 E Mt Shibell, 2693 W Calle De Dalias, 4805 W Bluebell, 6265 N Saguaro Post, 6912 W Star Garden, 7254 S Avenida De La Palmar, 8181 N Brookshire, 9045 W Singing Winds, TEST",
+   "ref": "contract end dates"
+  }
+ ],
+ "open_items": [
+  "OI-001",
+  "OI-002",
+  "OI-003",
+  "OI-004",
+  "OI-005",
+  "OI-006",
+  "OI-007",
+  "OI-008",
+  "OI-009",
+  "OI-010",
+  "OI-011",
+  "OI-012",
+  "OI-013",
+  "OI-014",
+  "OI-015",
+  "OI-016"
+ ]
+}
