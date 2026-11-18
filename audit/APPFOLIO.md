@@ -18,4 +18,4 @@ Realm-X times out after 60 seconds on large questions. Rules that worked on 2026
 - "For property P22-023, is the tenant or the owner responsible for electric utilities?" works. Answers on 2026-10-01 said owner/company for P22-023, P05-081 and P13-031 A (default may apply when the field is blank).
 
 ## Status of coverage
-Audited 2026-10-01: September 1 to October 1. NOT yet audited: January to August, and AppFolio renewals. Do one month per run until caught up.
+Audited 2026-10-01: September 1 to October 1. NOT yet audited: January to August, and AppFolio renewals. Cover January to today on every Monday full audit (one week at a time per request); light days cover current + previous month.
