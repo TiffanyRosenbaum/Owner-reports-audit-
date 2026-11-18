@@ -16,4 +16,5 @@ Backfill order: 08, 07, ... 01. Each Monday run keeps going until all are cached
 - [ ] AppFolio bills Jan to today (week by week); Phase 2 if report emails exist
 - [ ] Every OPEN_ITEMS row re-checked
 - [ ] Report .md, .xlsx, dashboard .html, baseline .json saved; committed and pushed
+- [ ] Drive: master "Bills YTD" sheet updated and audit .xlsx uploaded to folder "Owner Statement Audit" (Tiffany@rosenbaumrealtygroup.com)
 - [ ] Email sent; Dashboard Artifact published; push notification sent
