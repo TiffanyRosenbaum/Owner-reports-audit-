@@ -17,4 +17,4 @@ All Jan-Nov cached as of 2026-11-23.
 - [x] Every OPEN_ITEMS row re-checked
 - [x] Report .md, .xlsx, dashboard .html, baseline .json saved; committed and pushed
 - [ ] Drive (NOT DONE for master sheet: 7.2 MB CSV exceeds the 4.2 MB per-call connector limit; folder + audit xlsx created 2026-11-23): master "Bills YTD" sheet updated and audit .xlsx uploaded to folder "Owner Statement Audit" (Tiffany@rosenbaumrealtygroup.com)
-- [x] Dashboard Artifact published (https://claude.ai/artifact/SfXdUHfCdH3RbLf3uTghdA)  - [ ] Email sent  - [ ] Push notification sent (see run log)
+- [x] Dashboard Artifact published (https://claude.ai/artifact/SfXdUHfCdH3RbLf3uTghdA)  - [x] Email sent  - [x] Push notification sent
