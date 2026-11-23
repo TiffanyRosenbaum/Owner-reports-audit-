@@ -25,4 +25,4 @@ Voided bills do not appear in this report.
 - The unit-management-fee report errors because a fee income account is not set in accounting settings. Skip it and say so once.
 
 ## Cache (added 2026-11-18)
-After a month's rows and Amount total tie to the report header, save its CSV as `data/bills/YYYY-MM.csv` (same format as the CSV export). Monday full audit: ensure every month Jan..current exists; re-pull current and previous month; re-pull all months on the first Monday of each quarter. Cached so far: 2026-09, 2026-10, 2026-11 (Nov is partial and must be re-pulled). Missing: 2026-01 to 2026-08.
+After a month's rows and Amount total tie to the report header, save its CSV as `data/bills/YYYY-MM.csv` (same format as the CSV export). Monday full audit: ensure every month Jan..current exists; re-pull current and previous month; re-pull all months on the first Monday of each quarter. Cached: 2026-01 to 2026-11 (Nov to 11-23; re-pull Nov and Oct each run).

@@ -19,3 +19,6 @@ Realm-X times out after 60 seconds on large questions. Rules that worked on 2026
 
 ## Status of coverage
 Audited 2026-10-01: September 1 to October 1. NOT yet audited: January to August, and AppFolio renewals. Cover January to today on every Monday full audit (one week at a time per request); light days cover current + previous month.
+
+## 2026-11-23 finding: Realm-X bills cannot be saved to disk
+Realm-X returns every result inline in the chat ("[Resource ... .csv]" text); nothing lands on disk, so weekly pulls cannot be assembled into a dataset by script (subagent attempt: Jul 22 to Aug 18 only, with suspicious empty weeks). Also add exclusions for Owner Draw, Clearing Account, Rent Income and Move Out Refund lines. Fee settings work (CSV, 688 properties). AppFolio bills remain UNAUDITED until a file-based export route exists.
