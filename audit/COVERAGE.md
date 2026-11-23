@@ -13,8 +13,8 @@ All Jan-Nov cached as of 2026-11-23.
 - [x] Check 3 account map (first-time vendor >$500 NOT run) across all months
 - [x] Check 4 duplicates (Rentvine) across all months (reference, account+service month, vendor/property/amount)
 - [~] Check 5 utilities: occupancy for ALL bills done; spikes vs trailing 3 months only (last-year baseline NOT pulled)
-- [ ] AppFolio bills Jan to today: NOT DONE. Realm-X returns rows inline only (cannot be saved to a file), pulls for Jul-Nov were partial/unreliable, Jan-Jun not delivered. Needs a different approach (e.g. AppFolio export to Drive, or per-property questions).
+- [~] AppFolio bills Jan-Nov cached in data/appfolio/bills/ (completeness UNCONFIRMED; AppFolio occupancy/electric/spike checks not run)
 - [x] Every OPEN_ITEMS row re-checked
 - [x] Report .md, .xlsx, dashboard .html, baseline .json saved; committed and pushed
-- [ ] Drive (NOT DONE for master sheet: 7.2 MB CSV exceeds the 4.2 MB per-call connector limit; folder + audit xlsx created 2026-11-23): master "Bills YTD" sheet updated and audit .xlsx uploaded to folder "Owner Statement Audit" (Tiffany@rosenbaumrealtygroup.com)
+- [~] Drive: 11 monthly ledger sheets "Bills YTD 2026-MM" + audit xlsx uploaded (split approved; no single combined master sheet)
 - [x] Dashboard Artifact published (https://claude.ai/artifact/SfXdUHfCdH3RbLf3uTghdA)  - [x] Email sent  - [x] Push notification sent

@@ -94,5 +94,15 @@ for x in F['bill_outside_contract']:
     if x['m']>='2026-09' and x['prop']: add('YELLOW','3 Wrong building (outside contract dates)',x['prop'],'',f"Bill dated {x['date']} outside contract {x['cb']} to {x['ce']}.",x['payee'],x['acct'],x['ref'],x['amt'],x['date'],'Paid' if x['paid'] else 'Unpaid','Confirm contract status.')
 for x in F['bill_no_property']:
     if x['m']>='2026-10': add('YELLOW','3 No property on bill',[],'',f"Bill has no property code ({x['desc']}). May be an owner/company/tenant ledger.",x['payee'],x['acct'],x['ref'],x['amt'],x['date'],'Paid' if x['paid'] else 'Unpaid','Resolve the ledger (owner/company/tenant).')
+if len(sys.argv)>4:
+    A=json.load(open(sys.argv[4]))
+    for x in A['uploaded_invoice_plus_workorder_bill']:
+        add('RED','AppFolio 4 Duplicate (uploaded invoice + work-order bill)',x['prop'],'',f"Uploaded Invoice {x['uploaded'][0][0]} ({x['uploaded'][0][2]}, {x['uploaded'][0][1]}) and work-order bill {x['workorder'][0][0]} ({x['workorder'][0][2]}, {x['workorder'][0][1]}) for the same vendor, property and amount ${x['amt']:,.2f}.",x['vendor'],'','',x['amt'],x['workorder'][0][1],'Unpaid' if x['workorder'][0][2]=='Unpaid' else 'Paid','Do not pay the unpaid copy; void it.',group='AppFolio')
+    for x in A['same_ref_two_bills']:
+        add('RED','AppFolio 4 Duplicate / reused reference',', '.join(x['props']),'',f"Reference {x['ref']} is on two bills: totals {x['totals']} on {x['dates']} (status {x['paid']}).",x['vendor'],'',x['ref'],min(x['totals'].values()),x['dates'][-1],'Part unpaid' if 'Unpaid' in x['paid'] else 'Paid','Compare to the vendor invoice; void the wrong one.',group='AppFolio')
+    for x in A['same_vendor_prop_amount_same_month']:
+        add('RED','AppFolio 4 Duplicate (same vendor/property/amount)',x['prop'],'',f"Same vendor, property and amount ${x['amt']:,.2f}: ref {x['a'][0]} ({x['a'][1]}) and ref {x['b'][0]} ({x['b'][1]}).",x['vendor'],'',x['b'][0],x['amt'],x['b'][1],'Paid' if x['b'][2]=='Paid' else 'Unpaid','Confirm two separate jobs.',group='AppFolio')
+    for x in A['markup_not_10pct']:
+        add('YELLOW','AppFolio 4 Markup not 10%',x['prop'],'',f"Markup is {x['pct']}% of the vendor bill (vendor ${x['vendor_amt']:,.2f}, markup ${x['markup']:,.2f}).",'','6620 Other Expenses',x['ref'],x['markup']-x['vendor_amt']*.1,'', 'Paid' if x['status']=='Paid' else 'Unpaid','Confirm the markup rate.',group='AppFolio')
 json.dump(out,open(sys.argv[3],'w'),indent=1)
 c=collections.Counter((o['sev'],o['paid']) for o in out);print(len(out),c)
