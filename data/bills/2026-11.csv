@@ -1,25 +1,32 @@
 "Expense Distribution"
-"Date Range:  between 11-01-2026 and 11-16-2026"
+"Date Range:  between 11-01-2026 and 11-23-2026"
 ,,,,,,,,
 "Property Code","Unit Code",Payee,Account,"Bill Reference","Charge Description",Amount,"Bill Date","Is Paid"
-"3028 N Castro Ave","T25-017 10 - 3028 N Castro Ave Apt 10","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$100.00,11-01-2026,No
+"3028 N Castro Ave","T25-017 10 - 3028 N Castro Ave Apt 10","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$100.00,11-01-2026,Yes
 "455 West Kelso Street","T25-030 5 - 455 W Kelso St #113","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-01-2026,Yes
 "T25-009 - 1715 N Village Dr","T25-009 - 1715 N Village Dr","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-01-2026,Yes
 "4002-4004 S Lundy Ave","T26-021 1 - 4002 S Lundy Ave Unit 1","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-01-2026,Yes
 "455 West Kelso Street","T25-030 11 - 455 W Kelso St #134","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-01-2026,Yes
+"15716 E Chapala St","15716 E Chapala St",Chase,"55750: Mortgage Expense",,,"$1,649.01",11-01-2026,Yes
+"15716 E Chapala St","15716 E Chapala St",Chase,"55752: Mortgage Interest Exp",,,"$2,916.27",11-01-2026,Yes
+"15716 E Chapala St","15716 E Chapala St",Chase,"59254: Property Taxes Exp",,,$125.00,11-01-2026,Yes
+"15716 E Chapala St","15716 E Chapala St",Chase,"56020: Insurance Expense",,,$613.34,11-01-2026,Yes
 "770 N Dodge","T25-001 12 - 770 N Dodge Ave Apt 12","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-01-2026,Yes
 "770 N Dodge","T25-001 19 - 770 N Dodge Ave Apt 19","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-01-2026,Yes
 "770 N Dodge","T25-001 24 - 770 N Dodge Ave Apt 24","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-01-2026,Yes
-"6320 N 16th St","Unit 31","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$25.00,11-01-2026,No
-"6320 N 16th St","6320 N 16th St Apt 8","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$25.00,11-01-2026,No
-"6320 N 16th St","6320 N 16th St Apt 5","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$25.00,11-01-2026,No
+"6320 N 16th St","Unit 31","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$25.00,11-01-2026,Yes
+"9085 East Janice Way","9085 East Janice Way","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee","$1,625.00",11-20-2026,No
+"6320 N 16th St","6320 N 16th St Apt 8","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$25.00,11-01-2026,Yes
+"1201 E Weber Dr",,Chase,"55750: Mortgage Expense",,,$521.30,11-01-2026,Yes
+"1201 E Weber Dr",,Chase,"55752: Mortgage Interest Exp",,,"$2,188.58",11-01-2026,Yes
+"6320 N 16th St","6320 N 16th St Apt 5","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$25.00,11-01-2026,Yes
 "4711 S Newport St","4711 S Newport St","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$499.00,11-01-2026,Yes
 "4711 S Newport St","4711 S Newport St","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$499.00,11-01-2026,Yes
 "15074 W Heritage Oak Way","15074 W Heritage Oak Way","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$899.50,11-02-2026,Yes
 "553 W Rio Salado Pkwy","Unit D","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal",$25.00,11-01-2026,Yes
-"6320 N 16th St","6320 N 16th St Apt 212","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease renewal",$25.00,11-01-2026,No
+"6320 N 16th St","6320 N 16th St Apt 212","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease renewal",$25.00,11-01-2026,Yes
 "350 W Delano St Units 1 and 2","T25-031 2 - 350 W Delano St #2","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-01-2026,Yes
-"86 North Monitor Row","86 North Monitor Row","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$300.00,11-02-2026,Yes
+"86 N Monitor Row","86 N Monitor Row","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$300.00,11-02-2026,Yes
 "1201 E Weber Dr","Unit B","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-01-2026,Yes
 "1495 E. 29th Ave","1495 E 29th Ave Apt 4","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-01-2026,Yes
 "8580 W Monaco Blvd.","8580 W Monaco Blvd Apt D","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-01-2026,Yes
@@ -27,10 +34,10 @@
 "3520 N La Paz Dr","3520 N La Paz Dr","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$724.50,11-02-2026,Yes
 "410 E 9th Ave","Unit 7","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$582.50,11-02-2026,Yes
 Allen,"322 S Allen","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$447.50,11-02-2026,Yes
-"1925 W Village Dr Units 1-4","1925 W Village Dr Unit 4","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$450.00,11-16-2026,No
+"1925 W Village Dr Units 1-4","1925 W Village Dr Unit 4","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$450.00,11-16-2026,Yes
 "8888 West Swansea Drive","8888 West Swansea Drive","UWS - Universal Waste Systems, Inc.","59504: Trash Utility Expense",284928,"284928 11/26",$55.00,11-01-2026,Yes
 "1050 W University Dr","Unit 102","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$25.00,11-01-2026,Yes
-"9336 S 33Rd Dr","9336 S 33Rd Dr","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$650.00,11-12-2026,No
+"9336 S 33Rd Dr","9336 S 33Rd Dr","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$650.00,11-12-2026,Yes
 "16008 W Lilac St","16008 W Lilac St","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$650.00,11-06-2026,Yes
 "770 N Dodge","T25-001 1 - 770 N Dodge Ave Apt 1","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$299.50,11-06-2026,Yes
 "4541 E Caballero Cir",3,"Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-01-2026,Yes
@@ -413,7 +420,7 @@ Shiloh,Shiloh,"Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/202
 "3846 West Morgan Lane","3846 West Morgan Lane","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-02-2026,Yes
 "3846 West Morgan Lane","3846 West Morgan Lane","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-02-2026,Yes
 "3810 W Naomi Ln","3810 W Naomi Ln","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$0.01,11-02-2026,Yes
-"1126 E Mt. Shibell Dr.","1126 E Mt. Shibell Dr.","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$99.00,11-02-2026,No
+"1126 E Mt. Shibell Dr.","1126 E Mt. Shibell Dr.","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$99.00,11-02-2026,Yes
 ,,"Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$85.00,11-02-2026,Yes
 ,,"Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$67.96,11-02-2026,Yes
 ,,"Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$150.00,11-02-2026,Yes
@@ -640,10 +647,10 @@ Shiloh,Shiloh,"Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/202
 "T25-066 - 3726 N Estrella Ln","T25-066 - 3726 N Estrella Ln","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$130.00,11-02-2026,Yes
 "T25-046 1 - 2632 N Richey Blvd #1","T25-046 1 - 2632 N Richey Blvd #1","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$103.00,11-02-2026,Yes
 "T25-046 1 - 2632 N Richey Blvd #1","T25-046 1 - 2632 N Richey Blvd #1","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-02-2026,Yes
-"8736 West Lockland Court","8736 West Lockland Court","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$134.94,11-02-2026,No
-"8736 West Lockland Court","8736 West Lockland Court","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$44.98,11-02-2026,No
-"8736 West Lockland Court","8736 West Lockland Court","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-02-2026,No
-"8736 West Lockland Court","8736 West Lockland Court","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-02-2026,No
+"8736 West Lockland Court","8736 West Lockland Court","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$134.94,11-02-2026,Yes
+"8736 West Lockland Court","8736 West Lockland Court","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$44.98,11-02-2026,Yes
+"8736 West Lockland Court","8736 West Lockland Court","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-02-2026,Yes
+"8736 West Lockland Court","8736 West Lockland Court","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-02-2026,Yes
 "8736 West Lockland Court","8736 West Lockland Court","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-02-2026,Yes
 "900 S 94th St Apt 1076","900 S 94th St Apt 1076","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$150.00,11-02-2026,Yes
 "900 S 94th St Apt 1076","900 S 94th St Apt 1076","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$41.98,11-02-2026,Yes
@@ -1198,17 +1205,17 @@ Linda,"512 E Linda Ave Apt 4","Rosenbaum Realty Group","43039: Pet Admin Fee",,"
 "820 E Junction","824 E Junction St","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-02-2026,Yes
 "820 E Junction","824 E Junction St","Rosenbaum Realty Group","43039: Pet Admin Fee",,"Pet Admin Fee for 11/2026",$85.00,11-02-2026,Yes
 "820 E Junction","824 E Junction St","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-02-2026,Yes
-"1414 E 25Th Ave Units 1 - 4","1414 E 25Th Ave Unit 1","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$108.00,11-02-2026,Yes
-"1414 E 25Th Ave Units 1 - 4","1414 E 25Th Ave Unit 1","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$40.50,11-02-2026,Yes
-"1414 E 25Th Ave Units 1 - 4","1414 E 25Th Ave Unit 1","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-02-2026,Yes
-"1414 E 25Th Ave Units 1 - 4","1414 E 25Th Ave Unit 2","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$106.00,11-02-2026,Yes
-"1414 E 25Th Ave Units 1 - 4","1414 E 25Th Ave Unit 2","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$41.75,11-02-2026,Yes
-"1414 E 25Th Ave Units 1 - 4","1414 E 25Th Ave Unit 2","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-02-2026,Yes
-"1414 E 25Th Ave Units 1 - 4","1414 East 25th Avenue Unit 3","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$103.60,11-02-2026,Yes
-"1414 E 25Th Ave Units 1 - 4","1414 East 25th Avenue Unit 3","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$40.85,11-02-2026,Yes
-"1414 E 25Th Ave Units 1 - 4","1414 East 25th Avenue Unit 3","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-02-2026,Yes
-"1414 E 25Th Ave Units 1 - 4","1414 East 25th Avenue Unit 4","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$100.00,11-02-2026,Yes
-"1414 E 25Th Ave Units 1 - 4","1414 East 25th Avenue Unit 4","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$39.50,11-02-2026,Yes
+"1414 E 25th Ave","1414 E 25Th Ave Unit 1","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$108.00,11-02-2026,Yes
+"1414 E 25th Ave","1414 E 25Th Ave Unit 1","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$40.50,11-02-2026,Yes
+"1414 E 25th Ave","1414 E 25Th Ave Unit 1","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-02-2026,Yes
+"1414 E 25th Ave","1414 E 25th Ave Unit 2","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$106.00,11-02-2026,Yes
+"1414 E 25th Ave","1414 E 25th Ave Unit 2","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$41.75,11-02-2026,Yes
+"1414 E 25th Ave","1414 E 25th Ave Unit 2","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-02-2026,Yes
+"1414 E 25th Ave","1414 East 25th Avenue Unit 3","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$103.60,11-02-2026,Yes
+"1414 E 25th Ave","1414 East 25th Avenue Unit 3","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$40.85,11-02-2026,Yes
+"1414 E 25th Ave","1414 East 25th Avenue Unit 3","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-02-2026,Yes
+"1414 E 25th Ave","1414 East 25th Avenue Unit 4","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$100.00,11-02-2026,Yes
+"1414 E 25th Ave","1414 East 25th Avenue Unit 4","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$39.50,11-02-2026,Yes
 "22nd Ave Phx",B,"Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$108.00,11-02-2026,Yes
 "22nd Ave Phx",B,"Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-02-2026,Yes
 "22nd Ave Phx",B,"Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$27.00,11-02-2026,Yes
@@ -1473,10 +1480,10 @@ Allen,"322 S Allen","Rosenbaum Realty Group","4002: Resident Benefit Package",,"
 "6434 E Alder",103,"Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$21.90,11-02-2026,Yes
 "6434 E Alder",103,"Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-02-2026,Yes
 "6434 E Alder",103,"Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-02-2026,Yes
-"6434 E Alder","6434 E Alder Ave Apt 203","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$87.60,11-02-2026,Yes
-"6434 E Alder","6434 E Alder Ave Apt 203","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$21.90,11-02-2026,Yes
-"6434 E Alder","6434 E Alder Ave Apt 203","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-02-2026,Yes
-"6434 E Alder","6434 E Alder Ave Apt 203","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-02-2026,Yes
+"6434 E Alder","6434 E Alder Ave Apt 203 - Upstairs Unit 103 is below","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$87.60,11-02-2026,Yes
+"6434 E Alder","6434 E Alder Ave Apt 203 - Upstairs Unit 103 is below","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$21.90,11-02-2026,Yes
+"6434 E Alder","6434 E Alder Ave Apt 203 - Upstairs Unit 103 is below","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-02-2026,Yes
+"6434 E Alder","6434 E Alder Ave Apt 203 - Upstairs Unit 103 is below","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-02-2026,Yes
 "4553 Caballero Cir","4553 E Caballero Cir Apt 1","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$103.92,11-02-2026,Yes
 "4553 Caballero Cir","4553 E Caballero Cir Apt 1","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$25.98,11-02-2026,Yes
 "4553 Caballero Cir","4553 E Caballero Cir Apt 1","Rosenbaum Realty Group","43039: Pet Admin Fee",,"Pet Admin Fee for 11/2026",$130.00,11-02-2026,Yes
@@ -2031,8 +2038,8 @@ Palmer,"1502 W Palmer Dr Unit A","Rosenbaum Realty Group","53038: Management Fee
 "3333 W 8th St Units A-F","3333 W 8th St Unit #B","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$1.30,11-02-2026,Yes
 "3333 W 8th St Units A-F","3333 W 8th St Unit #D","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$85.00,11-02-2026,Yes
 "3333 W 8th St Units A-F","3333 W 8th St Unit #D","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$11.30,11-02-2026,Yes
-"3333 W 8th St Thatcher Gym","3333 W 8th St Thatcher Gym","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$85.00,11-02-2026,No
-,,"Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$85.00,11-02-2026,No
+"3333 W 8th St Thatcher Gym","3333 W 8th St Thatcher Gym","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$85.00,11-02-2026,Yes
+,,"Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$85.00,11-02-2026,Yes
 "1255 N Arizona Ave","1255 N Arizona Ave Unit 1273","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$179.92,11-02-2026,Yes
 "1255 N Arizona Ave","1255 N Arizona Ave Unit 1273","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$44.98,11-02-2026,Yes
 "1255 N Arizona Ave","1255 N Arizona Ave Unit 1273","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-02-2026,Yes
@@ -2114,11 +2121,11 @@ Palmer,"1502 W Palmer Dr Unit A","Rosenbaum Realty Group","53038: Management Fee
 "1201 E Weber Dr","Unit B","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$34.00,11-02-2026,Yes
 "1201 E Weber Dr","Unit B","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-02-2026,Yes
 "1201 E Weber Dr","Unit B","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-02-2026,Yes
-"86 North Monitor Row","86 North Monitor Row","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$125.74,11-02-2026,Yes
-"86 North Monitor Row","86 North Monitor Row","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$333.70,11-02-2026,Yes
-"86 North Monitor Row","86 North Monitor Row","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-02-2026,Yes
-"86 North Monitor Row","86 North Monitor Row","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-02-2026,Yes
-"2950 N Alvernon Way Unit 5105","2950 N Alvernon Way Unit 5105","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$106.00,11-02-2026,No
+"86 N Monitor Row","86 N Monitor Row","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$125.74,11-02-2026,Yes
+"86 N Monitor Row","86 N Monitor Row","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$333.70,11-02-2026,Yes
+"86 N Monitor Row","86 N Monitor Row","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-02-2026,Yes
+"86 N Monitor Row","86 N Monitor Row","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-02-2026,Yes
+"2950 N Alvernon Way Unit 5105","2950 N Alvernon Way Unit 5105","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$106.00,11-02-2026,Yes
 Allen,"322 S Allen","Repair Masters","52003: Keys/locks/alarm Exp",1220189,Rekey,$150.65,11-02-2026,Yes
 "1440 N Idaho Rd Unit 1025","1440 N Idaho Rd Unit 1025","Repair Masters","52003: Keys/locks/alarm Exp",1220178,Rekey,$121.00,11-02-2026,Yes
 "452 E 9th Ave",2,"City of Mesa","59111: Security Deposit","991150-114657 Deposit","991150-114657 Deposit",$475.00,11-02-2026,Yes
@@ -2127,15 +2134,15 @@ Allen,"322 S Allen","Repair Masters","52003: Keys/locks/alarm Exp",1220189,Rekey
 ,,"Repair Masters","50750: Appliance Expense",1230694,"Service call - Dishwasher leaking from door",$120.00,11-02-2026,Yes
 ,,"Edge Plumbing LLC","58000: Plumbing Expense",1235267,"Kitchen faucet and tub diverter Removed and installed new diverter and kitchen faucet. Ran trap snake to clear lines for faster draining.",$510.00,11-02-2026,Yes
 ,,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1235267,"Markup: Kitchen faucet and tub diverter Removed and installed new diverter and kitchen faucet. Ran trap snake to clear lines for faster draining.",$51.00,11-02-2026,Yes
-"5636 E 26Th St","T26-014 2 - 5636 East 26th Street #2","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$450.00,11-14-2026,No
+"5636 E 26Th St","T26-014 2 - 5636 East 26th Street #2","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$450.00,11-14-2026,Yes
 "707 W 1St Ave",,"Rosenbaum Realty Group","59511: Utility Facilitation","Utility Facilitation Fees","Utility Facilitation Fees",$25.00,11-03-2026,No
 "713 W 1St Ave",,"Rosenbaum Realty Group","59511: Utility Facilitation","Utility Facilitation Fees","Utility Facilitation Fees",$25.00,11-03-2026,No
 "719 W 1St Ave",,"Rosenbaum Realty Group","59511: Utility Facilitation","Utility Facilitation Fees","Utility Facilitation Fees",$25.00,11-03-2026,No
 "725 W 1St Ave",,"Rosenbaum Realty Group","59511: Utility Facilitation","Utility Facilitation Fees","Utility Facilitation Fees",$25.00,11-03-2026,No
 "731 W 1St Ave",,"Rosenbaum Realty Group","59511: Utility Facilitation","Utility Facilitation Fees","Utility Facilitation Fees",$25.00,11-03-2026,No
 "900 S 94th St Apt 1076","900 S 94th St Apt 1076","Rosenbaum Realty Group","53043: Home Warranty Facilitation","Home Warranty Facilitation Fee","Home Warranty Facilitation Fee",$25.00,11-03-2026,Yes
-"45047 W Bahia Dr","45047 W Bahia Dr","Sparkly Spaces LLC","51500: Cleaning Expense",1264263,"Bill for Deep Cleaning",$325.00,11-03-2026,No
-"45047 W Bahia Dr","45047 W Bahia Dr","Rosenbaum Realty Group","6600: Vendor Markup Expense",1264263,"Markup: Bill for Deep Cleaning",$65.00,11-03-2026,No
+"45047 W Bahia Dr","45047 W Bahia Dr","Sparkly Spaces LLC","51500: Cleaning Expense",1264263,"Bill for Deep Cleaning",$325.00,11-03-2026,Yes
+"45047 W Bahia Dr","45047 W Bahia Dr","Rosenbaum Realty Group","6600: Vendor Markup Expense",1264263,"Markup: Bill for Deep Cleaning",$65.00,11-03-2026,Yes
 "446 E 9th Ave","446 E 9th Ave # A","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-01-2026,Yes
 "10919 W Carmelita Cir","10919 W Carmelita Cir","Phoenix EZ-Keys","52003: Keys/locks/alarm Exp",1264560,"Total Rekey (Includes Picked Locks, Strike Adjustments, Key Decodes, and Drilled Out Hardware), Secure Property, & Provided Keys, Master Rekeying Property, 5 keys left in drawer 1 key left in lockbox",$110.00,11-03-2026,No
 "10919 W Carmelita Cir","10919 W Carmelita Cir","Rosenbaum Realty Group","6600: Vendor Markup Expense",1264560,"Markup: Total Rekey (Includes Picked Locks, Strike Adjustments, Key Decodes, and Drilled Out Hardware), Secure Property, & Provided Keys, Master Rekeying Property, 5 keys left in drawer 1 key left in lockbox",$22.00,11-03-2026,No
@@ -2164,7 +2171,6 @@ Allen,"322 S Allen","Repair Masters","52003: Keys/locks/alarm Exp",1220189,Rekey
 "960 N Jay St",,"Rosenbaum Realty Group","59511: Utility Facilitation","Utility Facilitation Fees","Utility Facilitation Fees",$25.00,11-04-2026,Yes
 "1746 E Desert Moon Trl","1746 E Desert Moon Trl","Rosenbaum Realty Group","53043: Home Warranty Facilitation","Home Warranty Facilitation Fee","Home Warranty Facilitation Fee",$25.00,11-04-2026,Yes
 "882 S Wallrade Ln","882 S Wallrade Ln","Rosenbaum Realty Group","53043: Home Warranty Facilitation","Home Warranty Facilitation Fee","Home Warranty Facilitation Fee",$25.00,11-04-2026,Yes
-"10442 W Avalon Dr","10442 W Avalon Dr","Rosenbaum Realty Group","53043: Home Warranty Facilitation","Home Warranty Facilitation Fee","Home Warranty Facilitation Fee",$25.00,11-04-2026,No
 "10731 East Emelita Avenue","10731 East Emelita Avenue","Rosenbaum Realty Group","53043: Home Warranty Facilitation","Home Warranty Facilitation Fee","Home Warranty Facilitation Fee",$25.00,11-04-2026,Yes
 "623 W Guadalupe Rd",,"Rosenbaum Realty Group","53043: Home Warranty Facilitation","Home Warranty Facilitation Fee","Home Warranty Facilitation Fee",$25.00,11-04-2026,Yes
 "6446 E Alder","6446 E Alder Ave Apt 102","Repair Masters","58001: General Plumbing Exp",1262965,"Parts and Materials, Shower and front door seal - Replaced the mixing valve cartridge Installed better door seal Caulked bottom door seal as there were gaps that water would follow as it ran down the door and made its way inside.",$284.04,11-04-2026,Yes
@@ -2198,7 +2204,7 @@ Allen,"322 S Allen","Rosenbaum Realty Group","6600: Vendor Markup Expense",12657
 "9435 W Magnum Dr","9435 W Magnum Dr","Five Star","51501: Carpet Cleaning",1267399,"Bill for PRE SCHEDULE CARPET CLEANING 11/03",$140.00,11-06-2026,Yes
 "9435 W Magnum Dr","9435 W Magnum Dr","Rosenbaum Realty Group","6600: Vendor Markup Expense",1267399,"Markup: Bill for PRE SCHEDULE CARPET CLEANING 11/03",$14.00,11-06-2026,No
 "15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B",Kenia,"51504: Deep Cleaning Exp",1265838,"Bill for PRESCHEDULE 11/2 DEEP CLEAN",$330.00,11-06-2026,Yes
-"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","6600: Vendor Markup Expense",1265838,"Markup: Bill for PRESCHEDULE 11/2 DEEP CLEAN",$33.00,11-06-2026,No
+"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","6600: Vendor Markup Expense",1265838,"Markup: Bill for PRESCHEDULE 11/2 DEEP CLEAN",$33.00,11-06-2026,Yes
 "845 N Date",,"Leo Landscaping","55000: Landscaping Expense",1267410,"Bill for Monthly Landscaping Service",$60.00,11-04-2026,Yes
 "845 N Date",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267410,"Markup: Bill for Monthly Landscaping Service",$6.00,11-04-2026,Yes
 "1718 E 6th Ave","1718 E 6th Ave","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-06-2026,Yes
@@ -2207,35 +2213,35 @@ Hall,,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267418,"Markup: Bi
 "6440 Alder",,"Leo Landscaping","55000: Landscaping Expense",1267423,"Bill for Monthly Landscaping Service",$60.00,11-04-2026,Yes
 "6440 Alder",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267423,"Markup: Bill for Monthly Landscaping Service",$6.00,11-04-2026,Yes
 "733 Morris Cir",,"Leo Landscaping","55000: Landscaping Expense",1267461,"Bill for Monthly Landscaping Service",$50.00,11-04-2026,Yes
-"733 Morris Cir",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267461,"Markup: Bill for Monthly Landscaping Service",$5.00,11-04-2026,No
+"733 Morris Cir",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267461,"Markup: Bill for Monthly Landscaping Service",$5.00,11-04-2026,Yes
 "737 W 1st ave Mesa",,"Leo Landscaping","55000: Landscaping Expense",1267465,"Bill for Monthly Landscaping Service",$60.00,11-04-2026,Yes
-"737 W 1st ave Mesa",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267465,"Markup: Bill for Monthly Landscaping Service",$6.00,11-04-2026,No
+"737 W 1st ave Mesa",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267465,"Markup: Bill for Monthly Landscaping Service",$6.00,11-04-2026,Yes
 "34W 7th St",,"Leo Landscaping","55000: Landscaping Expense",1267470,"Bill for Monthly Landscaping Service",$50.00,11-04-2026,Yes
-"34W 7th St",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267470,"Markup: Bill for Monthly Landscaping Service",$5.00,11-04-2026,No
+"34W 7th St",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267470,"Markup: Bill for Monthly Landscaping Service",$5.00,11-04-2026,Yes
 "902 E 4th Place",,"Leo Landscaping","55000: Landscaping Expense",1267471,"Bill for Monthly Landscaping Service",$70.00,11-04-2026,Yes
-"902 E 4th Place",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267471,"Markup: Bill for Monthly Landscaping Service",$7.00,11-04-2026,No
+"902 E 4th Place",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267471,"Markup: Bill for Monthly Landscaping Service",$7.00,11-04-2026,Yes
 "Fountain St",,"Leo Landscaping","55000: Landscaping Expense",1267478,"Bill for Monthly Landscaping Service",$70.00,11-04-2026,Yes
-"Fountain St",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267478,"Markup: Bill for Monthly Landscaping Service",$7.00,11-04-2026,No
+"Fountain St",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267478,"Markup: Bill for Monthly Landscaping Service",$7.00,11-04-2026,Yes
 "4553 Caballero Cir",,"Leo Landscaping","55000: Landscaping Expense",1267482,"Bill for Monthly Landscaping Service",$60.00,11-04-2026,Yes
-"4553 Caballero Cir",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267482,"Markup: Bill for Monthly Landscaping Service",$6.00,11-04-2026,No
+"4553 Caballero Cir",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267482,"Markup: Bill for Monthly Landscaping Service",$6.00,11-04-2026,Yes
 "4541 E Caballero Cir",,"Leo Landscaping","55000: Landscaping Expense",1267487,"Bill for Monthly Landscaping Service",$900.00,11-04-2026,Yes
-"4541 E Caballero Cir",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267487,"Markup: Bill for Monthly Landscaping Service",$90.00,11-04-2026,No
+"4541 E Caballero Cir",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267487,"Markup: Bill for Monthly Landscaping Service",$90.00,11-04-2026,Yes
 "4704 E Caballero St",,"Repair Masters","55000: Landscaping Expense",1267525,"Bill for Monthly Landscaping Service",$800.00,11-04-2026,Yes
-"4704 E Caballero St",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267525,"Markup: Bill for Monthly Landscaping Service",$80.00,11-04-2026,No
+"4704 E Caballero St",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267525,"Markup: Bill for Monthly Landscaping Service",$80.00,11-04-2026,Yes
 "4650 Caballero St",,"Leo Landscaping","55000: Landscaping Expense",1267528,"Bill for Monthly Landscaping Service",$50.00,11-04-2026,Yes
-"4650 Caballero St",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267528,"Markup: Bill for Monthly Landscaping Service",$5.00,11-04-2026,No
+"4650 Caballero St",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267528,"Markup: Bill for Monthly Landscaping Service",$5.00,11-04-2026,Yes
 "6434 E Alder",,"Leo Landscaping","55000: Landscaping Expense",1267537,"Bill for Monthly Landscaping Service",$60.00,11-04-2026,Yes
-"6434 E Alder",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267537,"Markup: Bill for Monthly Landscaping Service",$6.00,11-04-2026,No
+"6434 E Alder",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267537,"Markup: Bill for Monthly Landscaping Service",$6.00,11-04-2026,Yes
 Camino,,"Leo Landscaping","55000: Landscaping Expense",1267492,"Bill for Monthly Landscaping Service",$50.00,11-04-2026,Yes
 Camino,,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267492,"Markup: Bill for Monthly Landscaping Service",$5.00,11-04-2026,No
 "4553 Caballero Cir","4553 E Caballero Cir Apt 1","Tropical Air","50250: Air Conditioning Expense",1267556,"Service - Residential - No Cool T859HGK, Service - Mobilization",$100.00,11-06-2026,Yes
-"4553 Caballero Cir","4553 E Caballero Cir Apt 1","Rosenbaum Realty Group","6600: Vendor Markup Expense",1267556,"Markup: Service - Residential - No Cool T859HGK, Service - Mobilization",$10.00,11-06-2026,No
+"4553 Caballero Cir","4553 E Caballero Cir Apt 1","Rosenbaum Realty Group","6600: Vendor Markup Expense",1267556,"Markup: Service - Residential - No Cool T859HGK, Service - Mobilization",$10.00,11-06-2026,Yes
 "10997 W Cambria Circle","10997 W Cambria Circle","Phoenix EZ-Keys","52003: Keys/locks/alarm Exp",1267567,"Bill for rekey locks",$110.00,11-04-2026,No
 "10997 W Cambria Circle","10997 W Cambria Circle","Rosenbaum Realty Group","6600: Vendor Markup Expense",1267567,"Markup: Bill for rekey locks",$11.00,11-04-2026,No
 "1440 N Idaho Rd Unit 1025","1440 N Idaho Rd Unit 1025",SRP,"59501: Electric Utility Expense","624-960-104 11/26","624-960-104 11/26",$125.99,11-02-2026,Yes
 "16008 W Lilac St","16008 W Lilac St",Junkernaut,"51503: Trash out Exp",1267573,"Removal of all items from the property, including removal of furniture, food, household waste, personal items, etc., Removal of hazardous chemicals including automotive fluids, fuels, cleaning fluids, etc. - lighter fluid, Collection, recycling, or disposal of appliance, including pickup and drop off. Includes items with freon.",$290.00,11-04-2026,No
 "16008 W Lilac St","16008 W Lilac St","Rosenbaum Realty Group","6600: Vendor Markup Expense",1267573,"Markup: Removal of all items from the property, including removal of furniture, food, household waste, personal items, etc., Removal of hazardous chemicals including automotive fluids, fuels, cleaning fluids, etc. - lighter fluid, Collection, recycling, or disposal of appliance, including pickup and drop off. Includes items with freon.",$29.00,11-04-2026,No
-"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$547.50,11-10-2026,No
+"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$547.50,11-10-2026,Yes
 "10919 W Carmelita Cir","10919 W Carmelita Cir","Five Star","51501: Carpet Cleaning",1267722,"Cleaned 3 rooms - Bill for PRESCHEDULE CARPET CLEANING FOR 11/05","$1,600.00",11-05-2026,Yes
 "10919 W Carmelita Cir","10919 W Carmelita Cir","Rosenbaum Realty Group","6600: Vendor Markup Expense",1267722,"Markup: Cleaned 3 rooms - Bill for PRESCHEDULE CARPET CLEANING FOR 11/05",$320.00,11-05-2026,No
 "860 E Brown Rd Units 21 - 24","860 E Brown Rd Unit 22","Affordable Appliance Repair","50759: Appliance service call",1267738,"Bill for oven and stove is not heating",$89.00,11-05-2026,Yes
@@ -2246,14 +2252,14 @@ Camino,,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267492,"Markup: 
 "9085 East Janice Way","9085 East Janice Way","Rosenbaum Realty Group","6600: Vendor Markup Expense",1267751,"Markup: bill for rekey locks",$17.37,11-05-2026,No
 "16622 W Moreland","16622 W Moreland","Plumbing Vine","58000: Plumbing Expense",1267759,"bill for the kitchen sink is clogged",$439.50,11-06-2026,No
 "16622 W Moreland","16622 W Moreland","Rosenbaum Realty Group","6600: Vendor Markup Expense",1267759,"Markup: bill for the kitchen sink is clogged",$43.95,11-06-2026,No
-"410 E 9th Ave","Unit 7","SALLY'S APPLIANCE Replacement","50757: New Stove",1265502,"bill for stove replacement",$340.06,11-04-2026,Yes
-"410 E 9th Ave","Unit 7","Rosenbaum Realty Group","6600: Vendor Markup Expense",1265502,"Markup: bill for stove replacement",$34.01,11-04-2026,No
+"410 E 9th Ave","Unit 7","SALLY'S APPLIANCE","50757: New Stove",1265502,"bill for stove replacement",$340.06,11-04-2026,Yes
+"410 E 9th Ave","Unit 7","Rosenbaum Realty Group","6600: Vendor Markup Expense",1265502,"Markup: bill for stove replacement",$34.01,11-04-2026,Yes
 "1702 E 6th Ave",,"JSS Remodeling LLC","51002: New Cabinets Exp",1267769,"New cabinets and cabinet repair","$4,900.00",11-06-2026,Yes
 "1702 E 6th Ave",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267769,"Markup: New cabinets and cabinet repair",$980.00,11-06-2026,No
 "T25-037 2 - 4650 East 17th Street",,"Andrea Services, LLC","56027: Make Rent Ready",1267771,"Resurface kitchen and bathroom resurface tub shower and surrounded sink",$400.00,11-04-2026,Yes
 "T25-037 2 - 4650 East 17th Street",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267771,"Markup: Resurface kitchen and bathroom resurface tub shower and surrounded sink",$40.00,11-04-2026,Yes
 "1702 E 6th Ave",,"JSS Remodeling LLC","57006: Paint Interior Full",1267780,"Bill for full interior paint - 1 color","$1,304.16",11-06-2026,Yes
-"1702 E 6th Ave",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267780,"Markup: Bill for full interior paint - 1 color",$260.83,11-06-2026,No
+"1702 E 6th Ave",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267780,"Markup: Bill for full interior paint - 1 color",$260.83,11-06-2026,Yes
 "21274 E. Roundup Way","21274 E. Roundup Way","Phoenix EZ-Keys","52003: Keys/locks/alarm Exp",1267794,"bill for rekey locks",$110.00,11-06-2026,No
 "21274 E. Roundup Way","21274 E. Roundup Way","Rosenbaum Realty Group","6600: Vendor Markup Expense",1267794,"Markup: bill for rekey locks",$11.00,11-06-2026,No
 "16215 N 16th St","16215 N 16th St","Phoenix EZ-Keys","52003: Keys/locks/alarm Exp",1267807,"bill for rekey locks",$140.00,11-06-2026,No
@@ -2265,17 +2271,18 @@ Camino,,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267492,"Markup: 
 "902 E 4th Place",,"Phoenix EZ-Keys","52003: Keys/locks/alarm Exp",1267826,"Bill for rekey locks",$110.00,11-06-2026,No
 "902 E 4th Place",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267826,"Markup: Bill for rekey locks",$11.00,11-06-2026,No
 "15237 S Moon Valley Rd",,"Dante Dimas","55004: Landscaping One Time",1267831,"bill for one time landscaping",$247.00,11-05-2026,Yes
-"15237 S Moon Valley Rd",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267831,"Markup: bill for one time landscaping",$24.70,11-05-2026,No
+"15237 S Moon Valley Rd",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267831,"Markup: bill for one time landscaping",$24.70,11-05-2026,Yes
 "8281 W Sandy Ln",,"Plumbing Vine","58000: Plumbing Expense",1267834,"bill for bathroom sink is leaking, and kitchen faucet is leaking, and toilet is leaking",$388.50,11-06-2026,No
 "8281 W Sandy Ln",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267834,"Markup: bill for bathroom sink is leaking, and kitchen faucet is leaking, and toilet is leaking",$38.85,11-06-2026,No
 "2143 East 10th Street","2143 East 10th Street","Plumbing Vine","58006: Toilet repair Exp",1267839,"Bill for the toilet is not filling up with water so we can flush it",$313.50,11-06-2026,No
 "2143 East 10th Street","2143 East 10th Street","Rosenbaum Realty Group","6600: Vendor Markup Expense",1267839,"Markup: Bill for the toilet is not filling up with water so we can flush it",$31.35,11-06-2026,No
+"820 E Junction","820 E Junction St","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$797.50,11-20-2026,No
 "21274 E. Roundup Way","21274 E. Roundup Way",SRP,"59501: Electric Utility Expense","679-789-001 11/26","679-789-001 11/26",$34.02,11-04-2026,Yes
 "2747 E Chipman Rd","2747 E Chipman Rd Apt 1","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-09-2026,Yes
 "13470 W Young St","13470 W Young St","Leo Landscaping","55000: Landscaping Expense",1268407,"Leo landscaping",$450.00,11-07-2026,Yes
 "13470 W Young St","13470 W Young St","Rosenbaum Realty Group","6600: Vendor Markup Expense",1268407,"Markup: Leo landscaping",$45.00,11-07-2026,Yes
 "1741 East Pepper Cir",,"Leo Landscaping","55000: Landscaping Expense",1268429,"Monthly landscaping service",$170.00,11-07-2026,Yes
-"1741 East Pepper Cir",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1268429,"Markup: Monthly landscaping service",$17.00,11-07-2026,No
+"1741 East Pepper Cir",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1268429,"Markup: Monthly landscaping service",$17.00,11-07-2026,Yes
 "Delano St","T25-033 2 - 354 W Delano St #2","DSR Pest Management","57500: Pest Control Expense",1268401,"Roach Treatment",$18.75,11-06-2026,No
 "Delano St","T25-033 2 - 354 W Delano St #2","Rosenbaum Realty Group","6600: Vendor Markup Expense",1268401,"Markup: Roach Treatment",$1.88,11-06-2026,No
 Allen,"322 S Allen",SRP,"59501: Electric Utility Expense","723-520-109 11/26","723-520-109 11/26",$74.16,11-03-2026,Yes
@@ -2318,10 +2325,10 @@ Allen,"322 S Allen",SRP,"59501: Electric Utility Expense","723-520-109 11/26","7
 "520 E 30th St - Units 1-4","T26-002 4 - 520 East 30th Street Unit 4","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$94.40,11-09-2026,Yes
 "520 E 30th St - Units 1-4","T26-002 4 - 520 East 30th Street Unit 4","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$80.00,11-09-2026,Yes
 "330 North Fresno Street","330 North Fresno Street","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$192.00,11-09-2026,Yes
-"330 North Fresno Street","330 North Fresno Street","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$120.00,11-09-2026,No
+"330 North Fresno Street","330 North Fresno Street","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$120.00,11-09-2026,Yes
 "330 North Fresno Street","330 North Fresno Street","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$48.00,11-09-2026,Yes
-"330 North Fresno Street","330 North Fresno Street","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-09-2026,No
-"330 North Fresno Street","330 North Fresno Street","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-09-2026,No
+"330 North Fresno Street","330 North Fresno Street","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-09-2026,Yes
+"330 North Fresno Street","330 North Fresno Street","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-09-2026,Yes
 "330 North Fresno Street","330 North Fresno Street","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-09-2026,Yes
 "960 N Jay St","960 N Jay St Apt B","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$52.64,11-09-2026,Yes
 "960 N Jay St","960 N Jay St Apt B","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$90.00,11-09-2026,Yes
@@ -2498,10 +2505,10 @@ Allen,"322 S Allen",SRP,"59501: Electric Utility Expense","723-520-109 11/26","7
 "5811 to 5817 E 23rd St","T26-015  - 5811 E 23rd St","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$70.00,11-09-2026,Yes
 "5811 to 5817 E 23rd St","T26-016 - 5813 E 23rd St","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$88.00,11-09-2026,Yes
 "5811 to 5817 E 23rd St","T26-016 - 5813 E 23rd St","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-09-2026,Yes
-"1111 W University Dr #1018","1111 W University Dr #1018","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$192.00,11-09-2026,No
-"1111 W University Dr #1018","1111 W University Dr #1018","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$69.00,11-09-2026,No
-"1111 W University Dr #1018","1111 W University Dr #1018","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-09-2026,No
-"1111 W University Dr #1018","1111 W University Dr #1018","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$48.00,11-09-2026,No
+"1111 W University Dr #1018","1111 W University Dr #1018","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$192.00,11-09-2026,Yes
+"1111 W University Dr #1018","1111 W University Dr #1018","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$69.00,11-09-2026,Yes
+"1111 W University Dr #1018","1111 W University Dr #1018","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-09-2026,Yes
+"1111 W University Dr #1018","1111 W University Dr #1018","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$48.00,11-09-2026,Yes
 "14951 N 145Th Ave","14951 N 145Th Ave","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$176.00,11-09-2026,Yes
 "14951 N 145Th Ave","14951 N 145Th Ave","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$44.00,11-09-2026,Yes
 "14951 N 145Th Ave","14951 N 145Th Ave","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-09-2026,Yes
@@ -2524,11 +2531,11 @@ Allen,"322 S Allen",SRP,"59501: Electric Utility Expense","723-520-109 11/26","7
 "298 West Dana Drive","298 West Dana Drive","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-09-2026,Yes
 "16008 W Lilac St","16008 W Lilac St","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$85.00,11-09-2026,Yes
 "882 S Wallrade Ln","882 S Wallrade Ln","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$215.92,11-09-2026,Yes
-"882 S Wallrade Ln","882 S Wallrade Ln","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$90.00,11-09-2026,No
-"882 S Wallrade Ln","882 S Wallrade Ln","Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$75.00,11-09-2026,No
+"882 S Wallrade Ln","882 S Wallrade Ln","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$90.00,11-09-2026,Yes
+"882 S Wallrade Ln","882 S Wallrade Ln","Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$75.00,11-09-2026,Yes
 "882 S Wallrade Ln","882 S Wallrade Ln","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$53.98,11-09-2026,Yes
-"882 S Wallrade Ln","882 S Wallrade Ln","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-09-2026,No
-"882 S Wallrade Ln","882 S Wallrade Ln","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-09-2026,No
+"882 S Wallrade Ln","882 S Wallrade Ln","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-09-2026,Yes
+"882 S Wallrade Ln","882 S Wallrade Ln","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-09-2026,Yes
 "882 S Wallrade Ln","882 S Wallrade Ln","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-09-2026,Yes
 "10th ave AJ","507 E 10th Ave Apt 20","Rosenbaum Realty Group","43009: Fee For Returned Payment Income",,"Fee For Returned Payment Income for 11/2026",$75.00,11-09-2026,Yes
 "1206 E 11th place","1210 E 11th Pl","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$80.00,11-09-2026,Yes
@@ -2825,24 +2832,24 @@ Palmer,"1502 W Palmer Dr Unit A","Rosenbaum Realty Group","4001: Move in Solutio
 "T25-047 2 - 2668 N Haskell Dr #2","T25-047 2 - 2668 N Haskell Dr #2","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$128.00,11-09-2026,Yes
 "T25-047 2 - 2668 N Haskell Dr #2","T25-047 2 - 2668 N Haskell Dr #2","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$50.00,11-09-2026,Yes
 "T25-047 2 - 2668 N Haskell Dr #2","T25-047 2 - 2668 N Haskell Dr #2","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-09-2026,Yes
-"86 North Monitor Row","86 North Monitor Row","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$13.07,11-09-2026,Yes
+"86 N Monitor Row","86 N Monitor Row","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$13.07,11-09-2026,Yes
 "6446 E Alder",,"Leo Landscaping","55000: Landscaping Expense",1267434,"Bill for Monthly Landscaping Service",$70.00,11-06-2026,Yes
-"6446 E Alder",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267434,"Markup: Bill for Monthly Landscaping Service",$7.00,11-06-2026,No
+"6446 E Alder",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267434,"Markup: Bill for Monthly Landscaping Service",$7.00,11-06-2026,Yes
 "4837 E Caballero Circle",,"Leo Landscaping","55000: Landscaping Expense",1267429,"Bill for Monthly Landscaping Service",$60.00,11-06-2026,Yes
 "4837 E Caballero Circle",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1267429,"Markup: Bill for Monthly Landscaping Service",$6.00,11-06-2026,Yes
-"16622 W Moreland","16622 W Moreland","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$431.25,11-09-2026,No
+"16622 W Moreland","16622 W Moreland","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$431.25,11-09-2026,Yes
 "2925 N 19th Ave # 104","2925 N 19th Ave # 104",APS,"59501: Electric Utility Expense","1256199566 11/26","1256199566 11/26",$47.10,11-03-2026,Yes
-"4603 East Jones Avenue","4603 East Jones Avenue","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-09-2026,No
+"4603 East Jones Avenue","4603 East Jones Avenue","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-09-2026,Yes
 "15074 W Heritage Oak Way","15074 W Heritage Oak Way",APS,"59501: Electric Utility Expense","0067660041 11/26","0067660041 11/26",$264.58,11-02-2026,Yes
 "3520 N La Paz Dr","3520 N La Paz Dr",APS,"59501: Electric Utility Expense","6942168687 11/26","6942168687 11/26",$62.44,11-02-2026,Yes
-"737 W 1st ave Mesa","737 W 1st Ave Apt 101","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-10-2026,No
+"737 W 1st ave Mesa","737 W 1st Ave Apt 101","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-10-2026,Yes
 "465 W Ivyglen St Building 6","Unit 112",SRP,"59501: Electric Utility Expense","964-310-109 11/26","964-310-109 11/26",$47.82,11-05-2026,Yes
 "8888 West Swansea Drive","8888 West Swansea Drive","Dante Dimas","55000: Landscaping Expense",1269622,"Bill for Landscaping",$288.00,11-09-2026,Yes
-"8888 West Swansea Drive","8888 West Swansea Drive","Rosenbaum Realty Group","6600: Vendor Markup Expense",1269622,"Markup: Bill for Landscaping",$28.80,11-09-2026,No
+"8888 West Swansea Drive","8888 West Swansea Drive","Rosenbaum Realty Group","6600: Vendor Markup Expense",1269622,"Markup: Bill for Landscaping",$28.80,11-09-2026,Yes
 "446 E 9th Ave","446 E 9th Ave # B","Schlink Plumbing","58000: Plumbing Expense",1269641,"Bill for No Working Toilet in Home, and My Toilet Is Not Flushing; Backed up mainline",$250.00,11-10-2026,Yes
-"446 E 9th Ave","446 E 9th Ave # B","Rosenbaum Realty Group","6600: Vendor Markup Expense",1269641,"Markup: Bill for No Working Toilet in Home, and My Toilet Is Not Flushing; Backed up mainline",$25.00,11-10-2026,No
+"446 E 9th Ave","446 E 9th Ave # B","Rosenbaum Realty Group","6600: Vendor Markup Expense",1269641,"Markup: Bill for No Working Toilet in Home, and My Toilet Is Not Flushing; Backed up mainline",$25.00,11-10-2026,Yes
 "550 W 9th St","550 W 9th St Apt 1","Tropical Air","50252: AC General Repairs Exp",1269646,"Bill for heater is not heating",$165.00,11-10-2026,Yes
-"550 W 9th St","550 W 9th St Apt 1","Rosenbaum Realty Group","6600: Vendor Markup Expense",1269646,"Markup: Bill for heater is not heating",$16.50,11-10-2026,No
+"550 W 9th St","550 W 9th St Apt 1","Rosenbaum Realty Group","6600: Vendor Markup Expense",1269646,"Markup: Bill for heater is not heating",$16.50,11-10-2026,Yes
 "16008 W Lilac St","16008 W Lilac St","Pacience Venne","56027: Make Rent Ready",1269660,"Deep cleaning for turnover",$375.00,11-06-2026,Yes
 "16008 W Lilac St","16008 W Lilac St","Rosenbaum Realty Group","6600: Vendor Markup Expense",1269660,"Markup: Deep cleaning for turnover",$37.50,11-06-2026,Yes
 "15074 W Heritage Oak Way","15074 W Heritage Oak Way","Edge Plumbing LLC","58003: Replace toilet Exp",1269663,"Bill for my toilet is not flushing; new toilet",$795.00,11-09-2026,Yes
@@ -2874,42 +2881,42 @@ Palmer,"1502 W Palmer Dr Unit A","Rosenbaum Realty Group","4001: Move in Solutio
 "740 West Cinnabar Avenue",,"City of Phoenix","59503: Sewer Utility Expense","2277512368 11/26","2277512368 11/26",$84.74,11-03-2026,Yes
 "22nd Ave Phx",,"City of Phoenix","59506: Water Utility Expense","2933042310 11/26","2933042310 11/26",$480.46,11-01-2026,Yes
 "22nd Ave Phx",,"City of Phoenix","59503: Sewer Utility Expense","2933042310 11/26","2933042310 11/26",$127.11,11-01-2026,Yes
-"2747 E Chipman Rd","Unit 4","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-10-2026,No
-"3313 W Harmont Dr",,"City of Phoenix","59506: Water Utility Expense","5476082659 11/26","5476082659 11/26",$251.64,11-03-2026,Yes
-"3313 W Harmont Dr",,"City of Phoenix","59503: Sewer Utility Expense","5476082659 11/26","5476082659 11/26",$169.48,11-03-2026,Yes
-"312 E Vine Cir","312 E Vine Cir Apt 202","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$34.80,11-10-2026,No
-"312 E Vine Cir","312 E Vine Cir Apt 202","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$120.00,11-10-2026,No
-"312 E Vine Cir","312 E Vine Cir Apt 202","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$20.00,11-10-2026,No
-"312 E Vine Cir","312 E Vine Cir Apt 202","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-10-2026,No
-"2625 N Alvernon Way","T25-015 14 - 2625 N Alvernon Way D2","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$36.96,11-10-2026,No
-"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$68.04,11-10-2026,No
-"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$314.33,11-10-2026,No
-"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","43039: Pet Admin Fee",,"Pet Admin Fee for 11/2026",$299.00,11-10-2026,No
-"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-10-2026,No
-"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-10-2026,No
-"T25-092 - 7570 E Majestic Palm Ln","T25-092 - 7570 E Majestic Palm Ln","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$153.20,11-10-2026,No
-"770 N Dodge","T25-001 10 - 770 N Dodge Ave Apt 10","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$42.56,11-10-2026,No
-"770 N Dodge","T25-001 33 - 770 N Dodge Ave Apt 33","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$67.42,11-10-2026,No
-"350 W Delano St Units 1 and 2","T25-031 2 - 350 W Delano St #2","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$20.08,11-10-2026,No
-"Delano St","T25-032 2 - 352 W Delano St #2","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$0.40,11-10-2026,No
-"Delano St","T25-032 2 - 352 W Delano St #2","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$65.00,11-10-2026,No
-"112 W Inglewood","Unit 3","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$93.75,11-10-2026,No
-"112 W Inglewood","Unit 3","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$120.00,11-10-2026,No
-"112 W Inglewood","Unit 3","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$25.00,11-10-2026,No
-"112 W Inglewood","Unit 3","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-10-2026,No
-"112 W Inglewood","Unit 3","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-10-2026,No
+"2747 E Chipman Rd","Unit 4","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-10-2026,Yes
+"3313 W Harmont Dr",,"City of Phoenix","59506: Water Utility Expense","5476082659 10/26","5476082659 10/26",$251.64,11-03-2026,Yes
+"3313 W Harmont Dr",,"City of Phoenix","59503: Sewer Utility Expense","5476082659 10/26","5476082659 10/26",$169.48,11-03-2026,Yes
+"312 E Vine Cir","312 E Vine Cir Apt 202","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$34.80,11-10-2026,Yes
+"312 E Vine Cir","312 E Vine Cir Apt 202","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$120.00,11-10-2026,Yes
+"312 E Vine Cir","312 E Vine Cir Apt 202","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$20.00,11-10-2026,Yes
+"312 E Vine Cir","312 E Vine Cir Apt 202","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-10-2026,Yes
+"2625 N Alvernon Way","T25-015 14 - 2625 N Alvernon Way D2","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$36.96,11-10-2026,Yes
+"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$68.04,11-10-2026,Yes
+"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$314.33,11-10-2026,Yes
+"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","43039: Pet Admin Fee",,"Pet Admin Fee for 11/2026",$299.00,11-10-2026,Yes
+"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-10-2026,Yes
+"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-10-2026,Yes
+"T25-092 - 7570 E Majestic Palm Ln","T25-092 - 7570 E Majestic Palm Ln","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$153.20,11-10-2026,Yes
+"770 N Dodge","T25-001 10 - 770 N Dodge Ave Apt 10","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$42.56,11-10-2026,Yes
+"770 N Dodge","T25-001 33 - 770 N Dodge Ave Apt 33","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$67.42,11-10-2026,Yes
+"350 W Delano St Units 1 and 2","T25-031 2 - 350 W Delano St #2","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$20.08,11-10-2026,Yes
+"Delano St","T25-032 2 - 352 W Delano St #2","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$0.40,11-10-2026,Yes
+"Delano St","T25-032 2 - 352 W Delano St #2","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$65.00,11-10-2026,Yes
+"112 W Inglewood","Unit 3","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$93.75,11-10-2026,Yes
+"112 W Inglewood","Unit 3","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$120.00,11-10-2026,Yes
+"112 W Inglewood","Unit 3","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$25.00,11-10-2026,Yes
+"112 W Inglewood","Unit 3","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-10-2026,Yes
+"112 W Inglewood","Unit 3","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-10-2026,Yes
 "235 N 22nd Pl Unit 549","235 N 22nd Pl Unit 549","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$5.67,11-10-2026,No
-"820 E Junction","820 E Junction St","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$46.79,11-10-2026,No
-"820 E Junction","820 E Junction St","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$310.70,11-10-2026,No
-"820 E Junction","820 E Junction St","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-10-2026,No
-"820 E Junction","820 E Junction St","Rosenbaum Realty Group","43039: Pet Admin Fee",,"Pet Admin Fee for 11/2026",$322.83,11-10-2026,No
-"820 E Junction","820 E Junction St","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-10-2026,No
-"360 E 6th Ave","360 E 6th Ave Apt 2","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$2.92,11-10-2026,No
-"360 E 6th Ave","360 E 6th Ave Apt 2","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$21.98,11-10-2026,No
-"360 E 6th Ave","360 E 6th Ave Apt 2","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-10-2026,No
-"360 E 6th Ave","360 E 6th Ave Apt 2","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-10-2026,No
-"360 E 6th Ave","360 E 6th Ave Apt 2","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$120.00,11-10-2026,No
-"360 E 6th Ave","360 E 6th Ave Apt 2","Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$125.00,11-10-2026,No
+"820 E Junction","820 E Junction St","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$46.79,11-10-2026,Yes
+"820 E Junction","820 E Junction St","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$310.70,11-10-2026,Yes
+"820 E Junction","820 E Junction St","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-10-2026,Yes
+"820 E Junction","820 E Junction St","Rosenbaum Realty Group","43039: Pet Admin Fee",,"Pet Admin Fee for 11/2026",$322.83,11-10-2026,Yes
+"820 E Junction","820 E Junction St","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-10-2026,Yes
+"360 E 6th Ave","360 E 6th Ave Apt 2","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$2.92,11-10-2026,Yes
+"360 E 6th Ave","360 E 6th Ave Apt 2","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$21.98,11-10-2026,Yes
+"360 E 6th Ave","360 E 6th Ave Apt 2","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-10-2026,Yes
+"360 E 6th Ave","360 E 6th Ave Apt 2","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-10-2026,Yes
+"360 E 6th Ave","360 E 6th Ave Apt 2","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$120.00,11-10-2026,Yes
+"360 E 6th Ave","360 E 6th Ave Apt 2","Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$125.00,11-10-2026,Yes
 "3333 W 8th","3333 W 8th St - F10","Rosenbaum Realty Group","43014: Re-Lease Admin Fee",,"Re-Lease Admin Fee for 11/2026",$950.00,11-10-2026,Yes
 "900 West Broadway Avenue Lot 61","900 West Broadway Avenue Lot 61","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$151.92,11-10-2026,Yes
 "900 West Broadway Avenue Lot 61","900 West Broadway Avenue Lot 61","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$130.00,11-10-2026,Yes
@@ -2917,93 +2924,609 @@ Palmer,"1502 W Palmer Dr Unit A","Rosenbaum Realty Group","4001: Move in Solutio
 "900 West Broadway Avenue Lot 61","900 West Broadway Avenue Lot 61","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-10-2026,Yes
 "900 West Broadway Avenue Lot 61","900 West Broadway Avenue Lot 61","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-10-2026,Yes
 "900 West Broadway Avenue Lot 61","900 West Broadway Avenue Lot 61","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-10-2026,Yes
-"3611 E Glenn St","T26-007 1 - 3611 E Glenn St Unit 1","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$150.00,11-10-2026,No
+"3611 E Glenn St","T26-007 1 - 3611 E Glenn St Unit 1","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$150.00,11-10-2026,Yes
 Palmer,,"City of Phoenix","59506: Water Utility Expense","7026104944 11/26","7026104944 11/26",$113.64,11-03-2026,Yes
 Palmer,,"City of Phoenix","59503: Sewer Utility Expense","7026104944 11/26","7026104944 11/26",$84.74,11-03-2026,Yes
-"508 W 18th St","508 W 18th St","Schlink Plumbing","59503: Sewer Utility Expense",1270697,"Bill for All Drains Clogged/backed Up; Replace section of sewer pipe","$3,950.00",11-11-2026,No
-"508 W 18th St","508 W 18th St","Rosenbaum Realty Group","6600: Vendor Markup Expense",1270697,"Markup: Bill for All Drains Clogged/backed Up; Replace section of sewer pipe",$790.00,11-11-2026,No
+"508 W 18th St","508 W 18th St","Schlink Plumbing","59503: Sewer Utility Expense",1270697,"Bill for All Drains Clogged/backed Up; Replace section of sewer pipe","$3,950.00",11-11-2026,Yes
+"508 W 18th St","508 W 18th St","Rosenbaum Realty Group","6600: Vendor Markup Expense",1270697,"Markup: Bill for All Drains Clogged/backed Up; Replace section of sewer pipe",$790.00,11-11-2026,Yes
 "737 W 1st ave Mesa",,"Gila Monster Roofing LLC","54005: Roof repair Exp",1270706,"Bill for The Roof Is Leaking Above The Microwave","$2,150.00",11-11-2026,Yes
 "410 E 9th Ave",,"Tap and Sons Electric","54000: General Construction Expense",1270726,"Bill for The Parking Lot Lights Aren’t Working",$225.00,11-02-2026,Yes
-"410 E 9th Ave",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1270726,"Markup: Bill for The Parking Lot Lights Aren’t Working",$22.50,11-02-2026,No
+"410 E 9th Ave",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1270726,"Markup: Bill for The Parking Lot Lights Aren’t Working",$22.50,11-02-2026,Yes
 "T25-037 2 - 4650 East 17th Street","T25-037 3 - 4652 1/2 E17th","Desert Ground Solutions","55000: Landscaping Expense",1270733,"Bill for one time landscaping",$120.00,11-09-2026,Yes
 "T25-037 2 - 4650 East 17th Street","T25-037 3 - 4652 1/2 E17th","Rosenbaum Realty Group","6600: Vendor Markup Expense",1270733,"Markup: Bill for one time landscaping",$12.00,11-09-2026,Yes
 "15074 W Heritage Oak Way","15074 W Heritage Oak Way","Tropical Air","50250: Air Conditioning Expense",1270742,"Bill for air conditioner is leaking",$160.00,11-11-2026,Yes
 "15074 W Heritage Oak Way","15074 W Heritage Oak Way","Rosenbaum Realty Group","6600: Vendor Markup Expense",1270742,"Markup: Bill for air conditioner is leaking",$16.00,11-11-2026,Yes
 "1702 E 6th Ave",,"Tropical Air","54000: General Construction Expense",1270756,"Bill for heater is not working",$697.00,11-11-2026,Yes
-"1702 E 6th Ave",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1270756,"Markup: Bill for heater is not working",$69.70,11-11-2026,No
+"1702 E 6th Ave",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1270756,"Markup: Bill for heater is not working",$69.70,11-11-2026,Yes
 "2969 E Isaiah Ave","2969 E Isaiah Ave","Tropical Air","54000: General Construction Expense",1270764,"Bill for The HVAC Evaporator/condenser Belt Is Making A Loud Squeak Noise",$828.00,11-11-2026,No
 "2969 E Isaiah Ave","2969 E Isaiah Ave","Rosenbaum Realty Group","6600: Vendor Markup Expense",1270764,"Markup: Bill for The HVAC Evaporator/condenser Belt Is Making A Loud Squeak Noise",$82.80,11-11-2026,No
 "931 W Martin Rd","931 W Martin Rd","Quantohm Electric","52500: Electrical Expense",1270772,"Bill for Electrical inspection/kitchen has no power",$464.00,11-10-2026,No
 "931 W Martin Rd","931 W Martin Rd","Rosenbaum Realty Group","6600: Vendor Markup Expense",1270772,"Markup: Bill for Electrical inspection/kitchen has no power",$46.40,11-10-2026,No
 "3024 E Robin Ln","3024 E Robin Ln","Desert City Pools LLC","54011: Pool Maintenance/Repair",1270777,"Bill for filter service",$169.00,11-05-2026,Yes
 "3024 E Robin Ln","3024 E Robin Ln","Rosenbaum Realty Group","6600: Vendor Markup Expense",1270777,"Markup: Bill for filter service",$16.90,11-05-2026,Yes
-"1491 E Dana Pl","1491 E Dana Pl","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-11-2026,No
+"455 West Kelso Street","T25-030 19 - 455 West Kelso Street #206","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$289.50,11-23-2026,No
+"1491 E Dana Pl","1491 E Dana Pl","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-11-2026,Yes
 "704 W 11Th St","704 W 11Th St Unit C","Arizona Water Company","59506: Water Utility Expense","100127482 11/26","100127482 11/26",$144.74,11-05-2026,Yes
 "704 W 11Th St","704 W 11Th St Unit C","Arizona Water Company","53026: Convenience Fee Exp","100127482 11/26",,$0.35,11-05-2026,Yes
 "1495 E. 29th Ave","1495 E 29th Ave Apt 3","Apache Junction Water District","59506: Water Utility Expense","108244-12863 11/26","108244-12863 11/26",$55.36,11-11-2026,Yes
-"960 N Jay St","960 N Jay St Apt C","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$56.72,11-11-2026,No
-"960 N Jay St","960 N Jay St Apt C","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$70.00,11-11-2026,No
-"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$6.96,11-11-2026,No
+"960 N Jay St","960 N Jay St Apt C","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$56.72,11-11-2026,Yes
+"960 N Jay St","960 N Jay St Apt C","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$70.00,11-11-2026,Yes
+"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$6.96,11-11-2026,Yes
 "9321 W Hillcrest Pl","9321 W Hillcrest Pl","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$50.60,11-11-2026,No
 "9321 W Hillcrest Pl","9321 W Hillcrest Pl","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$130.00,11-11-2026,No
 "9321 W Hillcrest Pl","9321 W Hillcrest Pl","Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$125.00,11-11-2026,No
 "9321 W Hillcrest Pl","9321 W Hillcrest Pl","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-11-2026,No
 "9321 W Hillcrest Pl","9321 W Hillcrest Pl","Rosenbaum Realty Group","43009: Fee For Returned Payment Income",,"Fee For Returned Payment Income for 11/2026",$75.00,11-11-2026,No
-"2082 South Clubhouse Drive","2082 South Clubhouse Drive","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$25.28,11-11-2026,No
-"2082 South Clubhouse Drive","2082 South Clubhouse Drive","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$50.00,11-11-2026,No
-"2082 South Clubhouse Drive","2082 South Clubhouse Drive","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-11-2026,No
-"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$6.92,11-11-2026,No
-"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$140.00,11-11-2026,No
-"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$75.00,11-11-2026,No
-"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$22.98,11-11-2026,No
-"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-11-2026,No
-"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-11-2026,No
-"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-11-2026,No
-"860 E Brown Rd Units 21 - 24",,"Sun Gardens","53010: HOA Exp",1C11001901,11/2026,$478.52,11-01-2026,No
-"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-11-2026,No
+"2082 South Clubhouse Drive","2082 South Clubhouse Drive","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$25.28,11-11-2026,Yes
+"2082 South Clubhouse Drive","2082 South Clubhouse Drive","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$50.00,11-11-2026,Yes
+"2082 South Clubhouse Drive","2082 South Clubhouse Drive","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-11-2026,Yes
+"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$6.92,11-11-2026,Yes
+"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$140.00,11-11-2026,Yes
+"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$75.00,11-11-2026,Yes
+"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$22.98,11-11-2026,Yes
+"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-11-2026,Yes
+"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-11-2026,Yes
+"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-11-2026,Yes
+"860 E Brown Rd Units 21 - 24",,"Sun Gardens","53010: HOA Exp",1C11001901,11/2026,$525.00,11-01-2026,Yes
+"6434 E Alder","6434 E Alder Ave Apt 101","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-11-2026,Yes
 "3609 E Glenn St Units 1-3",,"City of Tucson","59504: Trash Utility Expense","1393947-404969 11/26","1393947-404969 11/26",$121.75,11-03-2026,Yes
-"3333 W 8th St Bld D","3333 W 8th St Bld D - D06","Repair Masters","58001: General Plumbing Exp",1270808,"Bill for Broken Or Leaking Pipes",$221.93,11-12-2026,No
-"3333 W 8th St Bld D","3333 W 8th St Bld D - D06","Rosenbaum Realty Group","6600: Vendor Markup Expense",1270808,"Markup: Bill for Broken Or Leaking Pipes",$22.19,11-12-2026,No
-"770 N Dodge",,"Repair Masters","54011: Pool Maintenance/Repair",1272373,"Bill for Monthly Pool Service",$475.00,11-12-2026,No
-"770 N Dodge",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1272373,"Markup: Bill for Monthly Pool Service",$47.50,11-12-2026,No
-"T25-075 - 7518 W Crimson Sky Dr","T25-075 - 7518 W Crimson Sky Dr","Specialty Cleaning Services","54011: Pool Maintenance/Repair",1272386,"Bill for Monthly Pool Service",$140.00,11-12-2026,No
-"T25-075 - 7518 W Crimson Sky Dr","T25-075 - 7518 W Crimson Sky Dr","Rosenbaum Realty Group","6600: Vendor Markup Expense",1272386,"Markup: Bill for Monthly Pool Service",$14.00,11-12-2026,No
+"3333 W 8th St Bld D","3333 W 8th St Bld D - D06","Repair Masters","58001: General Plumbing Exp",1270808,"Bill for Broken Or Leaking Pipes",$221.93,11-12-2026,Yes
+"3333 W 8th St Bld D","3333 W 8th St Bld D - D06","Rosenbaum Realty Group","6600: Vendor Markup Expense",1270808,"Markup: Bill for Broken Or Leaking Pipes",$22.19,11-12-2026,Yes
+"770 N Dodge",,"Repair Masters","54011: Pool Maintenance/Repair",1272373,"Bill for Monthly Pool Service",$475.00,11-12-2026,Yes
+"770 N Dodge",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1272373,"Markup: Bill for Monthly Pool Service",$47.50,11-12-2026,Yes
+"T25-075 - 7518 W Crimson Sky Dr","T25-075 - 7518 W Crimson Sky Dr","Specialty Cleaning Services","54011: Pool Maintenance/Repair",1272386,"Bill for Monthly Pool Service",$140.00,11-12-2026,Yes
+"T25-075 - 7518 W Crimson Sky Dr","T25-075 - 7518 W Crimson Sky Dr","Rosenbaum Realty Group","6600: Vendor Markup Expense",1272386,"Markup: Bill for Monthly Pool Service",$14.00,11-12-2026,Yes
 "8888 West Swansea Drive","8888 West Swansea Drive","Quantohm Electric","50751: Appliance repair Exp",1272393,"Bill for Electrical Service Call - Dishwasher",$149.00,11-12-2026,No
 "8888 West Swansea Drive","8888 West Swansea Drive","Rosenbaum Realty Group","6600: Vendor Markup Expense",1272393,"Markup: Bill for Electrical Service Call - Dishwasher",$14.90,11-12-2026,No
-"1646 East Melissa Street","1646 East Melissa Street","EcoGuard Pest Control","57500: Pest Control Expense",1272399,1272399,$850.00,11-11-2026,No
-"1646 East Melissa Street","1646 East Melissa Street","Rosenbaum Realty Group","6600: Vendor Markup Expense",1272399,"Markup: 1272399",$85.00,11-11-2026,No
-"1324 N Farrell Court","1324 N Farrell Ct Ste 109 #3","Dante Dimas","51501: Carpet Cleaning",1272402,"Bill for Carpet Cleaning",$198.00,11-11-2026,No
-"1324 N Farrell Court","1324 N Farrell Ct Ste 109 #3","Rosenbaum Realty Group","6600: Vendor Markup Expense",1272402,"Markup: Bill for Carpet Cleaning",$19.80,11-11-2026,No
+"1646 East Melissa Street","1646 East Melissa Street","EcoGuard Pest Control","57500: Pest Control Expense",1272399,1272399,$850.00,11-11-2026,Yes
+"1646 East Melissa Street","1646 East Melissa Street","Rosenbaum Realty Group","6600: Vendor Markup Expense",1272399,"Markup: 1272399",$85.00,11-11-2026,Yes
+"1324 N Farrell Court","1324 N Farrell Ct Ste 109 #3","Dante Dimas","51501: Carpet Cleaning",1272402,"Bill for Carpet Cleaning",$198.00,11-11-2026,Yes
+"1324 N Farrell Court","1324 N Farrell Ct Ste 109 #3","Rosenbaum Realty Group","6600: Vendor Markup Expense",1272402,"Markup: Bill for Carpet Cleaning",$19.80,11-11-2026,Yes
 "13295 S Durango Rd","13295 S Durango Rd Unit 3","Dante Dimas","55000: Landscaping Expense",1272408,"Bill for one time landscaping",$250.00,11-11-2026,No
 "Pueblo Dr 9 unit Property",,"Phoenix EZ-Keys","52003: Keys/locks/alarm Exp",1272419,"Bill for Work Order Request: Mailbox Key",$85.00,11-11-2026,No
 "Pueblo Dr 9 unit Property",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1272419,"Markup: Bill for Work Order Request: Mailbox Key",$8.50,11-11-2026,No
-"3333 W 8th",,"Vista Recycling","59801: Gym Equipment Repair",152288,"4YD FL 2/WK gym equipment repair",$702.96,11-01-2026,No
+"3333 W 8th",,"Vista Recycling","59801: Gym Equipment Repair",152288,"4YD FL 2/WK gym equipment repair",$702.96,11-01-2026,Yes
 "3333 W 8th",,"Ash Capital Ltd","53000: Fees Expense",INV-104723,"2026 Infrastructure and Administration Fee",$299.00,11-02-2026,No
-"3872 W Dancer Ln","3872 W Dancer Ln","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-12-2026,No
-,,"Rattlesnake Exterminating","57500: Pest Control Expense",111472,"Pest Control",$62.50,11-11-2026,No
-"3333 W 8th",,"Rattlesnake Exterminating","57500: Pest Control Expense",111472,"Pest Control",$62.50,11-11-2026,No
+"3872 W Dancer Ln","3872 W Dancer Ln","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-12-2026,Yes
+,,"Rattlesnake Exterminating","57500: Pest Control Expense",111472,"Pest Control",$62.50,11-11-2026,Yes
+"3333 W 8th",,"Rattlesnake Exterminating","57500: Pest Control Expense",111472,"Pest Control",$62.50,11-11-2026,Yes
 "3333 W 8th St Bld D","3333 W 8th St Bld D - D06","NexLvl Services","50252: AC General Repairs Exp",84837,"Replace kinked water heater supply line",$201.75,11-11-2026,No
-"3333 W 8th",,"B&D Air Conditioning","50252: AC General Repairs Exp",057893,"one time cooling and heating tune up",$246.00,11-09-2026,No
-"3333 W 8th",,"B&D Air Conditioning","54000: General Construction Expense",057872,"apartment complex diagnostic - pilot light won't stay lit",$95.00,11-06-2026,No
-"3333 W 8th",,"B&D Air Conditioning","50252: AC General Repairs Exp",057873,"diagnostic repair for yellow tag from gas company",$150.00,11-06-2026,No
-,,"B&D Air Conditioning","50252: AC General Repairs Exp",057873,"diagnostic repair for yellow tag from gas company",$150.00,11-06-2026,No
-"1326 Miller","1326 N Miller Rd  Unit B","Tap and Sons Electric","52500: Electrical Expense",1270713,"Bill for There's No Electricity Anywhere In The House, and Whole Home Has No Power",$225.00,11-11-2026,No
-"1326 Miller","1326 N Miller Rd  Unit B","Rosenbaum Realty Group","6600: Vendor Markup Expense",1270713,"Markup: Bill for There's No Electricity Anywhere In The House, and Whole Home Has No Power",$22.50,11-11-2026,No
+"3333 W 8th",,"B&D Air Conditioning","50252: AC General Repairs Exp",057893,"one time cooling and heating tune up",$246.00,11-09-2026,Yes
+"3333 W 8th",,"B&D Air Conditioning","54000: General Construction Expense",057872,"apartment complex diagnostic - pilot light won't stay lit",$95.00,11-06-2026,Yes
+"3333 W 8th",,"B&D Air Conditioning","50252: AC General Repairs Exp",057873,"diagnostic repair for yellow tag from gas company",$150.00,11-06-2026,Yes
+,,"B&D Air Conditioning","50252: AC General Repairs Exp",057873,"diagnostic repair for yellow tag from gas company",$150.00,11-06-2026,Yes
+"1326 Miller","1326 N Miller Rd  Unit B","Tap and Sons Electric","52500: Electrical Expense",1270713,"Bill for There's No Electricity Anywhere In The House, and Whole Home Has No Power",$225.00,11-11-2026,Yes
+"1326 Miller","1326 N Miller Rd  Unit B","Rosenbaum Realty Group","6600: Vendor Markup Expense",1270713,"Markup: Bill for There's No Electricity Anywhere In The House, and Whole Home Has No Power",$22.50,11-11-2026,Yes
 "737 W 1st ave Mesa","737 W 1st Ave Apt 201","City of Mesa","59501: Electric Utility Expense","991150-127645 11/26","991150-127645 11/26",$83.96,11-03-2026,Yes
 "820 E Junction","820 E Junction St","Republic Services","59504: Trash Utility Expense","3-0753-0131460 11/26","3-0753-0131460 11/26","$1,665.90",11-01-2026,Yes
 "770 N Dodge",,"Republic Services","59504: Trash Utility Expense","3-0845-0084958 11/26","3-0845-0084958 11/26",$41.41,11-01-2026,Yes
 "9230 N. 6th St.",,"Republic Services","59504: Trash Utility Expense","3-0753-0145684 11/26","3-0753-0145684 11/26","$1,549.88",11-01-2026,No
-,,"SW Gas - Southwest Gas Corporation","59502: Gas Utility Expense","910004776701 11/26","910004776701 11/26",$55.89,11-01-2026,No
+,,"SW Gas - Southwest Gas Corporation","59502: Gas Utility Expense","910004776701 11/26 Final","910004776701 11/26 Final",$55.89,11-01-2026,Yes
 "15074 W Heritage Oak Way","15074 W Heritage Oak Way","City of Surprise","59503: Sewer Utility Expense","038621-327412 11/26","038621-327412 11/26",$125.39,11-03-2026,Yes
 "410 E 9th Ave","Unit 5","City of Mesa","59501: Electric Utility Expense","991150-112078 11/26","991150-112078 11/26",$47.13,11-12-2026,Yes
-"6320 N 16th St","6320 N 16th St Apt 210","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$25.00,11-13-2026,No
+"6320 N 16th St","6320 N 16th St Apt 210","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$25.00,11-13-2026,Yes
 "3611 E Glenn St",,"City of Tucson","59506: Water Utility Expense","1393947-124040 11/26","1393947-124040 11/26",$203.35,11-06-2026,Yes
 "3611 E Glenn St",,"City of Tucson","59503: Sewer Utility Expense","1393947-124040 11/26","1393947-124040 11/26",$146.73,11-06-2026,Yes
 "3611 E Glenn St",,"City of Tucson","59504: Trash Utility Expense","1393947-124040 11/26","1393947-124040 11/26",$24.39,11-06-2026,Yes
 "10919 W Carmelita Cir","10919 W Carmelita Cir",APS,"59501: Electric Utility Expense","0727621137 11/26","0727621137 11/26",$69.68,11-05-2026,No
 "1702 W Shangri La Rd","1702 W Shangri La Rd Unit 3",APS,"59501: Electric Utility Expense","6092705436 11/26","6092705436 11/26",$24.79,11-05-2026,Yes
 "925 N. College unit C111, Tempe 85283","925 N. College unit C111, Tempe 85283",APS,"59501: Electric Utility Expense","6473272296 11/26","6473272296 11/26",$33.06,11-05-2026,Yes
-,,"Rosenbaum Enterprises","3030: Owner Draw",,,"$6,150.00",11-15-2026,No
-,,"Rosenbaum Enterprises","3030: Owner Draw",,,"$6,150.00",11-15-2026,No
-Totals,,,,,,"$282,159.34",,
-
+,,"Rosenbaum Enterprises","3030: Owner Draw",,,"$6,150.00",11-15-2026,Yes
+,,"Rosenbaum Enterprises","3030: Owner Draw",,,"$6,150.00",11-15-2026,Yes
+"26 W 6Th Pl Units 1 - 4","26 W 6Th Pl Unit 2","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$422.50,11-17-2026,Yes
+,,"Town Of Sahuarita","59503: Sewer Utility Expense","1008617.03 11/26 Final","1008617.03 11/26 Final",$19.12,11-16-2026,Yes
+"10919 W Carmelita Cir","10919 W Carmelita Cir",Kenia,"51504: Deep Cleaning Exp",1274486,"Bill for PRE SCHEDULE DEEP CLEANING/WALL CLEANING FOR 11/07",$500.00,11-14-2026,Yes
+"10919 W Carmelita Cir","10919 W Carmelita Cir","Rosenbaum Realty Group","6600: Vendor Markup Expense",1274486,"Markup: Bill for PRE SCHEDULE DEEP CLEANING/WALL CLEANING FOR 11/07",$50.00,11-14-2026,Yes
+"8585 W Santa Cruz Blvd","8585 W Santa Cruz Blvd","MCW Advanced Solutions LLC","54005: Roof repair Exp",1274487,"Entryway Leak at the bottom Valley.","$1,200.00",11-16-2026,Yes
+"8585 W Santa Cruz Blvd","8585 W Santa Cruz Blvd","Rosenbaum Realty Group","6600: Vendor Markup Expense",1274487,"Markup: Entryway Leak at the bottom Valley.",$120.00,11-16-2026,Yes
+"1250 S Palm","1250 S Palm","Quality Pool Service, Inc","51507: Pool Cleaning Expense",1274501,"Drain acid wash and restart chemicals",$700.00,11-16-2026,No
+"1250 S Palm","1250 S Palm","Rosenbaum Realty Group","6600: Vendor Markup Expense",1274501,"Markup: Drain acid wash and restart chemicals",$70.00,11-16-2026,No
+"1702 E 6th Ave","1714 E 6th Ave",Kenia,"51504: Deep Cleaning Exp",1274507,"Bill for PRE SCHEDULE DEEP CLEANING FOR 11/10",$300.00,11-14-2026,Yes
+"1702 E 6th Ave","1714 E 6th Ave","Rosenbaum Realty Group","6600: Vendor Markup Expense",1274507,"Markup: Bill for PRE SCHEDULE DEEP CLEANING FOR 11/10",$30.00,11-14-2026,Yes
+"1741 East Pepper Cir",,"JSS Remodeling LLC","58001: General Plumbing Exp",1274514,"Bathtub replacement and drywall repair","$2,250.00",11-13-2026,Yes
+"1741 East Pepper Cir",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1274514,"Markup: Bathtub replacement and drywall repair",$225.00,11-13-2026,Yes
+"9435 W Magnum Dr","9435 W Magnum Dr",Kenia,"51504: Deep Cleaning Exp",1274526,"Bill for pre schedule deep cleaning for 11/07",$300.00,11-14-2026,Yes
+"9435 W Magnum Dr","9435 W Magnum Dr","Rosenbaum Realty Group","6600: Vendor Markup Expense",1274526,"Markup: Bill for pre schedule deep cleaning for 11/07",$30.00,11-14-2026,Yes
+"5636 E 26Th St","T26-014 1 - 5636 East 26th Street #1","MCW Advanced Solutions LLC","54005: Roof repair Exp",1274532,"Flat Roof Leak Repair / Coating and Fabric Overlay",$825.00,11-14-2026,Yes
+"5636 E 26Th St","T26-014 1 - 5636 East 26th Street #1","Rosenbaum Realty Group","6600: Vendor Markup Expense",1274532,"Markup: Flat Roof Leak Repair / Coating and Fabric Overlay",$82.50,11-14-2026,Yes
+"3611 E Glenn St","T26-007 1 - 3611 E Glenn St Unit 1","Cool Command","51500: Cleaning Expense",1274535,"bill for housekeeping",$325.00,11-05-2026,No
+"3611 E Glenn St","T26-007 1 - 3611 E Glenn St Unit 1","Rosenbaum Realty Group","6600: Vendor Markup Expense",1274535,"Markup: bill for housekeeping",$32.50,11-05-2026,No
+"3313 W Harmont Dr","3313 W Harmont Dr Unit 3","R&S Quality Glass","59750: Window Expense",1274539,"Family room vent window. Glass.",$353.73,11-14-2026,Yes
+"3313 W Harmont Dr","3313 W Harmont Dr Unit 3","Rosenbaum Realty Group","6600: Vendor Markup Expense",1274539,"Markup: Family room vent window. Glass.",$35.37,11-14-2026,Yes
+"4354 N 82nd St Unit 234","4354 N 82nd St Unit 234","Affordable Appliance Repair","50755: Refridgerator Repair Exp",1274546,"Diagnostic Fee Fridge Not Cooling Property Frost Only On Top Quarter Of Evaporator Coils Compressor Is Running. But At 140 Degrees. Evaporator And Condenser, Fan Motors Are Both Running, Compressor",$89.00,11-09-2026,Yes
+"4354 N 82nd St Unit 234","4354 N 82nd St Unit 234","Rosenbaum Realty Group","6600: Vendor Markup Expense",1274546,"Markup: Diagnostic Fee Fridge Not Cooling Property Frost Only On Top Quarter Of Evaporator Coils Compressor Is Running. But At 140 Degrees. Evaporator And Condenser, Fan Motors Are Both Running, Compressor",$8.90,11-09-2026,Yes
+"T25-063 - 3620 Yukon","T25-063 - 3620 Yukon","MCW Advanced Solutions LLC","54005: Roof repair Exp",1274552,"Coating / Sealing Cooler and Parapet opening repair",$150.00,11-14-2026,Yes
+"T25-063 - 3620 Yukon","T25-063 - 3620 Yukon","Rosenbaum Realty Group","6600: Vendor Markup Expense",1274552,"Markup: Coating / Sealing Cooler and Parapet opening repair",$15.00,11-14-2026,Yes
+"1324 N Farrell Court",,Kenia,"56000: Office Expense",1274554,"bill for office cleaning",$175.00,11-14-2026,No
+"1324 N Farrell Court",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1274554,"Markup: bill for office cleaning",$17.50,11-14-2026,No
+"737 W 1st ave Mesa","737 W 1st Ave Apt 101","Tropical Air","50252: AC General Repairs Exp",1274564,"Bill for A/C will not maintain the temperature",$100.00,11-16-2026,Yes
+"737 W 1st ave Mesa","737 W 1st Ave Apt 101","Rosenbaum Realty Group","6600: Vendor Markup Expense",1274564,"Markup: Bill for A/C will not maintain the temperature",$10.00,11-16-2026,Yes
+"845 N Date","845 N Date Apt 1","Phoenix EZ-Keys","52003: Keys/locks/alarm Exp",1274574,"bill for rekey locks",$110.00,11-15-2026,No
+"845 N Date","845 N Date Apt 1","Rosenbaum Realty Group","6600: Vendor Markup Expense",1274574,"Markup: bill for rekey locks",$11.00,11-15-2026,No
+"Delano St","T25-033 1 - 354 W Delano St #1","City of tucson","59506: Water Utility Expense","1030839-555580 11/26","1030839-555580 11/26",$31.84,11-09-2026,Yes
+"Delano St","T25-033 1 - 354 W Delano St #1","City of tucson","59503: Sewer Utility Expense","1030839-555580 11/26","1030839-555580 11/26",$22.48,11-09-2026,Yes
+"Delano St","T25-033 1 - 354 W Delano St #1","City of tucson","59504: Trash Utility Expense","1030839-555580 11/26","1030839-555580 11/26",$4.38,11-09-2026,Yes
+"1324 N Farrell Court","1324 N Farrell Ct Suites 2","Schlink Plumbing","54000: General Construction Expense",1274582,"Water heater valve leak",$200.00,11-13-2026,No
+"1324 N Farrell Court","1324 N Farrell Ct Suites 2","Rosenbaum Realty Group","6600: Vendor Markup Expense",1274582,"Markup: Water heater valve leak",$20.00,11-13-2026,No
+"2266 W Wayland Rd","2266 W Wayland Rd","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-16-2026,Yes
+"1134 East Curry Road","Unit A","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-16-2026,Yes
+"Delano St",,"City of Tucson","59506: Water Utility Expense","1393947-555578 11/26","1393947-555578 11/26",$649.93,11-09-2026,Yes
+"Delano St",,"City of Tucson","59503: Sewer Utility Expense","1393947-555578 11/26","1393947-555578 11/26",$249.41,11-09-2026,Yes
+"Delano St",,"City of Tucson","59504: Trash Utility Expense","1393947-555578 11/26","1393947-555578 11/26",$67.54,11-09-2026,Yes
+"350 W Delano St Units 1 and 2",,"City of Tucson","59504: Trash Utility Expense","1393947-591428 11/26","1393947-591428 11/26",$156.08,11-09-2026,Yes
+"15085W Taylor","15085W Taylor","Repair Masters","54000: General Construction Expense",1273044,"Multiple items - Replaced hose bib. Repaired door. Repaired disposals electrical wiring. Had great difficulty removing the shower cartridge. Due to rust and calcium build up, it did not want to come out and in the process the shower valve was damaged. This will need to be replaced.",$750.78,11-16-2026,Yes
+"4704 E Caballero St","4704 E Caballero St Apt 2","City of Mesa","59506: Water Utility Expense","991150-196727 11/26","991150-196727 11/26",$35.71,11-01-2026,Yes
+"4704 E Caballero St","4704 E Caballero St Apt 2","City of Mesa","59503: Sewer Utility Expense","991150-196727 11/26","991150-196727 11/26",$40.89,11-01-2026,Yes
+"4704 E Caballero St","4704 E Caballero St Apt 2","City of Mesa","59504: Trash Utility Expense","991150-196727 11/26","991150-196727 11/26",$43.31,11-01-2026,Yes
+"4541 E Caballero Cir",,"City of Mesa","59506: Water Utility Expense","991150-178256 11/26","991150-178256 11/26",$118.72,11-01-2026,Yes
+"4541 E Caballero Cir",,"City of Mesa","59503: Sewer Utility Expense","991150-178256 11/26","991150-178256 11/26",$110.12,11-01-2026,Yes
+"4541 E Caballero Cir",,"City of Mesa","59504: Trash Utility Expense","991150-178256 11/26","991150-178256 11/26",$115.29,11-01-2026,Yes
+"4553 Caballero Cir",,"City of Mesa","59506: Water Utility Expense","991150-178330 11/26","991150-178330 11/26",$66.62,11-01-2026,Yes
+"4553 Caballero Cir",,"City of Mesa","59503: Sewer Utility Expense","991150-178330 11/26","991150-178330 11/26",$53.71,11-01-2026,Yes
+"4553 Caballero Cir",,"City of Mesa","59504: Trash Utility Expense","991150-178330 11/26","991150-178330 11/26",$115.29,11-01-2026,Yes
+"4837 E Caballero Circle","4837 E Caballero Cir Apt 2","City of Mesa","59506: Water Utility Expense","991150-179814 11/26","991150-179814 11/26",$35.71,11-01-2026,Yes
+"4837 E Caballero Circle","4837 E Caballero Cir Apt 2","City of Mesa","59503: Sewer Utility Expense","991150-179814 11/26","991150-179814 11/26",$40.89,11-01-2026,Yes
+"4837 E Caballero Circle","4837 E Caballero Cir Apt 2","City of Mesa","59504: Trash Utility Expense","991150-179814 11/26","991150-179814 11/26",$51.58,11-01-2026,Yes
+"4837 E Caballero Circle","4837 E Caballero Cir Apt 3","City of Mesa","59506: Water Utility Expense","991150-179815 11/26","991150-179815 11/26",$35.71,11-01-2026,Yes
+"4837 E Caballero Circle","4837 E Caballero Cir Apt 3","City of Mesa","59503: Sewer Utility Expense","991150-179815 11/26","991150-179815 11/26",$40.89,11-01-2026,Yes
+"4837 E Caballero Circle","4837 E Caballero Cir Apt 3","City of Mesa","59504: Trash Utility Expense","991150-179815 11/26","991150-179815 11/26",$43.31,11-01-2026,Yes
+Allen,"320 S Allen","City of Mesa","59506: Water Utility Expense","837204-110551 11/26","837204-110551 11/26",$36.25,11-01-2026,Yes
+Allen,"320 S Allen","City of Mesa","59503: Sewer Utility Expense","837204-110551 11/26","837204-110551 11/26",$31.47,11-01-2026,Yes
+Allen,"320 S Allen","City of Mesa","59504: Trash Utility Expense","837204-110551 11/26","837204-110551 11/26",$79.30,11-01-2026,Yes
+"826 E 4th Place","826 E 4th Pl Apt B","City of Mesa","59502: Gas Utility Expense","991150-129794 11/26","991150-129794 11/26",$34.80,11-01-2026,Yes
+"826 E 4th Place","826 E 4th Pl Apt B","City of Mesa","59504: Trash Utility Expense","991150-129794 11/26","991150-129794 11/26",$43.31,11-01-2026,Yes
+"902 E 4th Place","902 E 4th Pl","City of Mesa","59502: Gas Utility Expense","991150-132287 11/26","991150-132287 11/26",$6.28,11-01-2026,Yes
+"902 E 4th Place","902 E 4th Pl","City of Mesa","59506: Water Utility Expense","991150-132287 11/26","991150-132287 11/26",$8.33,11-01-2026,Yes
+"902 E 4th Place","902 E 4th Pl","City of Mesa","59503: Sewer Utility Expense","991150-132287 11/26","991150-132287 11/26",$9.54,11-01-2026,Yes
+"902 E 4th Place","902 E 4th Pl","City of Mesa","59504: Trash Utility Expense","991150-132287 11/26","991150-132287 11/26",$86.99,11-01-2026,Yes
+"839 E 5th",,"City of Mesa","59506: Water Utility Expense","991150-130339 11/26","991150-130339 11/26",$119.70,11-01-2026,Yes
+"839 E 5th",,"City of Mesa","59503: Sewer Utility Expense","991150-130339 11/26","991150-130339 11/26",$66.24,11-01-2026,Yes
+"839 E 5th",,"City of Mesa","59504: Trash Utility Expense","991150-130339 11/26","991150-130339 11/26",$39.55,11-01-2026,Yes
+"770 N Dodge",,"Cool Command","57000: Paint Expense",1275462,"bill for exterior paint and stucco repairs - final payment","$6,565.00",11-17-2026,Yes
+"770 N Dodge",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1275462,"Markup: bill for exterior paint and stucco repairs - final payment",$656.50,11-17-2026,Yes
+"3313 W Harmont Dr",,"Rocky Electric LLC","52500: Electrical Expense",1275479,"bill for electrical inspection and labeling",$150.00,11-16-2026,Yes
+"3313 W Harmont Dr",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1275479,"Markup: bill for electrical inspection and labeling",$15.00,11-16-2026,Yes
+"2747 E Chipman Rd","2747 E Chipman Rd Apt 1","Spencers TV and Appliance","50760: Replace Appliance",1275482,"Electric Range Serial # VF63820238",$670.38,11-16-2026,No
+"2747 E Chipman Rd","2747 E Chipman Rd Apt 1","Rosenbaum Realty Group","6600: Vendor Markup Expense",1275482,"Markup: Electric Range Serial # VF63820238",$67.04,11-16-2026,No
+"T25-056 - 1716 E Mitchell St","T25-056 - 1716 E Mitchell St","Tucson Plumbing Solutions, LLC","58000: Plumbing Expense",1275488,"bill for kitchen sink is clogged",$218.50,11-17-2026,Yes
+"T25-056 - 1716 E Mitchell St","T25-056 - 1716 E Mitchell St","Rosenbaum Realty Group","6600: Vendor Markup Expense",1275488,"Markup: bill for kitchen sink is clogged",$21.85,11-17-2026,Yes
+"737 W 1st ave Mesa","737 W 1st Ave Apt 102","Gila Monster Roofing LLC","54005: Roof repair Exp",1275490,"Remove old shingles and install new on leaking slope","$2,150.00",11-16-2026,Yes
+"737 W 1st ave Mesa","737 W 1st Ave Apt 102","Rosenbaum Realty Group","6600: Vendor Markup Expense",1275490,"Markup: Remove old shingles and install new on leaking slope",$430.00,11-16-2026,Yes
+"455 West Kelso Street","T25-030 21 - 455 W Kelso St #237","Desert Ground Solutions","52001: Door repair Exp",1275513,"Bill for Replace door jamb - Entry",$180.00,11-16-2026,Yes
+"455 West Kelso Street","T25-030 21 - 455 W Kelso St #237","Rosenbaum Realty Group","6600: Vendor Markup Expense",1275513,"Markup: Bill for Replace door jamb - Entry",$18.00,11-16-2026,Yes
+"538 E Dragon Springs Dr","538 E Dragon Springs Dr","Ghost Ranch Community Association","53010: HOA Exp",,"HOA Violation: plants and tree",$25.00,11-03-2026,Yes
+"3611 E Glenn St",,"TEP - Tucson Electric Power Company","59501: Electric Utility Expense","5018120448 11/26","5018120448 11/26",$210.14,11-03-2026,Yes
+"2625 N Alvernon Way",,"TEP - Tucson Electric Power Company","59501: Electric Utility Expense","0751292995 11/26","0751292995 11/26",$117.18,11-12-2026,Yes
+"1702 E Prince Rd","T25-039 2 - 1702 E Prince Rd #110","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","1004722479 11/26","1004722479 11/26",$125.52,11-12-2026,Yes
+"1702 E Prince Rd","T25-039 3 - 1702 E Prince Rd #120","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","1004722479 11/26","1004722479 11/26",$148.06,11-12-2026,Yes
+"1702 E Prince Rd","T25-039 1 - 1702 E Prince Rd #100","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","1004722479 11/26","1004722479 11/26",$217.20,11-12-2026,Yes
+"2625 N Alvernon Way","T25-015 1 - 2625 N Alvernon Way A1","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","7342423684 11/26","7342423684 11/26",$37.10,11-12-2026,Yes
+"3609 E Glenn St Units 1-3","T26-006 1 - 3609 East Glenn Street Unit 1","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","2362628652 11/26","2362628652 11/26",$35.97,11-12-2026,Yes
+"3136 N Winstel Blvd","3136 N Winstel Blvd Unit 1","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","9409114013 11/26","9409114013 11/26",$36.82,11-12-2026,Yes
+"2625 N Alvernon Way","T25-015 5 - 2625 N Alvernon Way B1","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","6734453338 11/26","6734453338 11/26",$33.06,11-12-2026,Yes
+"T25-037 2 - 4650 East 17th Street","T25-037 3 - 4652 1/2 E17th","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","2650768979 11/26","2650768979 11/26",$22.46,11-10-2026,Yes
+"T25-009 - 1715 N Village Dr","T25-009 - 1715 N Village Dr","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","5679495869 Final","5679495869 Final",$486.04,11-04-2026,Yes
+"3313 W Harmont Dr",,SRP,"59501: Electric Utility Expense","531-269-002 11/26","531-269-002 11/26",$64.40,11-12-2026,Yes
+"3313 W Harmont Dr",,SRP,"59111: Security Deposit","531-269-002 11/26","531-269-002 11/26",$120.00,11-12-2026,Yes
+"208 S Doran",,"City of Mesa","59506: Water Utility Expense","1102664-105990 11/26","1102664-105990 11/26",$87.45,11-13-2026,Yes
+"208 S Doran",,"City of Mesa","59503: Sewer Utility Expense","1102664-105990 11/26","1102664-105990 11/26",$78.76,11-13-2026,Yes
+"208 S Doran",,"City of Mesa","59504: Trash Utility Expense","1102664-105990 11/26","1102664-105990 11/26",$167.80,11-13-2026,Yes
+"733 Morris Cir",,"City of Mesa","59501: Electric Utility Expense","991150-127330 11/26","991150-127330 11/26",$10.49,11-05-2026,Yes
+"733 Morris Cir",,"City of Mesa","59506: Water Utility Expense","991150-127330 11/26","991150-127330 11/26",$241.19,11-05-2026,Yes
+"733 Morris Cir",,"City of Mesa","59503: Sewer Utility Expense","991150-127330 11/26","991150-127330 11/26",$167.93,11-05-2026,Yes
+"T25-058 - 2203 Honeysuckle","T25-058 - 2203 Honeysuckle","Andrea Services, LLC","58001: General Plumbing Exp",1275961,"bill for tub/shower",$240.00,11-17-2026,Yes
+"T25-058 - 2203 Honeysuckle","T25-058 - 2203 Honeysuckle","Rosenbaum Realty Group","6600: Vendor Markup Expense",1275961,"Markup: bill for tub/shower",$24.00,11-17-2026,Yes
+"1702 W Shangri La Rd","1702 W Shangri La Rd Unit 2","Gila Monster Roofing LLC","54005: Roof repair Exp",1275965,Tarp,$500.00,11-17-2026,Yes
+"1702 W Shangri La Rd","1702 W Shangri La Rd Unit 2","Rosenbaum Realty Group","6600: Vendor Markup Expense",1275965,"Markup: Tarp",$50.00,11-17-2026,Yes
+"1702 E 6th Ave","1710 E 6th Ave","Tropical Air","50252: AC General Repairs Exp",1275966,"Bill for The Air-conditioning And Heater Won’t Turn On",$706.52,11-17-2026,Yes
+"1702 E 6th Ave","1710 E 6th Ave","Rosenbaum Realty Group","6600: Vendor Markup Expense",1275966,"Markup: Bill for The Air-conditioning And Heater Won’t Turn On",$70.65,11-17-2026,Yes
+"298 West Dana Drive","298 West Dana Drive","Schlink Plumbing","58006: Toilet repair Exp",1275969,"Bill for My Toilet Is Not Flushing",$225.00,11-17-2026,Yes
+"298 West Dana Drive","298 West Dana Drive","Rosenbaum Realty Group","6600: Vendor Markup Expense",1275969,"Markup: Bill for My Toilet Is Not Flushing",$22.50,11-17-2026,Yes
+"T25-012 - 1723 N Village Dr","T25-012 - 1723 N Village Dr","Tucson Plumbing Solutions, LLC","58001: General Plumbing Exp",1275977,"bill for the kitchen sink is clogged",$251.00,11-16-2026,Yes
+"T25-012 - 1723 N Village Dr","T25-012 - 1723 N Village Dr","Rosenbaum Realty Group","6600: Vendor Markup Expense",1275977,"Markup: bill for the kitchen sink is clogged",$25.10,11-16-2026,Yes
+"Boulder AJ","10550 (A)",SRP,"59501: Electric Utility Expense","956-148-000 11/26","956-148-000 11/26",$142.89,11-10-2026,Yes
+"505 E Huntington Dr Apt 2","505 E Huntington Dr Apt 2",SRP,"59501: Electric Utility Expense","368-820-102 11/26 Final","368-820-102 11/26 Final",$42.01,11-13-2026,Yes
+"3058 East Michelle Way","3058 East Michelle Way","Apartment Resurfacing","54000: General Construction Expense",1276374,"Bill for Countertop estimate",$440.00,11-11-2026,Yes
+"3058 East Michelle Way","3058 East Michelle Way","Rosenbaum Realty Group","6600: Vendor Markup Expense",1276374,"Markup: Bill for Countertop estimate",$44.00,11-11-2026,Yes
+"770 N Dodge","T25-001 14 - 770 N Dodge Ave Apt 14","Rosenbaum Realty Group","6200: Lease Fee Expense",,"Lease Fee",$324.50,11-23-2026,No
+"15074 W Heritage Oak Way","15074 W Heritage Oak Way","R&S Quality Glass","59750: Window Expense",1276403,"Custom dual pane window. Eyebrow window in the upstairs master bedroom. labor/service call & scaffolding","$1,506.82",11-17-2026,Yes
+"15074 W Heritage Oak Way","15074 W Heritage Oak Way","Rosenbaum Realty Group","6600: Vendor Markup Expense",1276403,"Markup: Custom dual pane window. Eyebrow window in the upstairs master bedroom. labor/service call & scaffolding",$301.36,11-17-2026,Yes
+"15074 W Heritage Oak Way","15074 W Heritage Oak Way","JSS Remodeling LLC","58000: Plumbing Expense",1276408,"Shower door replacement","$1,300.00",11-17-2026,Yes
+"15074 W Heritage Oak Way","15074 W Heritage Oak Way","Rosenbaum Realty Group","6600: Vendor Markup Expense",1276408,"Markup: Shower door replacement",$260.00,11-17-2026,Yes
+"644 S Mesa Dr",,"Phoenix EZ-Keys","52003: Keys/locks/alarm Exp",1276416,"bill for rekey/eviction",$110.00,11-17-2026,No
+"644 S Mesa Dr",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1276416,"Markup: bill for rekey/eviction",$11.00,11-17-2026,No
+"9230 N. 6th St.","9230 N 6th St Apt 7","Plumbing Vine","58000: Plumbing Expense",1276423,"bill for toilet is leaking/spraying",$205.00,11-18-2026,No
+"9230 N. 6th St.","9230 N 6th St Apt 7","Rosenbaum Realty Group","6600: Vendor Markup Expense",1276423,"Markup: bill for toilet is leaking/spraying",$20.50,11-18-2026,No
+"446 E 9th Ave",C,"Tropical Air","50252: AC General Repairs Exp",1276426,"Service - AC Inspection, Service - Mobilization",$100.00,11-18-2026,Yes
+"446 E 9th Ave",C,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1276426,"Markup: Service - AC Inspection, Service - Mobilization",$10.00,11-18-2026,Yes
+"1718 E 6th Ave","1728 E 6th Ave",SRP,"59501: Electric Utility Expense","715-689-000 11/26","715-689-000 11/26",$54.15,11-16-2026,Yes
+"3122 E Monterosa St","3122 E Monterosa St","Edge Plumbing LLC","58015: Replaced Water Heater",1276711,"Bill for Water heater has exposed wires on it",$277.00,11-18-2026,Yes
+"3122 E Monterosa St","3122 E Monterosa St","Rosenbaum Realty Group","6600: Vendor Markup Expense",1276711,"Markup: Bill for Water heater has exposed wires on it",$27.70,11-18-2026,Yes
+"931 W Martin Rd","931 W Martin Rd","San Carlos Irrigation Project - Power Division","59501: Electric Utility Expense","3108428  10/26 & 11/26","3108428  10/26",$78.92,11-02-2026,Yes
+"931 W Martin Rd","931 W Martin Rd","San Carlos Irrigation Project - Power Division","59501: Electric Utility Expense","3108428  10/26 & 11/26","3108428   11/26",$88.42,11-02-2026,Yes
+"410 E 9th Ave",,"City of Mesa","59501: Electric Utility Expense","991150-112062 11/26","991150-112062 11/26",$70.23,11-12-2026,Yes
+"410 E 9th Ave",,"City of Mesa","59506: Water Utility Expense","991150-112062 11/26","991150-112062 11/26",$724.25,11-12-2026,Yes
+"410 E 9th Ave",,"City of Mesa","59503: Sewer Utility Expense","991150-112062 11/26","991150-112062 11/26",$607.01,11-12-2026,Yes
+"410 E 9th Ave",,"City of Mesa","59504: Trash Utility Expense","991150-112062 11/26","991150-112062 11/26",$651.92,11-12-2026,Yes
+"9321 W Hillcrest Pl","9321 W Hillcrest Pl",APS,"59501: Electric Utility Expense","7593393635 Final","7593393635 Final",$219.38,11-18-2026,No
+"3611 E Glenn St",,"SW Gas - Southwest Gas Corporation","59502: Gas Utility Expense","910005061892 11/26","910005061892 11/26",$48.11,11-13-2026,Yes
+"9085 East Janice Way","9085 East Janice Way",APS,"59501: Electric Utility Expense","4479911260 11/26","4479911260 11/26",$10.06,11-09-2026,Yes
+"11094 W Arvada Dr","11094 W Arvada Dr",APS,"59501: Electric Utility Expense","0000810477 11/26","0000810477 11/26",$281.68,11-09-2026,No
+"9435 W Magnum Dr","9435 W Magnum Dr",APS,"59501: Electric Utility Expense","7474491219 11/26","7474491219 11/26",$3.33,11-09-2026,No
+"86 N Monitor Row","86 N Monitor Row","Northshore Owners Association","55500: Legal and Professional Expense","December 2026","Townhome Assessment",$76.00,11-18-2026,No
+"86 N Monitor Row","86 N Monitor Row","Northshore Owners Association","55500: Legal and Professional Expense","December 2026","Base Assessment",$47.00,11-18-2026,No
+"10758 W Carousel Dr.","Unit B",APS,"59501: Electric Utility Expense","2010552115 11/26","2010552115 11/26",$41.27,11-13-2026,Yes
+"360 E 6th Ave",,"City of Mesa","59506: Water Utility Expense","991150-111818 11/26","991150-111818 11/26",$140.35,11-06-2026,Yes
+"360 E 6th Ave",,"City of Mesa","59503: Sewer Utility Expense","991150-111818 11/26","991150-111818 11/26",$147.74,11-06-2026,Yes
+"360 E 6th Ave",,"City of Mesa","59504: Trash Utility Expense","991150-111818 11/26","991150-111818 11/26",$151.28,11-06-2026,Yes
+"2747 E Chipman Rd","Unit 2",SRP,"59501: Electric Utility Expense","285-950-104 11/26","285-950-104 11/26",$284.48,11-16-2026,Yes
+"208 S Doran","208 S Doran Unit 214",SRP,"59501: Electric Utility Expense","904-089-008 11/26","904-089-008 11/26",$96.75,11-16-2026,Yes
+"1702 E 6th Ave","1714 E 6th Ave",SRP,"59501: Electric Utility Expense","314-489-000 11/26","314-489-000 11/26",$41.85,11-16-2026,Yes
+"26 W 6Th Pl Units 1 - 4",,"Pacience Venne","51500: Cleaning Expense",1277282,"Bill for Cleaning - Post Move Out",$345.00,11-18-2026,Yes
+"26 W 6Th Pl Units 1 - 4",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1277282,"Markup: Bill for Cleaning - Post Move Out",$34.50,11-18-2026,Yes
+"3313 W Harmont Dr","3313 W Harmont Dr Unit 4","Edge Plumbing LLC","58000: Plumbing Expense",1277286,"Bill for Following up from work order in progress that is open in Rent vine ##103654","$3,009.00",11-18-2026,No
+"3313 W Harmont Dr","3313 W Harmont Dr Unit 4","Rosenbaum Realty Group","6600: Vendor Markup Expense",1277286,"Markup: Bill for Following up from work order in progress that is open in Rent vine ##103654",$601.80,11-18-2026,No
+"1000 N Pueblo",,"Dante Dimas","55000: Landscaping Expense",1277291,"Monthly landscaping",$250.00,11-18-2026,Yes
+"1000 N Pueblo",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1277291,"Markup: Monthly landscaping",$25.00,11-18-2026,Yes
+"3611 E Glenn St","T26-007 1 - 3611 E Glenn St Unit 1","Cool Command","58000: Plumbing Expense",1277293,"Bill for Replace Kitchen Faucet",$300.00,11-16-2026,No
+"3611 E Glenn St","T26-007 1 - 3611 E Glenn St Unit 1","Rosenbaum Realty Group","6600: Vendor Markup Expense",1277293,"Markup: Bill for Replace Kitchen Faucet",$30.00,11-16-2026,No
+"455 West Kelso Street","T25-030 19 - 455 West Kelso Street #206","Cool Command","58000: Plumbing Expense",1277296,"Bill for #206 needs a new kitchen faucet",$279.00,11-16-2026,Yes
+"455 West Kelso Street","T25-030 19 - 455 West Kelso Street #206","Rosenbaum Realty Group","6600: Vendor Markup Expense",1277296,"Markup: Bill for #206 needs a new kitchen faucet",$27.90,11-16-2026,Yes
+"455 West Kelso Street","T25-030 19 - 455 West Kelso Street #206","Cool Command","53500: Flooring Expense",1277302,"bill for repair subfloor","$1,004.95",11-18-2026,Yes
+"455 West Kelso Street","T25-030 19 - 455 West Kelso Street #206","Rosenbaum Realty Group","6600: Vendor Markup Expense",1277302,"Markup: bill for repair subfloor",$100.50,11-18-2026,Yes
+"1750 E 6th Ave",1750,SRP,"59501: Electric Utility Expense","515-447-008 11/26","515-447-008 11/26",$135.37,11-16-2026,Yes
+"3609 E Glenn St Units 1-3",,"Andrea Services, LLC","54007: Repairs Exp",1277305,"Repair hole tub shower and paint tub shower",$300.00,11-18-2026,No
+"3609 E Glenn St Units 1-3",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1277305,"Markup: Repair hole tub shower and paint tub shower",$30.00,11-18-2026,No
+"1742 E 6th ave","1742 E 6th Ave",SRP,"59501: Electric Utility Expense","570-105-004 11/26","570-105-004 11/26",$35.04,11-16-2026,Yes
+"735 S Stardust Ln","735 S Stardust Ln","Schlink Plumbing","58000: Plumbing Expense",1277310,"bill for my toilet is not flushing",$390.00,11-18-2026,Yes
+"735 S Stardust Ln","735 S Stardust Ln","Rosenbaum Realty Group","6600: Vendor Markup Expense",1277310,"Markup: bill for my toilet is not flushing",$39.00,11-18-2026,Yes
+"1718 E 6th Ave","1718 E 6th Ave",SRP,"59501: Electric Utility Expense","282-544-009 11/26","282-544-009 11/26",$116.17,11-16-2026,Yes
+"T25-045 - 108 E Blacklidge Dr #1","T25-045 - 108 E Blacklidge Dr #1","Cool Command","54007: Repairs Exp",1277314,"bill for no hot water in home",$89.89,11-18-2026,Yes
+"T25-045 - 108 E Blacklidge Dr #1","T25-045 - 108 E Blacklidge Dr #1","Rosenbaum Realty Group","6600: Vendor Markup Expense",1277314,"Markup: bill for no hot water in home",$8.99,11-18-2026,Yes
+"455 West Kelso Street","T25-030 19 - 455 West Kelso Street #206","Cool Command","54007: Repairs Exp",1277316,"bill for thermostat is not working",$89.00,11-18-2026,Yes
+"455 West Kelso Street","T25-030 19 - 455 West Kelso Street #206","Rosenbaum Realty Group","6600: Vendor Markup Expense",1277316,"Markup: bill for thermostat is not working",$8.90,11-18-2026,Yes
+"16215 N 16th St","16215 N 16th St",APS,"59501: Electric Utility Expense","0908499240 11/26","0908499240 11/26",$17.91,11-12-2026,Yes
+"186 W Brangus Way","186 W Brangus Way","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-17-2026,Yes
+"15237 S Moon Valley Rd","15237 S Moon Valley Rd Unit B",APS,"59501: Electric Utility Expense","2038799797 11/26","2038799797 11/26",$23.69,11-10-2026,Yes
+"414-416 E 9th St","T25-038 2 - 416 E 9th St","City of Tucson","59504: Trash Utility Expense","1339999-42502 11/26","1339999-42502 11/26",$28.20,11-10-2026,Yes
+"770 N Dodge","T25-001 29 - 770 N Dodge Ave Apt 29","Cool Command","50252: AC General Repairs Exp",1277584,"Bill for The AC blows out very little air.",$89.89,11-18-2026,Yes
+"770 N Dodge","T25-001 29 - 770 N Dodge Ave Apt 29","Rosenbaum Realty Group","6600: Vendor Markup Expense",1277584,"Markup: Bill for The AC blows out very little air.",$8.99,11-18-2026,Yes
+"1134 East Curry Road","Unit B","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$48.16,11-19-2026,Yes
+"1134 East Curry Road","Unit B","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$200.00,11-19-2026,Yes
+"329 S 161st Lane","329 S 161st Lane","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$179.90,11-19-2026,Yes
+"329 S 161st Lane","329 S 161st Lane","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$150.00,11-19-2026,Yes
+"329 S 161st Lane","329 S 161st Lane","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$35.98,11-19-2026,Yes
+"329 S 161st Lane","329 S 161st Lane","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-19-2026,Yes
+"329 S 161st Lane","329 S 161st Lane","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"329 S 161st Lane","329 S 161st Lane","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"6265 N Saguaro Post Pl","6265 N Saguaro Post Pl","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$99.00,11-19-2026,No
+"312 E Vine Cir","312 E Vine Cir Apt 202","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$47.20,11-19-2026,Yes
+"312 E Vine Cir","312 E Vine Cir Apt 202","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$60.00,11-19-2026,Yes
+"T25-016 - 2627 N Alvernon Way (studio)","T25-016 - 2627 N Alvernon Way (studio)","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"15547 S Moon Valley Rd","15547 S Moon Valley Rd # 1","Rosenbaum Realty Group","4006: MIS Recovery Fee",,"MIS Recovery Fee for 11/2026",$489.00,11-19-2026,Yes
+"15547 S Moon Valley Rd","15547 S Moon Valley Rd # 1","Rosenbaum Realty Group","43030: Balance Interest Fee",,"Balance Interest Fee for 11/2026",$0.03,11-19-2026,Yes
+"11001 Carousel","11001 W Carousel Dr Unit B","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"8580 W Monaco Blvd.","8580 W Monaco Blvd Apt B","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$270.00,11-19-2026,Yes
+"8580 W Monaco Blvd.","8580 W Monaco Blvd Apt B","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$8.03,11-19-2026,Yes
+"8580 W Monaco Blvd.","8580 W Monaco Blvd Apt B","Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$75.00,11-19-2026,Yes
+"9321 W Hillcrest Pl","9321 W Hillcrest Pl","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$70.00,11-19-2026,No
+"9321 W Hillcrest Pl","9321 W Hillcrest Pl","Rosenbaum Realty Group","43009: Fee For Returned Payment Income",,"Fee For Returned Payment Income for 11/2026",$75.00,11-19-2026,No
+"9336 S 33Rd Dr","9336 S 33Rd Dr","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$85.00,11-19-2026,Yes
+"9336 S 33Rd Dr","9336 S 33Rd Dr","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$327.50,11-19-2026,Yes
+"9336 S 33Rd Dr","9336 S 33Rd Dr","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-19-2026,Yes
+"9336 S 33Rd Dr","9336 S 33Rd Dr","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"40053 North Scott Way","40053 North Scott Way","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$160.30,11-19-2026,Yes
+"40053 North Scott Way","40053 North Scott Way","Rosenbaum Realty Group","43009: Fee For Returned Payment Income",,"Fee For Returned Payment Income for 11/2026",$1.75,11-19-2026,Yes
+"40053 North Scott Way","40053 North Scott Way","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$46.00,11-19-2026,Yes
+"40053 North Scott Way","40053 North Scott Way","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"40053 North Scott Way","40053 North Scott Way","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$160.00,11-19-2026,Yes
+"3810 W Naomi Ln","3810 W Naomi Ln","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$146.64,11-19-2026,Yes
+"3810 W Naomi Ln","3810 W Naomi Ln","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$190.00,11-19-2026,Yes
+"3810 W Naomi Ln","3810 W Naomi Ln","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$41.90,11-19-2026,Yes
+"3810 W Naomi Ln","3810 W Naomi Ln","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-19-2026,Yes
+"3810 W Naomi Ln","3810 W Naomi Ln","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"1126 E Mt. Shibell Dr.","1126 E Mt. Shibell Dr.","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$35.00,11-19-2026,Yes
+"1126 E Mt. Shibell Dr.","1126 E Mt. Shibell Dr.","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$175.00,11-19-2026,Yes
+,,"Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"3313 W Harmont Dr","3313 W Harmont Dr Unit 4","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$76.00,11-19-2026,Yes
+"3313 W Harmont Dr","3313 W Harmont Dr Unit 4","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$130.00,11-19-2026,Yes
+"3313 W Harmont Dr","3313 W Harmont Dr Unit 4","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$19.00,11-19-2026,Yes
+"3313 W Harmont Dr","3313 W Harmont Dr Unit 4","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$45.00,11-19-2026,Yes
+"3313 W Harmont Dr","3313 W Harmont Dr Unit 4","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"770 N Dodge","T25-001 28 - 770 N Dodge Ave Apt 28","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$17.60,11-19-2026,Yes
+"770 N Dodge","T25-001 12 - 770 N Dodge Ave Apt 12","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"2747 E Chipman Rd","Unit 4","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$150.00,11-19-2026,Yes
+"2747 E Chipman Rd","Unit 4","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"9230 N. 6th St.","9230 N 6th St Apt 9","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$140.00,11-19-2026,Yes
+"9230 N. 6th St.","9230 N 6th St Apt 9","Rosenbaum Realty Group","43009: Fee For Returned Payment Income",,"Fee For Returned Payment Income for 11/2026",$150.00,11-19-2026,Yes
+"9230 N. 6th St.","9230 N 6th St Apt 9","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$13.00,11-19-2026,Yes
+"9230 N. 6th St.","9230 N 6th St Apt 9","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-19-2026,Yes
+"9230 N. 6th St.","9230 N 6th St Apt 9","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"455 West Kelso Street","T25-030 19 - 455 West Kelso Street #206","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"455 West Kelso Street","T25-030 13 - 455 W Kelso St #136","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"455 West Kelso Street","T25-030 15 - 455 W Kelso St #138","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"455 West Kelso Street","T25-030 20 - 455 W Kelso St #208","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$48.00,11-19-2026,Yes
+"455 West Kelso Street","T25-030 20 - 455 W Kelso St #208","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$50.00,11-19-2026,Yes
+"455 West Kelso Street","T25-030 20 - 455 W Kelso St #208","Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$75.00,11-19-2026,Yes
+"16622 W Moreland","16622 W Moreland","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$81.16,11-19-2026,Yes
+"16622 W Moreland","16622 W Moreland","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$80.00,11-19-2026,Yes
+"T25-042 - 2601 W Broadway Blvd #187","T25-042 - 2601 W Broadway Blvd #187","Rosenbaum Realty Group","43029: Collections Surcharge Fee",,"Collections Surcharge Fee for 11/2026",$75.67,11-19-2026,Yes
+"3452 N 67Th Dr","3452 N 67Th Dr","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,No
+"231 and 233 W Lee St","T25-034 2 - 233 W Lee St","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"Boulder AJ","10552 E Boulder Dr","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"350 W Delano St Units 1 and 2","T25-031 2 - 350 W Delano St #2","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$38.48,11-19-2026,Yes
+"350 W Delano St Units 1 and 2","T25-031 2 - 350 W Delano St #2","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$170.00,11-19-2026,Yes
+"882 S Wallrade Ln","882 S Wallrade Ln","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$70.00,11-19-2026,Yes
+"882 S Wallrade Ln","882 S Wallrade Ln","Rosenbaum Realty Group","43009: Fee For Returned Payment Income",,"Fee For Returned Payment Income for 11/2026",$75.00,11-19-2026,Yes
+"1206 E 11th place","1210 E 11th Pl","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$30.92,11-19-2026,Yes
+"1206 E 11th place","1210 E 11th Pl","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$130.00,11-19-2026,Yes
+"1206 E 11th place","1210 E 11th Pl","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"1718 E 6th Ave",1720,"Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$130.00,11-19-2026,Yes
+"1741 East Pepper Cir","1741 E Pepper Cir Apt 2","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$200.00,11-19-2026,Yes
+"1741 East Pepper Cir","1741 E Pepper Cir Apt 2","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$25.00,11-19-2026,Yes
+"1741 East Pepper Cir","1741 E Pepper Cir Apt 2","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-19-2026,Yes
+"1741 East Pepper Cir","1741 E Pepper Cir Apt 2","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$65.00,11-19-2026,Yes
+"Pueblo Dr 9 unit Property","1016 N Pueblo Dr","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$20.20,11-19-2026,Yes
+"Pueblo Dr 9 unit Property","1016 N Pueblo Dr","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$160.00,11-19-2026,Yes
+"Pueblo Dr 9 unit Property","1016 N Pueblo Dr","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$26.30,11-19-2026,Yes
+"Pueblo Dr 9 unit Property","1016 N Pueblo Dr","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"Pueblo Dr 9 unit Property","1020 N Pueblo Dr","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"Pueblo Dr 9 unit Property","1024 N Pueblo Dr","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$15.00,11-19-2026,Yes
+"Pueblo Dr 9 unit Property","1024 N Pueblo Dr","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$25.00,11-19-2026,Yes
+"Pueblo Dr 9 unit Property","1024 N Pueblo Dr","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-19-2026,Yes
+"Pueblo Dr 9 unit Property","1024 N Pueblo Dr","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"Pueblo Dr 9 unit Property","1024 N Pueblo Dr","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"13211 S Kin Circle","13211 S Kin Cir Unit C","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$150.00,11-19-2026,Yes
+"13211 S Kin Circle","13211 S Kin Cir Unit C","Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$75.00,11-19-2026,Yes
+"13211 S Kin Circle","13211 S Kin Cir Unit C","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$20.00,11-19-2026,Yes
+"13211 S Kin Circle","13211 S Kin Cir Unit C","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-19-2026,Yes
+"13211 S Kin Circle","13211 S Kin Cir Unit C","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"13211 S Kin Circle","13211 S Kin Cir Unit C","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"15588 S Yava","15588 S Yava Rd Unit A","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"235 N 22nd Pl Unit 549","235 N 22nd Pl Unit 549","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$138.25,11-19-2026,No
+Linda,"512 E Linda Ave Apt 4","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$95.92,11-19-2026,Yes
+"26 W 6Th Pl Units 1 - 4","26 W 6Th Pl Unit 2","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$31.55,11-19-2026,Yes
+"26 W 6Th Pl Units 1 - 4","26 W 6Th Pl Unit 2","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$306.89,11-19-2026,Yes
+"26 W 6Th Pl Units 1 - 4","26 W 6Th Pl Unit 2","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-19-2026,Yes
+"26 W 6Th Pl Units 1 - 4","26 W 6Th Pl Unit 2","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"22nd Ave Phx",C,"Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$94.58,11-19-2026,Yes
+"22nd Ave Phx",C,"Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$29.74,11-19-2026,Yes
+"22nd Ave Phx",C,"Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$130.00,11-19-2026,Yes
+"22nd Ave Phx",C,"Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$50.00,11-19-2026,Yes
+"159 West Laurel Court","159 West Laurel Court","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"159 West Laurel Court","159 West Laurel Court","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$40.00,11-19-2026,Yes
+"2609 W McLellan Blvd","Unit 1","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$134.50,11-19-2026,Yes
+"2609 W McLellan Blvd","Unit 1","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$150.00,11-19-2026,Yes
+"2609 W McLellan Blvd","Unit 1","Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$75.00,11-19-2026,Yes
+"2609 W McLellan Blvd","Unit 1","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$26.90,11-19-2026,Yes
+"2609 W McLellan Blvd","Unit 1","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-19-2026,Yes
+"2609 W McLellan Blvd","Unit 1","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"2609 W McLellan Blvd","Unit 1","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"489 East Redondo Drive","489 East Redondo Drive","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$170.94,11-19-2026,No
+"8281 W Sandy Ln","Unit 4","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$77.20,11-19-2026,Yes
+"410 E 9th Ave","410 E 9th Ave Apt 2","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$160.00,11-19-2026,Yes
+"410 E 9th Ave","410 E 9th Ave Apt 2","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$27.00,11-19-2026,Yes
+"410 E 9th Ave","410 E 9th Ave Apt 2","Rosenbaum Realty Group","43039: Pet Admin Fee",,"Pet Admin Fee for 11/2026",$55.00,11-19-2026,Yes
+"410 E 9th Ave","410 E 9th Ave Apt 2","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-19-2026,Yes
+"410 E 9th Ave","410 E 9th Ave Apt 2","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"410 E 9th Ave","410 E 9th Ave Apt 18","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$17.84,11-19-2026,Yes
+"410 E 9th Ave","410 E 9th Ave Apt 18","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$80.00,11-19-2026,Yes
+"1332 Miller","1332 N Miller Rd Unit B","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$33.00,11-19-2026,Yes
+"1332 Miller","1332 N Miller Rd Unit B","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"1332 Miller","1332 N Miller Rd Unit B","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"1332 Miller","1332 N Miller Rd Unit B","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$29.50,11-19-2026,Yes
+"1742 E 6th ave","1742 E 6th Ave","Rosenbaum Realty Group","43039: Pet Admin Fee",,"Pet Admin Fee for 11/2026",$186.00,11-19-2026,Yes
+"1742 E 6th ave","1742 E 6th Ave","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$130.00,11-19-2026,Yes
+"1742 E 6th ave","1742 E 6th Ave","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"1742 E 6th ave","1742 E 6th Ave","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$25.00,11-19-2026,Yes
+"1742 E 6th ave","1742 E 6th Ave","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$190.00,11-19-2026,Yes
+"1742 E 6th ave","1742 E 6th Ave","Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$75.00,11-19-2026,Yes
+"446 E 9th Ave",C,"Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$43.80,11-19-2026,Yes
+"6446 E Alder","6446 E Alder Ave Apt 101","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$18.92,11-19-2026,Yes
+"6446 E Alder","6446 E Alder Ave Apt 101","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$25.98,11-19-2026,Yes
+"6446 E Alder","6446 E Alder Ave Apt 101","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"4541 E Caballero Cir",3,"Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$22.92,11-19-2026,Yes
+"4541 E Caballero Cir",3,"Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$84.78,11-19-2026,Yes
+"4541 E Caballero Cir",3,"Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$26.98,11-19-2026,Yes
+"4541 E Caballero Cir",3,"Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"4541 E Caballero Cir",3,"Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$190.00,11-19-2026,Yes
+"4541 E Caballero Cir",3,"Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$75.00,11-19-2026,Yes
+Fairfield,"409 E Fairfield St Apt B","Rosenbaum Realty Group","53014: Re-Lease Admin Fee Exp",,"Re-Lease Admin Fee Exp for 11/2026",$152.20,11-19-2026,Yes
+"918 1st ave","918 S 1st Ave Apt 1","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$27.32,11-19-2026,Yes
+"918 1st ave","918 S 1st Ave Apt 1","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$140.00,11-19-2026,Yes
+"918 1st ave","918 S 1st Ave Apt 1","Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$75.00,11-19-2026,Yes
+"918 1st ave","918 S 1st Ave Apt 1","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$30.98,11-19-2026,Yes
+"918 1st ave","918 S 1st Ave Apt 1","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-19-2026,Yes
+"918 1st ave","918 S 1st Ave Apt 1","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$65.00,11-19-2026,Yes
+"3333 W 8th","3333 W 8th St - F01","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"3333 W 8th","3333 W 8th St - G6","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$85.00,11-19-2026,Yes
+"3333 W 8th","3333 W 8th St - G6","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$150.00,11-19-2026,Yes
+"3333 W 8th","3333 W 8th St - G6","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$1.30,11-19-2026,Yes
+"3333 W 8th St Units 1-4 Dorms","3333 W 8th St # 3","Rosenbaum Realty Group","43014: Re-Lease Admin Fee",,"Re-Lease Admin Fee for 11/2026",$100.00,11-19-2026,Yes
+"3333 W 8th St Bld E","3333 W 8th St Bld E - E09","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+"854 South San Marcos Drive","854 South San Marcos Drive","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$139.92,11-19-2026,Yes
+"854 South San Marcos Drive","854 South San Marcos Drive","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$35.08,11-19-2026,Yes
+"854 South San Marcos Drive","854 South San Marcos Drive","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$65.00,11-19-2026,Yes
+"854 South San Marcos Drive","854 South San Marcos Drive","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-19-2026,Yes
+"854 South San Marcos Drive","854 South San Marcos Drive","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$190.00,11-19-2026,Yes
+"854 South San Marcos Drive","854 South San Marcos Drive","Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$75.00,11-19-2026,Yes
+"5636 E 26Th St","T26-014 2 - 5636 East 26th Street #2","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$58.93,11-19-2026,Yes
+"5636 E 26Th St","T26-014 2 - 5636 East 26th Street #2","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$313.73,11-19-2026,Yes
+"5636 E 26Th St","T26-014 2 - 5636 East 26th Street #2","Rosenbaum Realty Group","43039: Pet Admin Fee",,"Pet Admin Fee for 11/2026",$372.67,11-19-2026,Yes
+"5636 E 26Th St","T26-014 2 - 5636 East 26th Street #2","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-19-2026,Yes
+"5636 E 26Th St","T26-014 2 - 5636 East 26th Street #2","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$75.00,11-19-2026,Yes
+"3058 East Michelle Way","3058 East Michelle Way","Rosenbaum Realty Group","53038: Management Fee Expense",,"Management Fee Expense for 11/2026",$93.86,11-19-2026,Yes
+"3058 East Michelle Way","3058 East Michelle Way","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$83.80,11-19-2026,Yes
+"3058 East Michelle Way","3058 East Michelle Way","Rosenbaum Realty Group","4002: Resident Benefit Package",,"Resident Benefit Package for 11/2026",$150.00,11-19-2026,Yes
+"3058 East Michelle Way","3058 East Michelle Way","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$510.00,11-19-2026,Yes
+"3058 East Michelle Way","3058 East Michelle Way","Rosenbaum Realty Group","43022: Serving of 5 Day Notice Income",,"Serving of 5 Day Notice Income for 11/2026",$93.00,11-19-2026,Yes
+"3058 East Michelle Way","3058 East Michelle Way","Rosenbaum Realty Group","4001: Move in Solution Fee",,"Move in Solution Fee for 11/2026",$85.00,11-19-2026,Yes
+"2950 N Alvernon Way Unit 5105","2950 N Alvernon Way Unit 5105","Rosenbaum Realty Group","43012: Late Fee Income",,"Late Fee Income for 11/2026",$105.00,11-19-2026,Yes
+"2950 N Alvernon Way Unit 5105","2950 N Alvernon Way Unit 5105","Rosenbaum Realty Group","43028: Admin Fee",,"Admin Fee for 11/2026",$10.50,11-19-2026,Yes
+"2950 N Alvernon Way Unit 5105","2950 N Alvernon Way Unit 5105","Rosenbaum Realty Group","43039: Pet Admin Fee",,"Pet Admin Fee for 11/2026",$40.00,11-19-2026,Yes
+"2950 N Alvernon Way Unit 5105","2950 N Alvernon Way Unit 5105","Rosenbaum Realty Group","43007: Convenience Fee Income",,"Convenience Fee Income for 11/2026",$3.25,11-19-2026,Yes
+Wood,Wood,SRP,"59506: Water Utility Expense","058-089-000 11/26","058-089-000 11/26",$334.41,11-17-2026,Yes
+"T25-062 - 2730 N East Gate Dr #2","T25-062 - 2730 N East Gate Dr #2","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","7970290742 11/26","7970290742 11/26",$46.17,11-17-2026,Yes
+"T25-061 - 2730 N East Gate Dr #1","T25-061 - 2730 N East Gate Dr #1","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","2929326526 11/26","2929326526 11/26",$247.69,11-19-2026,Yes
+"8585 W Santa Cruz Blvd",,"Home Repair Bros","54015: Drywall",1277632,"bathroom ceiling drywall repair and paint",$850.00,11-19-2026,Yes
+"8585 W Santa Cruz Blvd",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1277632,"Markup: bathroom ceiling drywall repair and paint",$85.00,11-19-2026,Yes
+"1976 N Lemon Tree Ln Unit 50","1976 N Lemon Tree Ln Unit 50","City of Chandler","59506: Water Utility Expense","00021897-20230825 11/26","00021897-20230825 11/26",$15.00,11-13-2026,Yes
+"1976 N Lemon Tree Ln Unit 50","1976 N Lemon Tree Ln Unit 50","City of Chandler","59503: Sewer Utility Expense","00021897-20230825 11/26","00021897-20230825 11/26",$33.17,11-13-2026,Yes
+"T25-005 - 1707 N Village Dr","T25-005 - 1707 N Village Dr","City of Tucson","59506: Water Utility Expense","1393947-135400 11/26","1393947-135400 11/26",$157.87,11-06-2026,Yes
+"T25-005 - 1707 N Village Dr","T25-005 - 1707 N Village Dr","City of Tucson","59503: Sewer Utility Expense","1393947-135400 11/26","1393947-135400 11/26",$93.48,11-06-2026,Yes
+"T25-005 - 1707 N Village Dr","T25-005 - 1707 N Village Dr","City of Tucson","59504: Trash Utility Expense","1393947-135400 11/26","1393947-135400 11/26",$20.11,11-06-2026,Yes
+"T25-002 - 1701 North Village Drive","T25-002 - 1701 North Village Drive","City of Tucson","59506: Water Utility Expense","1393947-135402 11/26","1393947-135402 11/26",$69.14,11-06-2026,Yes
+"T25-002 - 1701 North Village Drive","T25-002 - 1701 North Village Drive","City of Tucson","59503: Sewer Utility Expense","1393947-135402 11/26","1393947-135402 11/26",$28.83,11-06-2026,Yes
+"T25-002 - 1701 North Village Drive","T25-002 - 1701 North Village Drive","City of Tucson","59504: Trash Utility Expense","1393947-135402 11/26","1393947-135402 11/26",$166.41,11-06-2026,Yes
+"45047 W Bahia Dr","45047 W Bahia Dr","Electrical District #3","59501: Electric Utility Expense","364983 11/26","364983 11/26",$34.98,11-19-2026,Yes
+"38095 W Cannataro Ln","38095 W Cannataro Ln","Electrical District #3","59501: Electric Utility Expense","364395 11/26","364395 11/26",$34.62,11-13-2026,Yes
+Weber,"1001 E Weber Dr","City of Tempe","59506: Water Utility Expense","6899536146 11/26","6899536146 11/26",$140.36,11-17-2026,Yes
+"1353 W Pima Ave","1353 W Pima Ave","Hohokam Irrigation & Drainage District","59506: Water Utility Expense","86255 11/26","86255 11/26",$53.78,11-10-2026,No
+"2747 E Chipman Rd",,"City of Phoenix","59506: Water Utility Expense","5867400943 11/26","5867400943 11/26",$58.39,11-16-2026,Yes
+"2747 E Chipman Rd",,"City of Phoenix","59503: Sewer Utility Expense","5867400943 11/26","5867400943 11/26",$59.57,11-16-2026,Yes
+"2747 E Chipman Rd",,"City of Phoenix","59504: Trash Utility Expense","5867400943 11/26","5867400943 11/26",$169.48,11-16-2026,Yes
+"4603 East Jones Avenue","4603 East Jones Avenue","City of Phoenix","59506: Water Utility Expense","7802824728 11/26","7802824728 11/26",$39.86,11-17-2026,Yes
+"4603 East Jones Avenue","4603 East Jones Avenue","City of Phoenix","59503: Sewer Utility Expense","7802824728 11/26","7802824728 11/26",$23.09,11-17-2026,Yes
+"4603 East Jones Avenue","4603 East Jones Avenue","City of Phoenix","59504: Trash Utility Expense","7802824728 11/26","7802824728 11/26",$42.37,11-17-2026,Yes
+"918 1st ave",,"City of Phoenix","59506: Water Utility Expense","0391381973 11/26","0391381973 11/26",$66.54,11-16-2026,Yes
+"918 1st ave",,"City of Phoenix","59503: Sewer Utility Expense","0391381973 11/26","0391381973 11/26",$40.71,11-16-2026,Yes
+"918 1st ave",,"City of Phoenix","59504: Trash Utility Expense","0391381973 11/26","0391381973 11/26",$84.74,11-16-2026,Yes
+"3313 W Harmont Dr",,"City of Phoenix","59506: Water Utility Expense","5476082659 11/26","5476082659 11/26",$147.66,11-16-2026,Yes
+"3313 W Harmont Dr",,"City of Phoenix","59503: Sewer Utility Expense","5476082659 11/26","5476082659 11/26",$52.75,11-16-2026,Yes
+"3313 W Harmont Dr",,"City of Phoenix","59504: Trash Utility Expense","5476082659 11/26","5476082659 11/26",$169.48,11-16-2026,Yes
+"845 N Date",,"City of Mesa","59506: Water Utility Expense","837204-130635 11/26","837204-130635 11/26",$249.15,11-03-2026,Yes
+"845 N Date",,"City of Mesa","59503: Sewer Utility Expense","837204-130635 11/26","837204-130635 11/26",$141.46,11-03-2026,Yes
+"845 N Date",,"City of Mesa","59504: Trash Utility Expense","837204-130635 11/26","837204-130635 11/26",$151.28,11-03-2026,Yes
+"644 S Mesa Dr","654 South Mesa Drive","City of Mesa","59501: Electric Utility Expense","991150-124363 11/26","991150-124363 11/26",$30.02,11-06-2026,Yes
+"644 S Mesa Dr","654 South Mesa Drive","City of Mesa","59502: Gas Utility Expense","991150-124363 11/26","991150-124363 11/26",$34.37,11-06-2026,Yes
+"2455 E Broadway Rd Unit 93","2455 E Broadway Rd Unit 93","Rosenbaum Realty Group","5649: Lease Renewal Fee Expense",,"Lease Renewal Fee",$200.00,11-18-2026,No
+"T25-036 5 - 2145 N Bell Ave","T25-036 5 - 2145 N Bell Ave","City of Tucson","59506: Water Utility Expense","1393947-136412 11/26","1393947-136412 11/26",$31.84,11-12-2026,Yes
+"T25-036 5 - 2145 N Bell Ave","T25-036 5 - 2145 N Bell Ave","City of Tucson","59503: Sewer Utility Expense","1393947-136412 11/26","1393947-136412 11/26",$25.03,11-12-2026,Yes
+"T25-036 5 - 2145 N Bell Ave","T25-036 5 - 2145 N Bell Ave","City of Tucson","59504: Trash Utility Expense","1393947-136412 11/26","1393947-136412 11/26",$31.13,11-12-2026,Yes
+"2756 E Rakestraw Ln","2756 E Rakestraw Ln","Freeman Farms Homeowners Association Trestle Management Group","53010: HOA Exp","Nov 2026","landscape violation",$200.00,11-11-2026,No
+"860 E Brown Rd Units 21 - 24","860 E Brown Rd Unit 22","City of Mesa","59502: Gas Utility Expense","991150-131269 11/26","991150-131269 11/26",$41.39,11-16-2026,Yes
+"T26-008 - 3486 W Center Mountain Way","T26-008 - 3486 W Center Mountain Way","Cadden Community Management","53010: HOA Exp","Oct 2026",assessment,$19.75,11-20-2026,No
+"T26-008 - 3486 W Center Mountain Way","T26-008 - 3486 W Center Mountain Way","Cadden Community Management","53010: HOA Exp","Nov 2026",assessment,$21.00,11-20-2026,No
+"1751 W Aztec Dr.","1751 W Aztec Dr.","Cross Creek Ranch Homeowners Association","53010: HOA Exp","Nov 2026",Assessment,$45.00,11-01-2026,Yes
+"2625 N Alvernon Way","T25-015 1 - 2625 N Alvernon Way A1","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","2837304122 11/26","Service number 2831828856",$43.58,11-13-2026,Yes
+"2625 N Alvernon Way","T25-015 1 - 2625 N Alvernon Way A1","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","2837304122 11/26","Service number 2838937917",$44.83,11-13-2026,Yes
+"2625 N Alvernon Way","T25-015 11 - 2625 N Alvernon Way C3","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","2837304122 11/26","Service number 2833081572",$57.81,11-13-2026,Yes
+"2625 N Alvernon Way","T25-015 12 - 2625 North Alvernon Way C4","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","2837304122 11/26","Service number 2838406835",$24.77,11-13-2026,Yes
+"2625 N Alvernon Way","T25-015 13 - 2625 North Alvernon Way D1","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","2837304122 11/26","Service number 2839355244",$43.65,11-13-2026,Yes
+"2625 N Alvernon Way",,"TEP - Tucson Electric Power Company","59501: Electric Utility Expense","2837304122 11/26",2837304122,$141.41,11-13-2026,Yes
+"T25-002 - 1701 North Village Drive","T25-002 - 1701 North Village Drive","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","6125303914 11/26","6125303914 11/26",$27.88,11-13-2026,Yes
+"2625 N Alvernon Way","T25-015 6 - 2625 North Alvernon Way B2","TEP - Tucson Electric Power Company","59501: Electric Utility Expense","0608006180 11/26","0608006180 11/26",$29.38,11-13-2026,Yes
+"8888 West Swansea Drive","8888 West Swansea Drive","Dante Dimas","51501: Carpet Cleaning",1278801,"bill for carpet cleaning for 11/8",$176.00,11-19-2026,No
+"8888 West Swansea Drive","8888 West Swansea Drive","Rosenbaum Realty Group","6600: Vendor Markup Expense",1278801,"Markup: bill for carpet cleaning for 11/8",$17.60,11-19-2026,No
+"3935 E Rough Rider Rd Unit 1087","3935 E Rough Rider Rd Unit 1087","JSS Remodeling LLC","59249: Turn over",1278811,"Turnover work","$1,140.62",11-19-2026,No
+"3935 E Rough Rider Rd Unit 1087","3935 E Rough Rider Rd Unit 1087","Rosenbaum Realty Group","6600: Vendor Markup Expense",1278811,"Markup: Turnover work",$228.12,11-19-2026,No
+"26 W 6Th Pl Units 1 - 4",,"Westbound Plumbing","58000: Plumbing Expense",1278817,"bill for plumbing is backing up",$800.00,11-18-2026,No
+"26 W 6Th Pl Units 1 - 4",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1278817,"Markup: bill for plumbing is backing up",$80.00,11-18-2026,No
+"1302 South Lesueur","1302 South Lesueur","Satisfied Plumbing","58000: Plumbing Expense",1278824,"bill for no hot water in home",$65.00,11-20-2026,No
+"1302 South Lesueur","1302 South Lesueur","Rosenbaum Realty Group","6600: Vendor Markup Expense",1278824,"Markup: bill for no hot water in home",$6.50,11-20-2026,No
+"235 N 22nd Pl Unit 549","235 N 22nd Pl Unit 549","Plumbing Vine","58000: Plumbing Expense",1278840,"bill for my water hose is broken and my water won't turn off",$867.00,11-20-2026,No
+"235 N 22nd Pl Unit 549","235 N 22nd Pl Unit 549","Rosenbaum Realty Group","6600: Vendor Markup Expense",1278840,"Markup: bill for my water hose is broken and my water won't turn off",$86.70,11-20-2026,No
+"Fountain St","829 E Fountain St","Satisfied Plumbing","58000: Plumbing Expense",1278848,"supply and install 40 gallon gas water heater","$1,500.00",11-20-2026,No
+"Fountain St","829 E Fountain St","Rosenbaum Realty Group","6600: Vendor Markup Expense",1278848,"Markup: supply and install 40 gallon gas water heater",$300.00,11-20-2026,No
+"719 N Havasupai Ln","719 N Havasupai Ln","Arise Plumbing","58000: Plumbing Expense",1278851,"Bill for My Shower Is Clogged Drain clearing - branch line",$175.00,11-19-2026,No
+"719 N Havasupai Ln","719 N Havasupai Ln","Rosenbaum Realty Group","6600: Vendor Markup Expense",1278851,"Markup: Bill for My Shower Is Clogged Drain clearing - branch line",$17.50,11-19-2026,No
+"26 W 6Th Pl Units 1 - 4",,"Pacience Venne","51500: Cleaning Expense",1278871,"Bill for Bathroom Tub/shower Is Dirty emergency request",$225.00,11-20-2026,No
+"26 W 6Th Pl Units 1 - 4",,"Rosenbaum Realty Group","6600: Vendor Markup Expense",1278871,"Markup: Bill for Bathroom Tub/shower Is Dirty emergency request",$22.50,11-20-2026,No
+"4704 E Caballero St","4704 E Caballero St Apt 2",SRP,"59501: Electric Utility Expense","657-610-109 11/26","657-610-109 11/26",$6.32,11-09-2026,Yes
+"45047 W Bahia Dr","45047 W Bahia Dr","Global Water","59506: Water Utility Expense","0001064381-000021931 11/26","0001064381-000021931 11/26",$112.28,11-11-2026,No
+"2030 W Carson Rd","2030 W Carson Rd","Edge Plumbing LLC","51507: Pool Cleaning Expense",1279098,"Bill for Pool Filter cleaning",$133.90,11-20-2026,No
+"2030 W Carson Rd","2030 W Carson Rd","Rosenbaum Realty Group","6600: Vendor Markup Expense",1279098,"Markup: Bill for Pool Filter cleaning",$13.39,11-20-2026,No
+"Fountain St","825 E Fountain St","City of Mesa","59506: Water Utility Expense","991150-129740 11/26","991150-129740 11/26",$93.50,11-16-2026,Yes
+"Fountain St","825 E Fountain St","City of Mesa","59503: Sewer Utility Expense","991150-129740 11/26","991150-129740 11/26",$91.31,11-16-2026,Yes
+"Fountain St","825 E Fountain St","City of Mesa","59504: Trash Utility Expense","991150-129740 11/26","991150-129740 11/26",$115.29,11-16-2026,Yes
+"1702 E 6th Ave",1702,"City of Mesa","59506: Water Utility Expense","991150-151802 11/26","991150-151802 11/26",$165.57,11-17-2026,Yes
+"1702 E 6th Ave",1702,"City of Mesa","59503: Sewer Utility Expense","991150-151802 11/26","991150-151802 11/26",$173.87,11-17-2026,Yes
+"1702 E 6th Ave","1716 E 6th Ave","City of Mesa","59506: Water Utility Expense","991150-152275 11/26","991150-152275 11/26",$77.04,11-17-2026,Yes
+"1702 E 6th Ave","1716 E 6th Ave","City of Mesa","59503: Sewer Utility Expense","991150-152275 11/26","991150-152275 11/26",$66.24,11-17-2026,Yes
+"1702 E 6th Ave","1716 E 6th Ave","City of Mesa","59504: Trash Utility Expense","991150-152275 11/26","991150-152275 11/26",$265.16,11-17-2026,Yes
+"1718 E 6th Ave","1726 E 6th Ave","City of Mesa","59506: Water Utility Expense","991150-152682 11/26","991150-152682 11/26",$129.08,11-17-2026,Yes
+"1718 E 6th Ave","1726 E 6th Ave","City of Mesa","59503: Sewer Utility Expense","991150-152682 11/26","991150-152682 11/26",$128.93,11-17-2026,Yes
+"1718 E 6th Ave","1726 E 6th Ave","City of Mesa","59504: Trash Utility Expense","991150-152682 11/26","991150-152682 11/26",$265.16,11-17-2026,Yes
+"1741 East Pepper Cir",,"City of Mesa","59506: Water Utility Expense","991150-153215 11/26","991150-153215 11/26",$134.29,11-18-2026,Yes
+"1741 East Pepper Cir",,"City of Mesa","59503: Sewer Utility Expense","991150-153215 11/26","991150-153215 11/26",$135.19,11-18-2026,Yes
+"1741 East Pepper Cir",,"City of Mesa","59504: Trash Utility Expense","991150-153215 11/26","991150-153215 11/26",$151.28,11-18-2026,Yes
+"1742 E 6th ave","1742 E 6th Ave","City of Mesa","59506: Water Utility Expense","991150-153248 11/26","991150-153248 11/26",$113.46,11-17-2026,Yes
+"1742 E 6th ave","1742 E 6th Ave","City of Mesa","59503: Sewer Utility Expense","991150-153248 11/26","991150-153248 11/26",$110.12,11-17-2026,Yes
+"1742 E 6th ave","1742 E 6th Ave","City of Mesa","59504: Trash Utility Expense","991150-153248 11/26","991150-153248 11/26",$151.28,11-17-2026,Yes
+"1750 E 6th Ave",1750,"City of Mesa","59506: Water Utility Expense","991150-153542 11/26","991150-153542 11/26",$45.81,11-17-2026,Yes
+"1750 E 6th Ave",1750,"City of Mesa","59503: Sewer Utility Expense","991150-153542 11/26","991150-153542 11/26",$33.71,11-17-2026,Yes
+"1750 E 6th Ave",1750,"City of Mesa","59504: Trash Utility Expense","991150-153542 11/26","991150-153542 11/26",$151.28,11-17-2026,Yes
+"9230 N. 6th St.",,"SW Gas - Southwest Gas Corporation","59502: Gas Utility Expense","910001536006 11/26","910001536006 11/26",$34.96,11-01-2026,Yes
+"4830 N 73Rd St Unit 10","4830 N 73Rd St Unit 10","SW Gas - Southwest Gas Corporation","59502: Gas Utility Expense","910004921580 11/26","910004921580 11/26",$11.89,11-17-2026,Yes
+"3333 W 8th",,"First Fidelity Bank","55750: Mortgage Expense",,"Thatcher Complex Mortgage","$14,820.19",11-02-2026,Yes
+"3333 W 8th",,"First Fidelity Bank","55752: Mortgage Interest Exp",,"Thatcher Complex Mortgage","$8,978.08",11-02-2026,Yes
+"3333 W 8th",,Nationwide,"56021: Insurance - Liab/Umb",,,"$2,201.99",11-01-2026,Yes
+"3333 W 8th",,Chase,"53002: Bank Fees Exp",,,$25.00,11-01-2026,Yes
+,,"Blue Fin","53026: Convenience Fee Exp",,,$966.92,11-01-2026,Yes
+,,Rippling,"56200: Payroll",,,"$7,186.01",11-04-2026,Yes
+,,Rippling,"56210: Payroll Taxes",,,"$1,882.37",11-04-2026,Yes
+,,"Next Insurance","56020: Insurance Expense",,,$33.77,11-04-2026,Yes
+,,"Blue Fin","53026: Convenience Fee Exp",,,$268.02,11-10-2026,Yes
+,,Rippling,"56200: Payroll",,,"$7,538.33",11-19-2026,Yes
+,,Rippling,"56210: Payroll Taxes",,,"$1,996.90",11-19-2026,Yes
+"Pueblo Dr 9 unit Property","1006 N Pueblo Dr","West Star Pacific Mortgage","55750: Mortgage Expense","ACCT # 970-14639-0",,"$3,310.58",11-01-2026,Yes
+"Pueblo Dr 9 unit Property","1006 N Pueblo Dr","West Star Pacific Mortgage","55752: Mortgage Interest Exp","ACCT # 970-14639-0",,"$1,008.27",11-01-2026,Yes
+"2756 E Rakestraw Ln","2756 E Rakestraw Ln","Rocket Mortgage","55750: Mortgage Expense",,,$589.55,11-01-2026,Yes
+"2756 E Rakestraw Ln","2756 E Rakestraw Ln","Rocket Mortgage","55752: Mortgage Interest Exp",,,"$1,205.75",11-01-2026,Yes
+,,"Rosenbaum Enterprises","3030: Owner Draw",,,"$12,300.00",11-01-2026,Yes
+"13211 S Kin Circle",,"UWS - Universal Waste Systems, Inc.","59504: Trash Utility Expense",0005048178,"#202824281312, 95G Trash",$60.50,11-01-2026,Yes
+"11001 Carousel",,"UWS - Universal Waste Systems, Inc.","59504: Trash Utility Expense",0005048213,"#202824282208, 95G Trash",$60.50,11-01-2026,Yes
+"8888 West Swansea Drive","8888 West Swansea Drive","UWS - Universal Waste Systems, Inc.","59504: Trash Utility Expense",0005049181,"95G Trash",$55.00,11-01-2026,Yes
+"Pueblo Dr 9 unit Property","1006 N Pueblo Dr","Arizona Water Company","59506: Water Utility Expense",B002144674,"Minimum Charge, Tier 1 Charge, Tier 2 Charge, CAP Surcharge, Water Use Sales Tax, Late payment penalty, Late payment penalty",$182.43,11-01-2026,Yes
+"Pueblo Dr 9 unit Property","1006 N Pueblo Dr","Arizona Water Company","59506: Water Utility Expense",B002144674,"ACh Processing Fee",$0.35,11-01-2026,Yes
+"97th Place","97th Place","First Fidelity Bank","55750: Mortgage Expense","Acct # 7552165 11/26",,$449.17,11-01-2026,Yes
+"97th Place","97th Place","First Fidelity Bank","55752: Mortgage Interest Exp","Acct # 7552165 11/26",,$349.00,11-01-2026,Yes
+"8610 South Avenida del Yaqui","8610 South Avenida del Yaqui","First Fidelity Bank","55750: Mortgage Expense","Acct # 7552165 11/26",,$449.17,11-01-2026,Yes
+"8610 South Avenida del Yaqui","8610 South Avenida del Yaqui","First Fidelity Bank","55752: Mortgage Interest Exp","Acct # 7552165 11/26",,$349.00,11-01-2026,Yes
+"1009 East Doan Street","1009 East Doan Street","First Fidelity Bank","55750: Mortgage Expense","Acct # 7552165 11/26",,$449.17,11-01-2026,Yes
+"1009 East Doan Street","1009 East Doan Street","First Fidelity Bank","55752: Mortgage Interest Exp","Acct # 7552165 11/26",,$349.00,11-01-2026,Yes
+"8824 Calle Tomi","8824 Calle Tomi","First Fidelity Bank","55750: Mortgage Expense","Acct # 7552165 11/26",,$449.17,11-01-2026,Yes
+"8824 Calle Tomi","8824 Calle Tomi","First Fidelity Bank","55752: Mortgage Interest Exp","Acct # 7552165 11/26",,$349.00,11-01-2026,Yes
+"1302 South Lesueur","1302 South Lesueur","First Fidelity Bank","55750: Mortgage Expense","Acct # 7552165 11/26",,$449.18,11-01-2026,Yes
+"1302 South Lesueur","1302 South Lesueur","First Fidelity Bank","55752: Mortgage Interest Exp","Acct # 7552165 11/26",,$349.00,11-01-2026,Yes
+"86 N Monitor Row","86 N Monitor Row","Northshore HOA","53010: HOA Exp",,,$126.95,11-01-2026,Yes
+"1324 N Farrell Court",,"Cox Communications","59508: Internet Exp","0018501201234001 11/26","0018501201234001 10/26",$258.34,11-12-2026,Yes
+,,"City of Phoenix","59506: Water Utility Expense",,"Water Base Fee, Water Usage Fee, Environmental Mandates - Water, City Services Tax, State Mandated Jail Costs, State & Other Taxes, Sewer Fee, Environmental Mandates - Sewer, City Sales Tax",$207.10,11-16-2026,No
+"9321 W Hillcrest Pl","9321 W Hillcrest Pl","Waste Management","59504: Trash Utility Expense",6116708-4890-6,"96 Gallon Toter, Energy Surcharge, MARICOPA SOLID WASTE FEE",$30.60,11-20-2026,No
+"13295 S Durango Rd",,"First Fidelity Bank","55750: Mortgage Expense",,,$553.54,11-13-2026,Yes
+"13295 S Durango Rd",,"First Fidelity Bank","55752: Mortgage Interest Exp",,,$724.20,11-13-2026,Yes
+"11001 Carousel",,"Mutual of Enumclaw","56021: Insurance - Liab/Umb",,,$82.12,11-15-2026,Yes
+"8339 W Santa Cruz Blvd",,"Mutual of Enumclaw","56021: Insurance - Liab/Umb",,,$164.27,11-15-2026,Yes
+"8580 W Monaco Blvd.",,"Mutual of Enumclaw","56021: Insurance - Liab/Umb",,,$164.27,11-15-2026,Yes
+"15547 S Moon Valley Rd",,"Mutual of Enumclaw","56021: Insurance - Liab/Umb",,,$164.27,11-15-2026,Yes
+"15237 S Moon Valley Rd",,"Mutual of Enumclaw","56021: Insurance - Liab/Umb",,,$164.27,11-15-2026,Yes
+"1646 East Melissa Street","1646 East Melissa Street","First Fidelity Bank","55750: Mortgage Expense",,,$161.22,11-15-2026,Yes
+"1646 East Melissa Street","1646 East Melissa Street","First Fidelity Bank","55752: Mortgage Interest Exp",,,$924.50,11-15-2026,Yes
+"8585 W Santa Cruz Blvd","8585 W Santa Cruz Blvd","First Fidelity Bank","55750: Mortgage Expense",,,$254.55,11-15-2026,Yes
+"8585 W Santa Cruz Blvd","8585 W Santa Cruz Blvd","First Fidelity Bank","55752: Mortgage Interest Exp",,,"$1,459.74",11-15-2026,Yes
+"11001 Carousel",,"Western Alliance Bank","55750: Mortgage Expense","5 Prop AZCITY/MFRE Holdings 11/26","5 Prop AZCITY/MFRE Holdings",$586.46,11-01-2026,Yes
+"15237 S Moon Valley Rd",,"Western Alliance Bank","55750: Mortgage Expense","5 Prop AZCITY/MFRE Holdings 11/26","5 Prop AZCITY/MFRE Holdings",$586.46,11-01-2026,Yes
+"15547 S Moon Valley Rd",,"Western Alliance Bank","55750: Mortgage Expense","5 Prop AZCITY/MFRE Holdings 11/26","5 Prop AZCITY/MFRE Holdings",$586.46,11-01-2026,Yes
+"8339 W Santa Cruz Blvd",,"Western Alliance Bank","55750: Mortgage Expense","5 Prop AZCITY/MFRE Holdings 11/26","5 Prop AZCITY/MFRE Holdings",$586.46,11-01-2026,Yes
+"8580 W Monaco Blvd.",,"Western Alliance Bank","55750: Mortgage Expense","5 Prop AZCITY/MFRE Holdings 11/26","5 Prop AZCITY/MFRE Holdings",$586.45,11-01-2026,Yes
+"11001 Carousel",,"Western Alliance Bank","55752: Mortgage Interest Exp","5 Prop AZCITY/MFRE Holdings 11/26","5 Prop AZCITY/MFRE Holdings",$262.96,11-01-2026,Yes
+"8339 W Santa Cruz Blvd",,"Western Alliance Bank","55752: Mortgage Interest Exp","5 Prop AZCITY/MFRE Holdings 11/26","5 Prop AZCITY/MFRE Holdings",$262.97,11-01-2026,Yes
+"8580 W Monaco Blvd.",,"Western Alliance Bank","55752: Mortgage Interest Exp","5 Prop AZCITY/MFRE Holdings 11/26","5 Prop AZCITY/MFRE Holdings",$262.97,11-01-2026,Yes
+"15547 S Moon Valley Rd",,"Western Alliance Bank","55752: Mortgage Interest Exp","5 Prop AZCITY/MFRE Holdings 11/26","5 Prop AZCITY/MFRE Holdings",$262.97,11-01-2026,Yes
+"15237 S Moon Valley Rd",,"Western Alliance Bank","55752: Mortgage Interest Exp","5 Prop AZCITY/MFRE Holdings 11/26","5 Prop AZCITY/MFRE Holdings",$262.97,11-01-2026,Yes
+"13211 S Kin Circle",,"Western Alliance Bank","55750: Mortgage Expense",,,$339.84,11-15-2026,Yes
+"13211 S Kin Circle",,"Western Alliance Bank","55752: Mortgage Interest Exp",,,$338.29,11-15-2026,Yes
+"8590 W Magnum",,"Western Alliance Bank","55750: Mortgage Expense",,,$339.85,11-15-2026,Yes
+"8590 W Magnum",,"Western Alliance Bank","55752: Mortgage Interest Exp",,,$438.29,11-15-2026,Yes
+"3520 N La Paz Dr","3520 N La Paz Dr",APS,"59501: Electric Utility Expense",,"Energy Usage Cost, Taxes, Fees & Other Charges, Energy, System Benefits Charge (51.00 kWh X $0.00361/kWh), Federal Transmission And Ancillary Services (51.00 kWh x $0.01097/kWh), Energy Delivery Service Charge (51.00 kWh X $0.03469/kWh), Generation Of Electricity (51.00 kWh X $0.07998/kWh), Basic Service Charge, Adjustors, Environmental Benefits Surcharge, Power Supply Adjustment, Federal Transmission Cost Adjustment, LFCR Adjustor, Court Resolution Surcharge, Regulatory Assessment, Franchise Fee, State Sales Tax, County Sales Tax, City Sales Tax",$11.47,11-02-2026,No
+"1326 Miller",,"City of Tempe","59506: Water Utility Expense",,"Monthly Service Charge, Storm Water Environmental Charge, Consumption Charges, State Water Quality Assurance Fee, City Tax 1.8%, State Tax 6.3%, Monthly Service Charge, Wastewater Usage Amount - 70.15 @ $0.272, 96 Gal Refuse Containers 1 @ $34.51",$131.68,11-17-2026,No
+"4603 East Jones Avenue","4603 East Jones Avenue","City of Phoenix","59506: Water Utility Expense",,"Water Base Fee, Water Usage Fee, Environmental Mandates - Water, City Services Tax, State Mandated Jail Costs, State & Other Taxes, Sewer Fee, Environmental Mandates - Sewer, City Sales Tax, Solid Waste Fee, State Landfill Disposal Fee",$119.00,11-01-2026,Yes
+"10th ave AJ","507 E 10th Ave Apt 20","Apache Junction Sewer District","59506: Water Utility Expense",,"Multi Family",$128.00,11-01-2026,No
+Linda,,"Apache Junction Sewer District","59503: Sewer Utility Expense","10029404 11/26",,$128.00,11-01-2026,Yes
+"770 N Dodge",,"SW Gas - Southwest Gas Corporation","59502: Gas Utility Expense",,"Delivery Charge, Rate Adjustment, Monthly Gas Cost, Delivery Charge Adj, Basic Service Charge, Applicable Revenue Taxes",$42.38,11-01-2026,Yes
+"770 N Dodge",,"SW Gas - Southwest Gas Corporation","59502: Gas Utility Expense",,"Delivery Charge, Rate Adjustment, DOT Safety Surcharge, Monthly Gas Cost, Delivery Charge Adj, Basic Service Charge, Applicable Revenue Taxes",$51.14,11-01-2026,Yes
+"T25-009 - 1715 N Village Dr","T25-009 - 1715 N Village Dr","SW Gas - Southwest Gas Corporation","59502: Gas Utility Expense",,"Delivery Charge, Rate Adjustment, DOT Safety Surcharge, Monthly Gas Cost, Delivery Charge Adj, Basic Service Charge, Applicable Revenue Taxes",$35.91,11-01-2026,Yes
+"770 N Dodge",,"SW Gas - Southwest Gas Corporation","59502: Gas Utility Expense",,"Delivery Charge, Rate Adjustment, DOT Safety Surcharge, Monthly Gas Cost, Delivery Charge Adj, Basic Service Charge, Applicable Revenue Taxes",$57.69,11-01-2026,Yes
+"770 N Dodge",,"SW Gas - Southwest Gas Corporation","59502: Gas Utility Expense",,"Delivery Charge, Rate Adjustment, DOT Safety Surcharge, Monthly Gas Cost, Delivery Charge Adj, Basic Service Charge, Applicable Revenue Taxes",$198.01,11-01-2026,Yes
+"T25-037 2 - 4650 East 17th Street","T25-037 3 - 4652 1/2 E17th","SW Gas - Southwest Gas Corporation","59502: Gas Utility Expense",,"Delivery Charge, Rate Adjustment, Monthly Gas Cost, Delivery Charge Adj, Basic Service Charge, Applicable Revenue Taxes",$13.25,11-01-2026,Yes
+Totals,,,,,,"$446,664.08",,
