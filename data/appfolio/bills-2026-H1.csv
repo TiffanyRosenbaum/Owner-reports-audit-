@@ -1,0 +1,750 @@
+payee,reference,description,property,gl_account,amount,paid,created_date
+Repair Masters LLC,705364,Periodic Inspection,P21-004,6608 - Periodic Inspection Expense,95.00,Paid,2026-01-16T16:49:32Z
+Repair Masters LLC,705362,Periodic Inspection,P11-057,6608 - Periodic Inspection Expense,95.00,Paid,2026-01-16T17:04:23Z
+Repair Masters LLC,704448,Periodic Inspection dated 11/25 received 1/16/26,P99-039 2,6608 - Periodic Inspection Expense,95.00,Paid,2026-01-16T17:05:03Z
+Repair Masters LLC,706467,Washer Repair,P20-026,6305 - Appliances,245.78,Paid,2026-01-16T17:05:42Z
+Repair Masters LLC,706455,Plunged toilet - weekend service,P17-017,6340 - Plumbing & Septic,214.50,Paid,2026-01-16T17:06:23Z
+Repair Masters LLC,703597-1,Unit turn maintenance - Invoice dated 11/17 received 1/16,P04-008 1,6312 - General Repairs,514.45,Paid,2026-01-16T17:07:31Z
+Repair Masters LLC,706418,Replace Stove/Oven & Replace Dishwasher,P13-025 4,6305 - Appliances,1386.72,Paid,2026-01-16T17:08:54Z
+Repair Masters LLC,706436,One time landscaping service,P05-034 A,6125 - Landscaping & Irrigation,275.00,Paid,2026-01-16T17:09:23Z
+Repair Masters LLC,705488,Install new irrigation timer,P13-025 4,6125 - Landscaping & Irrigation,207.90,Paid,2026-01-16T17:46:41Z
+Repair Masters LLC,705488,"Replace security door, repair door stop, repair weather seal, rehang closet doors, window screens, bedroom and hallway door repair",P13-025 4,6306 - Doors & Windows,937.98,Paid,2026-01-16T17:46:41Z
+Repair Masters LLC,705488,Remaining turn items - refer to invoice for full list,P13-025 4,6312 - General Repairs,2267.77,Paid,2026-01-16T17:46:41Z
+Repair Masters LLC,705488,Touch up paint and stucco repair,P13-025 4,6330 - Painting / Drywall / Trim,495.00,Paid,2026-01-16T17:46:41Z
+Repair Masters LLC,706429,Install disconnect at water heater,P19-004,6307 - Electrical Work,247.50,Paid,2026-01-16T17:48:16Z
+Repair Masters LLC,706428,Water Heater Replacement,P19-004,6340 - Plumbing & Septic,1870.00,Paid,2026-01-16T17:49:13Z
+Repair Masters LLC,706424,Fridge Repair,P20-060,6305 - Appliances,93.50,Paid,2026-01-16T17:49:41Z
+Repair Masters LLC,706388,"Clean walls with mold killer and preventer, wired exhaust fan to light switch.",P04-060,6120 - General Maintenance,80.82,Paid,2026-01-16T17:53:25Z
+Repair Masters LLC,706389,Create access through concreate from unit A to C to repair unit C's kitchen drain line,P02-029 C,6340 - Plumbing & Septic,2750.00,Paid,2026-01-21T15:30:02Z
+Town of PV Utilities,40821-3442,Water Bill,P11-044,6525 - Water & Sewer,19.71,Paid,2026-01-21T15:34:38Z
+Town of PV Utilities,124805-20338,Water Bill,P02-004 A,6525 - Water & Sewer,63.67,Paid,2026-01-21T15:35:01Z
+Town of PV Utilities,40927-20340,Water Bill,P06-068 A,6525 - Water & Sewer,42.59,Paid,2026-01-21T15:35:58Z
+Town of PV Utilities,6631-18382,Water Bill,P18-018 A,6525 - Water & Sewer,83.19,Paid,2026-01-21T15:36:23Z
+Town of PV Utilities,6633-18384,Water Bill,P18-019 A,6525 - Water & Sewer,106.87,Paid,2026-01-21T15:37:02Z
+APS,2715255802,Electric Bill,P05-034 A,6520 - Power,5.81,Paid,2026-01-21T15:37:37Z
+APS,9778290000,Electric Bill,P04-038 101,6520 - Power,42.20,Paid,2026-01-21T15:38:03Z
+City of Prescott Utilitie,1081969491,Water Bill,P20-038 A,6525 - Water & Sewer,420.95,Paid,2026-01-21T15:38:48Z
+Waste Management of Arizona,4-99233-55062,Trash Service,P02-004 A,6140 - Trash Removal,193.65,Paid,2026-01-21T15:40:29Z
+Repair Masters LLC,706499,Master bath tub / shower leak,P13-053,6340 - Plumbing & Septic,276.09,Paid,2026-01-21T15:46:31Z
+Repair Masters LLC,706423,Replace Fridge,P02-004 D,6305 - Appliances,798.64,Paid,2026-01-21T15:47:34Z
+Repair Masters LLC,706384,Full interior paint,P04-008 1,6330 - Painting / Drywall / Trim,2482.85,Paid,2026-01-21T15:48:37Z
+Repair Masters LLC,706530,December Monthly Landscaping,P99-039 1,6125 - Landscaping & Irrigation,143.00,Paid,2026-01-21T15:49:17Z
+Repair Masters LLC,706529,December Monthly Landscaping,P14-037 1,6125 - Landscaping & Irrigation,110.00,Paid,2026-01-21T15:49:43Z
+Repair Masters LLC,706528,December Monthly Landscaping,P05-034 A,6125 - Landscaping & Irrigation,126.50,Paid,2026-01-21T15:50:17Z
+Repair Masters LLC,706527,December Monthly Landscaping,P20-002 A,6125 - Landscaping & Irrigation,126.50,Paid,2026-01-21T15:50:42Z
+Repair Masters LLC,706525,December Monthly Landscaping,P05-077 1,6125 - Landscaping & Irrigation,132.00,Paid,2026-01-21T15:54:19Z
+Repair Masters LLC,706524,December Monthly Landscaping,P18-021 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-01-21T15:54:37Z
+Repair Masters LLC,706523,December Monthly Landscaping,P20-023 1,6125 - Landscaping & Irrigation,121.00,Paid,2026-01-21T15:55:02Z
+Repair Masters LLC,706522,December Monthly Landscaping,P04-008 1,6125 - Landscaping & Irrigation,132.00,Paid,2026-01-21T15:55:39Z
+Repair Masters LLC,706521,December Monthly Landscaping,P04-038 101,6125 - Landscaping & Irrigation,121.00,Paid,2026-01-21T15:56:19Z
+Repair Masters LLC,706454,Service call to inspect water pressure issues reported - nothing found,P07-070 A,6340 - Plumbing & Septic,143.00,Paid,2026-01-21T15:57:28Z
+Repair Masters LLC,704544,"Replace toilet seat, paint touch up exterior (From 11/18 rec'd 1/21)",P04-008 1,6312 - General Repairs,130.00,Paid,2026-01-21T15:58:23Z
+Repair Masters LLC,706505,One time service - landscaping,P13-009 A,6125 - Landscaping & Irrigation,605.00,Paid,2026-01-21T15:58:55Z
+Repair Masters LLC,706549,Window Repair,P03-105,6306 - Doors & Windows,269.50,Paid,2026-01-23T00:01:33Z
+Repair Masters LLC,706555,Repaired leaking hosebib,P19-034,6340 - Plumbing & Septic,198.00,Paid,2026-01-23T00:02:19Z
+Repair Masters LLC,706559,Rekey,P13-009 A,6135 - Locksmith,192.50,Paid,2026-01-23T00:02:44Z
+Repair Masters LLC,706558,Rekey,P05-034 A,6135 - Locksmith,154.00,Paid,2026-01-23T00:03:13Z
+Repair Masters LLC,706554,Replace PRV in garage,P19-046,6340 - Plumbing & Septic,495.00,Paid,2026-01-23T00:03:54Z
+Repair Masters LLC,706553,Dishwasher Repair,P19-032,6305 - Appliances,93.50,Paid,2026-01-23T00:04:26Z
+Repair Masters LLC,706552,Delivery and haul off for new and old fridge,P20-060,6305 - Appliances,110.00,Paid,2026-01-23T00:05:23Z
+Repair Masters LLC,706550,Appliance Install,P24-014,6305 - Appliances,220.00,Paid,2026-01-23T00:08:01Z
+Repair Masters LLC,706548,Window Repair,P19-034,6306 - Doors & Windows,534.82,Paid,2026-01-23T00:08:28Z
+Repair Masters LLC,706823,Tree Trimming & Tree Removal,P13-049,6125 - Landscaping & Irrigation,1559.25,Paid,2026-01-28T20:31:57Z
+Repair Masters LLC,706823,Replace Gate & Rebuild block column against house,P13-049,6308 - Fencing / Siding / Decks,3861.00,Paid,2026-01-28T20:31:57Z
+Repair Masters LLC,706823,GEneral repairs and maintenance in unit turn - refer to invoice for full list,P13-049,6312 - General Repairs,2583.14,Paid,2026-01-28T20:31:57Z
+Repair Masters LLC,706823,"Full Exterior paint, Touch up paint inside",P13-049,6330 - Painting / Drywall / Trim,1381.05,Paid,2026-01-28T20:31:57Z
+Repair Masters LLC,706823,Replace Water Heater,P13-049,6340 - Plumbing & Septic,2090.00,Paid,2026-01-28T20:31:57Z
+Repair Masters LLC,706832,"Remove and replace up to 20 damaged boards and the hand rail. Use pressure treated lumber with deck screws or equivalent and secure posts with lag bolts, lock washers and fender washers. Scrape and paint the flaking deck wood. Includes painting all sides",P20-026,6308 - Fencing / Siding / Decks,2827.54,Paid,2026-01-28T20:32:58Z
+Repair Masters LLC,706836,Door repair,P13-015,6306 - Doors & Windows,222.75,Paid,2026-01-28T20:34:23Z
+Repair Masters LLC,706836,Exterior Stucco repair,P13-015,6330 - Painting / Drywall / Trim,2227.50,Paid,2026-01-28T20:34:23Z
+Repair Masters LLC,706726,Bi Monthly Pest Control,P24-010,6130 - Pest Control,71.50,Paid,2026-01-28T20:35:22Z
+Repair Masters LLC,706560,Service Call - HVAC Repair,P19-016,6320 - HVAC,162.25,Paid,2026-01-28T20:36:24Z
+Repair Masters LLC,706557,Found loose wire in fixture located at front of garage Re-attached wire Tested and left in good working condition,P14-053,6307 - Electrical Work,159.50,Paid,2026-01-28T20:37:14Z
+Repair Masters LLC,706556,Repair leaking toilet in master bath,P14-038,6340 - Plumbing & Septic,181.50,Paid,2026-01-28T20:38:22Z
+Repair Masters LLC,706723,Bi Monthly Pest Control,P24-010,6130 - Pest Control,71.50,Paid,2026-01-28T20:38:50Z
+Repair Masters LLC,706711,Replace water heater,P07-070 A,6340 - Plumbing & Septic,3553.16,Paid,2026-01-28T20:39:54Z
+Repair Masters LLC,706719,Service Call to inspect water heater,P07-070 A,6340 - Plumbing & Septic,187.51,Paid,2026-01-28T20:40:57Z
+Repair Masters LLC,706702,Dryer Vent Cleaning,P17-030,6120 - General Maintenance,261.80,Paid,2026-01-28T20:41:55Z
+Repair Masters LLC,706695,Repair cold side valve on laundry box,P04-083 A,6340 - Plumbing & Septic,143.00,Paid,2026-01-28T20:43:07Z
+Repair Masters LLC,703750-2,Full interior paint,P06-067 2,6330 - Painting / Drywall / Trim,1762.90,Paid,2026-01-28T20:43:33Z
+Repair Masters LLC,703750-1,"Unit turn maintenance including: Doorbell replace, Drywall patch, light bulb replace, blind replace, door stop repair. Invoice dated 11/12/25 , received on 1/28/26",P06-067 2,6312 - General Repairs,276.45,Paid,2026-01-28T20:45:23Z
+Repair Masters LLC,706669,Dishwasher Repair,P19-041,6305 - Appliances,326.77,Paid,2026-01-28T20:46:47Z
+Repair Masters LLC,706667,Replace missing section of down spout,P11-058,6350 - Roof & Gutters,302.50,Paid,2026-01-28T20:47:17Z
+Repair Masters LLC,706666,Checked property for leaks,P96-036 A,6120 - General Maintenance,55.00,Paid,2026-01-28T20:49:13Z
+Repair Masters LLC,706665,Replace Microwave,P11-032,6305 - Appliances,283.46,Paid,2026-01-28T20:49:41Z
+Repair Masters LLC,706655,Replace Garbage disposal,P21-023 A,6312 - General Repairs,305.80,Paid,2026-01-28T20:50:24Z
+Repair Masters LLC,706650,Window Repair,P21-023 A,6306 - Doors & Windows,1078.00,Paid,2026-01-28T20:51:18Z
+Repair Masters LLC,703624-1,"Repairs and maintenance done at unit turn - refer to invoice for full list. Invoice dated 11/17, received on 1/28/26",P14-038,6312 - General Repairs,523.25,Paid,2026-01-28T20:52:59Z
+Repair Masters LLC,703624-1,"Touch up paint, invoice dated 11/17/25, received 1/28/26",P14-038,6330 - Painting / Drywall / Trim,800.00,Paid,2026-01-28T20:52:59Z
+Repair Masters LLC,706602,Clear clogged tub and asses water pressure in ktchen,P20-026,6340 - Plumbing & Septic,137.50,Paid,2026-01-28T20:53:56Z
+Repair Masters LLC,706594,Service call to asses dryer that stopped working,P21-012,6305 - Appliances,93.50,Paid,2026-01-28T20:54:36Z
+Repair Masters LLC,706592,Repair drywall in carport ceiling,P20-026,6330 - Painting / Drywall / Trim,632.50,Paid,2026-01-28T20:55:10Z
+Repair Masters LLC,706582,Replace Water Heater,P20-042 1,6340 - Plumbing & Septic,1430.00,Paid,2026-01-28T20:55:38Z
+Repair Masters LLC,706565,Install vinyl flooring in bathroom,P15-031,6310 - Flooring,1870.00,Paid,2026-01-28T20:56:44Z
+Repair Masters LLC,706565,Replace toilet,P15-031,6340 - Plumbing & Septic,385.00,Paid,2026-01-28T20:56:44Z
+Repair Masters LLC,706562,Replace defective AFCI circuit,P19-034,6307 - Electrical Work,253.00,Paid,2026-01-28T20:57:28Z
+Repair Masters LLC,706561,HVAC repair,P21-006,6320 - HVAC,486.75,Paid,2026-01-28T20:58:06Z
+Repair Masters LLC,706869,"Resurface kitchen cabinets, Install counters, Replace under sink board, bathroom sin, and kitchen faucet",P11-044,6312 - General Repairs,8749.69,Paid,2026-01-28T21:09:42Z
+Repair Masters LLC,706855,remaining move out maintenance and repairs - refer to invoice for full list of items,P11-044,6312 - General Repairs,12309.62,Paid,2026-01-28T21:12:27Z
+Repair Masters LLC,706855,Full interior paint,P11-044,6330 - Painting / Drywall / Trim,3218.14,Paid,2026-01-28T21:12:27Z
+Repair Masters LLC,706855,Replace water heater,P11-044,6340 - Plumbing & Septic,1760.00,Paid,2026-01-28T21:12:27Z
+Repair Masters LLC,706596,Service call to asses oven,P19-009 B,6305 - Appliances,93.50,Paid,2026-01-28T21:13:21Z
+APS,9920103059,Electric Bill,P11-044,6520 - Power,23.37,Paid,2026-02-02T22:46:51Z
+APS,2846994917,Electric Bill,P13-049,6520 - Power,34.33,Paid,2026-02-02T22:47:20Z
+APS,4182516558,Electric Bill,P13-025 4,6520 - Power,38.04,Paid,2026-02-02T22:47:49Z
+APS,2744404210,Electric Bill,P03-030,6520 - Power,24.96,Paid,2026-02-02T22:51:20Z
+Repair Masters LLC,706413,Periodic Inspection,P08-018 B,6608 - Periodic Inspection Expense,95.00,Paid,2026-02-02T22:51:47Z
+Repair Masters LLC,706414,Periodic Inspection,P14-039,6608 - Periodic Inspection Expense,95.00,Paid,2026-02-02T22:52:34Z
+Repair Masters LLC,706415,Periodic Inspection,P16-046,6608 - Periodic Inspection Expense,95.00,Paid,2026-02-02T22:53:01Z
+Repair Masters LLC,706416,Periodic Inspection,P16-053,6608 - Periodic Inspection Expense,95.00,Paid,2026-02-02T22:53:25Z
+Repair Masters LLC,706417,Periodic Inspection,P19-044 B,6608 - Periodic Inspection Expense,95.00,Paid,2026-02-02T22:53:58Z
+Wingfield Service,13448,Trash Service,P25-013,6140 - Trash Removal,62.99,Paid,2026-02-02T22:54:30Z
+"Rockin ""R"" Water Delivery",35711,Water Delivery,P13-015,6525 - Water & Sewer,110.00,Paid,2026-02-02T22:54:52Z
+Town of PV Utilities,20327-6316,Water Bill,P06-027 A/B,6525 - Water & Sewer,109.86,Paid,2026-02-02T22:55:18Z
+Town of PV Utilities,146805-53716,Water Bill,P03-030,6525 - Water & Sewer,19.71,Paid,2026-02-02T22:55:42Z
+Town of PV Utilities,86941-47372,Water Bill,P18-021 A,6525 - Water & Sewer,55.90,Paid,2026-02-02T22:56:12Z
+Town of PV Utilities,117475-44950,Water Bill,P19-038 A,6525 - Water & Sewer,96.57,Paid,2026-02-02T22:56:43Z
+Town of PV Utilities,36637-24700,Water Bill,P06-017 1,6525 - Water & Sewer,82.38,Paid,2026-02-02T22:57:09Z
+Town of PV Utilities,137845-22272,Water Bill,P17-025 1,6525 - Water & Sewer,62.42,Paid,2026-02-02T22:57:39Z
+Town of PV Utilities,63653-45010,Water Bill,P04-008 1,6525 - Water & Sewer,28.50,Paid,2026-02-02T22:58:03Z
+Repair Masters LLC,706912,Window Repair,P17-035,6306 - Doors & Windows,372.03,Paid,2026-02-02T23:00:32Z
+Repair Masters LLC,706924,Rekey,P20-023 1,6135 - Locksmith,60.50,Paid,2026-02-02T23:00:57Z
+Repair Masters LLC,707133,removed ballast from fixture in laundry room. Rewired fixture.,P19-032,6307 - Electrical Work,225.50,Paid,2026-02-04T15:19:44Z
+Repair Masters LLC,707129,Install new ceiling fan,P13-034,6307 - Electrical Work,379.50,Paid,2026-02-04T15:20:16Z
+Repair Masters LLC,707101,Inspect water leaking from hot and cold supply valves to washer.,P14-038,6305 - Appliances,93.50,Paid,2026-02-04T15:21:20Z
+Repair Masters LLC,707094,Service call to inspect fridge,P18-019 B,6305 - Appliances,93.50,Paid,2026-02-04T15:22:09Z
+Repair Masters LLC,707062,Service call to inspect water meter. No movement at time of inspection indicating no active water flow,P07-005 A,6340 - Plumbing & Septic,66.00,Paid,2026-02-04T15:23:30Z
+Repair Masters LLC,707060,HVAC Repair,P23-001,6320 - HVAC,1215.35,Paid,2026-02-04T15:24:01Z
+Repair Masters LLC,707058,Turn cleaning,P11-044,6115 - General Cleaning,495.00,Paid,2026-02-04T15:24:42Z
+Repair Masters LLC,706851,Replace smoke detector,P19-032,6307 - Electrical Work,142.50,Paid,2026-02-04T15:25:46Z
+Repair Masters LLC,706839,Garbage disposal repair,P06-017 2,6340 - Plumbing & Septic,95.00,Paid,2026-02-04T15:26:44Z
+Repair Masters LLC,707041,Water trees and Bushes,P04-008 1,6125 - Landscaping & Irrigation,49.50,Paid,2026-02-04T15:27:13Z
+Repair Masters LLC,707034,Winterize Irrigation,P20-005 1,6125 - Landscaping & Irrigation,55.00,Paid,2026-02-04T15:29:51Z
+Repair Masters LLC,707021,Replace damaged closet door,P05-077 1,6306 - Doors & Windows,440.00,Paid,2026-02-04T15:32:03Z
+Repair Masters LLC,707020,Color match and paint boards above garage,P21-034,6330 - Painting / Drywall / Trim,330.00,Paid,2026-02-04T15:32:41Z
+Repair Masters LLC,707003,Roof Repair,P05-034 A,6350 - Roof & Gutters,511.50,Paid,2026-02-04T15:33:08Z
+Repair Masters LLC,707002,"Install new drywall, repaint walls and install new door trim",P05-034 A,6330 - Painting / Drywall / Trim,3135.00,Paid,2026-02-04T15:34:13Z
+Repair Masters LLC,707001,Install new bathroom exhaust fan,P08-034,6307 - Electrical Work,247.50,Paid,2026-02-04T15:34:47Z
+Repair Masters LLC,707057,Deposit due to start roof work,P03-105,6350 - Roof & Gutters,7090.16,Paid,2026-02-04T15:35:56Z
+Repair Masters LLC,707057,Remaining balance due upon completion of roof replacement,P03-105,6350 - Roof & Gutters,7090.17,Paid,2026-02-04T15:35:56Z
+Repair Masters LLC,707000,"Install drywall, color match and paint repaired wall",P07-005 B,6330 - Painting / Drywall / Trim,1210.00,Paid,2026-02-04T15:36:49Z
+Repair Masters LLC,706999,Replace faucet and hot and cold angle stop valves,P05-034 A,6340 - Plumbing & Septic,495.00,Paid,2026-02-04T15:37:47Z
+Repair Masters LLC,706971,"Replace back porch light, install 4 new boxes for light switches, re level floor piers",P17-017,6312 - General Repairs,357.50,Paid,2026-02-04T15:39:03Z
+Repair Masters LLC,706997,Replace garbage disposal,P20-038 B,6340 - Plumbing & Septic,247.50,Paid,2026-02-04T15:41:49Z
+Repair Masters LLC,706995,Fridge Repair,P14-039,6305 - Appliances,538.53,Paid,2026-02-04T15:42:20Z
+Repair Masters LLC,706973,"Install new mailbox, hose bib, and reprogram garage opener",P18-018 A,6312 - General Repairs,550.00,Paid,2026-02-04T15:43:09Z
+Repair Masters LLC,706969,"Remove and replace blinds, replace patio door",P06-067 2,6306 - Doors & Windows,330.00,Paid,2026-02-04T15:44:49Z
+Repair Masters LLC,706969,Flooring repair,P06-067 2,6310 - Flooring,55.00,Paid,2026-02-04T15:44:49Z
+Repair Masters LLC,706967,Winterize Irrigation,P20-009 1,6125 - Landscaping & Irrigation,55.00,Paid,2026-02-04T15:45:35Z
+Repair Masters LLC,706960,"Thermal expansion tank correction, install new water heater shut off valve and new supply line",P03-105,6340 - Plumbing & Septic,907.50,Paid,2026-02-04T15:48:06Z
+Repair Masters LLC,706958,Service call to inspect water heater. No issues found.,P11-054,6340 - Plumbing & Septic,143.00,Paid,2026-02-04T15:48:52Z
+Repair Masters LLC,706952,Dishwasher Repair,P14-038,6305 - Appliances,258.52,Paid,2026-02-04T15:49:30Z
+Repair Masters LLC,706950,Install irrigation timer,P16-029,6125 - Landscaping & Irrigation,275.00,Paid,2026-02-04T15:49:57Z
+Repair Masters LLC,706948,Winterize Irrigation,P20-014 1,6125 - Landscaping & Irrigation,55.00,Paid,2026-02-04T15:50:46Z
+Repair Masters LLC,706947,"Replace kitchen sink, replace angle stop, Replace Garbage disposal, and replace kitchen faucet",P03-030,6340 - Plumbing & Septic,1016.40,Paid,2026-02-04T15:51:43Z
+Repair Masters LLC,706946,Repair drywall in closet,P13-025 3,6330 - Painting / Drywall / Trim,385.00,Paid,2026-02-04T15:52:16Z
+APS,4182516558,Electric Bill - FInal,P13-025 4,6520 - Power,20.25,Paid,2026-02-04T17:55:21Z
+Waste Management of Arizona,0197995-4657-7,Trash Service,P06-027 A/B,6140 - Trash Removal,286.65,Paid,2026-02-05
+Repair Masters LLC,707098,service call to inspect dryer,P24-014,6305 - Appliances,93.50,Paid,2026-02-05
+Repair Masters LLC,707179,Service call to inspect washing machine (Invoice from 10/06/25 - vendor dropped off to RRG on 2/5/26),P18-035 1,6305 - Appliances,152.90,Paid,2026-02-05
+Repair Masters LLC,707139,"Remove all kitchen cabinets and countertops , Install all new",P02-029 A,6312 - General Repairs,12142.44,Paid,2026-02-05
+UniSource Energy,7375540000,Gas Bill,P04-018,6515 - Natural Gas / Propane,32.00,Paid,2026-02-05
+"Rockin ""R"" Water Delivery",35830,Water Delivery,P13-015,6525 - Water & Sewer,125.00,Paid,2026-02-05
+Karen A Blodgett Trust,,Owner payment for 02/2026,P22-022,3250 - Owner Draw,1989.00,Paid,2026-02-06
+Trisunder Trust,,Owner payment for 02/2026,P13-009 A,3250 - Owner Draw,1353.64,Paid,2026-02-06
+Repair Masters LLC,707269,One time pest control,P04-083 B,6130 - Pest Control,66.00,Paid,2026-02-10
+Repair Masters LLC,707298,rekey,P20-052,6135 - Locksmith,187.00,Paid,2026-02-10
+Repair Masters LLC,707300,Rekey,P04-018,6135 - Locksmith,110.00,Paid,2026-02-10
+Repair Masters LLC,707247,Service Call for stove,P03-105,6305 - Appliances,93.50,Paid,2026-02-10
+Repair Masters LLC,707291,Replace Washer,P25-010,6305 - Appliances,533.79,Paid,2026-02-10
+Repair Masters LLC,707290,Replace Washer,P21-005,6305 - Appliances,615.45,Paid,2026-02-10
+Repair Masters LLC,707293,Replace stove / oven,P04-083 B,6305 - Appliances,558.79,Paid,2026-02-10
+Repair Masters LLC,707266,Replace Dishwasher,P05-077 21,6305 - Appliances,341.45,Paid,2026-02-10
+Repair Masters LLC,705465,Electrical service fee covers the dispatch of a qualified technician to assess the issue and perform a basic inspection of the electrical system. This includes travel and evaluation of the reported concern,P04-083 A,6307 - Electrical Work,95.00,Paid,2026-02-10
+Repair Masters LLC,707265,All other unit turn maintenance - refer to invoice for full list,P13-009 A,6312 - General Repairs,883.30,Paid,2026-02-10
+Repair Masters LLC,707265,Paint touch up and dry wall repairs,P13-009 A,6330 - Painting / Drywall / Trim,1562.00,Paid,2026-02-10
+Repair Masters LLC,707249,Replace garbage disposal,P20-038 C,6340 - Plumbing & Septic,275.00,Paid,2026-02-10
+Repair Masters LLC,707292,Plumbing repair in tub / shower for leak,P07-005 B,6340 - Plumbing & Septic,143.00,Paid,2026-02-10
+Repair Masters LLC,707272,Plumbing repair,P20-009 2,6340 - Plumbing & Septic,341.00,Paid,2026-02-10
+Repair Masters LLC,707296,remove the existing hot water recirculating pump and furnish/install a new code-compliant recirculating pump,P20-009 2,6340 - Plumbing & Septic,880.00,Paid,2026-02-10
+Selective Insurance,,Insurance,P25-013,6620 - Other Expenses,141.00,Paid,2026-02-10
+"Clayton, James",,Owner payment for 02/2026,P20-014 2,3250 - Owner Draw,1665.00,Paid,2026-02-11
+"Clayton, James",,Owner payment for 02/2026,P20-014 1,3250 - Owner Draw,1718.25,Paid,2026-02-11
+Tracy & James Clayton,,Owner payment for 02/2026,P20-014 2,3250 - Owner Draw,1665.00,Paid,2026-02-11
+Tracy & James Clayton,,Owner payment for 02/2026,P20-014 1,3250 - Owner Draw,1718.25,Paid,2026-02-11
+APS,2744404210,Electric Bill - Final,P03-030,6520 - Power,19.74,Paid,2026-02-11
+Town of PV Utilities,116155-52192,Water Bill,P13-049,6525 - Water & Sewer,19.71,Paid,2026-02-11
+Town of PV Utilities,145283-57096,Water Bill,P17-002,6525 - Water & Sewer,111.05,Paid,2026-02-11
+Repair Masters LLC,706598,Tree Trimming,P11-059,6125 - Landscaping & Irrigation,1045.00,Paid,2026-02-12
+Repair Masters LLC,707462,Winterize irrigation,P21-011,6125 - Landscaping & Irrigation,55.00,Paid,2026-02-12
+Repair Masters LLC,707466,One time pest control - Rodent,P04-083 B,6130 - Pest Control,357.50,Paid,2026-02-12
+Repair Masters LLC,706253,Replace Fridge - Invoice from Jan received 2/12/26,P20-060,6305 - Appliances,1871.96,Paid,2026-02-12
+Repair Masters LLC,707103,Service call for fridge - missing lower shelf. Part is NLA,P14-038,6305 - Appliances,38.50,Paid,2026-02-12
+Repair Masters LLC,707421,Service call for dishwasher,P12-019,6305 - Appliances,93.50,Paid,2026-02-12
+Repair Masters LLC,705177,Emergency call for broken toilet flex,P23-024,6340 - Plumbing & Septic,210.00,Paid,2026-02-12
+Repair Masters LLC,704498,"Fix toilet fill valve - invoice dated 11/12, received by accounting on 2/12",P11-058,6340 - Plumbing & Septic,150.00,Paid,2026-02-12
+Repair Masters LLC,707434,Repair clogged toilet,P20-038 B,6340 - Plumbing & Septic,126.50,Paid,2026-02-12
+Repair Masters LLC,707429,Replace faucet in garage and angle stops,P11-012,6340 - Plumbing & Septic,434.50,Paid,2026-02-12
+Repair Masters LLC,707427,• Removal of existing seized faucet • Installation of new faucet • Removal of existing push/pull angle stops • Installation of new angle stops on PEX stub-outs,P16-030,6340 - Plumbing & Septic,605.00,Paid,2026-02-12
+Repair Masters LLC,707422,Install new hose bib,P11-012,6340 - Plumbing & Septic,225.50,Paid,2026-02-12
+Repair Masters LLC,707585,Rekey,P23-020 A,6135 - Locksmith,110.00,Paid,2026-02-17
+Repair Masters LLC,707594,Rekey,P16-001,6135 - Locksmith,115.50,Paid,2026-02-17
+Repair Masters LLC,707552,Remove ballasts from 2- florescent fixtures in master bathroom re-wired fixtures and install 4 new LED lamps,P12-055,6307 - Electrical Work,275.00,Paid,2026-02-17
+Repair Masters LLC,707573,Pulled and cleaned flame sensor in thermostat,P04-038 202,6320 - HVAC,298.22,Paid,2026-02-17
+Repair Masters LLC,707478,Filter replaced and water flows from system,P20-026,6340 - Plumbing & Septic,228.80,Paid,2026-02-17
+Repair Masters LLC,707480,Replace garbage disposal,P18-035 1,6340 - Plumbing & Septic,247.50,Paid,2026-02-17
+"Best Pick Disposal, Inc",341095,Trash Service,P12-004 B,6140 - Trash Removal,56.94,Paid,2026-02-20
+Repair Masters LLC,707719,Replace dryer,P24-014,6305 - Appliances,563.26,Paid,2026-02-20
+Repair Masters LLC,707677,"Garage door is crooked in place, track is bent, weather seal is coming off and the opener is intermittent. This is the cost for repairs",P05-081,6306 - Doors & Windows,1419.83,Paid,2026-02-20
+Repair Masters LLC,707721,Replace the torsion springs that allow the door to raise and lower safely and smoothly,P07-005 B,6306 - Doors & Windows,481.80,Paid,2026-02-20
+Repair Masters LLC,707663,"New Faucet, replaced blinds, repaired fan pull chain. purchase materials",P13-009 A,6312 - General Repairs,272.72,Paid,2026-02-20
+Repair Masters LLC,707684,Resecure toilet paper holder and towel bars,P16-046,6312 - General Repairs,275.00,Paid,2026-02-20
+Repair Masters LLC,707682,Cabinet repair,P21-023 B,6312 - General Repairs,220.00,Paid,2026-02-20
+Repair Masters LLC,707634,HVAC Service Call,P11-044,6320 - HVAC,93.50,Paid,2026-02-20
+Repair Masters LLC,707627,"Gas company red tagged the fireplace and shut off the gas valve due to safety concerns. Upon inspection and testing, fired up the fireplace and confirmed a gas leak with gas sniffer originating from the gas control module. The gas control module is faulty",P03-030,6340 - Plumbing & Septic,143.00,Paid,2026-02-20
+Repair Masters LLC,707700,Replace garbage disposal,P16-001,6340 - Plumbing & Septic,247.50,Paid,2026-02-20
+Repair Masters LLC,707689,Replace bathroom faucet,P22-028,6340 - Plumbing & Septic,550.00,Paid,2026-02-20
+Repair Masters LLC,707733,"No water is being supplied to the duplex due to the city water meter being locked. At this time, the plumbing system within the property cannot be further evaluated until the city utility department provides clarification or restores water service",P20-014 2,6340 - Plumbing & Septic,330.00,Paid,2026-02-20
+Repair Masters LLC,707729,"Technician removed the existing laundry outlet box and relocated/replaced it with a new laundry box assembly. All water supply connections were properly reconnected and secured. System was pressurized, and the laundry box was tested under normal operating",P14-038,6340 - Plumbing & Septic,1232.55,Paid,2026-02-20
+Repair Masters LLC,707694,Toilet rebuild,P21-005,6340 - Plumbing & Septic,165.00,Paid,2026-02-20
+APS,9920103059,Electric Bill,P11-044,6520 - Power,12.50,Paid,2026-02-20
+Town of PV Utilities,146805-53716,Water Bill,P03-030,6525 - Water & Sewer,12.74,Paid,2026-02-20
+Town of PV Utilities,40821-3442,Water Bill,P11-044,6525 - Water & Sewer,30.92,Paid,2026-02-20
+Town of PV Utilities,6631-18382,Water Bill,P18-018 A,6525 - Water & Sewer,84.69,Paid,2026-02-20
+Town of PV Utilities,40927-20340,Water Bill,P06-068 A,6525 - Water & Sewer,43.05,Paid,2026-02-20
+Town of PV Utilities,124805-20338,Water Bill,P02-004 A,6525 - Water & Sewer,47.05,Paid,2026-02-20
+Town of PV Utilities,137845-21062,Water,P17-040 1,6525 - Water & Sewer,79.77,Paid,2026-02-20
+Repair Masters LLC,704686,Periodic Inspection,P99-039 3,6608 - Periodic Inspection Expense,95.00,Paid,2026-02-20
+Repair Masters LLC,704526,Periodic Inspection,P20-060,6608 - Periodic Inspection Expense,95.00,Paid,2026-02-20
+Repair Masters LLC,704649,Periodic Inspection,P13-025 2,6608 - Periodic Inspection Expense,95.00,Paid,2026-02-20
+Repair Masters LLC,707386,,P05-034 B,6608 - Periodic Inspection Expense,95.00,Paid,2026-02-20
+APS,,,P05-034 A,6520 - Power,37.19,Paid,2026-02-28
+APS,,,P04-038 101,6520 - Power,42.20,Paid,2026-02-28
+City of Prescott Utilitie,,,P20-038 A,6525 - Water & Sewer,450.50,Paid,2026-02-28
+Town of PV Utilities,,,P18-021 A,6525 - Water & Sewer,61.15,Paid,2026-02-28
+Town of PV Utilities,,,P19-038 A,6525 - Water & Sewer,83.55,Paid,2026-02-28
+Town of PV Utilities,,,P04-008 1,6525 - Water & Sewer,38.26,Paid,2026-02-28
+Repair Masters LLC,708024,Rekey,P02-029 D,6135 - Locksmith,104.50,Paid,2026-03-02
+APS,,,P20-052,6520 - Power,43.60,Paid,2026-03-05
+Repair Masters LLC,707940,,P20-052,6115 - General Cleaning,220.00,Paid,2026-03-09
+Repair Masters LLC,707958,,P13-049,6125 - Landscaping & Irrigation,418.00,Paid,2026-03-09
+Repair Masters LLC,708108,,P04-018,6125 - Landscaping & Irrigation,445.50,Paid,2026-03-09
+Repair Masters LLC,708331,,P11-059,6125 - Landscaping & Irrigation,2035.00,Paid,2026-03-09
+Repair Masters LLC,707962,,P19-014 12,6135 - Locksmith,55.00,Paid,2026-03-09
+Repair Masters LLC,708084,,P20-060,6135 - Locksmith,148.50,Paid,2026-03-09
+Repair Masters LLC,707943,,P05-034 A,6140 - Trash Removal,330.00,Paid,2026-03-09
+Repair Masters LLC,708108,,P04-018,6140 - Trash Removal,111.38,Paid,2026-03-09
+Repair Masters LLC,707802,,P11-044,6305 - Appliances,273.51,Paid,2026-03-09
+Repair Masters LLC,707916,,P22-027,6305 - Appliances,192.50,Paid,2026-03-09
+Repair Masters LLC,707918,,P21-020,6305 - Appliances,247.50,Paid,2026-03-09
+Repair Masters LLC,707941,,P12-019,6305 - Appliances,520.37,Paid,2026-03-09
+Repair Masters LLC,707943,,P05-034 A,6305 - Appliances,49.50,Paid,2026-03-09
+Repair Masters LLC,708108,,P04-018,6305 - Appliances,1469.63,Paid,2026-03-09
+Repair Masters LLC,707813,,P05-034 A,6306 - Doors & Windows,1395.90,Paid,2026-03-09
+Repair Masters LLC,707943,,P05-034 A,6306 - Doors & Windows,577.20,Paid,2026-03-09
+Repair Masters LLC,708108,,P04-018,6306 - Doors & Windows,708.82,Paid,2026-03-09
+Repair Masters LLC,708464,Window Repair,P21-023 A,6306 - Doors & Windows,847.00,Paid,2026-03-09
+Repair Masters LLC,707939,,P20-038 D,6307 - Electrical Work,247.50,Paid,2026-03-09
+Repair Masters LLC,707943,,P05-034 A,6307 - Electrical Work,246.90,Paid,2026-03-09
+Repair Masters LLC,708108,,P04-018,6307 - Electrical Work,375.34,Paid,2026-03-09
+Repair Masters LLC,708109,,P99-039 4,6307 - Electrical Work,168.00,Paid,2026-03-09
+Repair Masters LLC,708112,,P23-020 B,6312 - General Repairs,3091.00,Paid,2026-03-09
+Repair Masters LLC,708018,HVAC Replace,P20-026,6320 - HVAC,4823.50,Paid,2026-03-09
+Repair Masters LLC,708038,,P22-001,6320 - HVAC,298.22,Paid,2026-03-09
+Repair Masters LLC,707942,,P13-053,6330 - Painting / Drywall / Trim,192.50,Paid,2026-03-09
+Repair Masters LLC,707943,,P05-034 A,6330 - Painting / Drywall / Trim,2152.50,Paid,2026-03-09
+Repair Masters LLC,708108,,P04-018,6330 - Painting / Drywall / Trim,380.88,Paid,2026-03-09
+Repair Masters LLC,707937,,P12-010,6340 - Plumbing & Septic,62.13,Paid,2026-03-09
+Repair Masters LLC,707943,,P05-034 A,6340 - Plumbing & Septic,66.00,Paid,2026-03-09
+Repair Masters LLC,708074,Re-Pipe Hot Water Heating system,P02-029 D,6340 - Plumbing & Septic,346.50,Paid,2026-03-09
+Repair Masters LLC,708108,,P04-018,6340 - Plumbing & Septic,1592.94,Paid,2026-03-09
+Repair Masters LLC,707813,,P05-034 A,6350 - Roof & Gutters,1728.54,Paid,2026-03-09
+Repair Masters LLC,708111,,P21-023 B,6350 - Roof & Gutters,189.00,Paid,2026-03-09
+Repair Masters LLC,707624,,P02-029 D,6608 - Periodic Inspection Expense,95.00,Paid,2026-03-09
+Repair Masters LLC,707911,Labor to install over range microwave (dated 1/13/26),P09-055,6305 - Appliances,283.46,Paid,2026-03-11
+Repair Masters LLC,707912,Replace shower glass hardware - invoice from Jan 23 rec's March,P17-030,6306 - Doors & Windows,339.90,Paid,2026-03-11
+APS,0326427924 3/26,,P96-036 A,6520 - Power,0.75,Paid,2026-03-12
+APS,1047735817 3/26,,P19-014 12,6520 - Power,130.30,Paid,2026-03-12
+Repair Masters LLC,708170,,P96-036 A,6135 - Locksmith,176.00,Paid,2026-03-12
+Repair Masters LLC,707900,Glass repair,P02-029 D,6306 - Doors & Windows,361.71,Paid,2026-03-12
+Repair Masters LLC,707814,,P12-055,6320 - HVAC,108.90,Paid,2026-03-12
+Repair Masters LLC,708071,,P17-009,6340 - Plumbing & Septic,440.00,Paid,2026-03-12
+UniSource Energy,,,P04-018,6515 - Natural Gas / Propane,46.14,Paid,2026-03-12
+Waste Management of Arizona,0204147-4657-6,,P06-027 A/B,6140 - Trash Removal,290.13,Paid,2026-03-12
+"Dunham, John",,To reimburse from Ops.,P25-013,3250 - Owner Draw,50.00,Paid,2026-03-17
+Repair Masters LLC,708628,Water extraction from carpet - Invoice from 7/25/25. Vendor just sent in March 26,P17-019,6105 - Carpet Cleaning,396.00,Paid,2026-03-18
+APS,,,P20-060,6520 - Power,23.57,Paid,2026-03-19
+Repair Masters LLC,708468,"Excavate and replace damaged sections of water line, remove and replace exsisting irrigation",P06-051,6125 - Landscaping & Irrigation,1980.00,Paid,2026-03-19
+Repair Masters LLC,708566,,P02-030 A,6125 - Landscaping & Irrigation,60.50,Paid,2026-03-19
+Repair Masters LLC,708586,,P02-029 A,6125 - Landscaping & Irrigation,60.50,Paid,2026-03-19
+Repair Masters LLC,708587,,P18-018 A,6125 - Landscaping & Irrigation,60.50,Paid,2026-03-19
+Repair Masters LLC,708588,,P18-019 A,6125 - Landscaping & Irrigation,60.50,Paid,2026-03-19
+Repair Masters LLC,708589,,P04-008 1,6125 - Landscaping & Irrigation,55.00,Paid,2026-03-19
+Repair Masters LLC,708590,,P11-012,6125 - Landscaping & Irrigation,60.50,Paid,2026-03-19
+Repair Masters LLC,708591,,P17-025 1,6125 - Landscaping & Irrigation,55.00,Paid,2026-03-19
+Repair Masters LLC,708592,,P06-022 1,6125 - Landscaping & Irrigation,55.00,Paid,2026-03-19
+Repair Masters LLC,708593,,P18-051 A,6125 - Landscaping & Irrigation,60.50,Paid,2026-03-19
+Repair Masters LLC,708594,,P07-070 A,6125 - Landscaping & Irrigation,60.50,Paid,2026-03-19
+Repair Masters LLC,708646,,P17-018,6125 - Landscaping & Irrigation,55.00,Paid,2026-03-19
+Repair Masters LLC,708648,,P08-034,6125 - Landscaping & Irrigation,55.00,Paid,2026-03-19
+Repair Masters LLC,708649,,P03-030,6125 - Landscaping & Irrigation,55.00,Paid,2026-03-19
+Repair Masters LLC,708650,,P03-105,6125 - Landscaping & Irrigation,55.00,Paid,2026-03-19
+Repair Masters LLC,708651,,P19-034,6125 - Landscaping & Irrigation,55.00,Paid,2026-03-19
+Repair Masters LLC,708652,,P11-032,6125 - Landscaping & Irrigation,55.00,Paid,2026-03-19
+Repair Masters LLC,708653,,P04-031,6125 - Landscaping & Irrigation,55.00,Paid,2026-03-19
+Repair Masters LLC,708655,,P21-034,6125 - Landscaping & Irrigation,55.00,Paid,2026-03-19
+Repair Masters LLC,708467,Fridge Repair,P13-027,6305 - Appliances,93.50,Paid,2026-03-19
+Repair Masters LLC,708388,,P07-070 A,6306 - Doors & Windows,638.00,Paid,2026-03-19
+Repair Masters LLC,708627,,P18-019 B,6306 - Doors & Windows,152.90,Paid,2026-03-19
+Repair Masters LLC,708644,,P17-025 2,6306 - Doors & Windows,55.00,Paid,2026-03-19
+Repair Masters LLC,708639,,P15-031,6307 - Electrical Work,275.00,Paid,2026-03-19
+Repair Masters LLC,708645,,P13-049,6307 - Electrical Work,11.00,Paid,2026-03-19
+Repair Masters LLC,708640,,P19-043 B,6307 - Electrical Work,495.00,Paid,2026-03-19
+Repair Masters LLC,708645,,P13-049,6330 - Painting / Drywall / Trim,467.50,Paid,2026-03-19
+Repair Masters LLC,708449,Plumbing repair,P11-044,6340 - Plumbing & Septic,480.15,Paid,2026-03-19
+Repair Masters LLC,708478,Replace Toilet Fill valve,P20-058,6340 - Plumbing & Septic,66.99,Paid,2026-03-19
+Repair Masters LLC,708479,Plumbing Repair,P17-035,6340 - Plumbing & Septic,605.00,Paid,2026-03-19
+Repair Masters LLC,708428,,P13-062,6340 - Plumbing & Septic,275.00,Paid,2026-03-19
+Repair Masters LLC,708641,,P19-012 2,6340 - Plumbing & Septic,275.00,Paid,2026-03-19
+Town of PV Utilities,,,P18-019 A,6525 - Water & Sewer,163.29,Paid,2026-03-20
+APS,,,P13-049,6520 - Power,31.66,Paid,2026-03-24
+APS,,,P13-049,6520 - Power,11.87,Paid,2026-03-24
+APS,,,P19-012 2,6520 - Power,20.83,Paid,2026-03-24
+City of Prescott Utilitie,,,P20-038 A,6525 - Water & Sewer,432.23,Paid,2026-03-24
+Town of PV Utilities,,,P04-018,6525 - Water & Sewer,35.96,Paid,2026-03-24
+Town of PV Utilities,,,P06-027 A/B,6525 - Water & Sewer,150.37,Paid,2026-03-24
+Town of PV Utilities,,,P13-049,6525 - Water & Sewer,20.52,Paid,2026-03-24
+Town of PV Utilities,,,P04-018,6525 - Water & Sewer,35.96,Paid,2026-03-24
+Town of PV Utilities,,,P17-002,6525 - Water & Sewer,178.16,Paid,2026-03-24
+Repair Masters LLC,707882,Remaining balance on gutter work,P03-110,6350 - Roof & Gutters,1485.00,Paid,2026-03-26
+Repair Masters LLC,709115,Flooring Repair,P17-002,6310 - Flooring,275.00,Paid,2026-04-02
+Repair Masters LLC,709018,Flooring Repair,P05-034 A,6310 - Flooring,1679.79,Paid,2026-04-02
+Onyx Construction LLC,invoice 147-4,Drywall removal and fan dry out,P22-028,6312 - General Repairs,250.00,Paid,2026-04-02
+Repair Masters LLC,709116,General repairs - refer to invoice for full list,P02-004 D,6312 - General Repairs,1804.00,Paid,2026-04-02
+Repair Masters LLC,709015,Drywall Job,P20-021,6330 - Painting / Drywall / Trim,2750.00,Paid,2026-04-02
+Repair Masters LLC,708659,,P19-032,6125 - Landscaping & Irrigation,60.50,Paid,2026-04-07
+Repair Masters LLC,708662,,P13-039,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-07
+Repair Masters LLC,708663,,P08-006,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-07
+Repair Masters LLC,708677,,P11-031,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-07
+Repair Masters LLC,708705,,P19-008,6125 - Landscaping & Irrigation,60.50,Paid,2026-04-07
+Repair Masters LLC,708711,,P13-027,6125 - Landscaping & Irrigation,60.50,Paid,2026-04-07
+Repair Masters LLC,708713,,P12-010,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-07
+Repair Masters LLC,708788,,P18-056,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-07
+Repair Masters LLC,708790,,P21-020,6125 - Landscaping & Irrigation,82.50,Paid,2026-04-07
+Repair Masters LLC,708794,,P17-029,6125 - Landscaping & Irrigation,71.50,Paid,2026-04-07
+Repair Masters LLC,708843,,P21-005,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-07
+Repair Masters LLC,708857,,P22-001,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-07
+Repair Masters LLC,708858,,P18-059,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-07
+Repair Masters LLC,708861,,P19-035,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-07
+Repair Masters LLC,708867,,P12-019,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-07
+Repair Masters LLC,708891,,P09-020,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-07
+Repair Masters LLC,709066,,P20-008,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-07
+Repair Masters LLC,708466,,P20-038 B,6340 - Plumbing & Septic,605.00,Paid,2026-04-07
+Repair Masters LLC,709029,,P20-058,6340 - Plumbing & Septic,154.00,Paid,2026-04-07
+Repair Masters LLC,709028,,P18-019 B,6515 - Natural Gas / Propane,143.00,Paid,2026-04-07
+Town of PV Utilities,,,P25-013,6525 - Water & Sewer,29.52,Paid,2026-04-07
+Town of PV Utilities,,,P06-027 A/B,6525 - Water & Sewer,79.86,Paid,2026-04-07
+Town of PV Utilities,,,P06-017 1,6525 - Water & Sewer,77.84,Paid,2026-04-07
+Town of PV Utilities,,,P04-008 1,6525 - Water & Sewer,38.48,Paid,2026-04-07
+Town of PV Utilities,,,P18-021 A,6525 - Water & Sewer,58.56,Paid,2026-04-07
+Town of PV Utilities,,,P19-038 A,6525 - Water & Sewer,95.16,Paid,2026-04-07
+Town of PV Utilities,,,P17-025 1,6525 - Water & Sewer,60.79,Paid,2026-04-07
+Selective Insurance,,Insurance,P25-013,6620 - Other Expenses,141.00,Paid,2026-04-07
+Selective Insurance,,Insurance Premium,P25-013,6620 - Other Expenses,141.00,Paid,2026-04-07
+Repair Masters LLC,709294,Deep Clean,P23-020 B,6115 - General Cleaning,220.00,Paid,2026-04-08
+Repair Masters LLC,707893,Unit turn repairs and maintenance - refer to invoice for full list,P23-020 B,6312 - General Repairs,1237.50,Paid,2026-04-08
+APS,,,P96-036 A,6520 - Power,36.04,Paid,2026-04-08
+,,Renewal Fee,P19-003,6210 - Placement Fee,200.00,Paid,2026-04-11
+Repair Masters LLC,708710,Irrigation Repair,P12-020,6125 - Landscaping & Irrigation,77.00,Paid,2026-04-16T15:51:22Z
+Repair Masters LLC,708715,Irrigation Start up,P04-033,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-16T15:51:57Z
+Repair Masters LLC,708716,Irrigation Start up,P16-029,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-16T15:52:15Z
+Repair Masters LLC,708895,Irrigation Repair,P14-038,6125 - Landscaping & Irrigation,77.00,Paid,2026-04-16T15:53:31Z
+Repair Masters LLC,708896,Irrigation Start up,P13-043,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-16T15:54:01Z
+Repair Masters LLC,708897,Irrigation Start up,P14-039,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-16T15:54:30Z
+Repair Masters LLC,708915,Irrigation Repair,P18-051 A,6125 - Landscaping & Irrigation,99.00,Paid,2026-04-16T15:54:59Z
+Repair Masters LLC,708922,Rekey,P96-032 A,6135 - Locksmith,110.00,Paid,2026-04-16T15:55:53Z
+Repair Masters LLC,708924,Vent reseal,P24-016,6320 - HVAC,165.00,Paid,2026-04-16T15:57:22Z
+Repair Masters LLC,708926,Plumbing Repair,P11-032,6340 - Plumbing & Septic,165.00,Paid,2026-04-16T15:59:45Z
+Repair Masters LLC,709031,Deep Clean,P23-020 A,6115 - General Cleaning,440.00,Paid,2026-04-16T16:04:52Z
+Repair Masters LLC,709032,Cleaning,P20-060,6115 - General Cleaning,165.00,Paid,2026-04-16T16:05:31Z
+Repair Masters LLC,709037,Gutter install,P03-110,6350 - Roof & Gutters,1364.00,Paid,2026-04-16T16:06:21Z
+Repair Masters LLC,709087,UNit turn maintenance - refer to invoice for all items,P20-060,6312 - General Repairs,775.50,Paid,2026-04-16T16:07:22Z
+Repair Masters LLC,709091,Unit turn maintenance - refer to invoice for full list,P96-036 A,6312 - General Repairs,1133.00,Paid,2026-04-16T16:09:17Z
+Repair Masters LLC,709109,Irrigation Start up,P16-001,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-16T16:10:53Z
+Repair Masters LLC,709110,Irrigation Start up,P23-013,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-16T16:11:27Z
+Repair Masters LLC,709111,Rekey,P21-014 A,6135 - Locksmith,110.00,Paid,2026-04-16T16:12:35Z
+Repair Masters LLC,709112,Replace closet rods,P13-025 3,6312 - General Repairs,220.00,Paid,2026-04-16T16:13:30Z
+Repair Masters LLC,709113,Unit turn maintenance - refer to invoice for complete list,P20-041 1,6312 - General Repairs,715.00,Paid,2026-04-16T16:14:14Z
+Repair Masters LLC,709114,HVAC Service Call,P17-030,6320 - HVAC,115.50,Paid,2026-04-16T16:14:42Z
+Repair Masters LLC,709133,Water Heater replacement,P18-051 A,6340 - Plumbing & Septic,2530.00,Paid,2026-04-16T16:15:39Z
+Repair Masters LLC,709153,Rekey,P17-040 2,6135 - Locksmith,143.00,Paid,2026-04-16T16:16:26Z
+Repair Masters LLC,709161,Gravel Refresh,P17-025 1,6120 - General Maintenance,990.00,Paid,2026-04-16T16:17:02Z
+Repair Masters LLC,709310,Water Heater replace,P13-047,6340 - Plumbing & Septic,2358.40,Paid,2026-04-16T16:17:32Z
+Repair Masters LLC,708584,Irrigation Start up,P02-031 A,6125 - Landscaping & Irrigation,60.50,Paid,2026-04-16T16:30:09Z
+Repair Masters LLC,708717,Irrigation Start up,P06-051,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-16T16:30:53Z
+Repair Masters LLC,708877,Irrigation Start up,P16-046,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-16T16:32:17Z
+Repair Masters LLC,708894,Irrigation Start up,P23-019,6125 - Landscaping & Irrigation,66.00,Paid,2026-04-16T16:32:55Z
+Repair Masters LLC,708921,Rekey,P21-005,6135 - Locksmith,77.00,Paid,2026-04-16T16:33:33Z
+Repair Masters LLC,708932,HVAC Repair,P21-006,6320 - HVAC,214.37,Paid,2026-04-16T16:34:12Z
+Repair Masters LLC,708934,HVAC repair,P15-031,6320 - HVAC,175.55,Paid,2026-04-16T16:34:45Z
+Repair Masters LLC,709104,Deadbolt repair,P19-044 A,6135 - Locksmith,88.00,Paid,2026-04-16T16:35:59Z
+Repair Masters LLC,709320,Deep Clean,P04-018,6115 - General Cleaning,275.00,Paid,2026-04-16T16:37:55Z
+Repair Masters LLC,709321,Deep Cleaning,P96-036 A,6115 - General Cleaning,440.00,Paid,2026-04-16T16:38:29Z
+Repair Masters LLC,709338,Install CO2 Detector,P99-039 2,6307 - Electrical Work,106.70,Paid,2026-04-16T16:39:44Z
+Town of PV Utilities,,,P06-027 A/B,6525 - Water & Sewer,150.37,Paid,2026-04-17T16:22:34Z
+"McHenry, Jeannie F.",,"Jeannie F. McHenry, Brian J. McHenry, P11-032: Move Out Refund",P11-032,2200 - Clearing Account,2075.00,Paid,2026-04-20T17:25:13Z
+Repair Masters LLC,708759,,P20-002 A,6125 - Landscaping & Irrigation,130.00,Paid,2026-04-21T16:16:56Z
+Repair Masters LLC,708761,,P99-039 1,6125 - Landscaping & Irrigation,140.00,Paid,2026-04-21T16:17:31Z
+Repair Masters LLC,708762,,P14-037 1,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-21T16:18:08Z
+Repair Masters LLC,708763,,P05-077 1,6125 - Landscaping & Irrigation,135.00,Paid,2026-04-21T16:18:38Z
+Repair Masters LLC,709650,,P17-040 1,6125 - Landscaping & Irrigation,77.00,Paid,2026-04-21T16:18:55Z
+Repair Masters LLC,709653,,P20-023 1,6125 - Landscaping & Irrigation,121.00,Paid,2026-04-21T16:19:13Z
+Repair Masters LLC,709672,,P06-016 1,6125 - Landscaping & Irrigation,121.00,Paid,2026-04-21T16:19:30Z
+Repair Masters LLC,709674,,P10-028 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-21T16:19:49Z
+Repair Masters LLC,709675,,P18-051 A,6125 - Landscaping & Irrigation,132.00,Paid,2026-04-21T16:20:09Z
+Repair Masters LLC,709677,,P96-032 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-21T16:20:48Z
+Repair Masters LLC,709678,,P18-021 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-21T16:21:04Z
+Repair Masters LLC,709679,March 2026,P13-025 1,6125 - Landscaping & Irrigation,126.50,Paid,2026-04-21T16:21:21Z
+Repair Masters LLC,709680,March 2026,P02-029 A,6125 - Landscaping & Irrigation,220.00,Paid,2026-04-21T16:21:43Z
+Repair Masters LLC,709420,,P21-005,6125 - Landscaping & Irrigation,275.00,Paid,2026-04-21T16:28:56Z
+Repair Masters LLC,709428,,P23-020 A,6125 - Landscaping & Irrigation,506.00,Paid,2026-04-21T16:29:31Z
+Repair Masters LLC,709643,One Time Service,P96-036 A,6125 - Landscaping & Irrigation,231.00,Paid,2026-04-21T16:30:15Z
+Repair Masters LLC,709389,,P96-032 A,6115 - General Cleaning,297.00,Paid,2026-04-21T16:30:45Z
+Repair Masters LLC,708760,,P05-034 A,6125 - Landscaping & Irrigation,130.00,Paid,2026-04-21T16:39:28Z
+Repair Masters LLC,708765,,P97-047 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-21T16:39:53Z
+Repair Masters LLC,708779,,P19-043 A,6125 - Landscaping & Irrigation,120.00,Paid,2026-04-21T16:40:07Z
+Repair Masters LLC,708780,,P13-031 A,6125 - Landscaping & Irrigation,100.00,Paid,2026-04-21T16:40:20Z
+Repair Masters LLC,708785,,P04-105 A,6125 - Landscaping & Irrigation,130.00,Paid,2026-04-21T16:40:53Z
+Repair Masters LLC,709651,,P18-035 1,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-21T16:41:09Z
+Repair Masters LLC,709655,,P04-008 1,6125 - Landscaping & Irrigation,132.00,Paid,2026-04-21T16:41:31Z
+Repair Masters LLC,709656,March 2026,P02-004 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-21T16:41:54Z
+Repair Masters LLC,709657,,P06-068 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-21T16:42:44Z
+Repair Masters LLC,709659,,P18-018 A,6125 - Landscaping & Irrigation,176.00,Paid,2026-04-21T16:43:20Z
+Repair Masters LLC,709662,,P19-044 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-21T16:44:00Z
+Repair Masters LLC,709665,,P04-104 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-21T16:44:13Z
+Repair Masters LLC,709666,,P04-054 1,6125 - Landscaping & Irrigation,99.00,Paid,2026-04-21T16:44:28Z
+Repair Masters LLC,709667,,P04-083 A,6125 - Landscaping & Irrigation,209.00,Paid,2026-04-21T16:44:49Z
+Repair Masters LLC,709668,,P17-025 1,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-21T16:45:02Z
+Repair Masters LLC,709669,,P06-017 1,6125 - Landscaping & Irrigation,104.50,Paid,2026-04-21T16:45:17Z
+Repair Masters LLC,709671,March 2026,P18-060 1,6125 - Landscaping & Irrigation,132.00,Paid,2026-04-21T16:45:38Z
+Repair Masters LLC,709676,March 2026,P96-036 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-21T16:45:50Z
+Wingfield Service,,,,6140 - Trash Removal,130.00,Paid,2026-04-22T16:57:42Z
+APS,,,P23-020 A,6520 - Power,55.85,Paid,2026-04-22T16:58:35Z
+Town of PV Utilities,,,P06-068 A,6525 - Water & Sewer,78.96,Paid,2026-04-22T17:11:48Z
+Town of PV Utilities,,,P18-018 A,6525 - Water & Sewer,182.80,Paid,2026-04-22T17:16:02Z
+Town of PV Utilities,,,P17-040 1,6525 - Water & Sewer,81.24,Paid,2026-04-22T17:16:27Z
+UniSource Energy,,,P96-036 A,6515 - Natural Gas / Propane,54.81,Paid,2026-04-22T17:16:54Z
+APS,,,P04-038 101,6520 - Power,84.43,Paid,2026-04-22T17:17:58Z
+City of Prescott Utilitie,,,P20-038 A,6525 - Water & Sewer,443.36,Paid,2026-04-22T17:19:29Z
+Town of PV Utilities,,,P18-018 B,6525 - Water & Sewer,182.20,Paid,2026-04-27T13:49:25Z
+Repair Masters LLC,708413,Periodic Inspection,P14-053,6608 - Periodic Inspection Expense,94.99,Paid,2026-04-27T17:05:51Z
+APS,,,P17-040 2,6520 - Power,13.51,Paid,2026-04-27T22:55:27Z
+APS,,,P21-005,6520 - Power,2.04,Paid,2026-04-27T22:56:06Z
+Town of PV Utilities,,,P18-019 A,6525 - Water & Sewer,78.46,Paid,2026-04-27T22:57:02Z
+Town of PV Utilities,,,,6525 - Water & Sewer,29.52,Paid,2026-04-27T22:58:02Z
+Repair Masters LLC,708846,,P22-028,6320 - HVAC,110.00,Paid,2026-04-28T23:26:59Z
+Repair Masters LLC,708845,,P18-002,6320 - HVAC,110.00,Paid,2026-04-28T23:28:36Z
+Repair Masters LLC,709346,,P11-044,6340 - Plumbing & Septic,275.00,Paid,2026-04-28T23:29:15Z
+Repair Masters LLC,709164,,P25-007,6320 - HVAC,137.50,Paid,2026-04-28T23:30:16Z
+Repair Masters LLC,708841,,P21-014 A,6105 - Carpet Cleaning,284.79,Paid,2026-04-28T23:31:51Z
+Repair Masters LLC,709030,,P14-009,6320 - HVAC,258.50,Paid,2026-04-28T23:32:29Z
+Repair Masters LLC,708391,Replace garbage disposal,P99-039 1,6340 - Plumbing & Septic,55.00,Paid,2026-04-28T23:33:36Z
+Repair Masters LLC,709025,,P07-005 B,6340 - Plumbing & Septic,66.99,Paid,2026-04-28T23:34:18Z
+Repair Masters LLC,709373,,P21-010,6125 - Landscaping & Irrigation,55.00,Paid,2026-04-28T23:34:46Z
+Repair Masters LLC,709140,,P20-038 C,6305 - Appliances,247.50,Paid,2026-04-28T23:35:22Z
+Repair Masters LLC,709619,,P17-019,6306 - Doors & Windows,770.00,Paid,2026-04-28T23:44:28Z
+Repair Masters LLC,709619,,P17-019,6330 - Painting / Drywall / Trim,550.00,Paid,2026-04-28T23:44:28Z
+Repair Masters LLC,709619,,P17-019,6340 - Plumbing & Septic,306.90,Paid,2026-04-28T23:44:28Z
+Repair Masters LLC,709747,,P23-020 B,6306 - Doors & Windows,672.08,Paid,2026-04-28T23:45:26Z
+Repair Masters LLC,709644,,P17-030,6340 - Plumbing & Septic,214.50,Paid,2026-04-28T23:46:01Z
+Repair Masters LLC,709374,,P21-005,6140 - Trash Removal,385.00,Paid,2026-04-28T23:49:04Z
+Repair Masters LLC,709374,,P21-005,6305 - Appliances,93.50,Paid,2026-04-28T23:49:04Z
+Repair Masters LLC,709374,,P21-005,6306 - Doors & Windows,368.50,Paid,2026-04-28T23:49:04Z
+Repair Masters LLC,709374,,P21-005,6307 - Electrical Work,638.00,Paid,2026-04-28T23:49:04Z
+Repair Masters LLC,709374,,P21-005,6330 - Painting / Drywall / Trim,412.50,Paid,2026-04-28T23:49:04Z
+Repair Masters LLC,709738,,P03-030,6111 - Chimney Maintenance,192.50,Paid,2026-04-28T23:49:41Z
+Repair Masters LLC,709737,,P25-003,6135 - Locksmith,46.17,Paid,2026-04-28T23:51:35Z
+Repair Masters LLC,709737,,P25-003,6306 - Doors & Windows,275.00,Paid,2026-04-28T23:51:35Z
+Repair Masters LLC,709737,,P25-003,6307 - Electrical Work,91.23,Paid,2026-04-28T23:51:35Z
+Repair Masters LLC,709737,,P25-003,6340 - Plumbing & Septic,91.28,Paid,2026-04-28T23:51:35Z
+Repair Masters LLC,709686,,P20-061,6340 - Plumbing & Septic,280.00,Paid,2026-04-28T23:52:23Z
+Repair Masters LLC,709710,,P21-005,6125 - Landscaping & Irrigation,275.00,Paid,2026-04-28T23:52:51Z
+Repair Masters LLC,709593,,P21-005,6305 - Appliances,150.00,Paid,2026-04-28T23:53:54Z
+Repair Masters LLC,709593,,P21-005,6330 - Painting / Drywall / Trim,200.00,Paid,2026-04-28T23:53:54Z
+Repair Masters LLC,709593,,P21-005,6330 - Painting / Drywall / Trim,50.00,Paid,2026-04-28T23:53:54Z
+Repair Masters LLC,708855,,P20-020,6320 - HVAC,110.00,Paid,2026-04-28T23:54:22Z
+Repair Masters LLC,708852,,P97-047 B,6320 - HVAC,110.00,Paid,2026-04-29T16:09:46Z
+Repair Masters LLC,709132,,P19-038 D,6120 - General Maintenance,742.50,Paid,2026-04-29T16:11:27Z
+Repair Masters LLC,709391,,P17-040 2,6115 - General Cleaning,297.00,Paid,2026-04-29T16:12:58Z
+Repair Masters LLC,709436,,P11-057,6340 - Plumbing & Septic,138.50,Paid,2026-04-29T16:13:39Z
+Repair Masters LLC,709549,,P21-034,6340 - Plumbing & Septic,693.00,Paid,2026-04-29T16:14:29Z
+Repair Masters LLC,709749,,P20-041 1,6306 - Doors & Windows,86.04,Paid,2026-04-29T16:14:57Z
+Repair Masters LLC,709750,,P08-034,6340 - Plumbing & Septic,300.00,Paid,2026-04-29T16:17:07Z
+Repair Masters LLC,709767,,P17-040 2,6120 - General Maintenance,338.77,Paid,2026-04-29T16:21:49Z
+Repair Masters LLC,709767,,P17-040 2,6125 - Landscaping & Irrigation,165.00,Paid,2026-04-29T16:21:49Z
+Repair Masters LLC,709767,,P17-040 2,6305 - Appliances,27.50,Paid,2026-04-29T16:21:49Z
+Repair Masters LLC,709767,,P17-040 2,6306 - Doors & Windows,379.50,Paid,2026-04-29T16:21:49Z
+Repair Masters LLC,709767,,P17-040 2,6310 - Flooring,82.50,Paid,2026-04-29T16:21:49Z
+Repair Masters LLC,709767,,P17-040 2,6330 - Painting / Drywall / Trim,852.50,Paid,2026-04-29T16:21:49Z
+Repair Masters LLC,709837,,P10-038,6320 - HVAC,9663.50,Paid,2026-04-29T16:22:45Z
+Repair Masters LLC,709888,,P06-017 1,6125 - Landscaping & Irrigation,104.50,Paid,2026-04-29T16:23:08Z
+Repair Masters LLC,709137,,P06-022 1,6330 - Painting / Drywall / Trim,385.00,Paid,2026-04-29T16:35:02Z
+Repair Masters LLC,709299,,P17-040 1,6120 - General Maintenance,275.00,Paid,2026-04-29T16:38:13Z
+Repair Masters LLC,709423,,P15-017,6320 - HVAC,204.60,Paid,2026-04-29T16:38:35Z
+Repair Masters LLC,709486,,P19-003,6340 - Plumbing & Septic,275.00,Paid,2026-04-29T16:39:29Z
+Repair Masters LLC,709702,,P02-067,6111 - Chimney Maintenance,82.50,Paid,2026-04-29T16:40:13Z
+Repair Masters LLC,709702,,P02-067,6305 - Appliances,275.00,Paid,2026-04-29T16:40:13Z
+Repair Masters LLC,709702,,P02-067,6307 - Electrical Work,60.00,Paid,2026-04-29T16:40:13Z
+Repair Masters LLC,709872,,,6125 - Landscaping & Irrigation,360.00,Paid,2026-04-29T16:40:47Z
+Repair Masters LLC,709880,,P23-020 A,6120 - General Maintenance,2943.90,Paid,2026-04-29T16:41:25Z
+Repair Masters LLC,709887,April 2026,P96-036 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-29T16:41:47Z
+Repair Masters LLC,709889,,P96-032 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-29T16:42:10Z
+Repair Masters LLC,709383,,P21-005,6115 - General Cleaning,660.00,Paid,2026-04-29T16:46:34Z
+Repair Masters LLC,709891,,P10-028 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-29T16:46:56Z
+Repair Masters LLC,709892,,P18-051 A,6125 - Landscaping & Irrigation,132.00,Paid,2026-04-29T16:47:41Z
+Repair Masters LLC,709894,,P17-025 1,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-29T16:48:03Z
+Repair Masters LLC,709897,,P06-016 1,6125 - Landscaping & Irrigation,121.00,Paid,2026-04-29T16:48:27Z
+Repair Masters LLC,709898,April 2026,P13-025 1,6125 - Landscaping & Irrigation,126.50,Paid,2026-04-29T16:49:00Z
+Repair Masters LLC,709899,April 2026,P18-060 1,6125 - Landscaping & Irrigation,132.00,Paid,2026-04-29T16:49:19Z
+Repair Masters LLC,709901,,P18-035 1,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-29T16:49:37Z
+Repair Masters LLC,709902,,P04-104 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-29T16:49:58Z
+Repair Masters LLC,709904,,P18-021 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-29T16:50:26Z
+Repair Masters LLC,709437,,P19-032,6306 - Doors & Windows,300.00,Paid,2026-04-29T16:58:10Z
+Repair Masters LLC,709903,,P04-011 A,6125 - Landscaping & Irrigation,88.00,Paid,2026-04-29T16:58:34Z
+Repair Masters LLC,709905,,P04-008 1,6125 - Landscaping & Irrigation,132.00,Paid,2026-04-29T16:58:56Z
+Repair Masters LLC,709910,,P04-054 1,6125 - Landscaping & Irrigation,99.00,Paid,2026-04-29T16:59:25Z
+Repair Masters LLC,709911,,P07-005 B,6125 - Landscaping & Irrigation,648.00,Paid,2026-04-29T17:00:23Z
+Repair Masters LLC,709912,,P20-023 1,6125 - Landscaping & Irrigation,121.00,Paid,2026-04-29T17:01:01Z
+Repair Masters LLC,709913,,P19-044 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-29T17:01:26Z
+Repair Masters LLC,709916,,P17-040 1,6125 - Landscaping & Irrigation,77.00,Paid,2026-04-29T17:01:53Z
+Repair Masters LLC,709921,,P97-047 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-29T17:02:14Z
+Repair Masters LLC,709922,,P19-043 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-29T17:02:43Z
+Repair Masters LLC,708990,,P14-039,6307 - Electrical Work,86.19,Paid,2026-04-29T17:08:04Z
+Repair Masters LLC,709918,April 2026 Inv 709676,P02-004 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-29T17:08:29Z
+Repair Masters LLC,709919,,P06-068 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-29T17:08:52Z
+Repair Masters LLC,709923,,P99-039 1,6125 - Landscaping & Irrigation,143.00,Paid,2026-04-29T17:09:13Z
+Repair Masters LLC,709924,,P05-077 1,6125 - Landscaping & Irrigation,137.50,Paid,2026-04-29T17:09:41Z
+Repair Masters LLC,709926,,P05-034 A,6125 - Landscaping & Irrigation,137.50,Paid,2026-04-29T17:10:10Z
+Repair Masters LLC,709939,,P20-002 A,6125 - Landscaping & Irrigation,143.00,Paid,2026-04-29T17:10:28Z
+Repair Masters LLC,709943,,P13-031 A,6125 - Landscaping & Irrigation,99.00,Paid,2026-04-29T17:10:46Z
+Repair Masters LLC,709944,,P14-037 1,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-29T17:11:06Z
+Repair Masters LLC,709945,,P04-038 101,6125 - Landscaping & Irrigation,126.50,Paid,2026-04-29T17:11:30Z
+Repair Masters LLC,709946,,P04-105 A,6125 - Landscaping & Irrigation,132.00,Paid,2026-04-29T17:12:06Z
+Repair Masters LLC,708847,,P13-039,6320 - HVAC,104.50,Paid,2026-04-29T17:28:57Z
+Repair Masters LLC,708850,,P11-054,6320 - HVAC,110.00,Paid,2026-04-29T17:29:24Z
+Repair Masters LLC,709459,,P19-041,6306 - Doors & Windows,300.00,Paid,2026-04-29T17:53:21Z
+Repair Masters LLC,709699,,P21-005,6340 - Plumbing & Septic,99.28,Paid,2026-04-29T17:54:01Z
+Repair Masters LLC,709845,,P18-019 B,6135 - Locksmith,144.00,Paid,2026-04-29T17:54:34Z
+Repair Masters LLC,709927,,P07-005 B,6135 - Locksmith,246.00,Paid,2026-04-29T17:54:57Z
+Repair Masters LLC,709947,,P04-010 A,6125 - Landscaping & Irrigation,104.50,Paid,2026-04-29T17:55:18Z
+Repair Masters LLC,708854,,P11-059,6320 - HVAC,104.50,Paid,2026-04-29T17:58:15Z
+Repair Masters LLC,709345,,P19-009 B,6340 - Plumbing & Septic,104.50,Paid,2026-04-29T17:58:55Z
+Repair Masters LLC,709393,,P20-024,6306 - Doors & Windows,220.00,Paid,2026-04-29T17:59:43Z
+Repair Masters LLC,709393,,P20-024,6307 - Electrical Work,198.00,Paid,2026-04-29T17:59:43Z
+Repair Masters LLC,709615,,P23-020 C,6115 - General Cleaning,220.00,Paid,2026-04-29T18:00:12Z
+Repair Masters LLC,709748,,P20-041 1,6306 - Doors & Windows,478.50,Paid,2026-04-29T18:00:46Z
+Repair Masters LLC,709909,,P02-031 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-29T18:01:07Z
+Repair Masters LLC,709925,,P04-008 1,6125 - Landscaping & Irrigation,110.00,Paid,2026-04-29T18:01:31Z
+"Lloyd, Frederick",,"Frederick Lloyd, P16-044: Move Out Refund",P16-044,2200 - Clearing Account,1837.50,Paid,2026-04-30T18:05:57Z
+"Lloyd, Frederick",,"Frederick Lloyd, P15-016: Move Out Refund",P15-016,2200 - Clearing Account,1762.50,Paid,2026-04-30T18:13:46Z
+Frederick Lloyd,,Owner payment for 04/2026,P16-044,3250 - Owner Draw,100.00,Paid,2026-04-30T18:17:10Z
+Frederick Lloyd,,Owner payment for 04/2026,P15-016,3250 - Owner Draw,100.00,Paid,2026-04-30T18:17:10Z
+Selective Insurance,,Insurance,P25-013,6620 - Other Expenses,141.00,Paid,2026-05-01T16:28:23Z
+Wingfield Service,,,P25-013,6140 - Trash Removal,62.99,Paid,2026-05-01T16:29:09Z
+APS,0546609838 Final,,P20-060,6520 - Power,33.64,Paid,2026-05-01T21:36:35Z
+APS,,,P96-036 A,6520 - Power,21.48,Paid,2026-05-01T21:54:58Z
+APS,,,P17-040 2,6520 - Power,4.74,Paid,2026-05-01T22:14:11Z
+"Durante, Marilyn M.",,"Marilyn M. Durante, Louis R. Durante, P21-005: Move Out Refund",P21-005,2200 - Clearing Account,431.50,Paid,2026-05-01T22:42:05Z
+"Hill, Deanna M.",,"Deanna M. Hill, P19-014 09: Move Out Refund",P19-014 09,2200 - Clearing Account,1545.00,Paid,2026-05-04T18:42:21Z
+"Smith, Scott R.",,"Scott R. Smith, Michelle L. Steffens, P18-019 B: Move Out Refund",P18-019 B,2200 - Clearing Account,1650.66,Paid,2026-05-04T20:24:44Z
+"Connolly, Theresa M.",,"Theresa M. Connolly, Linda J. Miller, P20-042 2: Move Out Refund",P20-042 2,2200 - Clearing Account,1921.50,Paid,2026-05-04T20:43:35Z
+APS,,,P07-005 B,6520 - Power,9.25,Paid,2026-05-05T23:20:07Z
+APS,,,P19-014 09,6520 - Power,17.62,Paid,2026-05-05T23:20:39Z
+UniSource Energy,,Bill,P96-036 A,6515 - Natural Gas / Propane,16.21,Paid,2026-05-05T23:21:41Z
+"Rockin ""R"" Water Delivery",36465,,P13-015,6525 - Water & Sewer,125.00,Paid,2026-05-06T15:47:41Z
+"Rockin ""R"" Water Delivery",36307,,P13-015,6525 - Water & Sewer,125.00,Paid,2026-05-06T15:48:05Z
+"Rockin ""R"" Water Delivery",35994,,P13-015,6525 - Water & Sewer,125.00,Paid,2026-05-06T15:48:27Z
+"Rockin ""R"" Water Delivery",36618,,P13-015,6525 - Water & Sewer,125.00,Paid,2026-05-06T15:48:48Z
+"Rockin ""R"" Water Delivery",36146,,P13-015,6525 - Water & Sewer,125.00,Paid,2026-05-06T15:49:07Z
+"Rockin ""R"" Water Delivery",36763,,P13-015,6525 - Water & Sewer,125.00,Paid,2026-05-06T19:02:12Z
+Town of PV Utilities,,,P17-025 1,6525 - Water & Sewer,64.66,Paid,2026-05-06T19:02:42Z
+Town of PV Utilities,,,P18-021 A,6525 - Water & Sewer,70.18,Paid,2026-05-06T19:03:10Z
+Town of PV Utilities,,,P06-017 1,6525 - Water & Sewer,81.72,Paid,2026-05-06T19:04:07Z
+Town of PV Utilities,,,P19-038 A,6525 - Water & Sewer,95.16,Paid,2026-05-06T19:05:04Z
+Repair Masters LLC,709972,,P18-019 B,6105 - Carpet Cleaning,202.40,Paid,2026-05-14
+Repair Masters LLC,709928,,P18-019 B,6115 - General Cleaning,346.50,Paid,2026-05-14
+Repair Masters LLC,710422,,P04-054 2,6125 - Landscaping & Irrigation,264.00,Paid,2026-05-14
+Repair Masters LLC,709954,,P21-011,6125 - Landscaping & Irrigation,55.00,Paid,2026-05-14
+Repair Masters LLC,710420,,P13-009 B,6125 - Landscaping & Irrigation,276.00,Paid,2026-05-14
+Repair Masters LLC,710432,,P11-059,6125 - Landscaping & Irrigation,324.00,Paid,2026-05-14
+Repair Masters LLC,709997,,P20-042 2,6135 - Locksmith,136.00,Paid,2026-05-14
+Repair Masters LLC,710279,,P21-013,6135 - Locksmith,159.50,Paid,2026-05-14
+Repair Masters LLC,710284,,P04-054 2,6135 - Locksmith,159.50,Paid,2026-05-14
+Repair Masters LLC,710347,,P13-009 B,6135 - Locksmith,136.00,Paid,2026-05-14
+Repair Masters LLC,710349,,P11-059,6135 - Locksmith,236.50,Paid,2026-05-14
+Repair Masters LLC,709886,,P04-083 B,6305 - Appliances,275.00,Paid,2026-05-14
+Repair Masters LLC,709587,,P96-032 A,6306 - Doors & Windows,656.70,Paid,2026-05-14
+Repair Masters LLC,710210,,P18-019 B,6306 - Doors & Windows,187.00,Paid,2026-05-14
+Repair Masters LLC,710351,,P20-042 2,6306 - Doors & Windows,236.50,Paid,2026-05-14
+Repair Masters LLC,710163,,P19-032,6306 - Doors & Windows,236.58,Paid,2026-05-14
+Repair Masters LLC,710618,,P04-054 2,6306 - Doors & Windows,525.80,Paid,2026-05-14
+Repair Masters LLC,709587,,P96-032 A,6307 - Electrical Work,66.00,Paid,2026-05-14
+Repair Masters LLC,709969,,P96-032 A,6307 - Electrical Work,203.50,Paid,2026-05-14
+Repair Masters LLC,710210,,P18-019 B,6307 - Electrical Work,55.00,Paid,2026-05-14
+Repair Masters LLC,710618,,P04-054 2,6307 - Electrical Work,38.50,Paid,2026-05-14
+Repair Masters LLC,710210,,P18-019 B,6310 - Flooring,16.50,Paid,2026-05-14
+Repair Masters LLC,709587,,P96-032 A,6312 - General Repairs,132.00,Paid,2026-05-14
+Repair Masters LLC,710210,,P18-019 B,6312 - General Repairs,522.50,Paid,2026-05-14
+Repair Masters LLC,710351,,P20-042 2,6312 - General Repairs,528.00,Paid,2026-05-14
+Repair Masters LLC,710618,,P04-054 2,6312 - General Repairs,247.50,Paid,2026-05-14
+Repair Masters LLC,710522,,P03-105,6320 - HVAC,277.56,Paid,2026-05-14
+Repair Masters LLC,709587,,P96-032 A,6330 - Painting / Drywall / Trim,357.50,Paid,2026-05-14
+Repair Masters LLC,710618,,P04-054 2,6330 - Painting / Drywall / Trim,181.50,Paid,2026-05-14
+Repair Masters LLC,709876,,P04-031,6340 - Plumbing & Septic,95.00,Paid,2026-05-14
+Repair Masters LLC,710090,,P96-036 B,6340 - Plumbing & Septic,286.00,Paid,2026-05-14
+Repair Masters LLC,710109,,P97-047 B,6340 - Plumbing & Septic,467.50,Paid,2026-05-14
+Repair Masters LLC,710161,,P02-029 A,6340 - Plumbing & Septic,143.00,Paid,2026-05-14
+Repair Masters LLC,709150,,P21-004,6340 - Plumbing & Septic,3525.50,Paid,2026-05-14
+Repair Masters LLC,710210,,P18-019 B,6340 - Plumbing & Septic,148.50,Paid,2026-05-14
+Repair Masters LLC,710351,,P20-042 2,6340 - Plumbing & Septic,33.00,Paid,2026-05-14
+Repair Masters LLC,710589,,P19-012 2,6340 - Plumbing & Septic,143.00,Paid,2026-05-14
+Repair Masters LLC,709933,,P20-058,6350 - Roof & Gutters,82.50,Paid,2026-05-14
+APS,,,P07-005 B,6520 - Power,3.89,Paid,2026-05-14
+"Services, AAA Landlord",382-1840779,,P19-014 12,6615 - Legal & Professional Fees,180.00,Paid,2026-05-14
+Waste Management of Arizona,,,P06-027 A/B,6140 - Trash Removal,705.01,Paid,2026-05-15
+Town of PV Utilities,,,P17-002,6525 - Water & Sewer,65.39,Paid,2026-05-15
+Town of PV Utilities,,,P02-004 A,6525 - Water & Sewer,124.78,Paid,2026-05-15
+"Fluke, Gregory J.",,"Charlotte A. Anderson, Brittany F. Cravalho, Gregory J. Fluke, P11-059: Move Out Refund",P11-059,2200 - Clearing Account,2373.90,Paid,2026-05-19
+Repair Masters LLC,709625,,P21-014 B,42035 - Inspection Fee,94.99,Paid,2026-05-19
+Repair Masters LLC,709295,,P20-060,6115 - General Cleaning,165.00,Paid,2026-05-19
+Repair Masters LLC,709322,,P19-012 2,6115 - General Cleaning,247.50,Paid,2026-05-19
+Repair Masters LLC,709611,,P03-030,6115 - General Cleaning,192.50,Paid,2026-05-19
+Repair Masters LLC,709652,,P02-031 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-05-19
+Repair Masters LLC,709976,,P04-008 1,6125 - Landscaping & Irrigation,120.00,Paid,2026-05-19
+Repair Masters LLC,706535,,P18-018 A,6125 - Landscaping & Irrigation,216.00,Paid,2026-05-19
+Repair Masters LLC,707811,,P06-016 1,6125 - Landscaping & Irrigation,385.00,Paid,2026-05-19
+Repair Masters LLC,707812,,P20-026,6125 - Landscaping & Irrigation,108.90,Paid,2026-05-19
+Repair Masters LLC,708859,,P19-046,6125 - Landscaping & Irrigation,55.00,Paid,2026-05-19
+Repair Masters LLC,709460,,P26-026,6125 - Landscaping & Irrigation,143.00,Paid,2026-05-19
+Repair Masters LLC,708085,,P19-012 2,6135 - Locksmith,143.00,Paid,2026-05-19
+Repair Masters LLC,707795,,P11-044,6305 - Appliances,214.50,Paid,2026-05-19
+Repair Masters LLC,705287,,P14-038,6307 - Electrical Work,143.00,Paid,2026-05-19
+Repair Masters LLC,709610,,P04-104 B,6307 - Electrical Work,225.50,Paid,2026-05-19
+Repair Masters LLC,708853,,P25-011,6320 - HVAC,110.00,Paid,2026-05-19
+Repair Masters LLC,708925,,P20-023 2,6320 - HVAC,269.32,Paid,2026-05-19
+Repair Masters LLC,709077,,P13-025 1,6320 - HVAC,223.59,Paid,2026-05-19
+Repair Masters LLC,709259,,P19-038 C,6320 - HVAC,319.00,Paid,2026-05-19
+Repair Masters LLC,709875,,P08-018 A,6340 - Plumbing & Septic,495.00,Paid,2026-05-19
+Repair Masters LLC,705407,,P03-105,6340 - Plumbing & Septic,55.00,Paid,2026-05-19
+UniSource Energy,,,P25-013,6515 - Natural Gas / Propane,40.20,Paid,2026-05-19
+Town of PV Utilities,,,P18-019 A,6525 - Water & Sewer,93.13,Paid,2026-05-19
+Town of PV Utilities,,,P18-018 A,6525 - Water & Sewer,93.34,Paid,2026-05-19
+Repair Masters LLC,708412,,P22-023,6608 - Periodic Inspection Expense,94.99,Paid,2026-05-19
+Repair Masters LLC,708414,,P13-025 3,6608 - Periodic Inspection Expense,94.99,Paid,2026-05-19
+Repair Masters LLC,708415,,P18-019 A,6608 - Periodic Inspection Expense,94.99,Paid,2026-05-19
+Repair Masters LLC,708417,,P23-006,6608 - Periodic Inspection Expense,94.99,Paid,2026-05-19
+Repair Masters LLC,708418,,P05-077 1,6608 - Periodic Inspection Expense,94.99,Paid,2026-05-19
+Repair Masters LLC,708419,,P13-027,6608 - Periodic Inspection Expense,94.99,Paid,2026-05-19
+Repair Masters LLC,709614,,P18-060 1,6608 - Periodic Inspection Expense,94.99,Paid,2026-05-19
+Repair Masters LLC,709617,,P05-077 2,6608 - Periodic Inspection Expense,94.99,Paid,2026-05-19
+Repair Masters LLC,709618,,P02-029 C,6608 - Periodic Inspection Expense,94.99,Paid,2026-05-19
+Repair Masters LLC,709624,,P09-054,6608 - Periodic Inspection Expense,94.99,Paid,2026-05-19
+"McMaster, Brian",,"Brian McMaster, Tamara McMaster, Christina McMaster, P21-013: Move Out Refund",P21-013,2200 - Clearing Account,2066.33,Paid,2026-05-20
+"Reyes, Vanessa",,"Vanessa Reyes, P12-019: Move Out Refund",P12-019,2200 - Clearing Account,75.00,Paid,2026-05-20
+APS,,,P23-020 B,6520 - Power,73.93,Paid,2026-05-21
+APS,,,P04-038 101,6520 - Power,42.20,Paid,2026-05-21
+City of Prescott Utilitie,4732549,,P20-038 A,6525 - Water & Sewer,534.63,Paid,2026-05-21
+"Rockin ""R"" Water Delivery",36934,,P13-015,6525 - Water & Sewer,125.00,Paid,2026-05-21
+Town of PV Utilities,,,P18-021 A,6525 - Water & Sewer,107.71,Paid,2026-05-21
+Town of PV Utilities,,,P17-040 1,6525 - Water & Sewer,36.68,Paid,2026-05-21
+Town of PV Utilities,,,P04-054 2,6525 - Water & Sewer,25.67,Paid,2026-05-21
+"Mack, Steven L.",,"Steven L. Mack, Harold L. Mack, P06-089: Move Out Refund",P06-089,2200 - Clearing Account,2250.00,Paid,2026-05-22
+"Mack, Steven L.",,Application Fee refund,P06-089,42031 - Application Fee,120.00,Paid,2026-05-22
+APS,,,P13-009 B,6520 - Power,13.67,Paid,2026-05-26
+"Lopez Jr, George",,"George Lopez, George Lopez Jr, P06-089: Move Out Refund",P06-089,2200 - Clearing Account,435.84,Paid,2026-05-27
+"Residential Rental Properties, LLC",,Owner payment for 05/2026,P04-010 A,3250 - Owner Draw,619.51,Paid,2026-05-27
+Repair Masters LLC,711413,Deep Clean,P06-089,6115 - General Cleaning,755.00,Paid,2026-06-11T16:34:52Z
+Repair Masters LLC,710414,One time landscaping service,P06-089,6125 - Landscaping & Irrigation,374.00,Paid,2026-06-11T16:35:24Z
+Repair Masters LLC,711322,"Unit turn repairs and maintenance, refer to invoice for full list",P06-089,6312 - General Repairs,1232.44,Paid,2026-06-11T16:36:06Z
+Repair Masters LLC,707248,Appliance Service Call,P11-044,6120 - General Maintenance,93.50,Paid,2026-06-11T16:36:44Z
+Repair Masters LLC,711162,Pest control,P24-010,6130 - Pest Control,71.50,Paid,2026-06-11T16:39:16Z
+Repair Masters LLC,711634,Plumbing repair,P14-038,6340 - Plumbing & Septic,371.25,Paid,2026-06-11T16:39:41Z
+Repair Masters LLC,711633,Repair leaking sink,P02-029 C,6340 - Plumbing & Septic,280.50,Paid,2026-06-11T16:40:20Z
+Repair Masters LLC,711631,Plumbing repair,P02-030 B,6340 - Plumbing & Septic,280.50,Paid,2026-06-11T18:02:34Z
+Repair Masters LLC,711319,Appliance Service Call,P22-001,6305 - Appliances,93.50,Paid,2026-06-11T18:02:58Z
+Repair Masters LLC,711364,Rekey,P23-020 B,6135 - Locksmith,104.50,Paid,2026-06-11T18:03:24Z
+Repair Masters LLC,711269,Repair leaking faucet,P19-009 B,6340 - Plumbing & Septic,291.50,Paid,2026-06-11T18:03:56Z
+Repair Masters LLC,711272,HVAC Repair,P25-004,6320 - HVAC,467.50,Paid,2026-06-11T18:05:36Z
+Repair Masters LLC,711303,Repaired leak,P11-031,6340 - Plumbing & Septic,242.00,Paid,2026-06-11T18:05:59Z
+Repair Masters LLC,711180,Window Screen,P20-014 2,6306 - Doors & Windows,65.00,Paid,2026-06-11T18:06:31Z
+Repair Masters LLC,711300,Stove repair,P96-036 A,6305 - Appliances,266.80,Paid,2026-06-11T18:07:01Z
+Repair Masters LLC,711233,Remove & Replace Blinds,P97-047 A,6306 - Doors & Windows,311.52,Paid,2026-06-11T18:07:27Z
+Repair Masters LLC,711232,General repairs - refer to invoice for full list,P23-006,6312 - General Repairs,1177.50,Paid,2026-06-11T18:07:55Z
+Repair Masters LLC,711202,Landscaping,P19-038 A,6125 - Landscaping & Irrigation,506.00,Paid,2026-06-11T18:08:20Z
+Repair Masters LLC,711099,Replace garbage disposal,P96-036 A,6340 - Plumbing & Septic,143.00,Paid,2026-06-11T18:08:53Z
+Repair Masters LLC,711073,Monthly Landscaping,P04-008 1,6125 - Landscaping & Irrigation,132.00,Paid,2026-06-11T18:09:16Z
+Repair Masters LLC,711098,Replace Blinds,P18-056,6306 - Doors & Windows,280.50,Paid,2026-06-11T18:09:37Z
+Repair Masters LLC,711079,Month,P13-025 1,6125 - Landscaping & Irrigation,126.50,Paid,2026-06-11T18:09:52Z
+Repair Masters LLC,711069,Monthly Landscaping,P17-040 1,6125 - Landscaping & Irrigation,77.00,Paid,2026-06-11T18:10:09Z
+Repair Masters LLC,711070,Monthly Landscaping,P02-031 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-06-11T18:10:26Z
+Repair Masters LLC,711071,Monthly Landscaping,P19-044 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-06-11T18:10:48Z
+Repair Masters LLC,711072,Monthly Landscaping,P04-054 1,6125 - Landscaping & Irrigation,99.00,Paid,2026-06-11T18:11:13Z
+Repair Masters LLC,711074,Monthly Landscaping,P18-021 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-06-11T18:11:35Z
+Repair Masters LLC,711075,Monthly Landscaping,P04-104 A,6125 - Landscaping & Irrigation,110.00,Paid,2026-06-11T18:11:50Z
+Repair Masters LLC,711076,Monthly Landscaping,P20-023 1,6125 - Landscaping & Irrigation,121.00,Paid,2026-06-11T18:12:06Z
+Repair Masters LLC,711077,Monthly Landscaping,P18-035 1,6125 - Landscaping & Irrigation,110.00,Paid,2026-06-11T18:12:21Z
+Repair Masters LLC,711078,Monthly Landscaping,P18-018 A,6125 - Landscaping & Irrigation,88.00,Paid,2026-06-11T18:13:09Z
+Repair Masters LLC,711078,Monthly Landscaping,P18-019 A,6125 - Landscaping & Irrigation,88.00,Paid,2026-06-11T18:13:09Z
+Repair Masters LLC,711081,Landscaping,P22-011,6125 - Landscaping & Irrigation,253.00,Paid,2026-06-11T18:13:28Z
+APS,,,P24-016,6520 - Power,0.96,Paid,2026-06-12T17:14:43Z
+APS,,,P19-043 B,6520 - Power,1.11,Paid,2026-06-12T17:15:49Z
+"Nelson, Crystal R.",,"Crystal R. Nelson, P19-013 7: Move Out Refund",P19-013 7,2200 - Clearing Account,1402.50,Paid,2026-06-12T17:37:56Z
+"Phillips, Audrey D.",,"Audrey D. Phillips, Craig E. Christy, P12-019: Move Out Refund",P12-019,2200 - Clearing Account,3225.00,Paid,2026-06-12T21:10:37Z
+"Montgomery, Robert",,"Robert Montgomery, Deborah Montgomery, P11-032: Move Out Refund",P11-032,2200 - Clearing Account,600.00,Paid,2026-06-12T21:24:56Z
+"Brandon, Jamie N.",,"Jamie N. Brandon, Lauren Matsubara, P04-060: Move Out Refund",P04-060,2200 - Clearing Account,1651.30,Paid,2026-06-12T21:37:34Z
+"Blair, Kimberly L.",,"Kimberly L. Blair, P18-060 2: Move Out Refund",P18-060 2,2200 - Clearing Account,2188.32,Paid,2026-06-12T22:44:05Z
+"Tello, Mireya",,"Mireya Tello, Andres Tello-Chavez, P19-043 A: Move Out Refund",P19-043 A,2200 - Clearing Account,452.50,Paid,2026-06-12T22:56:08Z
+"Keys, Stephanie A.",,"Stephanie A. Keys, P24-016: Move Out Refund",P24-016,2200 - Clearing Account,2527.40,Paid,2026-06-15T19:46:28Z
+"Reinert , Rick  M.",,"Rick M. Reinert, P19-032: Move Out Refund",P19-032,2200 - Clearing Account,2942.50,Paid,2026-06-15T20:13:17Z
+"Vicente, Robert G.",,"Robert G. Vicente, McKenzie S. Versteegen, P20-041 1: Move Out Refund",P20-041 1,2200 - Clearing Account,1546.45,Paid,2026-06-15T20:23:06Z
+"Calin, Lindsey E.",,"Lindsey E. Calin, P18-056: Move Out Refund",P18-056,2200 - Clearing Account,2697.00,Paid,2026-06-15T20:30:11Z
+"Moore, Eugene",,"Eugene Moore, Linda Moore, P09-025: Move Out Refund",P09-025,2200 - Clearing Account,1562.50,Paid,2026-06-15T20:33:20Z
+Waste Management of Arizona,0234070-4657-4,,P06-027 A/B,6140 - Trash Removal,308.01,Paid,2026-06-16T22:46:34Z
+APS,,,P07-005 B,6520 - Power,6.19,Paid,2026-06-16T22:47:33Z
+APS,,,P18-056,6520 - Power,17.21,Paid,2026-06-16T22:47:58Z
+APS,,,P19-014 09,6520 - Power,35.34,Paid,2026-06-16T22:48:36Z
+Wingfield Service,,,P06-017 1,6140 - Trash Removal,98.00,Paid,2026-06-16T22:53:35Z
+"Dong, QiuYing",,"QiuYing Dong, GuiQui Wu, P24-010: Move Out Refund",P24-010,2200 - Clearing Account,275.00,Paid,2026-06-17T23:16:01Z
+Town of PV Utilities,,,P17-025 1,6525 - Water & Sewer,76.59,Paid,2026-06-18T18:10:55Z
+Town of PV Utilities,,,P19-038 A,6525 - Water & Sewer,92.61,Paid,2026-06-18T18:11:31Z
+Town of PV Utilities,,,P06-017 1,6525 - Water & Sewer,89.97,Paid,2026-06-18T18:12:06Z
+Town of PV Utilities,,,P17-040 1,6525 - Water & Sewer,29.52,Paid,2026-06-18T18:12:37Z
+Town of PV Utilities,,,P06-068 A,6525 - Water & Sewer,39.16,Paid,2026-06-18T18:13:06Z
+Town of PV Utilities,,,P18-018 A,6525 - Water & Sewer,83.34,Paid,2026-06-18T18:13:34Z
+Town of PV Utilities,,,P02-004 A,6525 - Water & Sewer,93.57,Paid,2026-06-18T18:13:53Z
+Town of PV Utilities,,,P18-019 A,6525 - Water & Sewer,100.87,Paid,2026-06-18T18:14:15Z
+Town of PV Utilities,,,P17-002,6525 - Water & Sewer,88.72,Paid,2026-06-18T18:15:05Z
+"Lopez Jr, George",,"George Lopez, George Lopez Jr, P06-089: Refund Adjustment",P06-089,2200 - Clearing Account,-10.00,Paid,2026-06-19T21:58:25Z
+"Best Pick Disposal, Inc",379421,Trash Service,P12-004 B,6140 - Trash Removal,56.94,Paid,2026-06-26
+Waste Management of Arizona,0235552-4657-0,,P02-004 A,6140 - Trash Removal,202.58,Paid,2026-06-26
+Repair Masters LLC,712087,HVAC Reoplace,P17-002,6320 - HVAC,7895.00,Paid,2026-06-26
+APS,,,P04-038 101,6520 - Power,45.03,Paid,2026-06-26
+Town of PV Utilities,,,P17-040 1,6525 - Water & Sewer,37.46,Paid,2026-06-26
+Town of PV Utilities,,,P19-038 A,6525 - Water & Sewer,96.49,Paid,2026-06-26
+Town of PV Utilities,,,P06-017 1,6525 - Water & Sewer,97.71,Paid,2026-06-26
+Town of PV Utilities,,,P17-025 1,6525 - Water & Sewer,80.47,Paid,2026-06-26
+Town of PV Utilities,copy,,P06-068 A,6525 - Water & Sewer,39.16,Paid,2026-06-26
+Town of PV Utilities,,,P17-040 1,6525 - Water & Sewer,48.48,Paid,2026-06-26
+Town of PV Utilities,,,P21-013,6525 - Water & Sewer,133.50,Paid,2026-06-26
+Town of PV Utilities,,,P11-032,6525 - Water & Sewer,33.49,Paid,2026-06-26
+Town of PV Utilities,,,P18-021 A,6525 - Water & Sewer,99.97,Paid,2026-06-26
+Town of PV Utilities,,,P04-008 1,6525 - Water & Sewer,34.70,Paid,2026-06-26
+APS,,,P12-019,6520 - Power,13.91,Paid,2026-06-29
+APS,,,P21-013,6520 - Power,36.36,Paid,2026-06-29
+APS,,,P19-032,6520 - Power,16.46,Paid,2026-06-29
+APS,,,P18-060 2,6520 - Power,8.61,Paid,2026-06-29
+Town of PV Utilities,,,P18-060 2,6525 - Water & Sewer,120.62,Paid,2026-06-29
+Frederick Lloyd,,Owner payment for 06/2026,P15-019,3250 - Owner Draw,250.00,Paid,2026-06-30
+Virginia Ray,,Owner payment for 06/2026,P19-003,3250 - Owner Draw,528.00,Paid,2026-06-30
+Wingfield Service,,,P25-013,6140 - Trash Removal,60.00,Unpaid,2026-06-30
+Prescott Handyman Pros,677,,P25-013,6306 - Doors & Windows,700.00,Unpaid,2026-06-30
