@@ -1,0 +1,1752 @@
+DATE,DATE_KIND,VENDOR_COMPANY_NAME,VENDOR_NAME,BILL_REFERENCE,DESCRIPTION,PROPERTY_NAME,GL_NUMBER,GL_NAME,BILL_DETAIL_AMOUNT,BILL_DETAIL_STATUS,BILL_ID
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P19-035,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P25-002 1,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P02-029 A,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P06-051,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P16-030,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P18-021 A,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P17-039,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P19-038 C,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P14-037 3,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P10-028 B,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P18-035 1,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P04-084 A,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P02-031 B,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P21-011,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P17-040 1,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P19-008,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P18-011,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P15-006,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P15-039,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P17-018,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P14-019,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P03-110,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P08-039,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P21-038,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P15-031,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P22-001,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P06-068 B,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P21-003 C,6210,Placement Fee,100.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Utility Chargeback for Electric bills,P04-038 101,40014,Utility Chargeback,25.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Utility Chargeback for Electric bill,P20-005 1,40014,Utility Chargeback,25.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Utility Chargeback for Water Bills,P02-004 A,40014,Utility Chargeback,25.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Utility Chargeback for Water Bills,P06-017 1,40014,Utility Chargeback,25.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Utility Chargeback for Water Bills,P06-027 A/B,40014,Utility Chargeback,25.00,Unpaid,
+2026-11-01,INVOICE_DATE,,,,Utility Chargeback for Water Bills,P06-068 A,40014,Utility Chargeback,25.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Utility Chargeback for Water Bills,P17-025 1,40014,Utility Chargeback,25.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Utility Chargeback for Water Bills,P18-018 A,40014,Utility Chargeback,25.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Utility Chargeback for Water Bills,P19-038 A,40014,Utility Chargeback,25.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Utility Chargeback for Water Bill,P20-038 A,40014,Utility Chargeback,25.00,Paid,
+2026-11-01,INVOICE_DATE,,,,Renewal Fee,P26-014,6210,Placement Fee,200.00,Paid,
+2026-11-01,INVOICE_DATE,,,1262439,Markup: Irrigation Winterization,P19-046,6620,Other Expenses,5.00,Paid,
+2026-11-01,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262439,Irrigation Winterization,P19-046,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-01,INVOICE_DATE,,,1262440,Markup: Irrigation Winterization,P21-005,6620,Other Expenses,5.00,Paid,
+2026-11-01,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262440,Irrigation Winterization,P21-005,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-01,INVOICE_DATE,,,1262441,Markup: Irrigation Winterization,P21-011,6620,Other Expenses,5.00,Paid,
+2026-11-01,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262441,Irrigation Winterization,P21-011,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-01,INVOICE_DATE,,,1262442,Markup: Irrigation Winterization,P18-059,6620,Other Expenses,5.00,Paid,
+2026-11-01,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262442,Irrigation Winterization,P18-059,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-01,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,,P10-038,6525,Water & Sewer,38.20,Paid,
+2026-11-01,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,,P12-006,6525,Water & Sewer,43.25,Paid,
+2026-11-01,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,,P18-019 A,6525,Water & Sewer,122.48,Paid,
+2026-11-01,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,,P18-019 A,6525,Water & Sewer,100.87,Paid,
+2026-11-01,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,,P17-040 2,6525,Water & Sewer,20.54,Paid,
+2026-11-01,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,,P17-040 2,6525,Water & Sewer,30.54,Paid,
+2026-11-01,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,,P06-068 A,6525,Water & Sewer,34.48,Paid,
+2026-11-01,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,,P06-068 A,6525,Water & Sewer,39.16,Paid,
+2026-11-01,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,,P18-018 A,6525,Water & Sewer,77.43,Paid,
+2026-11-01,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,,P18-018 A,6525,Water & Sewer,87.22,Paid,
+2026-11-01,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,Water,P02-031 A,6525,Water & Sewer,62.74,Paid,
+2026-11-01,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,Water,P02-031 A,6525,Water & Sewer,72.74,Paid,
+2026-11-01,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,Water,P02-004 A,6525,Water & Sewer,63.90,Paid,
+2026-11-01,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,Water,P17-040 1,6525,Water & Sewer,37.46,Paid,
+2026-11-01,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,Water,P17-040 1,6525,Water & Sewer,41.33,Paid,
+2026-11-02,INVOICE_DATE,,,1262443,Markup: Winterize Irrigation,P19-035,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262443,Winterize Irrigation,P19-035,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262444,Markup: Irrigation Winterization,P18-019 A,6620,Other Expenses,2.50,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262444,Irrigation Winterization,P18-019 A,6125,Landscaping & Irrigation,25.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262445,Markup: Irrigation Winterization,P18-019 B,6620,Other Expenses,2.50,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262445,Irrigation Winterization,P18-019 B,6125,Landscaping & Irrigation,25.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262451,Markup: Irrigation Winterization,P18-051 A,6620,Other Expenses,2.50,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262451,Irrigation Winterization,P18-051 A,6125,Landscaping & Irrigation,25.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262452,Markup: Irrigation Winterization,P18-051 B,6620,Other Expenses,2.50,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262452,Irrigation Winterization,P18-051 B,6125,Landscaping & Irrigation,25.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262453,Markup: Irrigation Winterization,P17-018,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262453,Irrigation Winterization,P17-018,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262454,Markup: Irrigation Winterization,P17-025 1,6620,Other Expenses,2.50,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262454,Irrigation Winterization,P17-025 1,6125,Landscaping & Irrigation,25.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262455,Markup: Irrigation Winterization,P17-025 2,6620,Other Expenses,2.50,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262455,Irrigation Winterization,P17-025 2,6125,Landscaping & Irrigation,25.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262466,Markup: Irrigation Winterization,P18-018 A,6620,Other Expenses,2.50,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262466,Irrigation Winterization,P18-018 A,6125,Landscaping & Irrigation,25.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262467,Markup: Irrigation Winterization,P18-018 B,6620,Other Expenses,2.50,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262467,Irrigation Winterization,P18-018 B,6125,Landscaping & Irrigation,25.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262468,Markup: Irrigation Winterization,P16-029,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262468,Irrigation Winterization,P16-029,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262469,Markup: Irrigation Winterization,P16-046,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262469,Irrigation Winterization,P16-046,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262484,Markup: Irrigation Winterization,P11-054,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262484,Irrigation Winterization,P11-054,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262486,Markup: Irrigation Winterization,P12-010,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262486,Irrigation Winterization,P12-010,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262488,Markup: Irrigation Winterization,P12-019,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262488,Irrigation Winterization,P12-019,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262520,Markup: Irrigation Winterization,P13-039,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262520,Irrigation Winterization,P13-039,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262521,Markup: Irrigation Winterization,P09-020,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262521,Irrigation Winterization,P09-020,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262522,Markup: Irrigation Winterization,P11-012,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262522,Irrigation Winterization,P11-012,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262524,Markup: Irrigation Winterization,P04-031,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262524,Irrigation Winterization,P04-031,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262525,Markup: Irrigation Winterization,P04-033,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262525,Irrigation Winterization,P04-033,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262526,Markup: Irrigation Winterization,P06-051,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262526,Irrigation Winterization,P06-051,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262527,Markup: Irrigation Winterization,P03-110,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262527,Irrigation Winterization,P03-110,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262528,Markup: Irrigation Winterization,P22-001,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262528,Irrigation Winterization,P22-001,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262529,Markup: Irrigation Winterization,P02-067,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262529,Irrigation Winterization,P02-067,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262530,Markup: Irrigation Winterization,P03-030,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262530,Irrigation Winterization,P03-030,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262531,Markup: Irrigation Winterization,P03-105,6620,Other Expenses,5.00,Paid,
+2026-11-02,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1262531,Irrigation Winterization,P03-105,6125,Landscaping & Irrigation,50.00,Paid,
+2026-11-02,INVOICE_DATE,,,1262532,Markup: Uploaded Invoice,P06-016 1,6620,Other Expenses,13.64,Paid,
+2026-11-02,INVOICE_DATE,Joseph R Swiss LLC,Joseph  Swiss,1262532,11076-1 -Door Repair TWKPXJAB,P06-016 1,6306,Doors & Windows,136.40,Paid,
+2026-11-02,INVOICE_DATE,,,1262533,Markup: Bill for Dishwasher loose,P20-021,6620,Other Expenses,12.00,Unpaid,
+2026-11-02,INVOICE_DATE,Repair Masters LLC,Repair Masters LLC,1262533,Bill for Dishwasher loose,P20-021,6305,Appliances,120.00,Unpaid,
+2026-11-02,INVOICE_DATE,,,1262534,Markup: 14.8 SEER goodman heat pump with first co air handler with 5 k heat strips installation,P96-032 B,6620,Other Expenses,798.00,Unpaid,
+2026-11-02,INVOICE_DATE,Mays Mechanical (HVAC),Mays Mechanical (HVAC),1262534,14.8 SEER goodman heat pump with first co air handler with 5 k heat strips installation,P96-032 B,6320,HVAC,7980.00,Unpaid,
+2026-11-02,INVOICE_DATE,,,,Lease Fee,P19-013 8,6210,Placement Fee,200.00,Paid,
+2026-11-02,INVOICE_DATE,,,,,P17-040 2,2200,Clearing Account,1461.77,Paid,
+2026-11-03,INVOICE_DATE,APS,APS,,,P26-017,6520,Power,1.52,Paid,
+2026-11-04,INVOICE_DATE,,,,,P13-009 B,2200,Clearing Account,2025.00,Paid,
+2026-11-04,INVOICE_DATE,,,1265562,Markup: Bill for Rekey locks,P17-040 2,6620,Other Expenses,10.50,Paid,
+2026-11-04,INVOICE_DATE,Norms Lock and Safe LLC,Norms Lock and Safe LLC,1265562,Bill for Rekey locks,P17-040 2,6306,Doors & Windows,105.00,Paid,
+2026-11-04,INVOICE_DATE,,,1265597,Markup: Rekey locks - T48358Y,P04-105 B,6620,Other Expenses,12.00,Paid,
+2026-11-04,INVOICE_DATE,Norms Lock and Safe LLC,Norms Lock and Safe LLC,1265597,Rekey locks - T48358Y,P04-105 B,6306,Doors & Windows,120.00,Paid,
+2026-11-04,INVOICE_DATE,,,1265606,"Markup: Labor Resident said: outdoor faucet on back patio is leaking
+Additional Details: None
+
+Probable Diagnosis: Faucet Leaking Other
+MAX™ Also Learned: 
+- Cannot pinpoint faucet leak location
+Permission to Enter: Yes",P18-051 A,6620,Other Expenses,20.00,Paid,
+2026-11-04,INVOICE_DATE,,,1265606,Markup: Vacuum Breaker,P18-051 A,6620,Other Expenses,5.20,Paid,
+2026-11-04,INVOICE_DATE,Alphabet Plumbing & Rooter,Alphabet Plumbing & Rooter,1265606,"Labor Resident said: outdoor faucet on back patio is leaking
+Additional Details: None
+
+Probable Diagnosis: Faucet Leaking Other
+MAX™ Also Learned: 
+- Cannot pinpoint faucet leak location
+Permission to Enter: Yes",P18-051 A,6340,Plumbing & Septic,200.00,Paid,
+2026-11-04,INVOICE_DATE,Alphabet Plumbing & Rooter,Alphabet Plumbing & Rooter,1265606,Vacuum Breaker,P18-051 A,6340,Plumbing & Septic,52.00,Paid,
+2026-11-04,INVOICE_DATE,,,1265616,"Markup: Replace blinds 1 smaller in living room, 1 larger in living room, and 1 in guest bedroom.
+",P14-037 1,6620,Other Expenses,18.50,Paid,
+2026-11-04,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1265616,"Replace blinds 1 smaller in living room, 1 larger in living room, and 1 in guest bedroom.
+",P14-037 1,6306,Doors & Windows,185.00,Paid,
+2026-11-04,INVOICE_DATE,,,1265625,"Markup: Replace leaky cartridge
+
+Resident said: the bathtub is leaking
+Additional Details: The bathtub faucet in the second bathroom continues to drip even when the water is completely turned off. It appears to be an issue with the shower valve cartridge ",P19-003,6620,Other Expenses,20.00,Paid,
+2026-11-04,INVOICE_DATE,,,1265625,Markup: Delta Cartriage,P19-003,6620,Other Expenses,9.00,Paid,
+2026-11-04,INVOICE_DATE,Alphabet Plumbing & Rooter,Alphabet Plumbing & Rooter,1265625,"Replace leaky cartridge
+
+Resident said: the bathtub is leaking
+Additional Details: The bathtub faucet in the second bathroom continues to drip even when the water is completely turned off. It appears to be an issue with the shower valve cartridge or inter",P19-003,6340,Plumbing & Septic,200.00,Paid,
+2026-11-04,INVOICE_DATE,Alphabet Plumbing & Rooter,Alphabet Plumbing & Rooter,1265625,Delta Cartriage,P19-003,6340,Plumbing & Septic,90.00,Paid,
+2026-11-04,INVOICE_DATE,,,1265643,"Markup: AC Roof unit inspection for possible leak - T0WE1RAB
+
+Please inspect the AC unit located above the wet ceiling patch for any potential leaks.
+
+Meld ID: T0WE1RAB
+Address: 3912 N Taylor Dr, Prescott Valley, AZ 86314
+Resident's Name: Vacant property
+",P18-020,6620,Other Expenses,11.00,Paid,
+2026-11-04,INVOICE_DATE,"Northern Arizona Heating & Air, LLC","Northern Arizona Heating & Air, LLC",1265643,"AC Roof unit inspection for possible leak - T0WE1RAB
+
+Please inspect the AC unit located above the wet ceiling patch for any potential leaks.
+
+Meld ID: T0WE1RAB
+Address: 3912 N Taylor Dr, Prescott Valley, AZ 86314
+Resident's Name: Vacant property
+Phone #:",P18-020,6320,HVAC,110.00,Paid,
+2026-11-04,INVOICE_DATE,Appliance Works LLC ,Appliance Works LLC ,1265666,"The Kitchen Stove, The Lower Left Burner Is Not Attached To The Stove. We Discovered It By Accident, - TAQ9FAHB
+
+Resident said: the kitchen stove, the lower left burner is not attached to the stove. We discovered it by accident, it is a good thing we did ",P20-005 2,6305,Appliances,165.00,Unpaid,
+2026-11-04,INVOICE_DATE,,,1265678,"Markup: Garbage Disposal - T0Y0HIV
+
+Resident said: garbage disposal
+Additional Details: Will not turn on. Motor died. Tried to hit the restart button and unplugged it. Still does not work. 
+
+Permission to Enter: No",P03-110,6620,Other Expenses,6.00,Paid,
+2026-11-04,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1265678,"Garbage Disposal - T0Y0HIV
+
+Resident said: garbage disposal
+Additional Details: Will not turn on. Motor died. Tried to hit the restart button and unplugged it. Still does not work. 
+
+Permission to Enter: No",P03-110,6340,Plumbing & Septic,60.00,Paid,
+2026-11-04,INVOICE_DATE,,,1265684,"Markup: Toilet Clogged  - TPAZBNEB
+
+Resident contacted and stated that his toilet overflowed and is not in working order. Please connect with resident for entry. ",P04-008 1,6620,Other Expenses,13.31,Paid,
+2026-11-04,INVOICE_DATE,Victory Plumbing Solutions,Victory Plumbing Solutions,1265684,Toilet Repair,P04-008 1,6340,Plumbing & Septic,133.11,Paid,
+2026-11-04,INVOICE_DATE,Appliance Works LLC ,Appliance Works LLC ,,Reverse bill 1265666,P20-005 2,6305,Appliances,-165.00,Unused,
+2026-11-04,INVOICE_DATE,APS,APS,,,P14-037 1,6520,Power,28.82,Paid,
+2026-11-04,INVOICE_DATE,APS,APS,,,P02-004 B,6520,Power,20.73,Paid,
+2026-11-04,INVOICE_DATE,APS,APS,,,P26-015,6520,Power,31.54,Paid,
+2026-11-05,INVOICE_DATE,,,1265666,"Markup: The Kitchen Stove, The Lower Left Burner Is Not Attached To The Stove. We Discovered It By Accident, - TAQ9FAHB
+
+Resident said: the kitchen stove, the lower left burner is not attached to the stove. We discovered it by accident, it is a good thing",P20-005 2,6620,Other Expenses,16.50,Paid,
+2026-11-05,INVOICE_DATE,Appliance Works LLC ,Appliance Works LLC ,1265666,"The Kitchen Stove, The Lower Left Burner Is Not Attached To The Stove. We Discovered It By Accident, - TAQ9FAHB
+
+Resident said: the kitchen stove, the lower left burner is not attached to the stove. We discovered it by accident, it is a good thing we did ",P20-005 2,6305,Appliances,165.00,Paid,
+2026-11-06,INVOICE_DATE,,,,11/4-11/30 Rent Credit Back to New Owner,P13-009 B,40010,Rent Income  ,1170.00,Paid,
+2026-11-06,INVOICE_DATE,,,,11/4-11/30 Admin Fee Credit Back to New Owner,P13-009 B,41022,Monthly Admin Fee,23.40,Paid,
+2026-11-06,INVOICE_DATE,,,,11/4-11/30 Utility Credit Back to New Owner,P13-009 B,40014,Utility Chargeback,65.00,Paid,
+2026-11-06,INVOICE_DATE,APS,APS,,,P26-016,6520,Power,15.44,Unpaid,
+2026-11-06,INVOICE_DATE,APS,APS,,Reverse bill ,P26-016,6520,Power,-15.44,Unused,
+2026-11-06,INVOICE_DATE,APS,APS,,,P22-016,6520,Power,34.54,Paid,
+2026-11-09,INVOICE_DATE,,,1268828,Markup: Bill for PRE MOE Work,P17-040 2,6620,Other Expenses,80.58,Paid,
+2026-11-09,INVOICE_DATE,Joseph R Swiss LLC,Joseph  Swiss,1268828,Bill for PRE MOE Work,P17-040 2,6120,General Maintenance,805.75,Paid,
+2026-11-09,INVOICE_DATE,,,1268848,Markup: Bill for PRE MOE Work,P04-054 1,6620,Other Expenses,79.75,Paid,
+2026-11-09,INVOICE_DATE,Joseph R Swiss LLC,Joseph  Swiss,1268848,Bill for PRE MOE Work,P04-054 1,6120,General Maintenance,797.50,Paid,
+2026-11-09,INVOICE_DATE,,,1268861,Markup: Bill for Rekey locks,P04-054 1,6620,Other Expenses,15.00,Paid,
+2026-11-09,INVOICE_DATE,Norms Lock and Safe LLC,Norms Lock and Safe LLC,1268861,Bill for Rekey locks,P04-054 1,6135,Locksmith,150.00,Paid,
+2026-11-09,INVOICE_DATE,,,1268877,Markup: Bill for The Roof Fell In In Spare Bedroom Closet,P18-060 2,6620,Other Expenses,17.21,Paid,
+2026-11-09,INVOICE_DATE,Joseph R Swiss LLC,Joseph  Swiss,1268877,Bill for The Roof Fell In In Spare Bedroom Closet,P18-060 2,6120,General Maintenance,172.11,Paid,
+2026-11-09,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,October bill,P20-024,6525,Water & Sewer,17.87,Paid,
+2026-11-09,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,October bill,P04-033,6525,Water & Sewer,34.21,Paid,
+2026-11-09,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,Final,P26-017,6525,Water & Sewer,15.00,Paid,
+2026-11-09,INVOICE_DATE,APS,APS,,,P17-040 2,6520,Power,0.66,Paid,
+2026-11-09,INVOICE_DATE,,,Lease break fee,Lease Break Fee for Patience Schmetzer,P25-006,42040,Lease Break Fee,1656.25,Paid,
+2026-11-10,INVOICE_DATE,,,1269702,"Markup: Bathroom Baseboard Is Detached - T4953W1
+
+Resident said: bathroom baseboard is detached
+Additional Details: This was like this when we moved in. But it's not ok because bugs are getting in through the cracks. Would have been nice to have the whole",P12-006,6620,Other Expenses,17.87,Paid,
+2026-11-10,INVOICE_DATE,Joseph R Swiss LLC,Joseph  Swiss,1269702,"Bathroom Baseboard Is Detached - T4953W1
+
+Resident said: bathroom baseboard is detached
+Additional Details: This was like this when we moved in. But it's not ok because bugs are getting in through the cracks. Would have been nice to have the whole place s",P12-006,6310,Flooring,178.66,Paid,
+2026-11-10,INVOICE_DATE,,,1269705,"Markup: Water Damage On The Ceiling - TXAAAI9
+
+Resident said: Water damage on the ceiling 
+Additional Details: Repair was never finished. Roof flash was fixed but the water damage is still in between the ceiling and the roof. And the drywall is stained. 
+",P21-013,6620,Other Expenses,33.10,Paid,
+2026-11-10,INVOICE_DATE,Joseph R Swiss LLC,Joseph  Swiss,1269705,"Water Damage On The Ceiling - TXAAAI9
+
+Resident said: Water damage on the ceiling 
+Additional Details: Repair was never finished. Roof flash was fixed but the water damage is still in between the ceiling and the roof. And the drywall is stained. 
+
+Permiss",P21-013,6120,General Maintenance,330.95,Paid,
+2026-11-11,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,,P21-023 B,6525,Water & Sewer,20.10,Paid,
+2026-11-11,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,,P21-023 B,42034,Convenience Fee,1.00,Paid,
+2026-11-11,INVOICE_DATE,,,,,P17-040 2,2200,Clearing Account,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,,P04-105 B,2200,Clearing Account,1355.23,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026, ,6230,Management Fee,1.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P02-004 A,6230,Management Fee,85.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P02-004 A,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Administrative Fee   for 11/2026,P02-004 A,42030,Administrative Fee  ,19.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P02-004 C,6230,Management Fee,83.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P02-004 C,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P02-004 C,41022,Monthly Admin Fee,18.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P02-004 D,6230,Management Fee,83.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P02-004 D,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P02-004 D,41022,Monthly Admin Fee,18.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P02-004 D,41023,Monthly Pet Fee,45.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P02-004 D,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P02-029 A,6230,Management Fee,78.75,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P02-029 B,6230,Management Fee,82.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P02-029 B,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P02-029 B,41022,Monthly Admin Fee,22.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P02-029 C,6230,Management Fee,93.75,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P02-029 C,41022,Monthly Admin Fee,23.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P02-029 D,6230,Management Fee,86.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P02-029 D,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P02-029 D,41022,Monthly Admin Fee,23.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P02-029 D,41023,Monthly Pet Fee,65.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P02-030 A,6230,Management Fee,73.13,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P02-030 A,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P02-030 A,41022,Monthly Admin Fee,19.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P02-030 B,6230,Management Fee,76.13,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P02-030 B,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P02-030 B,41022,Monthly Admin Fee,19.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P02-030 C,6230,Management Fee,90.38,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P02-030 C,41022,Monthly Admin Fee,23.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P02-030 D,6230,Management Fee,86.63,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P02-030 D,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P02-030 D,41022,Monthly Admin Fee,20.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P02-031 A,6230,Management Fee,91.88,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P02-031 A,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P02-031 A,41022,Monthly Admin Fee,24.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P02-031 A,41023,Monthly Pet Fee,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P02-031 A,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P02-031 B,6230,Management Fee,90.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P02-031 B,41023,Monthly Pet Fee,65.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P02-067,6230,Management Fee,220.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P02-067,41022,Monthly Admin Fee,44.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P03-030,6230,Management Fee,185.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P03-030,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P03-030,41022,Monthly Admin Fee,37.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P03-030,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P03-035,6230,Management Fee,167.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P03-035,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P03-035,41022,Monthly Admin Fee,33.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P03-105,6230,Management Fee,208.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P03-105,41022,Monthly Admin Fee,40.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P03-110,6230,Management Fee,143.60,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-008 1,6230,Management Fee,124.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P04-008 1,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-008 1,41022,Monthly Admin Fee,31.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-008 2,6230,Management Fee,104.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P04-008 2,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-008 2,41022,Monthly Admin Fee,26.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-008 3,6230,Management Fee,128.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P04-008 3,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-008 3,41022,Monthly Admin Fee,32.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-018,6230,Management Fee,148.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P04-018,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-018,41022,Monthly Admin Fee,33.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P04-018,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-031,6230,Management Fee,187.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P04-031,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-031,41022,Monthly Admin Fee,36.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-038 101,6230,Management Fee,100.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P04-038 101,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-038 101,41022,Monthly Admin Fee,25.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-038 102,6230,Management Fee,78.40,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P04-038 102,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-038 102,41022,Monthly Admin Fee,19.60,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-038 201,6230,Management Fee,109.60,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-038 201,41022,Monthly Admin Fee,25.70,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-038 202,6230,Management Fee,78.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P04-038 202,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-038 202,41022,Monthly Admin Fee,19.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-054 2,6230,Management Fee,116.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P04-054 2,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-054 2,41022,Monthly Admin Fee,29.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P04-054 2,41023,Monthly Pet Fee,55.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P04-054 2,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-060,6230,Management Fee,165.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P04-060,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-060,41022,Monthly Admin Fee,33.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-083 A,6230,Management Fee,116.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-083 B,6230,Management Fee,116.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-083 B,41022,Monthly Admin Fee,29.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P04-083 B,41023,Monthly Pet Fee,65.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-083 C,6230,Management Fee,116.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-084 A,6230,Management Fee,114.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-084 B,6230,Management Fee,120.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P04-084 B,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-084 B,41022,Monthly Admin Fee,30.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P04-084 B,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Late Fee  for 11/2026,P04-084 B,43050,Late Fee ,120.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Serving of 5 Day Notice Fee for 11/2026,P04-084 B,43053,Serving of 5 Day Notice Fee,125.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Convenience Fee for 11/2026,P04-084 B,42034,Convenience Fee,110.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-104 A,6230,Management Fee,96.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-104 A,41022,Monthly Admin Fee,24.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-104 B,6230,Management Fee,102.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P04-104 B,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-104 B,41022,Monthly Admin Fee,25.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P04-104 B,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P04-105 A,6230,Management Fee,135.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P04-105 A,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P04-105 A,41022,Monthly Admin Fee,30.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P05-034 A,6230,Management Fee,108.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P05-034 A,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P05-034 A,41022,Monthly Admin Fee,24.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P05-034 B,6230,Management Fee,96.75,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P05-077 1,6230,Management Fee,121.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P05-077 1,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P05-077 1,41022,Monthly Admin Fee,24.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P05-077 2,6230,Management Fee,123.30,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P05-077 2,41021,Resident Benefit Package,65.00,Unpaid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P05-077 2,41022,Monthly Admin Fee,24.00,Unpaid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P05-077 21,6230,Management Fee,108.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P05-077 21,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P05-077 21,41022,Monthly Admin Fee,24.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P05-081,6230,Management Fee,225.90,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P05-081,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P05-081,41022,Monthly Admin Fee,46.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P05-081,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Late Fee  for 11/2026,P05-081,43050,Late Fee ,50.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Serving of 5 Day Notice Fee for 11/2026,P05-081,43053,Serving of 5 Day Notice Fee,125.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P06-016 1,6230,Management Fee,120.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P06-016 2,6230,Management Fee,120.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P06-016 2,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P06-016 2,41022,Monthly Admin Fee,30.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P06-017 1,6230,Management Fee,130.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P06-017 2,6230,Management Fee,126.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P06-017 2,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P06-017 2,41022,Monthly Admin Fee,31.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P06-017 2,41023,Monthly Pet Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P06-017 2,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P06-022 1,6230,Management Fee,72.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P06-027 C,6230,Management Fee,116.82,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P06-027 D,6230,Management Fee,98.82,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P06-051,6230,Management Fee,165.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P06-067 1,6230,Management Fee,119.60,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P06-067 2,6230,Management Fee,140.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P06-067 2,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P06-067 2,41022,Monthly Admin Fee,32.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P06-067 2,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Month to Month Fee for 11/2026,P06-067 2,41024,Month to Month Fee,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Late Fee  for 11/2026,P06-067 2,43050,Late Fee ,60.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Serving of 5 Day Notice Fee for 11/2026,P06-067 2,43053,Serving of 5 Day Notice Fee,125.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P06-068 A,6230,Management Fee,88.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P06-068 A,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P06-068 A,41022,Monthly Admin Fee,22.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P06-068 A,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P06-068 B,6230,Management Fee,84.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P06-088 A,6230,Management Fee,92.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P06-088 A,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P06-088 A,41022,Monthly Admin Fee,20.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P06-088 B,6230,Management Fee,103.95,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P06-088 B,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P06-088 B,41022,Monthly Admin Fee,20.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P07-005 A,6230,Management Fee,135.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P07-005 A,41022,Monthly Admin Fee,30.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P07-005 B,6230,Management Fee,140.56,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P07-070 A,6230,Management Fee,128.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P07-070 A,41021,Resident Benefit Package,75.00,Unpaid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P07-070 A,41022,Monthly Admin Fee,28.50,Unpaid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P07-070 A,41020,Move in Solution Fee,85.00,Unpaid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P07-070 B,6230,Management Fee,126.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P07-070 B,41022,Monthly Admin Fee,28.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P08-006,6230,Management Fee,136.57,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P08-006,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P08-006,41022,Monthly Admin Fee,28.79,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P08-006,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P08-018 B,6230,Management Fee,17.64,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P08-033,6230,Management Fee,193.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P08-033,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P08-033,41022,Monthly Admin Fee,43.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P08-034,6230,Management Fee,167.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P08-039,6230,Management Fee,155.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P09-020,6230,Management Fee,175.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P09-025,6230,Management Fee,150.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P09-025,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P09-025,41022,Monthly Admin Fee,30.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P09-054,6230,Management Fee,135.10,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P09-054,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P09-054,41022,Monthly Admin Fee,37.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Late Fee  for 11/2026,P09-054,43050,Late Fee ,70.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Fee for Returned Payment for 11/2026,P09-054,43051,Fee for Returned Payment,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P09-055,6230,Management Fee,220.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P09-055,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P09-055,41022,Monthly Admin Fee,44.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P09-055,41020,Move in Solution Fee,81.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P10-028 A,6230,Management Fee,118.80,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P10-028 A,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P10-028 A,41022,Monthly Admin Fee,28.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P10-028 B,6230,Management Fee,96.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P11-012,6230,Management Fee,168.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P11-012,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P11-012,41022,Monthly Admin Fee,32.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P11-024,6230,Management Fee,176.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P11-029,6230,Management Fee,121.85,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P11-029,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P11-029,41022,Monthly Admin Fee,24.37,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P11-031,6230,Management Fee,200.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Late Fee  for 11/2026,P11-031,43050,Late Fee ,70.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Serving of 5 Day Notice Fee for 11/2026,P11-031,43053,Serving of 5 Day Notice Fee,125.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P11-032,6230,Management Fee,189.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P11-032,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P11-032,41022,Monthly Admin Fee,42.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P11-032,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P11-054,6230,Management Fee,200.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P11-054,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P11-054,41022,Monthly Admin Fee,44.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P11-057,6230,Management Fee,140.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P11-057,41022,Monthly Admin Fee,28.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P11-058,6230,Management Fee,240.83,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P11-058,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P11-058,41022,Monthly Admin Fee,48.17,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P11-058,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P11-059,6230,Management Fee,230.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P11-059,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P11-059,41022,Monthly Admin Fee,46.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P11-059,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P12-004 B,6230,Management Fee,120.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P12-004 B,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P12-004 B,41022,Monthly Admin Fee,24.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P12-006,6230,Management Fee,94.36,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P12-006,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P12-006,41022,Monthly Admin Fee,18.87,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P12-006,41023,Monthly Pet Fee,62.90,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P12-010,6230,Management Fee,200.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P12-010,41022,Monthly Admin Fee,40.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P12-019,6230,Management Fee,174.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P12-019,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P12-019,41022,Monthly Admin Fee,43.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P12-020,6230,Management Fee,64.41,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P12-020,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P12-020,41022,Monthly Admin Fee,15.60,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-006,6230,Management Fee,117.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-006,41022,Monthly Admin Fee,33.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-009 B,6230,Management Fee,94.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P13-009 B,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-009 B,41022,Monthly Admin Fee,27.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-015,6230,Management Fee,91.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P13-015,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-015,41022,Monthly Admin Fee,26.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-025 1,6230,Management Fee,80.63,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P13-025 1,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-025 1,41022,Monthly Admin Fee,21.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-025 2,6230,Management Fee,73.13,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-025 2,41022,Monthly Admin Fee,19.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-025 3,6230,Management Fee,71.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-025 3,41022,Monthly Admin Fee,19.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P13-025 3,41023,Monthly Pet Fee,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-025 4,6230,Management Fee,86.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P13-025 4,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-025 4,41022,Monthly Admin Fee,23.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P13-025 4,41023,Monthly Pet Fee,65.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-031 A,6230,Management Fee,99.38,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P13-031 A,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-031 A,41022,Monthly Admin Fee,26.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P13-031 A,41023,Monthly Pet Fee,120.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-031 B,6230,Management Fee,95.63,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-031 B,41022,Monthly Admin Fee,25.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-034,6230,Management Fee,195.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-034,41022,Monthly Admin Fee,39.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-038,6230,Management Fee,112.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-038,41022,Monthly Admin Fee,25.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-039,6230,Management Fee,182.70,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-039,41022,Monthly Admin Fee,40.60,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-043,6230,Management Fee,195.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P13-043,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-043,41022,Monthly Admin Fee,39.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Late Fee  for 11/2026,P13-043,43050,Late Fee ,50.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-047,6230,Management Fee,215.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P13-047,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-047,41022,Monthly Admin Fee,40.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-049,6230,Management Fee,205.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P13-049,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-049,41022,Monthly Admin Fee,41.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P13-049,41023,Monthly Pet Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P13-062,6230,Management Fee,187.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P13-062,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P13-062,41022,Monthly Admin Fee,37.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P14-006,6230,Management Fee,150.80,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P14-006,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P14-006,41022,Monthly Admin Fee,36.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P14-009,6230,Management Fee,96.75,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P14-009,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P14-009,41022,Monthly Admin Fee,21.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P14-019,6230,Management Fee,180.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P14-037 2,6230,Management Fee,143.55,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P14-037 2,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P14-037 2,41022,Monthly Admin Fee,31.90,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P14-037 3,6230,Management Fee,103.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P14-038,6230,Management Fee,198.33,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P14-038,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P14-038,41022,Monthly Admin Fee,40.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P14-038,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P14-039,6230,Management Fee,205.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P14-039,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P14-039,41022,Monthly Admin Fee,40.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P14-060,6230,Management Fee,165.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P14-060,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P14-060,41022,Monthly Admin Fee,33.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P15-006,6230,Management Fee,160.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P15-031,6230,Management Fee,152.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P15-039,6230,Management Fee,177.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Application Fee  for 11/2026,P15-039,42031,Application Fee ,110.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P16-001,6230,Management Fee,182.34,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P16-001,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P16-001,41022,Monthly Admin Fee,46.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P16-029,6230,Management Fee,171.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P16-030,6230,Management Fee,185.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P16-030,41023,Monthly Pet Fee,65.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P16-046,6230,Management Fee,196.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P16-046,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P16-046,41022,Monthly Admin Fee,39.20,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P16-053,6230,Management Fee,127.80,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P16-053,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P16-053,41022,Monthly Admin Fee,25.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P17-009,6230,Management Fee,110.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P17-017,6230,Management Fee,90.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P17-018,6230,Management Fee,140.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P17-019,6230,Management Fee,224.55,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P17-019,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P17-019,41022,Monthly Admin Fee,49.90,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P17-025 1,6230,Management Fee,146.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P17-025 1,41022,Monthly Admin Fee,32.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P17-025 2,6230,Management Fee,164.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P17-025 2,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P17-025 2,41022,Monthly Admin Fee,36.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P17-029,6230,Management Fee,207.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P17-029,41022,Monthly Admin Fee,46.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P17-031,6230,Management Fee,240.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P17-033,6230,Management Fee,230.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Late Fee  for 11/2026,P17-033,43050,Late Fee ,50.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P17-035,6230,Management Fee,193.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P17-035,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P17-035,41022,Monthly Admin Fee,43.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P17-035,41023,Monthly Pet Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P17-035,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Late Fee  for 11/2026,P17-035,43050,Late Fee ,50.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P17-039,6230,Management Fee,175.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P17-039,41023,Monthly Pet Fee,170.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P17-040 1,6230,Management Fee,135.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Late Fee  for 11/2026,P17-040 1,43050,Late Fee ,70.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Serving of 5 Day Notice Fee for 11/2026,P17-040 1,43053,Serving of 5 Day Notice Fee,125.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-002,6230,Management Fee,180.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P18-002,41022,Monthly Admin Fee,36.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-011,6230,Management Fee,197.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P18-011,41023,Monthly Pet Fee,65.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Late Fee  for 11/2026,P18-011,43050,Late Fee ,50.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-018 A,6230,Management Fee,116.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P18-018 A,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P18-018 A,41022,Monthly Admin Fee,29.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-018 B,6230,Management Fee,110.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-019 A,6230,Management Fee,118.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P18-019 A,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P18-019 A,41022,Monthly Admin Fee,29.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P18-019 A,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Pet Admin Fee for 11/2026,P18-019 A,42032,Pet Admin Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-019 B,6230,Management Fee,126.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P18-019 B,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P18-019 B,41022,Monthly Admin Fee,31.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P18-019 B,41023,Monthly Pet Fee,55.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-021 A,6230,Management Fee,84.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-021 B,6230,Management Fee,92.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-035 1,6230,Management Fee,137.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P18-035 1,41023,Monthly Pet Fee,65.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-035 2,6230,Management Fee,132.75,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P18-035 2,41022,Monthly Admin Fee,29.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-051 A,6230,Management Fee,105.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P18-051 A,41022,Monthly Admin Fee,30.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-051 B,6230,Management Fee,108.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-056,6230,Management Fee,189.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P18-056,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P18-056,41022,Monthly Admin Fee,42.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P18-056,41023,Monthly Pet Fee,120.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P18-056,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-057,6230,Management Fee,200.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P18-057,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P18-057,41022,Monthly Admin Fee,40.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-059,6230,Management Fee,201.60,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P18-059,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P18-059,41022,Monthly Admin Fee,44.80,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-060 1,6230,Management Fee,116.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P18-060 1,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P18-060 1,41022,Monthly Admin Fee,31.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P18-060 2,6230,Management Fee,120.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P18-060 2,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P18-060 2,41022,Monthly Admin Fee,32.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P18-060 2,41023,Monthly Pet Fee,140.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P18-060 2,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-003,6230,Management Fee,201.60,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-003,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-003,41022,Monthly Admin Fee,44.80,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-008,6230,Management Fee,245.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-008,41022,Monthly Admin Fee,49.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-009 B,6230,Management Fee,116.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-009 B,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-009 B,41022,Monthly Admin Fee,29.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-012 1,6230,Management Fee,100.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-012 1,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-012 1,41022,Monthly Admin Fee,25.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-012 2,6230,Management Fee,100.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-012 2,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-012 2,41022,Monthly Admin Fee,25.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P19-012 2,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-012 3,6230,Management Fee,96.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-012 3,41022,Monthly Admin Fee,24.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-012 4,6230,Management Fee,104.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-012 4,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-012 4,41022,Monthly Admin Fee,26.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-013 5,6230,Management Fee,102.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-013 5,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-013 5,41022,Monthly Admin Fee,25.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P19-013 5,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-013 7,6230,Management Fee,102.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-013 7,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-013 7,41022,Monthly Admin Fee,25.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P19-013 7,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-013 8,6230,Management Fee,98.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-013 8,41022,Monthly Admin Fee,24.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-013 8,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P19-013 8,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Administrative Fee   for 11/2026,P19-013 8,42030,Administrative Fee  ,299.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-014 09,6230,Management Fee,100.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-014 09,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-014 09,41022,Monthly Admin Fee,25.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-014 10,6230,Management Fee,94.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-014 10,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-014 10,41022,Monthly Admin Fee,23.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-014 11,6230,Management Fee,102.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-014 11,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-014 11,41022,Monthly Admin Fee,25.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P19-014 11,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-014 12,6230,Management Fee,98.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-014 12,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-014 12,41022,Monthly Admin Fee,24.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-016,6230,Management Fee,295.65,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-016,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-016,41022,Monthly Admin Fee,64.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-032,6230,Management Fee,216.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-032,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-032,41022,Monthly Admin Fee,48.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P19-032,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-034,6230,Management Fee,199.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-034,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-034,41022,Monthly Admin Fee,39.90,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-035,6230,Management Fee,217.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-035,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-035,41022,Monthly Admin Fee,43.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-038 A,6230,Management Fee,112.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-038 A,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-038 A,41022,Monthly Admin Fee,25.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-038 B,6230,Management Fee,104.85,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-038 B,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-038 B,41022,Monthly Admin Fee,22.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-038 C,6230,Management Fee,103.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-038 D,6230,Management Fee,110.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-038 D,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-038 D,41022,Monthly Admin Fee,24.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-041,6230,Management Fee,153.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-043 A,6230,Management Fee,97.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-043 A,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-043 A,41022,Monthly Admin Fee,26.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P19-043 A,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-043 B,6230,Management Fee,110.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-043 B,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-043 B,41022,Monthly Admin Fee,26.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-044 A,6230,Management Fee,86.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-044 A,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-044 A,41022,Monthly Admin Fee,23.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-044 B,6230,Management Fee,88.13,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-044 B,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-044 B,41022,Monthly Admin Fee,23.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P19-046,6230,Management Fee,210.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P19-046,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P19-046,41022,Monthly Admin Fee,42.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-002 A,6230,Management Fee,117.45,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P20-002 A,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-002 A,41022,Monthly Admin Fee,23.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-002 B,6230,Management Fee,96.75,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P20-002 B,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-002 B,41022,Monthly Admin Fee,21.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-005 1,6230,Management Fee,172.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P20-005 1,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-005 1,41022,Monthly Admin Fee,34.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P20-005 1,41023,Monthly Pet Fee,225.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-005 2,6230,Management Fee,131.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P20-005 2,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-005 2,41022,Monthly Admin Fee,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-008,6230,Management Fee,218.33,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P20-008,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-008,41022,Monthly Admin Fee,43.67,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P20-008,41023,Monthly Pet Fee,65.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P20-008,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Late Fee  for 11/2026,P20-008,43050,Late Fee ,80.00,Unpaid,
+2026-11-11,INVOICE_DATE,,,,Serving of 5 Day Notice Fee for 11/2026,P20-008,43053,Serving of 5 Day Notice Fee,75.00,Unpaid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-009 1,6230,Management Fee,127.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-009 2,6230,Management Fee,131.25,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-013,6230,Management Fee,169.20,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P20-013,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-013,41022,Monthly Admin Fee,41.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-014 1,6230,Management Fee,141.38,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P20-014 1,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-014 1,41022,Monthly Admin Fee,36.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Serving of 5 Day Notice Fee for 11/2026,P20-014 1,43053,Serving of 5 Day Notice Fee,125.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-014 2,6230,Management Fee,135.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-020,6230,Management Fee,209.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P20-020,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-020,41022,Monthly Admin Fee,41.90,Paid,
+2026-11-11,INVOICE_DATE,,,,Late Fee  for 11/2026,P20-020,43050,Late Fee ,70.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Serving of 5 Day Notice Fee for 11/2026,P20-020,43053,Serving of 5 Day Notice Fee,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-023 1,6230,Management Fee,153.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P20-023 1,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-023 1,41022,Monthly Admin Fee,34.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-026,6230,Management Fee,244.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P20-026,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-026,41022,Monthly Admin Fee,48.90,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P20-026,41023,Monthly Pet Fee,150.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-038 A,6230,Management Fee,117.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-038 A,41022,Monthly Admin Fee,26.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-038 B,6230,Management Fee,114.75,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-038 C,6230,Management Fee,108.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-038 D,6230,Management Fee,103.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P20-038 D,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-038 D,41022,Monthly Admin Fee,23.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-052,6230,Management Fee,170.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P20-052,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-052,41022,Monthly Admin Fee,34.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-058,6230,Management Fee,220.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P20-058,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-058,41022,Monthly Admin Fee,24.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-060,6230,Management Fee,245.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P20-060,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-060,41022,Monthly Admin Fee,49.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P20-060,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P20-061,6230,Management Fee,220.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P20-061,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P20-061,41022,Monthly Admin Fee,44.00,Paid,
+2026-11-11,INVOICE_DATE,,,,MIS Recovery Fee for 11/2026,P20-061,40062,MIS Recovery Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-003 C,6230,Management Fee,113.60,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P21-003 C,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P21-003 C,41022,Monthly Admin Fee,28.40,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-003 D,6230,Management Fee,104.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P21-003 D,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P21-003 D,41022,Monthly Admin Fee,26.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-004,6230,Management Fee,162.80,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P21-004,41022,Monthly Admin Fee,39.60,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-005,6230,Management Fee,176.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P21-005,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P21-005,41022,Monthly Admin Fee,44.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P21-005,41023,Monthly Pet Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P21-005,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-006,6230,Management Fee,198.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P21-006,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P21-006,41022,Monthly Admin Fee,37.90,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-010,6230,Management Fee,240.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P21-010,41022,Monthly Admin Fee,55.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-011,6230,Management Fee,176.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P21-011,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P21-011,41022,Monthly Admin Fee,44.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P21-011,41023,Monthly Pet Fee,65.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-012,6230,Management Fee,175.60,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-013,6230,Management Fee,180.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P21-013,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P21-013,41022,Monthly Admin Fee,45.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-014 A,6230,Management Fee,126.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P21-014 A,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P21-014 A,41022,Monthly Admin Fee,31.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P21-014 A,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-014 B,6230,Management Fee,92.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P21-014 B,41022,Monthly Admin Fee,23.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-019,6230,Management Fee,205.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-020,6230,Management Fee,235.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P21-020,41022,Monthly Admin Fee,47.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-023 A,6230,Management Fee,96.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P21-023 A,41022,Monthly Admin Fee,24.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-023 B,6230,Management Fee,108.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P21-023 B,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P21-023 B,41022,Monthly Admin Fee,27.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Pet Fee for 11/2026,P21-023 B,41023,Monthly Pet Fee,130.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-034,6230,Management Fee,227.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P21-034,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P21-034,41022,Monthly Admin Fee,45.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P21-034,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P21-038,6230,Management Fee,151.60,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P22-001,6230,Management Fee,202.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P22-001,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P22-001,41022,Monthly Admin Fee,45.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P22-001,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P22-007,6230,Management Fee,135.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P22-007,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P22-007,41022,Monthly Admin Fee,36.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P22-007,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P22-008,6230,Management Fee,160.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P22-008,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P22-008,41022,Monthly Admin Fee,32.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P22-011,6230,Management Fee,200.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P22-011,41022,Monthly Admin Fee,40.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P22-023,6230,Management Fee,230.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P22-023,41021,Resident Benefit Package,65.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P22-023,41022,Monthly Admin Fee,46.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P22-024,6230,Management Fee,162.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P22-024,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P22-024,41022,Monthly Admin Fee,32.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P22-027,6230,Management Fee,195.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P22-027,41021,Resident Benefit Package,65.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P22-027,41022,Monthly Admin Fee,39.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P22-028,6230,Management Fee,210.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P22-028,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P22-028,41022,Monthly Admin Fee,42.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P23-001,6230,Management Fee,165.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P23-001,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P23-001,41022,Monthly Admin Fee,33.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Fee for Returned Payment for 11/2026,P23-001,43051,Fee for Returned Payment,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P23-002 2,6230,Management Fee,117.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P23-002 2,41022,Monthly Admin Fee,23.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P23-006,6230,Management Fee,221.20,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P23-006,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P23-006,41022,Monthly Admin Fee,44.24,Paid,
+2026-11-11,INVOICE_DATE,,,,Late Fee  for 11/2026,P23-006,43050,Late Fee ,60.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Serving of 5 Day Notice Fee for 11/2026,P23-006,43053,Serving of 5 Day Notice Fee,125.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P23-013,6230,Management Fee,330.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P23-013,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P23-013,41022,Monthly Admin Fee,66.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Late Fee  for 11/2026,P23-013,43050,Late Fee ,50.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Serving of 5 Day Notice Fee for 11/2026,P23-013,43053,Serving of 5 Day Notice Fee,125.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P23-019,6230,Management Fee,172.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P23-020 A,6230,Management Fee,112.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P23-020 A,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P23-020 A,41022,Monthly Admin Fee,28.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P23-020 A,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P23-020 B,6230,Management Fee,112.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P23-020 B,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P23-020 B,41022,Monthly Admin Fee,28.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P23-020 C,6230,Management Fee,116.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P23-020 C,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P23-020 C,41022,Monthly Admin Fee,29.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P23-020 D,6230,Management Fee,112.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P23-020 D,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P23-020 D,41022,Monthly Admin Fee,28.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P23-024,6230,Management Fee,148.13,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P23-025,6230,Management Fee,149.90,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P23-025,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P23-025,41022,Monthly Admin Fee,29.98,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P23-025,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P23-026 1,6230,Management Fee,148.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P23-026 1,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P23-026 1,41022,Monthly Admin Fee,33.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P23-026 2,6230,Management Fee,148.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P23-026 2,41022,Monthly Admin Fee,33.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P24-011,6230,Management Fee,235.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P24-011,41022,Monthly Admin Fee,45.90,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P24-013,6230,Management Fee,164.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P24-013,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P24-013,41022,Monthly Admin Fee,30.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P24-014,6230,Management Fee,155.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P24-014,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P24-014,41022,Monthly Admin Fee,31.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P24-016,6230,Management Fee,220.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P24-016,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P24-016,41022,Monthly Admin Fee,44.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P25-001,6230,Management Fee,210.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P25-001,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P25-001,41022,Monthly Admin Fee,42.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P25-001,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P25-002 1,6230,Management Fee,141.30,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P25-002 2,6230,Management Fee,130.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P25-003,6230,Management Fee,216.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P25-003,41022,Monthly Admin Fee,42.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P25-004,6230,Management Fee,220.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P25-004,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P25-004,41022,Monthly Admin Fee,44.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P25-004,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P25-007,6230,Management Fee,100.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P25-007,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P25-007,41022,Monthly Admin Fee,25.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P25-007,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P25-009,6230,Management Fee,158.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P25-009,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P25-009,41022,Monthly Admin Fee,39.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P25-010 ,6230,Management Fee,192.27,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P25-010 ,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P25-010 ,41022,Monthly Admin Fee,19.07,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P25-010 ,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P25-011 ,6230,Management Fee,240.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P25-011 ,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P25-011 ,41022,Monthly Admin Fee,48.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P25-011 ,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Pet Admin Fee for 11/2026,P25-011 ,42032,Pet Admin Fee,185.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P25-012,6230,Management Fee,204.48,Unpaid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P25-013,6230,Management Fee,424.00,Unpaid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P25-013,41022,Monthly Admin Fee,10.00,Unpaid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-001,6230,Management Fee,217.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P26-001,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P26-001,41022,Monthly Admin Fee,62.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-002,6230,Management Fee,184.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P26-002,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P26-002,41022,Monthly Admin Fee,46.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P26-002,41020,Move in Solution Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-003,6230,Management Fee,99.00,Unpaid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-004,6230,Management Fee,99.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-005,6230,Management Fee,125.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P26-005,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P26-005,41022,Monthly Admin Fee,32.93,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-007,6230,Management Fee,80.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P26-007,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P26-007,41022,Monthly Admin Fee,16.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-008,6230,Management Fee,330.47,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-010,6230,Management Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P26-010,41021,Resident Benefit Package,67.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P26-010,41022,Monthly Admin Fee,52.18,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P26-010,41020,Move in Solution Fee,76.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-011,6230,Management Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P26-011,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P26-011,41022,Monthly Admin Fee,46.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-012,6230,Management Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-013,6230,Management Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-014,6230,Management Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-015,6230,Management Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-016,6230,Management Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P26-016,41022,Monthly Admin Fee,13.80,Paid,
+2026-11-11,INVOICE_DATE,,,,Move in Solution Fee for 11/2026,P26-016,41020,Move in Solution Fee,61.98,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-017,6230,Management Fee,85.00,Unpaid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-026,6230,Management Fee,184.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P26-026,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P26-026,41022,Monthly Admin Fee,46.00,Paid,
+2026-11-11,INVOICE_DATE,,,,MIS Recovery Fee for 11/2026,P26-026,40062,MIS Recovery Fee,85.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P26-028,6230,Management Fee,256.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P26-028,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P26-028,41022,Monthly Admin Fee,50.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P96-032 A,6230,Management Fee,123.75,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P96-032 A,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P96-032 A,41022,Monthly Admin Fee,27.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P96-032 B,6230,Management Fee,100.98,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P96-032 C,6230,Management Fee,143.55,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P96-032 C,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P96-032 C,41022,Monthly Admin Fee,31.90,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P96-036 A,6230,Management Fee,120.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P96-036 A,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P96-036 A,41022,Monthly Admin Fee,30.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P96-036 B,6230,Management Fee,124.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P96-036 B,41021,Resident Benefit Package,75.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P96-036 B,41022,Monthly Admin Fee,31.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P97-047 A,6230,Management Fee,92.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P97-047 A,41022,Monthly Admin Fee,18.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P97-047 B,6230,Management Fee,107.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P97-047 B,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P97-047 B,41022,Monthly Admin Fee,21.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P99-039 1,6230,Management Fee,108.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P99-039 1,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P99-039 1,41022,Monthly Admin Fee,24.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P99-039 2,6230,Management Fee,112.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P99-039 2,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P99-039 2,41022,Monthly Admin Fee,25.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P99-039 3,6230,Management Fee,90.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P99-039 3,41021,Resident Benefit Package,35.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Monthly Admin Fee for 11/2026,P99-039 3,41022,Monthly Admin Fee,20.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Management Fee for 11/2026,P99-039 4,6230,Management Fee,67.50,Paid,
+2026-11-11,INVOICE_DATE,,,,Convenience Fee for 11/2026,P99-039 4,42034,Convenience Fee,10.00,Paid,
+2026-11-11,INVOICE_DATE,,,,Reverse bill ,P26-017,6230,Management Fee,-85.00,Unused,
+2026-11-12,INVOICE_DATE,,,,,P04-054 1,2200,Clearing Account,1429.04,Paid,
+2026-11-12,INVOICE_DATE,,,,,P19-004,2200,Clearing Account,1676.21,Paid,
+2026-11-12,INVOICE_DATE,,,,,P21-003 A,2200,Clearing Account,1191.50,Paid,
+2026-11-13,INVOICE_DATE,,,,Management Fee for 11/2026,P07-005 B,6230,Management Fee,7.94,Unpaid,
+2026-11-13,INVOICE_DATE,,,,Resident Benefit Package for 11/2026,P07-005 B,41021,Resident Benefit Package,15.77,Unpaid,
+2026-11-13,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,Water,P02-004 A,6525,Water & Sewer,47.45,Paid,
+2026-11-13,INVOICE_DATE,,,,,P17-031,3250,Owner Draw,2143.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P12-004 B,3250,Owner Draw,1080.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-043 A,3250,Owner Draw,1277.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P16-001,3250,Owner Draw,1775.15,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-044 A,3250,Owner Draw,1063.75,Paid,
+2026-11-13,INVOICE_DATE,,,,,P13-047,3250,Owner Draw,1935.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P02-004 A,3250,Owner Draw,830.68,Paid,
+2026-11-13,INVOICE_DATE,,,,,P13-034,3250,Owner Draw,1755.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-035,3250,Owner Draw,1702.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-061,3250,Owner Draw,2400.00,Unpaid,
+2026-11-13,INVOICE_DATE,,,,,P09-054,3250,Owner Draw,1794.90,Paid,
+2026-11-13,INVOICE_DATE,,,,,P14-039,3250,Owner Draw,1794.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-004,3250,Owner Draw,1817.20,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-005,3250,Owner Draw,2054.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P06-022 1,3250,Owner Draw,673.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-020,3250,Owner Draw,2060.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P14-019,3250,Owner Draw,1420.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P18-035 1,3250,Owner Draw,1187.75,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-013,3250,Owner Draw,1945.80,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-011,3250,Owner Draw,1769.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P18-020,3250,Owner Draw,731.93,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-046,3250,Owner Draw,1835.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-006,3250,Owner Draw,1782.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P18-021 A,3250,Owner Draw,766.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P03-105,3250,Owner Draw,1821.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P18-018 A,3250,Owner Draw,1356.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P12-020,3250,Owner Draw,2312.92,Paid,
+2026-11-13,INVOICE_DATE,,,,,P03-035,3250,Owner Draw,1507.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P14-006,3250,Owner Draw,1754.20,Paid,
+2026-11-13,INVOICE_DATE,,,,,P05-081,3250,Owner Draw,2033.10,Paid,
+2026-11-13,INVOICE_DATE,,,,,P15-031,3250,Owner Draw,1548.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P12-019,3250,Owner Draw,1946.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-023 A,3250,Owner Draw,1104.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P17-033,3250,Owner Draw,2070.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P13-062,3250,Owner Draw,1687.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P05-034 A,3250,Owner Draw,1092.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P99-039 1,3250,Owner Draw,1092.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P13-015,3250,Owner Draw,959.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P09-025,3250,Owner Draw,1350.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-019,3250,Owner Draw,1856.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P13-006,3250,Owner Draw,1557.75,Paid,
+2026-11-13,INVOICE_DATE,,,,,P11-012,3250,Owner Draw,1461.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P11-058,3250,Owner Draw,2167.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-026,3250,Owner Draw,2200.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P17-029,3250,Owner Draw,2038.02,Paid,
+2026-11-13,INVOICE_DATE,,,,,P17-039,3250,Owner Draw,1594.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P17-035,3250,Owner Draw,1956.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-083 A,3250,Owner Draw,1334.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-084 A,3250,Owner Draw,1111.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P18-002,3250,Owner Draw,1620.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-032,3250,Owner Draw,2129.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P06-067 1,3250,Owner Draw,894.10,Paid,
+2026-11-13,INVOICE_DATE,,,,,P08-034,3250,Owner Draw,1452.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P06-068 A,3250,Owner Draw,1037.00,Unpaid,
+2026-11-13,INVOICE_DATE,,,,,P06-016 1,3250,Owner Draw,1229.96,Paid,
+2026-11-13,INVOICE_DATE,,,,,P14-038,3250,Owner Draw,1730.01,Paid,
+2026-11-13,INVOICE_DATE,,,,,P06-017 1,3250,Owner Draw,1470.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-003,3250,Owner Draw,1493.48,Paid,
+2026-11-13,INVOICE_DATE,,,,,P02-031 A,3250,Owner Draw,1180.62,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-041,3250,Owner Draw,1255.22,Paid,
+2026-11-13,INVOICE_DATE,,,,,P02-029 A,3250,Owner Draw,749.25,Paid,
+2026-11-13,INVOICE_DATE,,,,,P09-055,3250,Owner Draw,1980.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-018,3250,Owner Draw,1501.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P02-030 A,3250,Owner Draw,879.87,Paid,
+2026-11-13,INVOICE_DATE,,,,,P12-006,3250,Owner Draw,544.98,Paid,
+2026-11-13,INVOICE_DATE,,,,,P08-033,3250,Owner Draw,1956.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P13-025 1,3250,Owner Draw,994.37,Paid,
+2026-11-13,INVOICE_DATE,,,,,P17-019,3250,Owner Draw,2270.45,Paid,
+2026-11-13,INVOICE_DATE,,,,,P06-051,3250,Owner Draw,1078.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P18-060 1,3250,Owner Draw,1433.75,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-034,3250,Owner Draw,1740.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P13-031 A,3250,Owner Draw,1247.76,Paid,
+2026-11-13,INVOICE_DATE,,,,,P15-039,3250,Owner Draw,1393.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-031,3250,Owner Draw,1628.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-010,3250,Owner Draw,2455.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-008 1,3250,Owner Draw,1310.58,Paid,
+2026-11-13,INVOICE_DATE,,,,,P18-011,3250,Owner Draw,1577.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-020,3250,Owner Draw,1885.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P13-049,3250,Owner Draw,1845.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P14-037 2,3250,Owner Draw,1451.45,Paid,
+2026-11-13,INVOICE_DATE,,,,,P09-020,3250,Owner Draw,1719.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P12-010,3250,Owner Draw,1745.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P18-051 A,3250,Owner Draw,840.64,Paid,
+2026-11-13,INVOICE_DATE,,,,,P11-054,3250,Owner Draw,1969.75,Paid,
+2026-11-13,INVOICE_DATE,,,,,P17-018,3250,Owner Draw,1605.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P13-039,3250,Owner Draw,1817.30,Paid,
+2026-11-13,INVOICE_DATE,,,,,P14-060,3250,Owner Draw,1430.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-038 201,3250,Owner Draw,1260.40,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-058,3250,Owner Draw,1980.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P17-009,3250,Owner Draw,990.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P03-110,3250,Owner Draw,1330.40,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-014 1,3250,Owner Draw,1813.62,Paid,
+2026-11-13,INVOICE_DATE,,,,,P11-057,3250,Owner Draw,1260.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-009 1,3250,Owner Draw,1572.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P15-006,3250,Owner Draw,1075.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-005 1,3250,Owner Draw,1575.45,Paid,
+2026-11-13,INVOICE_DATE,,,,,P06-088 A,3250,Owner Draw,932.75,Paid,
+2026-11-13,INVOICE_DATE,,,,,P13-038,3250,Owner Draw,1137.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P10-028 A,3250,Owner Draw,1366.20,Paid,
+2026-11-13,INVOICE_DATE,,,,,P14-009,3250,Owner Draw,978.25,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-054 2,3250,Owner Draw,581.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P17-017,3250,Owner Draw,910.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-104 A,3250,Owner Draw,1104.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P97-047 A,3250,Owner Draw,832.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-012,3250,Owner Draw,2019.40,Paid,
+2026-11-13,INVOICE_DATE,,,,,P16-053,3250,Owner Draw,1292.20,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-013,3250,Owner Draw,1705.95,Paid,
+2026-11-13,INVOICE_DATE,,,,,P16-029,3250,Owner Draw,1674.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P18-059,3250,Owner Draw,1983.40,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-014 A,3250,Owner Draw,1449.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-105 B,3250,Owner Draw,387.77,Paid,
+2026-11-13,INVOICE_DATE,,,,,P18-057,3250,Owner Draw,1800.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-008,3250,Owner Draw,1950.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-060,3250,Owner Draw,1560.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P11-029,3250,Owner Draw,454.92,Paid,
+2026-11-13,INVOICE_DATE,,,,,P16-046,3250,Owner Draw,1709.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P03-030,3250,Owner Draw,1610.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P11-059,3250,Owner Draw,2015.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-008,3250,Owner Draw,1910.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-038 A,3250,Owner Draw,1112.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P13-043,3250,Owner Draw,1700.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P02-067,3250,Owner Draw,1925.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-002 A,3250,Owner Draw,1187.55,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-038 B,3250,Owner Draw,1160.25,Paid,
+2026-11-13,INVOICE_DATE,,,,,P17-040 1,3250,Owner Draw,1165.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P96-036 A,3250,Owner Draw,1455.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P08-039,3250,Owner Draw,1195.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P11-024,3250,Owner Draw,2024.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P17-025 1,3250,Owner Draw,1426.25,Unpaid,
+2026-11-13,INVOICE_DATE,,,,,P16-030,3250,Owner Draw,1410.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-052,3250,Owner Draw,1530.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P11-032,3250,Owner Draw,1856.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P08-006,3250,Owner Draw,1861.90,Paid,
+2026-11-13,INVOICE_DATE,,,,,P18-056,3250,Owner Draw,1856.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-016,3250,Owner Draw,2989.35,Paid,
+2026-11-13,INVOICE_DATE,,,,,P11-031,3250,Owner Draw,1969.75,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-060,3250,Owner Draw,2205.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-043 B,3250,Owner Draw,1434.75,Paid,
+2026-11-13,INVOICE_DATE,,,,,P02-031 B,3250,Owner Draw,882.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-044 B,3250,Owner Draw,1086.87,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-002 B,3250,Owner Draw,978.25,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-005 2,3250,Owner Draw,1371.64,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-009 2,3250,Owner Draw,1618.75,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-014 2,3250,Owner Draw,1665.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-054 1,3250,Owner Draw,318.71,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-023 1,3250,Owner Draw,1547.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-084 B,3250,Owner Draw,1380.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-104 B,3250,Owner Draw,1173.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-105 A,3250,Owner Draw,1365.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P05-034 B,3250,Owner Draw,978.25,Paid,
+2026-11-13,INVOICE_DATE,,,,,P06-016 2,3250,Owner Draw,1380.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P06-017 2,3250,Owner Draw,1524.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P06-067 2,3250,Owner Draw,1802.51,Paid,
+2026-11-13,INVOICE_DATE,,,,,P06-068 B,3250,Owner Draw,766.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P06-088 B,3250,Owner Draw,1051.05,Paid,
+2026-11-13,INVOICE_DATE,,,,,P07-005 B,3250,Owner Draw,1176.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P07-070 B,3250,Owner Draw,1012.45,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-014 B,3250,Owner Draw,1058.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-023 B,3250,Owner Draw,1220.90,Paid,
+2026-11-13,INVOICE_DATE,,,,,P96-036 B,3250,Owner Draw,1501.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P10-028 B,3250,Owner Draw,904.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P97-047 B,3250,Owner Draw,967.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P13-031 B,3250,Owner Draw,1179.37,Paid,
+2026-11-13,INVOICE_DATE,,,,,P17-025 2,3250,Owner Draw,1633.25,Paid,
+2026-11-13,INVOICE_DATE,,,,,P17-040 2,3250,Owner Draw,213.84,Unpaid,
+2026-11-13,INVOICE_DATE,,,,,P18-018 B,3250,Owner Draw,1237.50,Unpaid,
+2026-11-13,INVOICE_DATE,,,,,P18-019 B,3250,Owner Draw,1496.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P18-021 B,3250,Owner Draw,1058.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P18-035 2,3250,Owner Draw,1342.25,Paid,
+2026-11-13,INVOICE_DATE,,,,,P18-051 B,3250,Owner Draw,1389.03,Paid,
+2026-11-13,INVOICE_DATE,,,,,P18-060 2,3250,Owner Draw,1365.68,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-009 B,3250,Owner Draw,1334.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-008 2,3250,Owner Draw,1196.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-008 3,3250,Owner Draw,1461.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-083 B,3250,Owner Draw,1334.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-083 C,3250,Owner Draw,916.41,Paid,
+2026-11-13,INVOICE_DATE,,,,,P06-027 D,3250,Owner Draw,570.12,Paid,
+2026-11-13,INVOICE_DATE,,,,,P14-037 3,3250,Owner Draw,846.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-038 B,3250,Owner Draw,1060.15,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-038 C,3250,Owner Draw,846.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-038 D,3250,Owner Draw,1114.75,Paid,
+2026-11-13,INVOICE_DATE,,,,,P02-004 B,3250,Owner Draw,3429.27,Paid,
+2026-11-13,INVOICE_DATE,,,,,P02-004 C,3250,Owner Draw,841.75,Paid,
+2026-11-13,INVOICE_DATE,,,,,P02-004 D,3250,Owner Draw,916.75,Paid,
+2026-11-13,INVOICE_DATE,,,,,P02-029 B,3250,Owner Draw,1006.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P02-029 C,3250,Owner Draw,1145.25,Paid,
+2026-11-13,INVOICE_DATE,,,,,P02-029 D,3250,Owner Draw,1127.75,Paid,
+2026-11-13,INVOICE_DATE,,,,,P02-030 C,3250,Owner Draw,1103.62,Paid,
+2026-11-13,INVOICE_DATE,,,,,P02-030 B,3250,Owner Draw,927.87,Paid,
+2026-11-13,INVOICE_DATE,,,,,P02-030 D,3250,Owner Draw,1057.37,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-038 202,3250,Owner Draw,897.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-038 101,3250,Owner Draw,1125.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P04-038 102,3250,Owner Draw,901.60,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-038 C,3250,Owner Draw,1092.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-038 D,3250,Owner Draw,1046.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P20-038 A,3250,Owner Draw,579.63,Paid,
+2026-11-13,INVOICE_DATE,,,,,P05-077 21,3250,Owner Draw,692.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P05-077 22,3250,Owner Draw,2137.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P99-039 2,3250,Owner Draw,1137.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P99-039 3,3250,Owner Draw,910.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P99-039 4,3250,Owner Draw,682.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P13-025 2,3250,Owner Draw,901.87,Paid,
+2026-11-13,INVOICE_DATE,,,,,P13-025 3,3250,Owner Draw,665.29,Paid,
+2026-11-13,INVOICE_DATE,,,,,P13-025 4,3250,Owner Draw,1103.75,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-038,3250,Owner Draw,1543.40,Paid,
+2026-11-13,INVOICE_DATE,,,,,P22-001,3250,Owner Draw,1792.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P22-007,3250,Owner Draw,1665.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P22-008,3250,Owner Draw,1440.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P22-011,3250,Owner Draw,1800.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P22-023,3250,Owner Draw,2070.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P22-024,3250,Owner Draw,1462.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P22-027,3250,Owner Draw,1755.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P22-028,3250,Owner Draw,1909.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P23-001,3250,Owner Draw,1485.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P23-002 2,3250,Owner Draw,1057.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P23-006,3250,Owner Draw,1974.30,Paid,
+2026-11-13,INVOICE_DATE,,,,,P23-013,3250,Owner Draw,2915.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P23-019,3250,Owner Draw,1497.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P23-024,3250,Owner Draw,1826.87,Paid,
+2026-11-13,INVOICE_DATE,,,,,P23-026 1,3250,Owner Draw,1501.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P23-026 2,3250,Owner Draw,1501.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P23-025,3250,Owner Draw,1563.68,Paid,
+2026-11-13,INVOICE_DATE,,,,,P24-011,3250,Owner Draw,2115.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P24-013,3250,Owner Draw,1476.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P24-014,3250,Owner Draw,1395.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P25-001,3250,Owner Draw,1890.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P25-002 1,3250,Owner Draw,1228.70,Paid,
+2026-11-13,INVOICE_DATE,,,,,P25-002 2,3250,Owner Draw,1319.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P25-003,3250,Owner Draw,1948.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P25-004,3250,Owner Draw,1980.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P25-006,3250,Owner Draw,4565.00,Unpaid,
+2026-11-13,INVOICE_DATE,,,,,P25-007,3250,Owner Draw,78.65,Paid,
+2026-11-13,INVOICE_DATE,,,,,P25-009,3250,Owner Draw,1817.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P25-010 ,3250,Owner Draw,2361.06,Paid,
+2026-11-13,INVOICE_DATE,,,,,P25-011 ,3250,Owner Draw,943.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P25-011 ,3250,Owner Draw,943.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P26-026,3250,Owner Draw,2116.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P26-028,3250,Owner Draw,2308.50,Paid,
+2026-11-13,INVOICE_DATE,,,,,P26-001,3250,Owner Draw,2883.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P26-002,3250,Owner Draw,2116.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P26-005,3250,Owner Draw,1647.48,Paid,
+2026-11-13,INVOICE_DATE,,,,,P26-007,3250,Owner Draw,720.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P26-008,3250,Owner Draw,4677.42,Paid,
+2026-11-13,INVOICE_DATE,,,,,P26-010,3250,Owner Draw,2687.36,Paid,
+2026-11-13,INVOICE_DATE,,,,,P26-011,3250,Owner Draw,2215.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P26-012,3250,Owner Draw,2715.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P26-013,3250,Owner Draw,2115.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P26-014,3250,Owner Draw,1328.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P26-016,3250,Owner Draw,2238.43,Paid,
+2026-11-13,INVOICE_DATE,,,,,P96-032 A,3250,Owner Draw,89.65,Paid,
+2026-11-13,INVOICE_DATE,,,,,P96-032 C,3250,Owner Draw,1526.45,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-012 1,3250,Owner Draw,1150.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-013 8,3250,Owner Draw,872.94,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-014 10,3250,Owner Draw,1081.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-003 A,3250,Owner Draw,785.45,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-003 C,3250,Owner Draw,1281.40,Paid,
+2026-11-13,INVOICE_DATE,,,,,P21-003 D,3250,Owner Draw,1196.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-012 2,3250,Owner Draw,1080.93,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-012 3,3250,Owner Draw,1104.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-012 4,3250,Owner Draw,1196.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-013 5,3250,Owner Draw,1248.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-013 7,3250,Owner Draw,1248.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-014 11,3250,Owner Draw,1248.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-014 12,3250,Owner Draw,1162.00,Paid,
+2026-11-13,INVOICE_DATE,,,,,P19-014 09,3250,Owner Draw,1225.00,Paid,
+2026-11-13,INVOICE_DATE,,,,Lease Fee,P05-077 22,6210,Placement Fee,200.00,Unpaid,
+2026-11-13,INVOICE_DATE,ARROW ROOFING,ARROW ROOFING,,Roof repair - Deposit needed to start work. Remainder to bill after work is completed,P18-020,6350,Roof & Gutters,6210.00,Paid,
+2026-11-13,INVOICE_DATE,,,,Lease Fee,P19-013 6,6210,Placement Fee,200.00,Unpaid,
+2026-11-13,INVOICE_DATE,APS,APS,,,P10-038,6520,Power,29.77,Paid,
+2026-11-13,INVOICE_DATE,APS,APS,,,P04-054 1,6520,Power,3.80,Paid,
+2026-11-13,INVOICE_DATE,,,,Lease Fee,P17-028,6210,Placement Fee,200.00,Unpaid,
+2026-11-13,INVOICE_DATE,,,,Lease Fee,P17-040 2,6210,Placement Fee,200.00,Unpaid,
+2026-11-16,INVOICE_DATE,,,1267976,"Markup: The Smoke/ Carbon Monoxide Detector Is Malfunctioning. New Batteries Have Been Inserted, However It - TKCXI95
+
+Resident said: The smoke/ carbon monoxide detector is malfunctioning. New batteries have been inserted, however it still continues to ch",P18-059,6620,Other Expenses,11.11,Paid,
+2026-11-16,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1267976,"The Smoke/ Carbon Monoxide Detector Is Malfunctioning. New Batteries Have Been Inserted, However It - TKCXI95
+
+Resident said: The smoke/ carbon monoxide detector is malfunctioning. New batteries have been inserted, however it still continues to chirp.  
+A",P18-059,6312,General Repairs,111.06,Paid,
+2026-11-16,INVOICE_DATE,,,1268382,"Markup: The Kitchen Sink Garbage Disposal Is Leaking From The Bottom Of Disposal - T5AQUDY
+
+Resident said: The kitchen sink garbage disposal is leaking from the bottom of disposal 
+Additional Details: If you run dishwasher or run sink.  We noticed the iss",P08-006,6620,Other Expenses,18.50,Paid,
+2026-11-16,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1268382,"The Kitchen Sink Garbage Disposal Is Leaking From The Bottom Of Disposal - T5AQUDY
+
+Resident said: The kitchen sink garbage disposal is leaking from the bottom of disposal 
+Additional Details: If you run dishwasher or run sink.  We noticed the issue this ",P08-006,6340,Plumbing & Septic,185.00,Paid,
+2026-11-16,INVOICE_DATE,,,,Lease Fee,P04-054 1,6210,Placement Fee,200.00,Unpaid,
+2026-11-17,INVOICE_DATE,,,1268375,"Markup: Turnover Work - TGCBULW
+
+Entry:
+Holes in the door near spring that need to be filled
+Hardware above the door that needs to be removed and holes patched
+
+Bathroom:
+Small built-in heater is missing the knob
+Outlet missing a screw in the double switc",P02-004 B,6620,Other Expenses,210.32,Unpaid,
+2026-11-17,INVOICE_DATE,Joseph R Swiss LLC,Joseph  Swiss,1268375,"Turnover Work - TGCBULW
+
+Entry:
+Holes in the door near spring that need to be filled
+Hardware above the door that needs to be removed and holes patched
+
+Bathroom:
+Small built-in heater is missing the knob
+Outlet missing a screw in the double switch plate ",P02-004 B,6120,General Maintenance,2103.16,Unpaid,
+2026-11-17,INVOICE_DATE,Town of PV Utilities,Town of PV Utilities,,,P22-016,6525,Water & Sewer,32.87,Paid,
+2026-11-17,INVOICE_DATE,"Northern Arizona Heating & Air, LLC","Northern Arizona Heating & Air, LLC",1273577,"Heater Is Not Heating - TGI163IB
+
+Resident said: Heater is not heating
+Additional Details: It’s a mechanical failure. It happens. 
+I don’t have heat. 
+
+Probable Diagnosis: AC incorrectly set thermostat
+MAX™ Also Learned: 
+- Gas heater 
+Troubleshooting Ste",P07-005 A,6320,HVAC,8629.50,Unpaid,
+2026-11-17,INVOICE_DATE,,,,"Markup: Water heater is leaking: Pressure test - T124QWBB
+
+Water heater pressure test has been performed. This is for invoicing purposes.",P02-029 B,6620,Other Expenses,40.50,Paid,
+2026-11-17,INVOICE_DATE,Victory Plumbing Solutions,Victory Plumbing Solutions,,"Water heater is leaking: Pressure test - T124QWBB
+
+Water heater pressure test has been performed. This is for invoicing purposes.",P02-029 B,6340,Plumbing & Septic,405.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274927,"Markup: Bi Weekly Landscaping (clone) - TQZEM8G
+
+Twice a month landscaping service",P20-021,6620,Other Expenses,17.50,Unpaid,
+2026-11-17,INVOICE_DATE,,Joshua  Pauley,1274927,"Bi Weekly Landscaping (clone) - TQZEM8G
+
+Twice a month landscaping service",P20-021,6125,Landscaping & Irrigation,175.00,Unpaid,
+2026-11-17,INVOICE_DATE,,,,"Markup: Under The Sink Is Leaking - TM23601
+
+Resident said: under the sink is leaking
+Additional Details: Sometimes there is water on the bottom of under sink cabinet. Have not pinpointed if it coming from the garbage disposal or hose running from dish wa",P11-031,6620,Other Expenses,34.10,Unpaid,
+2026-11-17,INVOICE_DATE,Joseph R Swiss LLC,Joseph  Swiss,,"Under The Sink Is Leaking - TM23601
+
+Resident said: under the sink is leaking
+Additional Details: Sometimes there is water on the bottom of under sink cabinet. Have not pinpointed if it coming from the garbage disposal or hose running from dish washer. 
+
+",P11-031,6340,Plumbing & Septic,341.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274936,"Markup: Garbage Disposal Is Leaking - TPWXBHI
+
+Resident said: garbage disposal is leaking
+Additional Details: I think its just old, started leaking when we use disposal or sink, disposal is making a strange noise like grinding metal. No debris found insid",P24-011,6620,Other Expenses,22.50,Paid,
+2026-11-17,INVOICE_DATE,Total Maintenance Solutions LLC,Total Maintenance Solutions LLC,1274936,"Garbage Disposal Is Leaking - TPWXBHI
+
+Resident said: garbage disposal is leaking
+Additional Details: I think its just old, started leaking when we use disposal or sink, disposal is making a strange noise like grinding metal. No debris found inside dispos",P24-011,6340,Plumbing & Septic,225.00,Paid,
+2026-11-17,INVOICE_DATE,Repair Masters LLC,Repair Masters LLC,1274938,"Dishwasher Not Is Clogged - T1EIH7FB
+
+Resident said: dishwasher not is clogged
+Additional Details: Dishwasher is not properly washing the dishes, not drying the dishes, and not draining
+
+Probable Diagnosis: Dishwasher Clogged
+MAX™ Also Learned: 
+- Dishwas",P26-013,6305,Appliances,225.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274939,"Markup: The Toilet Handle To Flush Has Broken And We Have To Lift Lid To Flush - TA6TJBMB
+
+Resident said: The toilet handle to flush has broken and we have to lift lid to flush
+Additional Details: The handle has broken and we have to lift the lid to flush",P18-035 1,6620,Other Expenses,20.34,Paid,
+2026-11-17,INVOICE_DATE,Joseph R Swiss LLC,Joseph  Swiss,1274939,"The Toilet Handle To Flush Has Broken And We Have To Lift Lid To Flush - TA6TJBMB
+
+Resident said: The toilet handle to flush has broken and we have to lift lid to flush
+Additional Details: The handle has broken and we have to lift the lid to flush it. Thi",P18-035 1,6340,Plumbing & Septic,203.38,Paid,
+2026-11-17,INVOICE_DATE,,,1274941,"Markup: Turnover items - TWEBKE3
+
+1.Replace all light bulbs that are out
+2. Repair kitchen faucet
+3. Smoke detector batteries",P17-028,6620,Other Expenses,18.42,Paid,
+2026-11-17,INVOICE_DATE,Joseph R Swiss LLC,Joseph  Swiss,1274941,"Turnover items - TWEBKE3
+
+1.Replace all light bulbs that are out
+2. Repair kitchen faucet
+3. Smoke detector batteries",P17-028,6120,General Maintenance,184.23,Paid,
+2026-11-17,INVOICE_DATE,,,,"Markup: Cut Weeds and pick up trash - T0UP90W
+
+Spray and Cut weeds.
+Pick up trash
+clean parking lot and clean front and back",P99-039 1,6620,Other Expenses,13.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,,"Cut Weeds and pick up trash - T0UP90W
+
+Spray and Cut weeds.
+Pick up trash
+clean parking lot and clean front and back",P99-039 1,6125,Landscaping & Irrigation,130.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274955,"Markup: Cut Weeds and pick up trash - T53BXRE
+
+Cut weeds and spray
+Pick up trash
+pick up excess of pine needles.",P13-031 B,6620,Other Expenses,9.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274955,"Cut Weeds and pick up trash - T53BXRE
+
+Cut weeds and spray
+Pick up trash
+pick up excess of pine needles.",P13-031 B,6125,Landscaping & Irrigation,90.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274956,"Markup: Cut weeds pick up trash - T9ZTA4W
+
+Cut weeds and spray
+Pick up trash
+Clean Parking lot
+Clean front and back",P04-038 202,6620,Other Expenses,11.50,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274956,"Cut weeds pick up trash - T9ZTA4W
+
+Cut weeds and spray
+Pick up trash
+Clean Parking lot
+Clean front and back",P04-038 202,6125,Landscaping & Irrigation,115.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274957,"Markup: Bathroom sink is leaking - T1RFGC3
+
+hallway bathroom sink on the right hand side is leaking",P17-028,6620,Other Expenses,19.36,Paid,
+2026-11-17,INVOICE_DATE,Joseph R Swiss LLC,Joseph  Swiss,1274957,"Bathroom sink is leaking - T1RFGC3
+
+hallway bathroom sink on the right hand side is leaking",P17-028,6340,Plumbing & Septic,193.60,Paid,
+2026-11-17,INVOICE_DATE,,,1274959,"Markup: Cut weeds  - TXTL1AD
+
+Cut weeds and spray, pick up trash, pick up excess leaves.",P19-043 B,6620,Other Expenses,11.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274959,"Cut weeds  - TXTL1AD
+
+Cut weeds and spray, pick up trash, pick up excess leaves.",P19-043 B,6125,Landscaping & Irrigation,110.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274960,"Markup: Cut Weeds and pick up trash - TXRIHGN
+
+Cut weeds and spray
+Pick up trash clean front and back",P97-047 A,6620,Other Expenses,10.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274960,"Cut Weeds and pick up trash - TXRIHGN
+
+Cut weeds and spray
+Pick up trash clean front and back",P97-047 A,6125,Landscaping & Irrigation,100.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274961,"Markup: Cut weeds and spray - TJ50H8L
+
+Cut weeds and spray pick up trash clean front and back ",P04-105 B,6620,Other Expenses,12.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274961,"Cut weeds and spray - TJ50H8L
+
+Cut weeds and spray pick up trash clean front and back ",P04-105 B,6125,Landscaping & Irrigation,120.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274962,"Markup: Cut Weeds and pick up trash - TY770YG
+
+Cut weeds and spray pick up trash clean front and back ",P06-068 A,6620,Other Expenses,10.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274962,"Cut Weeds and pick up trash - TY770YG
+
+Cut weeds and spray pick up trash clean front and back ",P06-068 A,6125,Landscaping & Irrigation,100.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274964,"Markup: Cut Weeds and pick up trash - TT8J320
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P05-077 22,6620,Other Expenses,13.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274964,"Cut Weeds and pick up trash - TT8J320
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P05-077 22,6125,Landscaping & Irrigation,130.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274965,"Markup: Cut Weeds and pick up trash - T3B5U0W
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P02-004 B,6620,Other Expenses,10.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274965,"Cut Weeds and pick up trash - T3B5U0W
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P02-004 B,6125,Landscaping & Irrigation,100.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274966,"Markup: Cut Weeds and pick up trash - T0L4212
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P02-029 D,6620,Other Expenses,20.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274966,"Cut Weeds and pick up trash - T0L4212
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P02-029 D,6125,Landscaping & Irrigation,200.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274967,"Markup: Cut Weeds and pick up trash - TJM1KAK
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P17-040 2,6620,Other Expenses,8.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274967,"Cut Weeds and pick up trash - TJM1KAK
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P17-040 2,6125,Landscaping & Irrigation,80.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274969,"Markup: Cut Weeds and pick up trash - TD0PT9D
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P02-031 A,6620,Other Expenses,10.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274969,"Cut Weeds and pick up trash - TD0PT9D
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P02-031 A,6125,Landscaping & Irrigation,100.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274974,"Markup: Cut Weeds and pick up trash - TYN0F51
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P04-008 1,6620,Other Expenses,12.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274974,"Cut Weeds and pick up trash - TYN0F51
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P04-008 1,6125,Landscaping & Irrigation,120.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274976,"Markup: Cut Weeds and pick up trash - TWHLLT0
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P20-023 2,6620,Other Expenses,11.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274976,"Cut Weeds and pick up trash - TWHLLT0
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P20-023 2,6125,Landscaping & Irrigation,110.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274977,"Markup: Cut Weeds and pick up trash - TD9YHZJ
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P18-021 A,6620,Other Expenses,10.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274977,"Cut Weeds and pick up trash - TD9YHZJ
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P18-021 A,6125,Landscaping & Irrigation,100.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274979,"Markup: Cut Weeds and pick up trash - TAPMKI7
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P04-104 A,6620,Other Expenses,10.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274979,"Cut Weeds and pick up trash - TAPMKI7
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P04-104 A,6125,Landscaping & Irrigation,100.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274982,"Markup: Cut Weeds and pick up trash - TT9YBP2
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P18-018 A,6620,Other Expenses,16.00,Unpaid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274982,"Cut Weeds and pick up trash - TT9YBP2
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P18-018 A,6125,Landscaping & Irrigation,160.00,Unpaid,
+2026-11-17,INVOICE_DATE,,,1274983,"Markup: Cut Weeds and pick up trash - TKCVCIGB
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P10-028 B,6620,Other Expenses,10.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274983,"Cut Weeds and pick up trash - TKCVCIGB
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P10-028 B,6125,Landscaping & Irrigation,100.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274985,"Markup: Cut Weeds and pick up trash - TQXGPXDB
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P06-017 1,6620,Other Expenses,9.50,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274985,"Cut Weeds and pick up trash - TQXGPXDB
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P06-017 1,6125,Landscaping & Irrigation,95.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274988,"Markup: Cut Weeds and pick up trash - TABVJYT
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P20-002 A,6620,Other Expenses,12.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274988,"Cut Weeds and pick up trash - TABVJYT
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P20-002 A,6125,Landscaping & Irrigation,120.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274990,"Markup: Cut Weeds and pick up trash - TTNTYN9
+
+Cut weeds and spray
+ Pick up trash
+ Clean front and back ",P05-034 A,6620,Other Expenses,12.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274990,"Cut Weeds and pick up trash - TTNTYN9
+
+Cut weeds and spray
+ Pick up trash
+ Clean front and back ",P05-034 A,6125,Landscaping & Irrigation,120.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274991,"Markup: Cut Weeds and pick up trash - TK3VQ39
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P18-035 1,6620,Other Expenses,10.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274991,"Cut Weeds and pick up trash - TK3VQ39
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P18-035 1,6125,Landscaping & Irrigation,100.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274993,"Markup: Cut Weeds and pick up trash - TA0DCAL
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P13-025 4,6620,Other Expenses,11.50,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274993,"Cut Weeds and pick up trash - TA0DCAL
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P13-025 4,6125,Landscaping & Irrigation,115.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274994,"Markup: Cut Weeds and pick up trash - TEZYTG2
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P06-016 1,6620,Other Expenses,11.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274994,"Cut Weeds and pick up trash - TEZYTG2
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P06-016 1,6125,Landscaping & Irrigation,110.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274996,"Markup: Cut Weeds and pick up trash - T2I7DQHB
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P18-060 1,6620,Other Expenses,7.20,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274996,"Cut Weeds and pick up trash - T2I7DQHB
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P18-060 1,6125,Landscaping & Irrigation,120.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274997,"Markup: Cut Weeds and pick up trash - TXIFFCM
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P17-025 1,6620,Other Expenses,10.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274997,"Cut Weeds and pick up trash - TXIFFCM
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P17-025 1,6125,Landscaping & Irrigation,100.00,Paid,
+2026-11-17,INVOICE_DATE,,,1274999,"Markup: Cut Weeds and pick up trash - THK42VR
+
+Cut weeds and spray
+ pick up trash
+ clean front and back",P04-084 A,6620,Other Expenses,20.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1274999,"Cut Weeds and pick up trash - THK42VR
+
+Cut weeds and spray
+ pick up trash
+ clean front and back",P04-084 A,6125,Landscaping & Irrigation,200.00,Paid,
+2026-11-17,INVOICE_DATE,,,1275001,"Markup: Cut Weeds and pick up trash - TU0L1Y1
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P18-051 A,6620,Other Expenses,12.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1275001,"Cut Weeds and pick up trash - TU0L1Y1
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P18-051 A,6125,Landscaping & Irrigation,120.00,Paid,
+2026-11-17,INVOICE_DATE,,,1275002,"Markup: Cut Weeds and pick up trash - TYRY4VD
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P96-032 B,6620,Other Expenses,11.50,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1275002,"Cut Weeds and pick up trash - TYRY4VD
+
+Cut weeds and spray
+ pick up trash
+ clean front and back ",P96-032 B,6125,Landscaping & Irrigation,115.00,Paid,
+2026-11-17,INVOICE_DATE,,,1275003,"Markup: Cut Weeds and pick up trash - T9J0B69
+
+Cut weeds and spray
+Pick up Trash 
+Race gravel and pick up leaves",P96-036 A,6620,Other Expenses,10.00,Paid,
+2026-11-17,INVOICE_DATE,Jose Lara Garcia,Jose Lara Garcia,1275003,"Cut Weeds and pick up trash - T9J0B69
+
+Cut weeds and spray
+Pick up Trash 
+Race gravel and pick up leaves",P96-036 A,6125,Landscaping & Irrigation,100.00,Paid,
+2026-11-17,INVOICE_DATE,,,,"Markup: Break Contractor box - TEPCEQ1
+
+Break Contractor box that was locked in on front door.
+",P21-003 B,6620,Other Expenses,5.00,Paid,
+2026-11-17,INVOICE_DATE,Repair Masters LLC,Repair Masters LLC,,"Break Contractor box - TEPCEQ1
+
+Break Contractor box that was locked in on front door.
+",P21-003 B,6306,Doors & Windows,50.00,Paid,
+2026-11-18,INVOICE_DATE,,,1276458,"Markup: The Dishwasher Stopped Working. - TLV0LAFB
+
+Resident said: The dishwasher stopped working.
+Additional Details: The dishwasher was working as recent as Friday and it just stopped working.
+
+Probable Diagnosis: Dishwasher No Power
+Troubleshooting Ste",P23-019,6620,Other Expenses,20.00,Paid,
+2026-11-18,INVOICE_DATE,Appliance Works LLC ,Appliance Works LLC ,1276458,"The Dishwasher Stopped Working. - TLV0LAFB
+
+Resident said: The dishwasher stopped working.
+Additional Details: The dishwasher was working as recent as Friday and it just stopped working.
+
+Probable Diagnosis: Dishwasher No Power
+Troubleshooting Steps: 
+- C",P23-019,6305,Appliances,200.00,Paid,
+2026-11-18,INVOICE_DATE,,,,"Markup: Door To Garage Doesnt Lock - TDZIXDV
+
+Resident said: door to garage doesnt lock
+Additional Details: Door to come into house from the garage doesnt lock properly. You can open the door with the lock in the locked position. 
+
+Probable Diagnosis: Ent",P18-020,6620,Other Expenses,25.00,Paid,
+2026-11-18,INVOICE_DATE,Prescott Handyman Pros  ,Prescott Handyman Pros  ,,"Door To Garage Doesnt Lock - TDZIXDV
+
+Resident said: door to garage doesnt lock
+Additional Details: Door to come into house from the garage doesnt lock properly. You can open the door with the lock in the locked position. 
+
+Probable Diagnosis: Entry door ",P18-020,6306,Doors & Windows,250.00,Paid,
+2026-11-18,INVOICE_DATE,APS,APS,,Final bill,P08-018 B,6520,Power,47.91,Paid,
+2026-11-18,INVOICE_DATE,APS,APS,,,P05-077 22,6520,Power,33.35,Paid,
+2026-11-18,INVOICE_DATE,APS,APS,0181981048,,P04-105 B,6520,Power,5.33,Paid,
+2026-11-18,INVOICE_DATE,APS,APS,,,P17-030,6520,Power,40.22,Unpaid,
+2026-11-19,INVOICE_DATE,APS,APS,2744404210,,P26-005,6520,Power,5.64,Paid,
+2026-11-19,INVOICE_DATE,Sparklight,Sparklight,8160130400157669,,P25-013,6505,Cable & Internet,137.49,Paid,
+2026-11-19,INVOICE_DATE,,,1277690,Markup: Labor,P15-039,6620,Other Expenses,10.00,Paid,
+2026-11-19,INVOICE_DATE,Repair Masters LLC,Repair Masters LLC,1277690,Labor,P15-039,6320,HVAC,100.00,Paid,
+2026-11-19,INVOICE_DATE,,,1277677,"Markup: The Vent In The Master Bathroom Is Leaking Water - TGXE441
+
+Resident said: The vent in the master bathroom is leaking water 
+Additional Details: Standing in the bathroom when water dripped on arm looked up and saw condensation and another drop fal",P07-070 A,6620,Other Expenses,11.00,Paid,
+2026-11-19,INVOICE_DATE,"Northern Arizona Heating & Air, LLC","Northern Arizona Heating & Air, LLC",1277677,"The Vent In The Master Bathroom Is Leaking Water - TGXE441
+
+Resident said: The vent in the master bathroom is leaking water 
+Additional Details: Standing in the bathroom when water dripped on arm looked up and saw condensation and another drop falling it ",P07-070 A,6320,HVAC,110.00,Paid,
+2026-11-19,INVOICE_DATE,,,,"Markup: Washer and Dryer Hook Up - TYUP2KAB
+
+owner is requesting an estimate on hook up estimate for washer and dryer before tenants move in.",P22-016,6620,Other Expenses,17.71,Unpaid,
+2026-11-19,INVOICE_DATE,Joseph R Swiss LLC,Joseph  Swiss,,"Washer and Dryer Hook Up - TYUP2KAB
+
+owner is requesting an estimate on hook up estimate for washer and dryer before tenants move in.",P22-016,6305,Appliances,177.10,Unpaid,
+2026-11-19,INVOICE_DATE,,,,Lease Fee,P26-006,6210,Placement Fee,499.00,Unpaid,
+2026-11-20,INVOICE_DATE,APS,APS,,,P25-013,6520,Power,236.56,Paid,
+2026-11-20,INVOICE_DATE,,,1277749,"Markup: The Fridge Has An Error Message: ""CF E"". The Condenser Fan Is Most Likely Not Working - TNWN9FE
+
+Resident said: The fridge has an error message: &quot;CF E&quot;. The condenser fan is most likely not working
+Additional Details: The condenser fan i",P24-016,6620,Other Expenses,37.95,Paid,
+2026-11-20,INVOICE_DATE,Appliance Works LLC ,Appliance Works LLC ,1277749,Fridge Repair,P24-016,6305,Appliances,379.48,Paid,
+2026-11-20,INVOICE_DATE,,,,,P24-016,3250,Owner Draw,1562.57,Unpaid,
+2026-11-20,INVOICE_DATE,,,,Reverse bill ,P24-016,3250,Owner Draw,-1562.57,Unused,
+2026-11-20,INVOICE_DATE,,,,,P24-016,3250,Owner Draw,1562.57,Paid,
+2026-11-20,INVOICE_DATE,,,,Lease Fee,P02-004 B,6210,Placement Fee,200.00,Unpaid,
